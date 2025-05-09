@@ -103,8 +103,8 @@ export default function Biography() {
             </div>
           </div>
 
-          <div className="flex flex-col flex-md:grid grid-cols-1 md:grid-cols-6 gap-0 md:gap-8">
-            <div className="col-start-1 col-end-3 order-2">
+          <div className="flex flex-col md:grid grid-cols-1 md:grid-cols-6 gap-0 md:gap-8">
+            <div className="col-start-1 col-end-3 order-2 md:order-1">
               <details>
                 <summary>
                   <h3 className="mb-2 font-medium">MONITOR</h3>
@@ -177,7 +177,7 @@ export default function Biography() {
                 </ul>
               </details>
             </div>
-            <div className="order-1 grid grid-cols-3 gap-2 md:gap-8 md:col-start-3 md:col-end-7 pb-2 md:pb-0">
+            <div className="order-1 md:order-2 grid grid-cols-3 gap-2 md:gap-8 md:col-start-3 md:col-end-7 pb-2 md:pb-0">
               {[...Array(9)].map((item, index) => {
                 return (
                   <div className="relative aspect-square">
