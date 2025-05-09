@@ -10,12 +10,15 @@ export default function Home() {
     <main className="">
       {/* Works Grid */}
       <section id="works" className="container mx-auto px-4 mb-20">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 group">
-          {works.slice(0, 15).map((work) => (
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group">
+          {works.slice(0, 15).map((work, index) => (
             <Link
               href={`/works/${work.id}`}
               key={work.id}
-              className="work-item relative cursor-pointer"
+              className={`${
+                index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
+              }
+              work-item relative cursor-pointer"`}
             >
               <div className="relative flex justify-center items-center aspect-square overflow-hidden group-hover:opacity-25 hover:!opacity-100 transition-opacity duration-300">
                 <div
