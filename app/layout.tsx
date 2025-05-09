@@ -7,7 +7,14 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
-  generator: "v0.dev",
+  robots: {
+    index: false,
+    follow: false,
+    nocache: true,
+    noarchive: true,
+    noimageindex: true,
+    nosnippet: true,
+  },
 };
 
 export default function RootLayout({
