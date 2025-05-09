@@ -9,7 +9,7 @@ export default function Contact() {
       <section className="container mx-auto px-4 md:px-8 pt-8 md:pt-0 mb-20">
         <div className="mx-auto">
           <h1 className="text-2xl tracking-wider mb-1">CONTACT</h1>
-          <p className="text-xl mb-8">Note & Form</p>
+          <p className="text-xl tracking-wider mb-8">Note & Form</p>
 
           <div className="my-12">
             <h2 className="text-lg mb-4">Contact Information</h2>
