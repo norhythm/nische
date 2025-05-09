@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "layout": "square",
+    "layout": "rect-v",
     "title": "『あんさんぶるスターズ！！IDOL SONG CD 「Debut」 Special for Princess!』",
     "image": "『あんさんぶるスターズ！！IDOL SONG CD 「Debut」 Special for Princess!』.jpg",
     "credit": "Recording, Mixing Engineering"
@@ -15,14 +15,14 @@
   },
   {
     "id": "3",
-    "layout": "square",
+    "layout": "rect-v",
     "title": "『HELIOS Rising Heroes』GoldenXXsection VS LILIAN 収録曲のサウンドプロデュース、作編曲、ミック",
     "image": "『HELIOS Rising Heroes』GoldenXXsection VS LILIAN 収録曲のサウンドプロデュース、作編曲、ミック.jpg",
     "credit": "Mixing, Mastering"
   },
   {
     "id": "4",
-    "layout": "square",
+    "layout": "rect-v",
     "title": "『HELIOS Rising Heroes』THIRD SEASON 「First Storm」THEME SONG 収録曲のサウンドディレ",
     "image": "『HELIOS Rising Heroes』THIRD SEASON 「First Storm」THEME SONG 収録曲のサウンドディレ.jpg",
     "credit": "Recording, Mixing Engineering"
@@ -57,7 +57,7 @@
   },
   {
     "id": "9",
-    "layout": "square",
+    "layout": "rect-v",
     "title": "Astro Dive（アストロダイブ）「Astro Dive First Message -ATOMOSUREINN-」収録曲のミックス、サ",
     "image": "Astro Dive（アストロダイブ）「Astro Dive First Message -ATOMOSUREINN-」収録曲のミックス、サ.jpg",
     "credit": "Mixing, Mastering"

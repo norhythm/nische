@@ -35,8 +35,11 @@ export default function Biography() {
           </div>
 
           <div className="md:w-3/5">
-            <h2 className="text-lg md:text-2xl mb-2 mincho">
+            {/* <h2 className="text-lg md:text-2xl mb-2 mincho">
               Tsukasa Kikuchi / 菊池 司
+            </h2> */}
+            <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
+              菊池 司
             </h2>
             <p className="text-sm md:text-base mb-4">
               Recording / Mixing / Mastering Engineer

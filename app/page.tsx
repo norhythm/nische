@@ -8,10 +8,14 @@ import works from "@/data/works.json";
 export default function Home() {
   return (
     <main className="">
+      <div className="sticky top-[100px] container mx-auto px-8 z-50">
+        All - Rec - Mix - Mastering
+      </div>
       {/* Works Grid */}
       <section id="works" className="container mx-auto px-4 mb-20">
         <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group">
-          {works.slice(0, 15).map((work, index) => (
+          {/* {works.slice(0, 15).map((work, index) => ( */}
+          {works.map((work, index) => (
             <Link
               href={`/works/${work.id}`}
               key={work.id}
@@ -33,7 +37,7 @@ export default function Home() {
                     placeholder="blur"
                     blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
                     // className="absolute w-full h-auto object-contain hover:scale-105 transition-transform duration-300"
-                    className="drop-shadow-md"
+                    className="drop-shadow-md hover:scale-105 transition-transform duration-200"
                     onLoadingComplete={(image) => {
                       // Find the parent element and remove the loading indicator
                       const parent = image.parentElement?.parentElement;
@@ -49,7 +53,7 @@ export default function Home() {
             </Link>
           ))}
         </div>
-        <div className="text-right mt-8">
+        {/* <div className="text-right mt-8">
           <p className="text-sm text-gray-500">
             <Link
               href="/works/"
@@ -58,7 +62,7 @@ export default function Home() {
               - More works
             </Link>
           </p>
-        </div>
+        </div> */}
       </section>
     </main>
   );
