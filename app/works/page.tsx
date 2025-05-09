@@ -49,7 +49,7 @@ export default function Home() {
             </Link>
           ))}
         </div>
-        <div className="text-right mt-8">
+        {/* <div className="text-right mt-8">
           <p className="text-sm text-gray-500">
             <Link
               href="/works/"
@@ -58,7 +58,7 @@ export default function Home() {
               - More works
             </Link>
           </p>
-        </div>
+        </div> */}
       </section>
     </main>
   );
