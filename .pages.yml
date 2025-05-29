@@ -30,7 +30,7 @@ content:
           values:
             - value: square
               label: 正方形
-              default: true
+              selected: true
             - value: rect-h
               label: 縦長
             - value: rect-v
