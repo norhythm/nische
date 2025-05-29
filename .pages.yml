@@ -1,12 +1,13 @@
-media: public/works/media
+media:
+  input: public/works/media
+  output: /works/media
 content:
   - name: posts
     label: Posts
     type: collection
-    path: '_works'
+    path: "_works"
     view:
-      fields:
-        [ title, published, date, image ]
+      fields: [title, slug, published, date, image]
     fields:
       - name: published
         label: Published
@@ -17,6 +18,9 @@ content:
         type: date
       - name: title
         label: Title
+        type: string
+      - name: slug
+        label: Slug
         type: string
       - name: image
         label: Image
