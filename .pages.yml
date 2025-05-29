@@ -4,10 +4,11 @@ media:
 content:
   - name: posts
     label: Posts
+    filename: "{fields.url}.md"
     type: collection
     path: "_works"
     view:
-      fields: [title, slug, published, date, image]
+      fields: [title, url, published, date, image]
     fields:
       - name: published
         label: Published
@@ -19,21 +20,21 @@ content:
       - name: title
         label: Title
         type: string
-      - name: slug
-        label: Slug
+      - name: url
+        label: Url
         type: string
       - name: layout
         label: Layout
         type: select
         options:
           values:
-          - value: square
-            label: 正方形
-            default: true
-          - value: rect-h
-            label: 縦長
-          - value: rect-v
-            label: 横長
+            - value: square
+              label: 正方形
+              default: true
+            - value: rect-h
+              label: 縦長
+            - value: rect-v
+              label: 横長
       - name: image
         label: Image
         type: image
