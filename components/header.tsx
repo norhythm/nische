@@ -9,19 +9,11 @@ export default function Header() {
             href="/"
             className="hover:text-gray-500 cursor-pointer transition-colors uppercase"
           >
-            Tsukasa Kikuchi
+            <span className="font-base">Tsukasa Kikuchi</span>
           </Link>
         </h1>
         <nav>
           <ul className="flex space-x-4 md:space-x-8 pb-[2px] text-sm md:text-base">
-            {/* <li>
-              <Link
-                href="/works/"
-                className="hover:text-gray-500 cursor-pointer transition-colors"
-              >
-                Works
-              </Link>
-            </li> */}
             <li>
               <Link
                 href="/biography/"
