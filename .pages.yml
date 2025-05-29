@@ -22,6 +22,11 @@ content:
       - name: slug
         label: Slug
         type: string
+      - name: layout
+        label: Layout
+        type: select
+        options:
+          values: [ square, rect-h, rect-v ]
       - name: image
         label: Image
         type: image
