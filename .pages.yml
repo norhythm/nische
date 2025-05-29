@@ -5,7 +5,8 @@ content:
     type: collection
     path: '_works'
     view:
-      fields: [ title, published, date, image,  ]
+      fields:
+        [ title, published, date, image ]
     fields:
       - name: published
         label: Published
@@ -17,6 +18,9 @@ content:
       - name: title
         label: Title
         type: string
+      - name: image
+        label: Image
+        type: image
       - name: body
         label: Body
         type: rich-text
