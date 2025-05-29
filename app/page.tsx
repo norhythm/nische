@@ -12,8 +12,8 @@ export default function Home() {
         All - Rec - Mix - Mastering
       </div>
       {/* Works Grid */}
-      <section id="works" className="container mx-auto px-4 mb-20">
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group">
+      <section id="works" className="container mx-auto px-4 pt-8 mb-20">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group/works pointer-events-none">
           {/* {works.slice(0, 15).map((work, index) => ( */}
           {works.map((work, index) => (
             <Link
@@ -22,9 +22,10 @@ export default function Home() {
               className={`${
                 index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
               }
-              work-item relative cursor-pointer"`}
+              work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto
+               "`}
             >
-              <div className="relative flex justify-center items-center aspect-square overflow-hidden group-hover:opacity-25 hover:!opacity-100 transition-opacity duration-300">
+              <div className="relative flex justify-center items-center aspect-square overflow-hidden">
                 <div
                   className={`absolute overflow-hidden flex justify-center items-center bg-hero layout-${work.layout}`}
                 >
@@ -37,7 +38,7 @@ export default function Home() {
                     placeholder="blur"
                     blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
                     // className="absolute w-full h-auto object-contain hover:scale-105 transition-transform duration-300"
-                    className="drop-shadow-md hover:scale-105 transition-transform duration-200"
+                    className="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
                     onLoadingComplete={(image) => {
                       // Find the parent element and remove the loading indicator
                       const parent = image.parentElement?.parentElement;
@@ -53,16 +54,6 @@ export default function Home() {
             </Link>
           ))}
         </div>
-        {/* <div className="text-right mt-8">
-          <p className="text-sm text-gray-500">
-            <Link
-              href="/works/"
-              className="hover:text-gray-500 cursor-pointer transition-colors"
-            >
-              - More works
-            </Link>
-          </p>
-        </div> */}
       </section>
     </main>
   );
