@@ -1,4 +1,5 @@
-media: media
+media:
+  input: public/works/media
 content:
   - name: posts
     label: Posts
