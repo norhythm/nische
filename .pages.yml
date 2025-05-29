@@ -26,7 +26,14 @@ content:
         label: Layout
         type: select
         options:
-          values: [ square, rect-h, rect-v ]
+          values:
+          - value: square
+            label: 正方形
+            default: true
+          - value: rect-h
+            label: 縦長
+          - value: rect-v
+            label: 横長
       - name: image
         label: Image
         type: image
