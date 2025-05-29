@@ -183,9 +183,8 @@ export default function Biography() {
             <div className="order-1 md:order-2 grid grid-cols-3 gap-2 md:gap-8 md:col-start-3 md:col-end-7 pb-2 md:pb-0">
               {[...Array(9)].map((item, index) => {
                 return (
-                  <div className="relative aspect-square">
+                  <div key={index} className="relative aspect-square">
                     <Image
-                      key={index}
                       src={`/images/equipments/grid_0${index + 1}.jpg`}
                       alt=""
                       fill
