@@ -7,13 +7,17 @@ export default function Biography() {
   return (
     <>
       {/* Biography Content */}
-      <section className="container mx-auto px-4 md:px-8 pt-8 md:pt-0 mb-20">
-        <h1 className="text-2xl tracking-wider mb-1">BIOGRAPHY</h1>
-        <p className="text-xl tracking-wider mb-8">Profile & Equipments</p>
+      <section className="container mx-auto px-4 md:px-8 pt-0 md:pt-0 mb-20">
+        <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
+          Biography
+        </h1>
+        <p className="text-base md:text-xl tracking-wider mb-8">
+          Profile & Equipments
+        </p>
 
-        <div className="flex flex-col md:flex-row gap-8 mb-16">
+        <div className="flex flex-col md:flex-row gap-8 mb-12 md:mb-32">
           <div className="md:w-2/5">
-            <div className="relative aspect-[3/4] w-full px-8">
+            <div className="relative w-full px-8">
               <Image
                 src="/images/profile.jpg"
                 alt="Tsukasa Kikuchi"

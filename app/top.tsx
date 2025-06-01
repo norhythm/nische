@@ -36,8 +36,8 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[100px] container mx-auto px-8 z-50">
-        <div style={{ display: "flex", gap: "0.5rem" }}>
+      <div className="sticky top-[60px] md:top-[100px] container mx-auto px-4 md:px-8 z-50">
+        <div className="flex gap-2 text-sm md:text-base tracking-wider">
           <button onClick={() => handleTagChange(null)}>All</button>
           {tags.map((tag) => (
             <button
@@ -52,16 +52,17 @@ export default function BlogPage({
       </div>
       {/* Works Grid */}
       <section id="works" className="container mx-auto px-4 pt-8 mb-20">
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group/works pointer-events-none">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
             <Link
-              href={`/works/${work.slug}`}
+              // href={`/works/${work.slug}`}
+              href={`/works/${work.url}`}
               key={index}
               className={`${
                 index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
               }
               work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto
-               "`}
+              "`}
             >
               <div className="relative flex justify-center items-center aspect-square overflow-hidden">
                 <div
@@ -79,6 +80,11 @@ export default function BlogPage({
             </Link>
           ))}
         </div>
+        {filteredPosts.length === 0 && (
+          <div className="flex justify-center py-20 text-sm md:text-base">
+            <p>There are no relevant articles.</p>
+          </div>
+        )}
       </section>
     </>
   );

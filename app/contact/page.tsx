@@ -6,15 +6,18 @@ export default function Contact() {
   return (
     <>
       {/* Contact Content */}
-      <section className="container mx-auto px-4 md:px-8 pt-8 md:pt-0 mb-20">
+      <section className="container mx-auto px-4 md:px-8 pt-0 md:pt-0 mb-20">
         <div className="mx-auto">
-          <h1 className="text-2xl tracking-wider mb-1">CONTACT</h1>
-          <p className="text-xl tracking-wider mb-8">Note & Form</p>
+          <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
+            Contact
+          </h1>
+          <p className="text-base md:text-xl tracking-wider mb-8">
+            Note & Form
+          </p>
 
           <div className="my-12">
-            <h2 className="text-lg mb-4">Contact Information</h2>
-            <p className="mb-2">tsukasa.kikuchi@arte-refact.com</p>
-            <p className="mb-2">
+            <h2 className="mb-4 text-lg">Contact Information</h2>
+            <p className="mb-2 text-sm md:text-base">
               If you get more information, please send a message directly
               through the inquiry form below.
             </p>
@@ -28,7 +31,7 @@ export default function Contact() {
               <input
                 type="text"
                 id="name"
-                className="w-full p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -40,7 +43,7 @@ export default function Contact() {
               <input
                 type="email"
                 id="email"
-                className="w-full p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -52,7 +55,7 @@ export default function Contact() {
               <input
                 type="text"
                 id="subject"
-                className="w-full p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
