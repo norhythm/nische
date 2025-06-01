@@ -3,7 +3,6 @@ published: true
 date: 2025-05-31
 title: This is title / ここにタイトルが入ります / Awesome タイトル
 tag:
-  - rec
   - mix
   - master
 url: dummy-works-56

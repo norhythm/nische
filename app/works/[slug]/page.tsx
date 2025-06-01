@@ -34,9 +34,7 @@ export default async function Post(props: Params) {
 
           <div className="relative">
             <div className="absolute left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div>
-            <div
-              className={`${arrangeStyles["post-image"]} relative py-8 md:py-16 w-full z-20 flex justify-center items-center`}
-            >
+            <div className={`${arrangeStyles["post-image"]}`}>
               <Image
                 src={`${post.image}` || "/placeholder.svg"}
                 alt={post.title}
@@ -47,10 +45,12 @@ export default async function Post(props: Params) {
             </div>
           </div>
 
-          <div
-            className={`${markdownStyles["markdown"]} work-contents pt-6 md:pt-10 mb-8 text-sm md:text-base`}
-            dangerouslySetInnerHTML={{ __html: content }}
-          ></div>
+          <div className="work-contents pt-6 md:pt-10 mb-8 text-sm md:text-base">
+            <div
+              className={`${markdownStyles["markdown"]}`}
+              dangerouslySetInnerHTML={{ __html: content }}
+            ></div>
+          </div>
         </div>
       </article>
     </section>
