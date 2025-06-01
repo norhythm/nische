@@ -7,7 +7,7 @@ export default function Biography() {
   return (
     <>
       {/* Biography Content */}
-      <section className="container mx-auto px-4 md:px-8 pt-0 md:pt-0 mb-20">
+      <section className="container mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
         <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
           Biography
         </h1>
@@ -15,7 +15,7 @@ export default function Biography() {
           Profile & Equipments
         </p>
 
-        <div className="flex flex-col md:flex-row gap-8 mb-12 md:mb-32">
+        <div className="flex flex-col gap-8 mb-12 md:flex-row md:mb-32">
           <div className="md:w-2/5">
             <div className="relative w-full px-8">
               <Image

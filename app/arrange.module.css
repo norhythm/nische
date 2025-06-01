@@ -1,6 +1,6 @@
 .post-image {
   /* pointer-events: auto; */
-  @apply relative py-8 md:py-12 w-full z-20 flex justify-center items-center;
+  @apply relative py-8 w-full z-20 flex justify-center items-center md:py-12;
 }
 
 .post-image *[class*="square"] {

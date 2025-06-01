@@ -19,7 +19,7 @@ export default async function Post(props: Params) {
   const content = await markdownToHtml(post.content || "");
 
   return (
-    <section className="relative container mx-auto px-4 md:px-8 pt-0 md:pt-0 pb-4 md:pb-20">
+    <section className="relative container mx-auto px-4 pt-0 pb-4 md:pt-0 md:px-8 md:pb-20">
       <div className="absolute z-30 top-0 left-0 size-full">
         <Link className="block size-full cursor-w-resize" href={`/`}></Link>
       </div>
@@ -45,7 +45,7 @@ export default async function Post(props: Params) {
             </div>
           </div>
 
-          <div className="pt-6 md:pt-10 mb-8 text-sm md:text-base">
+          <div className="pt-6 mb-8 text-sm md:text-base md:pt-10">
             <div
               className={`${markdownStyles["markdown"]}`}
               dangerouslySetInnerHTML={{ __html: content }}
