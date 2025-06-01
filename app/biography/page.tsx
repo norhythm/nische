@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Biography() {
   return (
-    <main className="min-h-screen">
+    <>
       {/* Biography Content */}
       <section className="container mx-auto px-4 md:px-8 pt-8 md:pt-0 mb-20">
         <h1 className="text-2xl tracking-wider mb-1">BIOGRAPHY</h1>
@@ -213,6 +213,6 @@ export default function Biography() {
           </p>
         </div>
       </section>
-    </main>
+    </>
   );
 }

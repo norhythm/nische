@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Contact() {
   return (
-    <main className="min-h-screen">
+    <>
       {/* Contact Content */}
       <section className="container mx-auto px-4 md:px-8 pt-8 md:pt-0 mb-20">
         <div className="mx-auto">
@@ -80,6 +80,6 @@ export default function Contact() {
           </form>
         </div>
       </section>
-    </main>
+    </>
   );
 }
