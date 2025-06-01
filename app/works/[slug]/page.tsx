@@ -1,4 +1,5 @@
 import markdownStyles from "@/app/markdown.module.css";
+import arrangeStyles from "@/app/arrange.module.css";
 
 import Image from "next/image";
 import { Metadata } from "next";
@@ -33,7 +34,9 @@ export default async function Post(props: Params) {
 
           <div className="relative">
             <div className="absolute left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div>
-            <div className="relative py-8 md:py-16 w-full z-20 flex justify-center items-center">
+            <div
+              className={`${arrangeStyles["post-image"]} relative py-8 md:py-16 w-full z-20 flex justify-center items-center`}
+            >
               <Image
                 src={`${post.image}` || "/placeholder.svg"}
                 alt={post.title}

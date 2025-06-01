@@ -19,17 +19,9 @@ body {
 details > summary {
   list-style: none;
 }
+
 details > summary::-webkit-details-marker {
   display: none;
-}
-
-.writing-vertical {
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-}
-
-.mincho {
-  font-family: "Hiragirano mincho", "Yu Mincho", "YuMincho";
 }
 
 .layout-square {
@@ -60,31 +52,6 @@ details > summary::-webkit-details-marker {
 .layout-rect-v img {
   width: 70%;
   height: auto;
-}
-
-.post-square {
-  @apply w-full md:w-2/5;
-}
-
-.post-rect-h {
-  @apply w-full md:w-2/3;
-}
-
-.post-rect-v {
-  @apply w-full md:w-1/2;
-}
-
-.animate-fade-in {
-  animation: fade-in 0.2s ease forwards;
-}
-
-@keyframes fade-in {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
 }
 
 @layer utilities {

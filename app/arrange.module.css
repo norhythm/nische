@@ -1,0 +1,15 @@
+.post-image {
+  pointer-events: auto;
+}
+
+.post-image *[class*="square"] {
+  @apply w-full md:w-2/5;
+}
+
+.post-image *[class*="rect-h"] {
+  @apply w-full md:w-2/3;
+}
+
+.post-image *[class*="rect-v"] {
+  @apply w-full md:w-1/2;
+}
