@@ -45,7 +45,7 @@ export default async function Post(props: Params) {
             </div>
           </div>
 
-          <div className="work-contents pt-6 md:pt-10 mb-8 text-sm md:text-base">
+          <div className="pt-6 md:pt-10 mb-8 text-sm md:text-base">
             <div
               className={`${markdownStyles["markdown"]}`}
               dangerouslySetInnerHTML={{ __html: content }}
