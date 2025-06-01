@@ -23,6 +23,12 @@ content:
       - name: url
         label: Url
         type: string
+      - name: tag
+        label: Tag
+        type: select
+        options:
+          multiple: true
+          values: [rec, mix, master]
       - name: layout
         label: Layout
         type: select
