@@ -2,7 +2,10 @@
 published: true
 date: 2025-05-30
 title: CONTiNUE CHiCO
-slug: continue-chico
+tag:
+  - rec
+  - mix
+  - master
 layout: rect-v
 image: /works/media/CHiCO 1st Album 『CONTiNUE』.jpg
 ---
