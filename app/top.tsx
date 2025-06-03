@@ -38,8 +38,7 @@ export default function BlogPage({
     <>
       <div className="sticky top-[60px] md:top-[100px] container mx-auto px-4 md:px-8 z-50">
         <div className="flex gap-2 text-sm md:text-base tracking-wider">
-          <button onClick={() => handleTagChange(null)}>All</button>
-          {tags.map((tag) => (
+          {["rec", "mix", "master"].map((tag) => (
             <button
               key={tag}
               onClick={() => handleTagChange(tag)}
@@ -48,6 +47,7 @@ export default function BlogPage({
               {tag}
             </button>
           ))}
+          <button onClick={() => handleTagChange(null)}>All</button>
         </div>
       </div>
       {/* Works Grid */}
