@@ -28,7 +28,7 @@ content:
         type: select
         options:
           multiple: true
-          values: [rec, mix, master]
+          values: [recording, mixing, mastering]
       - name: layout
         label: Layout
         type: select
