@@ -9,7 +9,7 @@ export default function Page() {
     <Suspense
       fallback={
         <div className="flex justify-center py-20 text-sm md:text-base">
-          <p>Loading...</p>
+          <p>Loading... ;)</p>
         </div>
       }
     >
