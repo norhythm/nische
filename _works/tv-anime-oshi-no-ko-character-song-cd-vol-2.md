@@ -1,0 +1,13 @@
+---
+title: "TVアニメ『推しの子』キャラクターソングCD Vol.2"
+date: "2023-07-05"
+image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg"
+tag:
+  - recording
+  - mixing
+layout: "square"
+published: true
+url: "tv-anime-oshi-no-ko-character-song-cd-vol-2"
+---
+
+Audio engineering work for tv anime oshi no ko character song cd vol 2.

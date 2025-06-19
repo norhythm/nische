@@ -1,0 +1,14 @@
+---
+title: "夢限大みゅーたいぷ デジタルシングル「TRASH LIFE 」"
+date: "2025-02-07"
+image: "/works/media/mugen-dai-mu-type-digital-single-trash-life.jpg"
+tag:
+  - recording
+  - mixing
+  - mastering
+layout: "square"
+published: true
+url: "mugen-dai-mu-type-digital-single-trash-life"
+---
+
+Audio engineering work for mugen dai mu type digital single trash life.
