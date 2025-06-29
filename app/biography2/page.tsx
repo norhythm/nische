@@ -88,7 +88,7 @@ export default function Biography() {
         <div className="mb-16">
           <h2 className="text-2xl tracking-wider mb-8">Equipments</h2>
 
-          <div className="mb-8">
+          {/* <div className="mb-8">
             <div className="relative mb-8">
               <Image
                 src="/images/equipments/overview.jpg"
@@ -108,7 +108,7 @@ export default function Biography() {
                 }}
               />
             </div>
-          </div>
+          </div> */}
 
           <div className="flex flex-col md:grid grid-cols-1 md:grid-cols-6 gap-0 md:gap-8">
             <div className="col-start-1 col-end-3 order-2 md:order-1">
@@ -184,30 +184,52 @@ export default function Biography() {
                 </ul>
               </details>
             </div>
-            <div className="order-1 md:order-2 grid grid-cols-3 gap-2 md:gap-8 md:col-start-3 md:col-end-7 pb-2 md:pb-0">
-              {[...Array(9)].map((item, index) => {
-                return (
-                  <div key={index} className="relative aspect-square">
-                    <Image
-                      src={`/images/equipments/grid_0${index + 1}.jpg`}
-                      alt=""
-                      fill
-                      placeholder="blur"
-                      blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                      className="object-cover z-20"
-                      onLoadingComplete={(image) => {
-                        // Find the parent element and remove the loading indicator
-                        const parent = image.parentElement?.parentElement;
-                        if (parent) {
-                          const loadingEl =
-                            parent.querySelector(".animate-pulse");
-                          if (loadingEl) loadingEl.classList.add("hidden");
-                        }
-                      }}
-                    />
-                  </div>
-                );
-              })}
+            <div className="order-1 md:order-2 md:col-start-3 md:col-end-7 ">
+              <div className="mb-2 md:mb-8">
+                <Image
+                  src="/images/equipments/overview.jpg"
+                  alt="Tsukasa Kikuchi"
+                  width={1000}
+                  height={250}
+                  placeholder="blur"
+                  blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+                  className="object-cover z-20 w-full h-1/3 "
+                  onLoadingComplete={(image) => {
+                    // Find the parent element and remove the loading indicator
+                    const parent = image.parentElement?.parentElement;
+                    if (parent) {
+                      const loadingEl = parent.querySelector(".animate-pulse");
+                      if (loadingEl) loadingEl.classList.add("hidden");
+                    }
+                  }}
+                />
+              </div>
+
+              <div className="order-1 md:order-2 grid grid-cols-3 gap-2 md:gap-8 pb-2 md:pb-0">
+                {[...Array(9)].map((item, index) => {
+                  return (
+                    <div key={index} className="relative aspect-square">
+                      <Image
+                        src={`/images/equipments/grid_0${index + 1}.jpg`}
+                        alt=""
+                        fill
+                        placeholder="blur"
+                        blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+                        className="object-cover z-20"
+                        onLoadingComplete={(image) => {
+                          // Find the parent element and remove the loading indicator
+                          const parent = image.parentElement?.parentElement;
+                          if (parent) {
+                            const loadingEl =
+                              parent.querySelector(".animate-pulse");
+                            if (loadingEl) loadingEl.classList.add("hidden");
+                          }
+                        }}
+                      />
+                    </div>
+                  );
+                })}
+              </div>
             </div>
           </div>
 
