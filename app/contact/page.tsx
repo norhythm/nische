@@ -67,7 +67,7 @@ export default function Contact() {
               <textarea
                 id="message"
                 rows={6}
-                className="w-full p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-2/3 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               ></textarea>
             </div>

@@ -22,7 +22,7 @@ export default async function Post(props: Params) {
 
   return (
     <section className="container mx-auto px-4 md:px-0 md:py-20">
-      <div className="fixed top-0 left-0 w-full h-full">
+      <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div>
       <article className="relative z-10">
