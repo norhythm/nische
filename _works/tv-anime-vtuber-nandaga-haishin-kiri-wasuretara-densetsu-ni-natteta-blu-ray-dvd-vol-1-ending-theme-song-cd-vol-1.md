@@ -5,7 +5,7 @@ image: "/works/media/tv-anime-vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-v"
 published: true
 url: "tv-anime-vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-blu-ray-dvd-vol-1-ending-theme-song-cd-vol-1"
 ---

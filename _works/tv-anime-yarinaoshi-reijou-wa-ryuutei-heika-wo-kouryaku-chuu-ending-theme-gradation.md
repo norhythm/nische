@@ -5,7 +5,7 @@ image: "/works/media/tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chu
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-h"
 published: true
 url: "tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chuu-ending-theme-gradation"
 ---

@@ -5,7 +5,7 @@ image: "/works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-v"
 published: true
 url: "tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it"
 ---

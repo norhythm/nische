@@ -5,7 +5,7 @@ image: "/works/media/kaihou-kuukan-over-field-character-image-song.jpg"
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-h"
 published: true
 url: "kaihou-kuukan-over-field-character-image-song"
 ---

@@ -6,7 +6,7 @@ tag:
   - recording
   - mixing
   - mastering
-layout: "square"
+layout: "rect-v"
 published: true
 url: "chico-1st-album-continue"
 ---

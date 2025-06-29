@@ -6,7 +6,7 @@ tag:
   - recording
   - mixing
   - mastering
-layout: "square"
+layout: "rect-v"
 published: true
 url: "sakura-miko-1st-album-flower-rhapsody"
 ---

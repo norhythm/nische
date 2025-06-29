@@ -4,7 +4,7 @@ date: "2024-07-24"
 image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-blu-ray.jpg"
 tag:
   - recording
-layout: "square"
+layout: "rect-v"
 published: true
 url: "gekidan-dramatica-act3-kara-furu-wonderful-blu-ray"
 ---

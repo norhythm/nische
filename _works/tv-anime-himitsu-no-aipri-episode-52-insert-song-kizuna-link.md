@@ -6,7 +6,7 @@ tag:
   - recording
   - mixing
   - mastering
-layout: "square"
+layout: "rect-v"
 published: true
 url: "tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link"
 ---

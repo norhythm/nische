@@ -5,7 +5,7 @@ image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-v"
 published: true
 url: "haruka-naru-nirai-kanai-op-ed-theme"
 ---

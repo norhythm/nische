@@ -6,7 +6,7 @@ tag:
   - recording
   - mixing
   - mastering
-layout: "square"
+layout: "rect-v"
 published: true
 url: "sawamura-kirari-2nd-digital-single-tsuite-iku"
 ---

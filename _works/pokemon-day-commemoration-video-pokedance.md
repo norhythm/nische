@@ -4,7 +4,7 @@ date: "2024-02-27"
 image: "/works/media/pokemon-day-commemoration-video-pokedance.jpg"
 tag:
   - recording
-layout: "square"
+layout: "rect-h"
 published: true
 url: "pokemon-day-commemoration-video-pokedance"
 ---

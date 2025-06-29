@@ -5,7 +5,7 @@ image: "/works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg"
 tag:
   - recording
   - mixing
-layout: "square"
+layout: "rect-v"
 published: true
 url: "helios-rising-heroes-theme-song-vol-3-akatsuki"
 ---
