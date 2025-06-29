@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <>
       {/* Contact Content */}
-      <section className="container mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8 ">
+      <section className="container mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
         <div className="mx-auto">
           <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
             Contact
