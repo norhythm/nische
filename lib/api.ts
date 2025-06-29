@@ -37,3 +37,20 @@ export function getAllTags(): string[] {
 
   return Array.from(tagSet);
 }
+
+export function getAdjacentPosts(currentSlug: string): {
+  prevPost: Post | null;
+  nextPost: Post | null;
+} {
+  const allPosts = getAllPosts();
+  const currentIndex = allPosts.findIndex((post) => post.slug === currentSlug);
+
+  if (currentIndex === -1) {
+    return { prevPost: null, nextPost: null };
+  }
+
+  const prevPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
+  const nextPost = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
+
+  return { prevPost, nextPost };
+}

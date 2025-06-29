@@ -9,6 +9,10 @@
   @apply my-6;
 }
 
+.markdown p {
+  @apply mt-0;
+}
+
 .markdown h1,
 .markdown h2 {
   @apply text-xl tracking-wide;

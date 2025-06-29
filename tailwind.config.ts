@@ -15,6 +15,7 @@ const config: Config = {
         hero: "var(--bg-hero)",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        active: "#1E4AE9",
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",

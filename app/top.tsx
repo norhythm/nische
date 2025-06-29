@@ -4,8 +4,8 @@ import { useState, useEffect, useMemo } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Post } from "@/interfaces/post";
 
-import Image from "next/image";
 import Link from "next/link";
+import TiltImage from "@/components/tiltImage";
 
 export default function BlogPage({
   posts,
@@ -37,7 +37,7 @@ export default function BlogPage({
   return (
     <>
       <div className="sticky top-[60px] md:top-[100px] container mx-auto px-4 md:px-8 z-50">
-        <div className="flex gap-2 text-sm md:text-base tracking-wider">
+        <div className="flex text-sm md:text-base tracking-wider">
           {["recording", "mixing", "mastering"].map((tag, i) => (
             <div key={tag}>
               <button
@@ -48,7 +48,7 @@ export default function BlogPage({
               >
                 {tag}
               </button>
-              -
+              <span>&nbsp;-&nbsp;</span>
             </div>
           ))}
           <button
@@ -74,17 +74,17 @@ export default function BlogPage({
               "`}
             >
               <div className="relative flex justify-center items-center aspect-square overflow-hidden">
-                <div
-                  className={`absolute overflow-hidden flex justify-center items-center bg-hero layout-${work.layout}`}
-                >
-                  <Image
-                    src={`${work.image}` || "/placeholder.svg"}
-                    alt={work.title}
-                    width={512}
-                    height={512}
-                    className="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
-                  />
-                </div>
+                <TiltImage
+                  single={true}
+                  clip={true}
+                  src={`${work.image}` || "/placeholder.svg"}
+                  alt={work.title}
+                  width={512}
+                  height={512}
+                  tilt={3}
+                  parentClassName={`absolute overflow-hidden flex justify-center items-center bg-hero layout-${work.layout}`}
+                  childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
+                />
               </div>
             </Link>
           ))}
