@@ -111,7 +111,7 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto mt-8 md:mt-24 pt-8">
+        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               {/* <div className="flex-1 flex"> */}
