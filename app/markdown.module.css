@@ -9,7 +9,9 @@
   @apply my-6;
 }
 
-.markdown p {
+.markdown p,
+.markdown ul,
+.markdown ol {
   @apply mt-0;
 }
 
