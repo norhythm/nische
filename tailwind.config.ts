@@ -8,7 +8,14 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
     "*.{js,ts,jsx,tsx,mdx}",
   ],
-  safelist: ["size-full", "py-12", ".md:pt-10"],
+  safelist: [
+    "size-full",
+    "py-12",
+    ".md:pt-10",
+    ".md:w-6/12",
+    ".md:w-8/12",
+    ".md:w-7/12",
+  ],
   theme: {
     extend: {
       colors: {
