@@ -38,7 +38,7 @@ export default function Biography() {
               <div className="absolute w-full h-full bg-black opacity-50"></div>
             </div>
 
-            <div className="relative p-4 md:py-12 md:px-12 text-gray-50">
+            <div className="relative pt-8 pb-8 px-4 md:pt-32 md:pb-12 md:px-12 text-gray-50">
               <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
                 菊池 司
               </h2>
