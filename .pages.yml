@@ -8,7 +8,7 @@ content:
     type: collection
     path: "_works"
     view:
-      fields: [title, url, published, date, image]
+      fields: [artist, title, url, published, date, image]
     fields:
       - name: published
         label: Published
@@ -17,6 +17,9 @@ content:
       - name: date
         label: Date
         type: date
+      - name: artist
+        label: Artist
+        type: string
       - name: title
         label: Title
         type: string
