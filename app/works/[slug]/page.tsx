@@ -72,8 +72,13 @@ export default async function Post(props: Params) {
                   )}`}
                 >
                   <header>
-                    <h1 className="text-lg md:text-2xl tracking-wider">
-                      {post.title}
+                    <h1 className="tracking-wider">
+                      <span className="block text-lg md:text-2xl">
+                        {post.artist}
+                      </span>
+                      <span className="block text-lg md:text-xl">
+                        {post.title}
+                      </span>
                     </h1>
                   </header>
                   <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
@@ -168,12 +173,13 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | Kikuchi Tsukasa`;
+  const hasArtist = post.artist ? `${post.artist} ` : "";
+  const title = `${hasArtist} ${post.title} | Kikuchi Tsukasa`;
 
   return {
     title,
     openGraph: {
-      title,
+      title: `${post.artist} ${post.title}`,
       images: [post.image],
     },
   };
