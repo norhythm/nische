@@ -67,29 +67,34 @@ export default function BlogPage({
       >
         <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
-            <Link
-              href={`/works/${work.url}`}
+            <div
               key={index}
               className={`${
                 index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
               }
-              work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto
-              "`}
+              ${
+                work.layout === "rect-v" ? "px-[10%]" : ""
+              } relative flex justify-center items-center`}
             >
-              <div className="relative flex justify-center items-center aspect-square overflow-hidden">
-                <TiltImage
-                  single={true}
-                  clip={true}
-                  src={`${work.image}`}
-                  alt={work.title}
-                  width={512}
-                  height={512}
-                  tilt={3}
-                  parentClassName={`absolute overflow-hidden flex justify-center items-center bg-hero layout-${work.layout}`}
-                  childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
-                />
-              </div>
-            </Link>
+              <Link
+                href={`/works/${work.url}`}
+                className="work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+              >
+                <div className="relative flex justify-center items-center">
+                  <TiltImage
+                    single={true}
+                    clip={true}
+                    src={`${work.image}`}
+                    alt={work.title}
+                    width={512}
+                    height={512}
+                    tilt={3}
+                    parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
+                    childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
+                  />
+                </div>
+              </Link>
+            </div>
           ))}
         </div>
         {filteredPosts.length === 0 && (
