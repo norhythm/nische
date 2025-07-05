@@ -21,7 +21,7 @@ export default async function Post(props: Params) {
   const { prevPost, nextPost } = getAdjacentPosts(params.slug);
 
   return (
-    <section className="container mx-auto px-4 md:px-0 md:py-20">
+    <section className="container mx-auto px-4 md:px-0 md:py-20 ">
       <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div>
@@ -91,14 +91,11 @@ export default async function Post(props: Params) {
                   <span className="hidden">← Next work</span>
                   <span className="icon-arrow-left"></span>
                 </span>
-                <div className="hidden md:block">
-                  {/* <div className="text-xs uppercase tracking-wider text-gray-500">
-                      Previous
-                    </div> */}
+                {/* <div className="hidden md:block">
                   <div className="group-hover:underline line-clamp-2">
                     {prevPost.title}
                   </div>
-                </div>
+                </div> */}
               </Link>
             )}
           </div>
@@ -109,14 +106,11 @@ export default async function Post(props: Params) {
                 href={`/works/${nextPost.url}`}
                 className="group flex items-center justify-end text-sm md:text-base hover:text-gray-500 transition-colors"
               >
-                <div className="hidden md:block text-right">
-                  {/* <div className="text-xs uppercase tracking-wider text-gray-500">
-                      Next
-                    </div> */}
+                {/* <div className="hidden md:block text-right">
                   <div className="group-hover:underline line-clamp-2">
                     {nextPost.title}
                   </div>
-                </div>
+                </div> */}
                 <span className="">
                   <span className="hidden">Previous work →</span>
                   <span className="icon-arrow-right"></span>
