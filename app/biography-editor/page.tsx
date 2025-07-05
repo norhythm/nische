@@ -19,7 +19,7 @@ export default function Biography() {
         </h1>
 
         <div className="flex flex-col gap-8 mb-8 md:flex-col">
-          <div className="relative">
+          <div className="relative overflow-hidden">
             <div className="">
               <Image
                 src={`/images/${imageSource}`}
@@ -28,7 +28,7 @@ export default function Biography() {
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="absolute w-full h-full object-cover opacity-90"
+                className="absolute w-full h-full object-cover object-top opacity-90"
                 onLoadingComplete={(image) => {
                   // Find the parent element and remove the loading indicator
                   const parent = image.parentElement?.parentElement;
@@ -105,23 +105,18 @@ export default function Biography() {
             <div className="flex flex-col gap-2">
               <label className="text-sm font-medium">Profile Image</label>
               <div className="flex items-center gap-3">
-                <span className="text-sm">profile_check.jpg</span>
                 <label className="relative inline-flex items-center cursor-pointer">
-                  <input
-                    type="checkbox"
-                    className="sr-only peer"
-                    checked={imageSource === "profile_2nd.jpg"}
-                    onChange={(e) =>
-                      setImageSource(
-                        e.target.checked
-                          ? "profile_2nd.jpg"
-                          : "profile_check.jpg"
-                      )
-                    }
-                  />
-                  <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+                  <select
+                    value={imageSource}
+                    onChange={(e) => setImageSource(e.target.value)}
+                    className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                  >
+                    <option value="profile_2nd.jpg">profile_2nd</option>
+                    <option value="profile_2nd2.jpg">profile_2nd2</option>
+                    <option value="profile_check.jpg">profile_check</option>
+                    <option value="profile_check2.jpg">profile_check2</option>
+                  </select>
                 </label>
-                <span className="text-sm">profile_2nd.jpg</span>
               </div>
             </div>
 

@@ -73,9 +73,11 @@ export default async function Post(props: Params) {
                 >
                   <header>
                     <h1 className="tracking-wider">
-                      <span className="block text-lg md:text-2xl">
-                        {post.artist}
-                      </span>
+                      {post.artist && (
+                        <span className="block text-lg md:text-2xl">
+                          {post.artist}
+                        </span>
+                      )}
                       <span className="block text-lg md:text-xl">
                         {post.title}
                       </span>
