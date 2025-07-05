@@ -27,13 +27,13 @@ export default async function Post(props: Params) {
       </div>
       <article className="relative z-10">
         <div className="mx-auto">
-          <div className="w-full md:w-4/5 mx-auto flex justify-between items-center flex-col md:flex-row">
-            <div className="order-2 w-full pt-6 md:pt-0 md:w-7/12 md:pl-10">
+          <div className="w-full md:w-4/5 mx-auto flex justify-between flex-col md:flex-row">
+            <div className="order-1 w-full pt-6 md:pt-0 md:w-7/12">
               <header>
                 <h1 className="text-lg md:text-2xl tracking-wider">
                   {post.title}
                 </h1>
-                <div className="flex">
+                {/* <div className="flex">
                   {post.tag.map((tag, index) => {
                     return (
                       <span
@@ -50,9 +50,9 @@ export default async function Post(props: Params) {
                       </span>
                     );
                   })}
-                </div>
+                </div> */}
               </header>
-              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8 md:pr-10">
                 <div
                   className={`${markdownStyles["markdown"]}`}
                   dangerouslySetInnerHTML={{ __html: content }}
@@ -60,7 +60,7 @@ export default async function Post(props: Params) {
               </div>
             </div>
 
-            <div className="relative order-1 md:w-5/12">
+            <div className="relative order-2 md:w-5/12">
               <TiltImage
                 single={false}
                 src={`${post.image}` || "/placeholder.svg"}
@@ -75,7 +75,7 @@ export default async function Post(props: Params) {
         </div>
       </article>
       {/* Prev/Next Navigation */}
-      <div className="sticky bottom-4 md:relative md:bottom-0 w-full md:w-4/5 mx-auto mt-8 md:mt-24 pt-8 md:border-t border-gray-100">
+      <div className="sticky bottom-4 md:relative md:bottom-0 w-full md:w-4/5 mx-auto mt-8 md:mt-24 pt-8">
         <nav className="flex gap-2 md:gap-0 justify-between items-center">
           <div className="flex-1 flex md:hidden">
             {/* <div className="flex-1 flex"> */}
