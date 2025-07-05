@@ -1,16 +1,22 @@
 ---
-title: "古川慎 2nd ミニアルバム「Catch Me If You Can」"
-date: "2025-06-18"
-image: "/works/media/furukawa-makoto-2nd-mini-album-catch-me-if-you-can.jpg"
+published: true
+date: 2025-06-18
+artist: 古川慎
+title: 2nd ミニアルバム「Catch Me If You Can」
+url: furukawa-makoto-2nd-mini-album-catch-me-if-you-can
 tag:
   - recording
   - mixing
   - mastering
-layout: "square"
-published: true
-url: "furukawa-makoto-2nd-mini-album-catch-me-if-you-can"
+layout: square
+image: /works/media/furukawa-makoto-2nd-mini-album-catch-me-if-you-can.jpg
 ---
-
-- Recording M1, M2, M4
-- Mixing M1~M5
-- Mastering
+*   Recording
+    
+    *   M1, M2, M4
+        
+*   Mixing
+    
+    *   M1~M5
+        
+*   Mastering
