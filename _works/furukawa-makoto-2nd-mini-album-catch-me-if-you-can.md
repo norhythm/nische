@@ -11,9 +11,15 @@ published: true
 url: "furukawa-makoto-2nd-mini-album-catch-me-if-you-can"
 ---
 
-<!-- # 古川慎
+- Recording M1, M2, M4
+- Mixing M1~M5
+- Mastering
 
-## 2nd ミニアルバム「Catch Me If You Can」 -->
+↓ Artist/title を分離したサンプル
+
+# 古川慎
+
+## 2nd ミニアルバム「Catch Me If You Can」
 
 - Recording M1, M2, M4
 - Mixing M1~M5

@@ -17,18 +17,53 @@ export default async function Post(props: Params) {
     return notFound();
   }
 
+  const layout = post.layout;
+
   const content = await markdownToHtml(post.content || "");
   const { prevPost, nextPost } = getAdjacentPosts(params.slug);
 
+  const layoutGrid = (): number => {
+    switch (layout) {
+      case "rect-h":
+        return 6;
+      case "rect-v":
+        return 8;
+      case "square":
+        return 7;
+      default:
+        return 7;
+    }
+  };
+
+  const layoutImageStyle = (grid?: number): string => {
+    if (typeof grid === "number") {
+      return `md:w-${grid}/12`;
+    }
+    switch (layout) {
+      case "rect-h":
+        return "md:w-6/12";
+      case "rect-v":
+        return "md:w-4/12";
+      case "square":
+        return "md:w-5/12";
+      default:
+        return "md:w-5/12";
+    }
+  };
+
   return (
     <section className="container mx-auto px-4 md:px-0 md:py-20 ">
-      <div className="hidden md:block fixed top-0 left-0 w-full h-full">
+      {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
-      </div>
+      </div> */}
       <article className="relative z-10">
         <div className="mx-auto">
           <div className="w-full md:w-4/5 mx-auto flex justify-between flex-col md:flex-row">
-            <div className="order-1 w-full pt-6 md:pt-0 md:w-7/12">
+            <div
+              className={`order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
+                layoutGrid()
+              )}`}
+            >
               <header>
                 <h1 className="text-lg md:text-2xl tracking-wider">
                   {post.title}
@@ -52,7 +87,7 @@ export default async function Post(props: Params) {
                   })}
                 </div> */}
               </header>
-              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8 md:pr-10">
+              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
                 <div
                   className={`${markdownStyles["markdown"]}`}
                   dangerouslySetInnerHTML={{ __html: content }}
@@ -60,7 +95,9 @@ export default async function Post(props: Params) {
               </div>
             </div>
 
-            <div className="relative order-2 md:w-5/12">
+            <div
+              className={`relative order-1 md:order-2 ${layoutImageStyle()}`}
+            >
               <TiltImage
                 single={false}
                 src={`${post.image}` || "/placeholder.svg"}
