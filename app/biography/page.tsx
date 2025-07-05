@@ -16,13 +16,13 @@ export default function Biography() {
           <div className="relative">
             <div className="">
               <Image
-                src="/images/profile_check.jpg"
+                src="/images/profile_2nd2.jpg"
                 alt="Tsukasa Kikuchi"
                 width={370}
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="absolute w-full h-full object-cover opacity-90"
+                className="absolute w-full h-full object-cover object-top opacity-90"
                 onLoadingComplete={(image) => {
                   // Find the parent element and remove the loading indicator
                   const parent = image.parentElement?.parentElement;
@@ -62,7 +62,6 @@ export default function Biography() {
               </div>
 
               <div className="text-sm md:text-base">
-                <p className="mb-1">Email: tsukasa.kikuchi@arte-refact.com</p>
                 <p className="mb-1">X(Twitter): @tsukasa_kikuchi</p>
                 <p className="">
                   Playlists:
