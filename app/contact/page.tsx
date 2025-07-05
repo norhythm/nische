@@ -8,12 +8,9 @@ export default function Contact() {
       {/* Contact Content */}
       <section className="container md:max-w-7xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
         <div className="mx-auto">
-          <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
+          <h1 className="text-lg md:text-2xl tracking-wider mb-8 capitalize">
             Contact
           </h1>
-          <p className="text-base md:text-xl tracking-wider mb-8">
-            Note & Form
-          </p>
 
           <div className="my-12">
             <h2 className="mb-4 text-lg">Contact Information</h2>

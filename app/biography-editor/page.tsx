@@ -9,16 +9,14 @@ export default function Biography() {
   const [overlayBg, setOverlayBg] = useState("bg-black");
   const [overlayOpacity, setOverlayOpacity] = useState(50);
   const [textColor, setTextColor] = useState("text-gray-50");
+  const [blendMode, setBlendMode] = useState("normal");
   return (
     <>
       {/* Biography Content */}
       <section className="container md:max-w-7xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
-        <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
+        <h1 className="text-lg md:text-2xl tracking-wider mb-8 capitalize">
           Biography
         </h1>
-        <p className="text-base md:text-xl tracking-wider mb-8">
-          Profile & Equipments
-        </p>
 
         <div className="flex flex-col gap-8 mb-8 md:flex-col">
           <div className="relative">
@@ -43,7 +41,10 @@ export default function Biography() {
               <div
                 id="overlay"
                 className={`absolute w-full h-full ${overlayBg}`}
-                style={{ opacity: overlayOpacity / 100 }}
+                style={{
+                  opacity: overlayOpacity / 100,
+                  mixBlendMode: blendMode as any,
+                }}
               ></div>
             </div>
 
@@ -77,7 +78,6 @@ export default function Biography() {
               </div>
 
               <div className="text-sm md:text-base">
-                <p className="mb-1">Email: tsukasa.kikuchi@arte-refact.com</p>
                 <p className="mb-1">X(Twitter): @tsukasa_kikuchi</p>
                 <p className="">
                   Playlists:
@@ -100,7 +100,7 @@ export default function Biography() {
         <div className="bg-gray-100 p-6 rounded-lg">
           <h2 className="text-lg font-semibold mb-4">Editor Controls</h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {/* Image Source Switch */}
             <div className="flex flex-col gap-2">
               <label className="text-sm font-medium">Profile Image</label>
@@ -180,6 +180,33 @@ export default function Biography() {
                 </label>
                 <span className="text-sm">Dark</span>
               </div>
+            </div>
+
+            {/* Blend Mode Select */}
+            <div className="flex flex-col gap-2">
+              <label className="text-sm font-medium">Blend Mode</label>
+              <select
+                value={blendMode}
+                onChange={(e) => setBlendMode(e.target.value)}
+                className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              >
+                <option value="normal">Normal</option>
+                <option value="multiply">Multiply</option>
+                <option value="screen">Screen</option>
+                <option value="overlay">Overlay</option>
+                <option value="soft-light">Soft Light</option>
+                <option value="hard-light">Hard Light</option>
+                <option value="color-dodge">Color Dodge</option>
+                <option value="color-burn">Color Burn</option>
+                <option value="darken">Darken</option>
+                <option value="lighten">Lighten</option>
+                <option value="difference">Difference</option>
+                <option value="exclusion">Exclusion</option>
+                <option value="hue">Hue</option>
+                <option value="saturation">Saturation</option>
+                <option value="color">Color</option>
+                <option value="luminosity">Luminosity</option>
+              </select>
             </div>
           </div>
         </div>

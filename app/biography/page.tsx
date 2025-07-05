@@ -8,12 +8,9 @@ export default function Biography() {
     <>
       {/* Biography Content */}
       <section className="container md:max-w-7xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
-        <h1 className="text-lg md:text-2xl tracking-wider mb-1 capitalize">
+        <h1 className="text-lg md:text-2xl tracking-wider mb-8 capitalize ">
           Biography
         </h1>
-        <p className="text-base md:text-xl tracking-wider mb-8">
-          Profile & Equipments
-        </p>
 
         <div className="flex flex-col gap-8 mb-12 md:flex-col md:mb-32">
           <div className="relative">
