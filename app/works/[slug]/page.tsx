@@ -52,13 +52,13 @@ export default async function Post(props: Params) {
   };
 
   return (
-    <section className="container mx-auto px-4 md:px-0 md:py-20 ">
+    <section className="container md:max-w-5xl mx-auto px-4 md:px-8 md:px-0 md:py-20">
       {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div> */}
       <article className="relative z-10">
         <div className="mx-auto">
-          <div className="w-full md:w-4/5 mx-auto flex justify-between flex-col md:flex-row">
+          <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
             <div
               className={`order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
                 layoutGrid()
@@ -112,7 +112,7 @@ export default async function Post(props: Params) {
         </div>
       </article>
       {/* Prev/Next Navigation */}
-      <div className="sticky bottom-4 md:relative md:bottom-0 w-full md:w-4/5 mx-auto mt-8 md:mt-24 pt-8">
+      <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto mt-8 md:mt-24 pt-8">
         <nav className="flex gap-2 md:gap-0 justify-between items-center">
           <div className="flex-1 flex md:hidden">
             {/* <div className="flex-1 flex"> */}

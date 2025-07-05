@@ -36,7 +36,7 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[60px] md:top-[100px] container mx-auto px-4 md:px-8 z-50">
+      <div className="sticky top-[60px] md:top-[100px] container md:max-w-5xl mx-auto px-4 md:px-8 z-50">
         <div className="flex text-sm md:text-base tracking-wider">
           {["recording", "mixing", "mastering"].map((tag, i) => (
             <div key={tag}>
@@ -61,8 +61,11 @@ export default function BlogPage({
           </button>
         </div>
       </div>
-      <section id="works" className="container mx-auto px-4 pt-8 mb-20">
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 group/works pointer-events-none animate-fade-in">
+      <section
+        id="works"
+        className="container 2xl:max-w-full mx-auto px-4 2xl:px-32 pt-8 mb-20"
+      >
+        <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
             <Link
               href={`/works/${work.url}`}
