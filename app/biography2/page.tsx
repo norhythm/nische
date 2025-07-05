@@ -16,16 +16,16 @@ export default function Biography() {
         </p>
 
         <div className="flex flex-col gap-8 mb-12 md:flex-col md:mb-32">
-          <div className="">
-            <div className="relative w-full">
+          <div className="relative">
+            <div className="">
               <Image
-                src="/images/profile3.jpg"
+                src="/images/profile_check.jpg"
                 alt="Tsukasa Kikuchi"
                 width={370}
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="w-full object-cover z-20"
+                className="absolute w-full h-full object-cover opacity-20"
                 onLoadingComplete={(image) => {
                   // Find the parent element and remove the loading indicator
                   const parent = image.parentElement?.parentElement;
@@ -35,51 +35,55 @@ export default function Biography() {
                   }
                 }}
               />
-            </div>
-          </div>
-
-          <div className="">
-            {/* <h2 className="text-lg md:text-2xl mb-2 mincho">
-              Tsukasa Kikuchi / 菊池 司
-            </h2> */}
-            <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
-              菊池 司
-            </h2>
-            <p className="text-sm md:text-base mb-4">
-              Recording / Mixing / Mastering Engineer
-            </p>
-
-            <div className="flex flex-col md:flex-row md:gap-8 mb-8 text-sm md:text-base">
-              <p className="mb-4 leading-loose flex-1">
-                1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte
-                Refact」に所属しながら、常なる活動の幅を広げている。
-              </p>
-
-              <p className="mb-4 leading-loose flex-1">
-                Born in 1985, Tokyo. Through self-produced projects, developed a
-                deep interest in acoustics and equipment, which led to a passion
-                for engineering. While centered on beat and electronic music,
-                draws from a wide variety of influences. Driven by innate
-                curiosity, capable of handling everything from delicate,
-                intricate expressions to aggressive and chaotic sounds. A member
-                of the production team Arte Refact, and continues to expand
-                activities into new arenas.
-              </p>
+              {/* <div className="absolute w-full h-full bg-black opacity-50"></div> */}
             </div>
 
-            <div className="text-sm md:text-base">
-              <p className="mb-1">Email: tsukasa.kikuchi@arte-refact.com</p>
-              <p className="mb-1">X(Twitter): @tsukasa_kikuchi</p>
-              <p className="mb-4">
-                Playlists:
-                <a href="#" className="ml-1 text-gray-700 hover:text-gray-900">
-                  Spotify
-                </a>
-                ,
-                <a href="#" className="ml-1 text-gray-700 hover:text-gray-900">
-                  Apple Music
-                </a>
+            <div className="relative p-4 md:py-12 md:px-12">
+              <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
+                菊池 司
+              </h2>
+              <p className="text-sm md:text-base mb-4">
+                Recording / Mixing / Mastering Engineer
               </p>
+
+              <div className="flex flex-col md:flex-row md:gap-12 mb-8 text-sm md:text-base">
+                <p className="mb-4 leading-loose flex-1">
+                  1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte
+                  Refact」に所属しながら、常なる活動の幅を広げている。
+                </p>
+
+                <p className="mb-4 leading-loose flex-1">
+                  Born in 1985, Tokyo. Through self-produced projects, developed
+                  a deep interest in acoustics and equipment, which led to a
+                  passion for engineering. While centered on beat and electronic
+                  music, draws from a wide variety of influences. Driven by
+                  innate curiosity, capable of handling everything from
+                  delicate, intricate expressions to aggressive and chaotic
+                  sounds. A member of the production team Arte Refact, and
+                  continues to expand activities into new arenas.
+                </p>
+              </div>
+
+              <div className="text-sm md:text-base">
+                <p className="mb-1">Email: tsukasa.kikuchi@arte-refact.com</p>
+                <p className="mb-1">X(Twitter): @tsukasa_kikuchi</p>
+                <p className="">
+                  Playlists:
+                  <a
+                    href="#"
+                    className="ml-1 text-gray-700 hover:text-gray-900"
+                  >
+                    Spotify
+                  </a>
+                  ,
+                  <a
+                    href="#"
+                    className="ml-1 text-gray-700 hover:text-gray-900"
+                  >
+                    Apple Music
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
