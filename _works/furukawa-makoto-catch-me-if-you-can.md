@@ -8,5 +8,3 @@ layout: "square"
 published: true
 url: "furukawa-makoto-catch-me-if-you-can"
 ---
-
-Audio engineering work for furukawa makoto catch me if you can.

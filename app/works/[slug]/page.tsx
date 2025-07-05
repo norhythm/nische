@@ -65,9 +65,11 @@ export default async function Post(props: Params) {
               )}`}
             >
               <header>
-                <h1 className="text-lg md:text-2xl tracking-wider">
-                  {post.title}
-                </h1>
+                {post.url != "furukawa-makoto-catch-me-if-you-can" && (
+                  <h1 className="text-lg md:text-2xl tracking-wider">
+                    {post.title}
+                  </h1>
+                )}
                 {/* <div className="flex">
                   {post.tag.map((tag, index) => {
                     return (
@@ -87,11 +89,35 @@ export default async function Post(props: Params) {
                   })}
                 </div> */}
               </header>
-              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+              <div
+                className={`mb-8 text-sm md:text-base
+                ${
+                  post.url == "furukawa-makoto-catch-me-if-you-can"
+                    ? ""
+                    : "pt-6 md:pt-8"
+                }`}
+              >
                 <div
                   className={`${markdownStyles["markdown"]}`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 ></div>
+                {post.url == "furukawa-makoto-catch-me-if-you-can" && (
+                  <div>
+                    <h1 className="text-lg md:text-2xl tracking-wider">
+                      古川慎
+                    </h1>
+
+                    <h2 className="text-md md:text-xl tracking-wider">
+                      Catch Me If You Can
+                    </h2>
+
+                    <ul className="py-6">
+                      <li>Recording M1, M2, M4</li>
+                      <li>Mixing M1~M5</li>
+                      <li>Mastering</li>
+                    </ul>
+                  </div>
+                )}
               </div>
             </div>
 
