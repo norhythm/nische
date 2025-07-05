@@ -9,7 +9,7 @@
 
 ::selection {
   color: rgb(var(--background-rgb));
-  background-color: rgb(var(--foreground-rgb));
+  background-color: rgba(30, 74, 233, 0.9);
 }
 
 body {

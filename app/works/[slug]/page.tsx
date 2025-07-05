@@ -52,110 +52,103 @@ export default async function Post(props: Params) {
   };
 
   return (
-    <section className="container md:max-w-5xl mx-auto px-4 md:px-8 md:px-0 md:py-20">
+    <section className="container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:py-20">
       {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div> */}
-      <article className="relative z-10">
-        <div className="mx-auto">
-          <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
-            <div
-              className={`order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
-                layoutGrid()
-              )}`}
-            >
-              <header>
-                <h1 className="text-lg md:text-2xl tracking-wider">
-                  {post.title}
-                </h1>
-                {/* <div className="flex">
-                  {post.tag.map((tag, index) => {
-                    return (
-                      <span
-                        key={index}
-                        className="text-md md:text-lg tracking-wider mt-1 capitalize"
-                      >
-                        <Link
-                          className="hover:text-gray-500 transition-colors"
-                          href={`/?tag=${tag}`}
-                        >
-                          {tag}
-                        </Link>
-                        {index < post.tag.length - 1 && <span>,&nbsp;</span>}
-                      </span>
-                    );
-                  })}
-                </div> */}
-              </header>
-              <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+      <div className="relative md:w-3/4 mx-auto">
+        <div className="relative py-0 md:py-24">
+          {/* <div className="hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div> */}
+          <div
+            className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full`}
+            // style={{ backgroundImage: `url(${post.image})` }}
+          ></div>
+          <article className="relative z-10">
+            <div className="mx-auto">
+              <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
                 <div
-                  className={`${markdownStyles["markdown"]}`}
-                  dangerouslySetInnerHTML={{ __html: content }}
-                ></div>
+                  className={`order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
+                    layoutGrid()
+                  )}`}
+                >
+                  <header>
+                    <h1 className="text-lg md:text-2xl tracking-wider">
+                      {post.title}
+                    </h1>
+                  </header>
+                  <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+                    <div
+                      className={`${markdownStyles["markdown"]}`}
+                      dangerouslySetInnerHTML={{ __html: content }}
+                    ></div>
+                  </div>
+                </div>
+
+                <div
+                  className={`relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
+                >
+                  <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div>
+                  <TiltImage
+                    single={false}
+                    src={`${post.image}`}
+                    alt={post.title}
+                    width={512}
+                    height={512}
+                    tilt={1}
+                    parentClassName="z-20"
+                    childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                  />
+                </div>
               </div>
             </div>
-
-            <div
-              className={`relative order-1 md:order-2 ${layoutImageStyle()}`}
-            >
-              <TiltImage
-                single={false}
-                src={`${post.image}` || "/placeholder.svg"}
-                alt={post.title}
-                width={512}
-                height={512}
-                tilt={1}
-                childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-              />
-            </div>
-          </div>
+          </article>
         </div>
-      </article>
-      {/* Prev/Next Navigation */}
-      <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto mt-8 md:mt-24 pt-8">
-        <nav className="flex gap-2 md:gap-0 justify-between items-center">
-          <div className="flex-1 flex md:hidden">
-            {/* <div className="flex-1 flex"> */}
-            <BackButton />
-          </div>
-          <div className="md:flex-1">
-            {prevPost && (
-              <Link
-                href={`/works/${prevPost.url}`}
-                className="group flex items-center text-sm md:text-base hover:text-gray-500 transition-colors"
-              >
-                <span className="">
-                  <span className="hidden">← Next work</span>
-                  <span className="icon-arrow-left"></span>
-                </span>
-                {/* <div className="hidden md:block">
+        {/* Prev/Next Navigation */}
+        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto mt-8 md:mt-24 pt-8">
+          <nav className="flex gap-2 md:gap-0 justify-between items-center">
+            <div className="flex-1 flex md:hidden">
+              {/* <div className="flex-1 flex"> */}
+              <BackButton />
+            </div>
+            <div className="md:flex-1">
+              {prevPost && (
+                <Link
+                  href={`/works/${prevPost.url}`}
+                  className="group flex items-center text-sm md:text-base hover:text-gray-500 transition-colors"
+                >
+                  <span className="">
+                    <span className="hidden">← Next work</span>
+                    <span className="icon-arrow-left"></span>
+                  </span>
+                  {/* <div className="hidden md:block">
                   <div className="group-hover:underline line-clamp-2">
                     {prevPost.title}
                   </div>
                 </div> */}
-              </Link>
-            )}
-          </div>
+                </Link>
+              )}
+            </div>
 
-          <div className="md:flex-1 text-right">
-            {nextPost && (
-              <Link
-                href={`/works/${nextPost.url}`}
-                className="group flex items-center justify-end text-sm md:text-base hover:text-gray-500 transition-colors"
-              >
-                {/* <div className="hidden md:block text-right">
+            <div className="md:flex-1 text-right">
+              {nextPost && (
+                <Link
+                  href={`/works/${nextPost.url}`}
+                  className="group flex items-center justify-end text-sm md:text-base hover:text-gray-500 transition-colors"
+                >
+                  {/* <div className="hidden md:block text-right">
                   <div className="group-hover:underline line-clamp-2">
                     {nextPost.title}
                   </div>
                 </div> */}
-                <span className="">
-                  <span className="hidden">Previous work →</span>
-                  <span className="icon-arrow-right"></span>
-                </span>
-              </Link>
-            )}
-          </div>
-        </nav>
+                  <span className="">
+                    <span className="hidden">Previous work →</span>
+                    <span className="icon-arrow-right"></span>
+                  </span>
+                </Link>
+              )}
+            </div>
+          </nav>
+        </div>
       </div>
     </section>
   );
