@@ -16,7 +16,7 @@ export default function Biography() {
           <div className="relative">
             <div className="">
               <Image
-                src="/images/profile_2nd2.jpg"
+                src="/images/profile_check3.jpg"
                 alt="Tsukasa Kikuchi"
                 width={370}
                 height={555}
