@@ -1,5 +1,6 @@
 ---
-title: "江口拓也「ダ x ダ x ダ」"
+artist: 江口拓也
+title: "ダ x ダ x ダ"
 date: "2025-05-22"
 image: "/works/media/eguchi-takuya-da-da-da.jpg"
 tag:

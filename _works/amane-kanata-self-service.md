@@ -1,5 +1,6 @@
 ---
-title: "天音かなた「セルフサービス」"
+artist: 天音かなた
+title: "セルフサービス"
 date: "2025-05-31"
 image: "/works/media/amane-kanata-self-service.jpg"
 tag:

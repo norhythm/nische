@@ -1,5 +1,6 @@
 ---
-title: 'RealRomantic Digital Release "AURA"'
+artist: RealRomantic
+title: 'Digital Release "AURA"'
 date: "2025-05-20"
 image: "/works/media/realromantic-digital-release-aura.jpg"
 tag:

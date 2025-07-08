@@ -52,15 +52,15 @@ export default async function Post(props: Params) {
   };
 
   return (
-    <section className="container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:py-20">
+    <section className="container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
       {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div> */}
       <div className="relative md:w-3/4 mx-auto">
-        <div className="relative py-0 md:py-24">
+        <div className="relative py-0 md:py-12">
           {/* <div className="hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div> */}
           <div
-            className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full`}
+            className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full`}
             // style={{ backgroundImage: `url(${post.image})` }}
           ></div>
           <article className="relative z-10">
@@ -94,7 +94,7 @@ export default async function Post(props: Params) {
                 <div
                   className={`relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
                 >
-                  <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div>
+                  <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div>
                   <TiltImage
                     single={false}
                     src={`${post.image}`}
