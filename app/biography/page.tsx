@@ -35,7 +35,7 @@ export default function Biography() {
               <div className="absolute w-full h-full bg-black opacity-50"></div>
             </div>
 
-            <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50">
+            <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50 tracking-wide">
               <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
                 菊池 司
               </h2>
@@ -66,22 +66,20 @@ export default function Biography() {
                   <tbody>
                     <tr>
                       <td>X(Twitter)</td>
-                      <td className="pl-2">@tsukasa_kikuchi</td>
+                      <td className="pl-2">
+                        <a href="https://x.com/tsukasa_kikuchi" target="_blank">
+                          @tsukasa_kikuchi
+                        </a>
+                      </td>
                     </tr>
                     <tr>
                       <td>Playlists</td>
                       <td className="pl-2">
-                        <a
-                          href="#"
-                          className="text-gray-50 hover:text-gray-200"
-                        >
+                        <a href="#" className="">
                           Spotify
                         </a>
                         ,&nbsp;
-                        <a
-                          href="#"
-                          className="text-gray-50 hover:text-gray-200"
-                        >
+                        <a href="#" className="">
                           Apple Music
                         </a>
                       </td>
@@ -102,7 +100,7 @@ export default function Biography() {
           {/* <div className="flex flex-col md:grid grid-cols-1 md:grid-cols-6 gap-0 md:gap-8"> */}
           <div className="">
             <div className="relative">
-              <div className="">
+              {/* <div className="">
                 <Image
                   src="/images/studio.jpg"
                   alt="Tsukasa Kikuchi"
@@ -113,13 +111,13 @@ export default function Biography() {
                   className="absolute w-full h-full object-cover object-top opacity-90"
                 />
                 <div className="absolute w-full h-full bg-black opacity-30"></div>
-              </div>
+              </div> */}
 
-              <div className="grid md:grid-cols-3 gap-4 relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50">
+              <div className="grid md:grid-cols-3 gap-8 relative tracking-wide text-sm md:text-base">
                 <div>
-                  <h3 className="mb-2 font-medium">MONITOR</h3>
+                  <h3 className="mb-2 font-medium uppercase">Monitor</h3>
 
-                  <ul className="mb-6 leading-normal">
+                  <ul className="leading-normal">
                     <li>Amphion Two18+BaseTwo25</li>
                     <li>Auratone 5C</li>
                     <li>Victor EX-A1</li>
@@ -131,9 +129,9 @@ export default function Biography() {
                 </div>
 
                 <div>
-                  <h3 className="mb-2 font-medium">CONVERTER</h3>
+                  <h3 className="mb-2 font-medium uppercase">Converter</h3>
 
-                  <ul className="mb-6 leading-normal">
+                  <ul className="leading-normal">
                     <li>PrismSound DREAM ADA-128</li>
                     <li>Lavry Engineering AD-24-2016avIIr</li>
                     <li>AVID MTRX</li>
@@ -141,9 +139,11 @@ export default function Biography() {
                   </ul>
                 </div>
                 <div>
-                  <h3 className="mb-2 font-medium">COMPRESSOR/DYNAMICS</h3>
+                  <h3 className="mb-2 font-medium uppercase">
+                    Compressor/Dynamics
+                  </h3>
 
-                  <ul className="mb-6 leading-normal">
+                  <ul className="leading-normal">
                     <li>KmfAudio SOLO</li>
                     <li>VertigoSound VSC-3CompressorVCA</li>
                     <li>rockruepel COMP.TWO</li>
@@ -151,9 +151,11 @@ export default function Biography() {
                   </ul>
                 </div>
                 <div>
-                  <h3 className="mb-2 font-medium">EQUALIZER/ENHANCER</h3>
+                  <h3 className="mb-2 font-medium uppercase">
+                    Equalizer/Enhancer
+                  </h3>
 
-                  <ul className="mb-6 leading-normal">
+                  <ul className="leading-normal">
                     <li>KmfAudio EX5A(gain/filter)</li>
                     <li>VertigoSound VSE-2Gyrator EQ</li>
                     <li>Heritage Audio 73JR</li>
@@ -169,7 +171,7 @@ export default function Biography() {
                   </ul>
                 </div>
                 <div>
-                  <h3 className="mb-2 font-medium">PLUGINS</h3>
+                  <h3 className="mb-2 font-medium uppercase">Plugins</h3>
 
                   <ul className="leading-normal">
                     <li>DMG</li>
@@ -180,59 +182,19 @@ export default function Biography() {
                   </ul>
                 </div>
               </div>
-              {/* <div className="order-1 md:order-2 md:col-start-3 md:col-end-7 ">
-              <div className="mb-2 md:mb-8">
-                <Image
-                  src="/images/equipments/overview.jpg"
-                  alt="Tsukasa Kikuchi"
-                  width={1000}
-                  height={250}
-                  placeholder="blur"
-                  blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                  className="object-cover z-20 w-full h-1/3 "
-                  onLoadingComplete={(image) => {
-                    // Find the parent element and remove the loading indicator
-                    const parent = image.parentElement?.parentElement;
-                    if (parent) {
-                      const loadingEl = parent.querySelector(".animate-pulse");
-                      if (loadingEl) loadingEl.classList.add("hidden");
-                    }
-                  }}
-                />
-              </div>
-
-              <div className="order-1 md:order-2 grid grid-cols-3 gap-2 md:gap-8 pb-2 md:pb-0">
-                {[...Array(9)].map((item, index) => {
-                  return (
-                    <div key={index} className="relative aspect-square">
-                      <Image
-                        src={`/images/equipments/grid_0${index + 1}.jpg`}
-                        alt=""
-                        fill
-                        placeholder="blur"
-                        blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                        className="object-cover z-20"
-                        onLoadingComplete={(image) => {
-                          // Find the parent element and remove the loading indicator
-                          const parent = image.parentElement?.parentElement;
-                          if (parent) {
-                            const loadingEl =
-                              parent.querySelector(".animate-pulse");
-                            if (loadingEl) loadingEl.classList.add("hidden");
-                          }
-                        }}
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-            </div> */}
             </div>
           </div>
 
-          <p className="text-sm mt-2 md:mt-4">
-            *Please refer to the studio materials of Arte Refact for information
-            on the recording equipment.
+          <p className="text-sm mt-4 md:mt-8">
+            *Please refer to{" "}
+            <a
+              className="decoration-underline"
+              href="https://www.arte-refact.com/studio/"
+              target="_blank"
+            >
+              the studio materials of Arte Refact
+            </a>{" "}
+            for information on the recording equipment.
           </p>
         </div>
       </section>
