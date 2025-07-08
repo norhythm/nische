@@ -78,17 +78,32 @@ export default function Biography() {
               </div>
 
               <div className="text-sm md:text-base">
-                <p className="mb-1">X(Twitter): @tsukasa_kikuchi</p>
-                <p className="">
-                  Playlists:
-                  <a href="#" className="ml-1 text-gray-50 hover:text-gray-200">
-                    Spotify
-                  </a>
-                  ,
-                  <a href="#" className="ml-1 text-gray-50 hover:text-gray-200">
-                    Apple Music
-                  </a>
-                </p>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>X(Twitter)</td>
+                      <td className="pl-2">@tsukasa_kikuchi</td>
+                    </tr>
+                    <tr>
+                      <td>Playlists</td>
+                      <td className="pl-2">
+                        <a
+                          href="#"
+                          className="text-gray-50 hover:text-gray-200"
+                        >
+                          Spotify
+                        </a>
+                        ,&nbsp;
+                        <a
+                          href="#"
+                          className="text-gray-50 hover:text-gray-200"
+                        >
+                          Apple Music
+                        </a>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
@@ -115,6 +130,7 @@ export default function Biography() {
                     <option value="profile_2nd2.jpg">profile_2nd2</option>
                     <option value="profile_check.jpg">profile_check</option>
                     <option value="profile_check2.jpg">profile_check2</option>
+                    <option value="profile_check3.jpg">profile_check3</option>
                   </select>
                 </label>
               </div>
