@@ -104,9 +104,6 @@ export default async function Post(props: Params) {
                       dangerouslySetInnerHTML={{ __html: content }}
                     ></div> */}
                     <div>
-                      <p className="italic">
-                        Markdownとクレジットの頭揃えの課題
-                      </p>
                       <table>
                         <tbody>
                           <tr>
@@ -135,6 +132,10 @@ export default async function Post(props: Params) {
                         </a>
                       </p>
                     </div>
+
+                    <p className="text-xs italic pt-8">
+                      ※記事データとクレジットの頭揃えの課題
+                    </p>
                   </div>
                 </div>
 
