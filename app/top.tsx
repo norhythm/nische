@@ -42,8 +42,8 @@ export default function BlogPage({
             <div key={tag}>
               <button
                 onClick={() => handleTagChange(tag)}
-                className={`capitalize hover:text-gray-500 transition-colors cursor-pointer ${
-                  selectedTag === tag ? "underline" : ""
+                className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none ${
+                  selectedTag === tag ? "decoration-underline" : ""
                 }`}
               >
                 {tag}
@@ -51,14 +51,16 @@ export default function BlogPage({
               <span>&nbsp;-&nbsp;</span>
             </div>
           ))}
-          <button
-            onClick={() => handleTagChange(null)}
-            className={`capitalize hover:text-gray-500 transition-colors ${
-              !selectedTag ? "underline" : ""
-            }`}
-          >
-            All
-          </button>
+          <div>
+            <button
+              onClick={() => handleTagChange(null)}
+              className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none ${
+                !selectedTag ? "decoration-underline" : ""
+              }`}
+            >
+              All
+            </button>
+          </div>
         </div>
       </div>
       <section

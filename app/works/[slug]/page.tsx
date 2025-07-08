@@ -74,7 +74,7 @@ export default async function Post(props: Params) {
                   <header>
                     <h1 className="tracking-wider">
                       {post.artist && (
-                        <span className="block text-lg md:text-2xl">
+                        <span className="pb-1 block text-lg md:text-2xl">
                           {post.artist}
                         </span>
                       )}
@@ -82,12 +82,59 @@ export default async function Post(props: Params) {
                         {post.title}
                       </span>
                     </h1>
+                    <p className="pt-1">
+                      {post.tag.map((tag, i) => {
+                        return (
+                          <span key={i}>
+                            <Link
+                              className="text-xs md:text-sm decoration-underline capitalize"
+                              href={`/?tag=${tag}`}
+                            >
+                              {tag}
+                            </Link>
+                            {i < post.tag.length - 1 && ", "}
+                          </span>
+                        );
+                      })}
+                    </p>
                   </header>
                   <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
-                    <div
+                    {/* <div
                       className={`${markdownStyles["markdown"]}`}
                       dangerouslySetInnerHTML={{ __html: content }}
-                    ></div>
+                    ></div> */}
+                    <div>
+                      <p className="italic">
+                        Markdownとクレジットの頭揃えの課題
+                      </p>
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td>Recoding</td>
+                            <td className="pl-1">M1, M2, M4</td>
+                          </tr>
+                          <tr>
+                            <td>Mixing</td>
+                            <td className="pl-1">M1~M5</td>
+                          </tr>
+                          <tr>
+                            <td>Mastering</td>
+                            <td className="pl-1"></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <p></p>
+                      <br />
+                      <p>
+                        <a
+                          className="decoration-underline"
+                          href=""
+                          target="_blank"
+                        >
+                          Link style
+                        </a>
+                      </p>
+                    </div>
                   </div>
                 </div>
 
