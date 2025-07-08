@@ -9,7 +9,7 @@
 
 ::selection {
   color: rgb(var(--background-rgb));
-  background-color: rgba(30, 74, 233, 0.9);
+  background-color: rgba(48, 36, 113, 0.9);
 }
 
 body {
@@ -157,6 +157,11 @@ details > summary::-webkit-details-marker {
 .decoration-underline {
   padding-bottom: 0.05em;
   border-bottom: 1px solid rgb(var(--foreground-rgb));
+  transition: opacity 0.4s ease;
+}
+
+.decoration-underline:hover {
+  opacity: 0.7;
 }
 
 @layer utilities {
