@@ -15,6 +15,11 @@ export function getPostBySlug(slug: string) {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
+  // 日付がDateオブジェクトの場合は文字列に変換
+  if (data.date instanceof Date) {
+    data.date = data.date.toISOString().split('T')[0];
+  }
+
   return { ...data, slug: realSlug, content } as Post;
 }
 
@@ -50,7 +55,8 @@ export function getAdjacentPosts(currentSlug: string): {
   }
 
   const prevPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
-  const nextPost = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
+  const nextPost =
+    currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
 
   return { prevPost, nextPost };
 }
