@@ -38,7 +38,7 @@ export default function BlogPage({
     <>
       <div className="sticky top-[60px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50">
         <div className="flex text-sm md:text-base tracking-wider">
-          {["recording", "mixing", "mastering"].map((tag, i) => (
+          {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
               <button
                 onClick={() => handleTagChange(tag)}

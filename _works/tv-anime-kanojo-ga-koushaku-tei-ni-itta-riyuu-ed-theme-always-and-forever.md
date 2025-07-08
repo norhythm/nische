@@ -3,8 +3,8 @@ title: "TVアニメ『彼女が公爵邸に行った理由』EDテーマ「Alway
 date: "2023-04-26"
 image: "/works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever.jpg"
 tag:
-  - recording
-  - mixing
+  - rec
+  - mix
 layout: "square"
 published: true
 url: "tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever"

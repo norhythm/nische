@@ -3,8 +3,8 @@ title: "『ホロライブ』所属Vtuber 鷹嶺ルイ オリジナル曲「FIRS
 date: "2023-06-12"
 image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 tag:
-  - recording
-  - mixing
+  - rec
+  - mix
 layout: "square"
 published: true
 url: "hololive-takane-lui-original-song-first-cry"

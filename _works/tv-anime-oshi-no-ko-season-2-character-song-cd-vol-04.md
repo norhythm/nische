@@ -3,8 +3,8 @@ title: "TVアニメ【推しの子】第2期「キャラクターソングCDVol.
 date: "2024-10-09"
 image: "/works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg"
 tag:
-  - recording
-  - mixing
+  - rec
+  - mix
 layout: "square"
 published: true
 url: "tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04"

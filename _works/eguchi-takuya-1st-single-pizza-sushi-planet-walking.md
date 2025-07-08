@@ -3,9 +3,9 @@ title: "江口拓也 1stシングル『PIZZA SUSHI planet walking』【カーニ
 date: "2023-05-10"
 image: "/works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg"
 tag:
-  - recording
-  - mixing
-  - mastering
+  - rec
+  - mix
+  - master
 layout: "square"
 published: true
 url: "eguchi-takuya-1st-single-pizza-sushi-planet-walking"

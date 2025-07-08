@@ -3,8 +3,8 @@ title: "『CAFE CINNAMON』アレンジCD「ES idol songs Cinnamon arrange selec
 date: "2024-11-01"
 image: "/works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg"
 tag:
-  - recording
-  - mixing
+  - rec
+  - mix
 layout: "square"
 published: true
 url: "cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5"

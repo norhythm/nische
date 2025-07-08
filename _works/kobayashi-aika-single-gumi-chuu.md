@@ -3,9 +3,9 @@ title: "小林愛香  Single「グミチュウ」"
 date: "2023-10-18"
 image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
 tag:
-  - recording
-  - mixing
-  - mastering
+  - rec
+  - mix
+  - master
 layout: "square"
 published: true
 url: "kobayashi-aika-single-gumi-chuu"

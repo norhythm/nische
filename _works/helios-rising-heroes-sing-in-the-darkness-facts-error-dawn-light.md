@@ -3,7 +3,7 @@ title: "『HELIOS Rising Heroes』Sing in the darkness 「FACTS ERROR」／「da
 date: "2023-08-23"
 image: "/works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light.jpg"
 tag:
-  - recording
+  - rec
 layout: "square"
 published: true
 url: "helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light"

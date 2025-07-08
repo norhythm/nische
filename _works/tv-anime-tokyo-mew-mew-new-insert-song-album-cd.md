@@ -3,9 +3,9 @@ title: "TVアニメ『東京ミュウミュウ にゅ～♡』挿入歌アルバ
 date: "2023-07-05"
 image: "/works/media/tv-anime-tokyo-mew-mew-new-insert-song-album-cd.jpg"
 tag:
-  - recording
-  - mixing
-  - mastering
+  - rec
+  - mix
+  - master
 layout: "square"
 published: true
 url: "tv-anime-tokyo-mew-mew-new-insert-song-album-cd"

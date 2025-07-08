@@ -3,7 +3,7 @@ title: "舞台『あんさんぶるスターズ！THE STAGE』-Witness of Miracl
 date: "2023-05-31"
 image: "/works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd.jpg"
 tag:
-  - recording
+  - rec
 layout: "square"
 published: true
 url: "stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd"

@@ -3,8 +3,8 @@ title: "TVアニメ『杖と剣のウィストリア』ED主題歌、TRUE New Si
 date: "2024-08-28"
 image: "/works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.jpg"
 tag:
-  - recording
-  - mixing
+  - rec
+  - mix
 layout: "square"
 published: true
 url: "tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen"

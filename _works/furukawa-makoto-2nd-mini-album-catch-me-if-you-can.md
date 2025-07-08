@@ -5,18 +5,19 @@ artist: 古川慎
 title: 2nd ミニアルバム「Catch Me If You Can」
 url: furukawa-makoto-2nd-mini-album-catch-me-if-you-can
 tag:
-  - recording
-  - mixing
-  - mastering
+  - rec
+  - mix
+  - master
 layout: square
 image: /works/media/furukawa-makoto-2nd-mini-album-catch-me-if-you-can.jpg
 ---
-*   Recording
-    
-    *   M1, M2, M4
-        
-*   Mixing
-    
-    *   M1~M5
-        
-*   Mastering
+
+- Recording
+
+  - M1, M2, M4
+
+- Mixing
+
+  - M1~M5
+
+- Mastering

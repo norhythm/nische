@@ -3,7 +3,7 @@ title: "劇場版『乙女ゲームの破滅フラグしかない悪役令嬢に
 date: "2024-09-04"
 image: "/works/media/movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-blu-ray-tokuten-disc.jpg"
 tag:
-  - recording
+  - rec
 layout: "rect-v"
 published: true
 url: "movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-blu-ray-tokuten-disc"
