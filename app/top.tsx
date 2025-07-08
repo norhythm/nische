@@ -36,13 +36,13 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[50px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50">
+      <div className="sticky top-[50px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
         <div className="flex text-sm md:text-base tracking-wider">
           {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
               <button
                 onClick={() => handleTagChange(tag)}
-                className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none ${
+                className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto ${
                   selectedTag === tag ? "decoration-underline" : ""
                 }`}
               >
@@ -54,7 +54,7 @@ export default function BlogPage({
           <div>
             <button
               onClick={() => handleTagChange(null)}
-              className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none ${
+              className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto ${
                 !selectedTag ? "decoration-underline" : ""
               }`}
             >
