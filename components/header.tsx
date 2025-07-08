@@ -7,32 +7,60 @@ export default function Header() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const header = document.querySelector("header");
-      if (!header) return;
+      const h1Element = document.querySelector("h1");
+      const headerElement = document.querySelector("header");
+      if (!h1Element || !headerElement) return;
 
-      const headerRect = header.getBoundingClientRect();
-      const centerY = headerRect.top + headerRect.height / 2;
+      const h1Rect = h1Element.getBoundingClientRect();
+      const headerRect = headerElement.getBoundingClientRect();
+      const scrollY = window.scrollY;
 
-      const elementBehind = document.elementFromPoint(
-        window.innerWidth / 2,
-        centerY + headerRect.height
-      );
+      // h1要素の中心位置（現在の表示位置）
+      const centerX = h1Rect.left + h1Rect.width / 2;
+      const currentCenterY = h1Rect.top + h1Rect.height / 2;
+
+      // sticky headerの場合、スクロール分を加算して実際の背景位置を計算
+      const adjustedCenterY = currentCenterY + scrollY;
+
+      // headerが固定されている場合、その分を考慮
+      const headerHeight = headerRect.height;
+      const absoluteCheckY =
+        headerRect.top <= 0 ? adjustedCenterY : currentCenterY;
+
+      console.log("📍 Position calculation:", {
+        scrollY,
+        headerTop: headerRect.top,
+        headerHeight,
+        currentCenterY,
+        adjustedCenterY,
+        absoluteCheckY,
+      });
+
+      // 実際の背景色を取得するための座標で要素を検出
+      const elementBehind = document.elementFromPoint(centerX, absoluteCheckY);
 
       if (elementBehind) {
-        const computedStyle = window.getComputedStyle(elementBehind);
-        const bgColor = computedStyle.backgroundColor;
+        const finalBgColor = getEffectiveBackgroundColor(elementBehind);
 
-        // console.log(computedStyle, bgColor);
+        console.log("🔍 iOS-style Debug Info:", {
+          checkPosition: { x: centerX, y: absoluteCheckY },
+          elementBehind: elementBehind.tagName,
+          className: elementBehind.className,
+          finalBgColor,
+          scrollY,
+          isSticky: headerRect.top <= 0,
+        });
 
-        if (bgColor && bgColor !== "transparent") {
-          const brightness = getBrightness(bgColor);
-          setTextColor(brightness > 128 ? "text-black" : "text-white");
+        if (finalBgColor) {
+          const brightness = getBrightness(finalBgColor);
+          const newTextColor = brightness > 128 ? "text-black" : "text-white";
+          console.log(
+            `🎨 Color decision - brightness: ${brightness}, textColor: ${newTextColor}`
+          );
+          setTextColor(newTextColor);
         } else {
-          const parentBg = getParentBackgroundColor(elementBehind);
-          if (parentBg) {
-            const brightness = getBrightness(parentBg);
-            setTextColor(brightness > 128 ? "text-black" : "text-white");
-          }
+          console.log("⚠️ No background detected, using white text");
+          setTextColor("text-white");
         }
       }
     };
@@ -48,21 +76,48 @@ export default function Header() {
       return 255;
     };
 
-    const getParentBackgroundColor = (element: Element): string | null => {
-      let parent = element.parentElement;
-      while (parent) {
-        const style = window.getComputedStyle(parent);
+    const getEffectiveBackgroundColor = (element: Element): string | null => {
+      let current = element;
+      const maxDepth = 10; // 無限ループ防止
+      let depth = 0;
+
+      while (current && depth < maxDepth) {
+        const style = window.getComputedStyle(current);
         const bgColor = style.backgroundColor;
+        const bgImage = style.backgroundImage;
+
+        // 背景画像がある場合は暗めに仮定
+        if (bgImage && bgImage !== "none") {
+          console.log(`🖼️ Background image detected on ${current.tagName}`);
+          return "rgb(80, 80, 80)"; // 暗めの色を仮定
+        }
+
+        // 有効な背景色がある場合
         if (
           bgColor &&
           bgColor !== "rgba(0, 0, 0, 0)" &&
-          bgColor !== "transparent"
+          bgColor !== "transparent" &&
+          bgColor !== "initial" &&
+          bgColor !== "inherit"
         ) {
+          console.log(`🎯 Found bg color: ${bgColor} on ${current.tagName}`);
           return bgColor;
         }
-        parent = parent.parentElement;
+
+        current = current.parentElement;
+        depth++;
       }
-      return null;
+
+      // 最終的にbody要素の背景色を確認
+      const bodyBg = window.getComputedStyle(document.body).backgroundColor;
+      if (bodyBg && bodyBg !== "rgba(0, 0, 0, 0)" && bodyBg !== "transparent") {
+        console.log(`📄 Using body background: ${bodyBg}`);
+        return bodyBg;
+      }
+
+      // デフォルトは白
+      console.log("🔄 Using default white background");
+      return "rgb(255, 255, 255)";
     };
 
     window.addEventListener("scroll", handleScroll);
@@ -85,7 +140,7 @@ export default function Header() {
               className="hover:text-gray-500 cursor-pointer transition-colors uppercase"
             >
               <span
-                className={`font-base ${textColor} transition-colors duration-1000`}
+                className={`font-base ${textColor} transition-colors duration-300 ease-in-out`}
               >
                 Tsukasa Kikuchi
               </span>
@@ -96,7 +151,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/biography/"
-                  className="hover:text-gray-500 transition-colors"
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor}`}
                 >
                   Biography
                 </Link>
@@ -104,7 +159,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/contact/"
-                  className="hover:text-gray-500 transition-colors"
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor}`}
                 >
                   Contact
                 </Link>
