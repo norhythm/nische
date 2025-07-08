@@ -36,7 +36,7 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[60px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50">
+      <div className="sticky top-[50px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50">
         <div className="flex text-sm md:text-base tracking-wider">
           {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
@@ -89,7 +89,7 @@ export default function BlogPage({
                     width={512}
                     height={512}
                     tilt={3}
-                    parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
+                    parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero textured-bg layout-${work.layout}`}
                     childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
                   />
                 </div>

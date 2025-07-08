@@ -130,14 +130,14 @@ export default function Header() {
 
   return (
     <>
-      <header className="sticky top-0 left-0 right-0 z-50 py-8 md:py-[60px]">
+      <header className="sticky top-0 left-0 right-0 z-50 py-6 md:py-[60px] pointer-events-none">
         <div className="container md:max-w-7xl mx-auto px-4 md:px-8 flex justify-between items-center">
           <h1
             className={`md:text-xl font-medium text-base flex justify-content items-center tracking-wider`}
           >
             <Link
               href="/"
-              className="hover:text-gray-500 cursor-pointer transition-colors uppercase"
+              className="hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto"
             >
               <span
                 className={`font-base ${textColor} transition-colors duration-300 ease-in-out`}
@@ -151,7 +151,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/biography/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor}`}
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto`}
                 >
                   Biography
                 </Link>
@@ -159,7 +159,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/contact/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor}`}
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto`}
                 >
                   Contact
                 </Link>
