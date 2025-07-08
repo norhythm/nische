@@ -115,7 +115,7 @@ export default function Biography() {
                 <div className="absolute w-full h-full bg-black opacity-30"></div>
               </div>
 
-              <div className="grid md:grid-cols-3 relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50">
+              <div className="grid md:grid-cols-3 gap-4 relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50">
                 <div>
                   <h3 className="mb-2 font-medium">MONITOR</h3>
 
