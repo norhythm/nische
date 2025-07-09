@@ -52,17 +52,18 @@ export default async function Post(props: Params) {
   };
 
   return (
-    <section className="container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
+    <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
       {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
         <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
       </div> */}
-      <div className="relative md:w-3/4 mx-auto">
+      <div
+        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full`}
+        // style={{ backgroundImage: `url(${post.image})` }}
+      ></div>
+      <div className="relative md:w-3/4 mx-auto h-full">
         <div className="relative py-0 md:py-12">
           {/* <div className="hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div> */}
-          <div
-            className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full`}
-            // style={{ backgroundImage: `url(${post.image})` }}
-          ></div>
+
           <article className="relative z-10">
             <div className="mx-auto">
               <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
@@ -159,7 +160,7 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8">
+        <div className="sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               {/* <div className="flex-1 flex"> */}

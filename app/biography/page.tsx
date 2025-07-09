@@ -178,6 +178,10 @@ export default function Biography() {
                     <li>MAAT</li>
                     <li>Leapwing</li>
                     <li>iZotope</li>
+                  </ul>
+                </div>
+                <div>
+                  <ul className="leading-normal">
                     <li>and more...</li>
                   </ul>
                 </div>
