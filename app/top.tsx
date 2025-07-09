@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Post } from "@/interfaces/post";
 
@@ -17,11 +17,46 @@ export default function BlogPage({
   const router = useRouter();
   const searchParams = useSearchParams();
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
+  const [underlineStyle, setUnderlineStyle] = useState<{
+    left: number;
+    width: number;
+    opacity: number;
+  }>({ left: 0, width: 0, opacity: 0 });
+  const buttonRefs = useRef<(HTMLButtonElement | null)[]>([]);
 
   useEffect(() => {
     const tagFromQuery = searchParams.get("tag");
     if (tagFromQuery) setSelectedTag(tagFromQuery);
   }, [searchParams]);
+
+  useEffect(() => {
+    const updateUnderlinePosition = () => {
+      const allTags = ["rec", "mix", "master", null];
+      const activeIndex = allTags.indexOf(selectedTag);
+      
+      if (activeIndex !== -1 && buttonRefs.current[activeIndex]) {
+        const activeButton = buttonRefs.current[activeIndex];
+        if (activeButton) {
+          const parentRect = activeButton.parentElement?.parentElement?.getBoundingClientRect();
+          const buttonRect = activeButton.getBoundingClientRect();
+          
+          if (parentRect && buttonRect) {
+            setUnderlineStyle({
+              left: buttonRect.left - parentRect.left,
+              width: buttonRect.width,
+              opacity: 1,
+            });
+          }
+        }
+      } else {
+        setUnderlineStyle(prev => ({ ...prev, opacity: 0 }));
+      }
+    };
+
+    updateUnderlinePosition();
+    window.addEventListener("resize", updateUnderlinePosition);
+    return () => window.removeEventListener("resize", updateUnderlinePosition);
+  }, [selectedTag]);
 
   const filteredPosts = useMemo(() => {
     if (!selectedTag) return posts;
@@ -37,14 +72,23 @@ export default function BlogPage({
   return (
     <>
       <div className="sticky top-[50px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
-        <div className="flex text-sm md:text-base tracking-wider">
+        <div className="flex text-sm md:text-base tracking-wider relative">
+          {/* 動的な下線 */}
+          <div
+            className="absolute bottom-0 h-[1px] bg-current transition-all duration-300 ease-out"
+            style={{
+              left: `${underlineStyle.left}px`,
+              width: `${underlineStyle.width}px`,
+              opacity: underlineStyle.opacity,
+            }}
+          />
+          
           {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
               <button
+                ref={(el) => (buttonRefs.current[i] = el)}
                 onClick={() => handleTagChange(tag)}
-                className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto ${
-                  selectedTag === tag ? "decoration-underline" : ""
-                }`}
+                className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
               >
                 {tag}
               </button>
@@ -53,10 +97,9 @@ export default function BlogPage({
           ))}
           <div>
             <button
+              ref={(el) => (buttonRefs.current[3] = el)}
               onClick={() => handleTagChange(null)}
-              className={`p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto ${
-                !selectedTag ? "decoration-underline" : ""
-              }`}
+              className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
             >
               All
             </button>
