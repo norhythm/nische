@@ -15,8 +15,15 @@ export default function Contact() {
           <div className="my-12">
             <h2 className="mb-4 text-lg">Contact Information</h2>
             <p className="mb-2 text-sm md:text-base">
-              If you get more information, please send a message directly
-              through the inquiry form below.
+              If you get more information,{" "}
+              <a
+                className="decoration-underline"
+                href="mailto:tsukasa.kikuchi@arte-refact.com"
+              >
+                please send a message directly (tsukasa.kikuchi@arte-refact.com)
+              </a>{" "}
+              <br />
+              or through the inquiry form below.
             </p>
           </div>
 
