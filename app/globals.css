@@ -172,6 +172,7 @@ details > summary::-webkit-details-marker {
 
 @layer base {
   :root {
+    --text-primary: rgb(var(--foreground-rgb));
     --bg-hero: #fbfaf9;
     /* --bg-hero: #f6f6f1; */
     --background: 0 0% 100%;

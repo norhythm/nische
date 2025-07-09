@@ -1,9 +1,11 @@
 "use client";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
 export default function Header() {
   const [textColor, setTextColor] = useState("text-black");
+  const pathname = usePathname();
 
   // useEffect(() => {
   //   const handleScroll = () => {
@@ -137,13 +139,9 @@ export default function Header() {
           >
             <Link
               href="/"
-              className="hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto"
+              className={`font-base hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
             >
-              <span
-                className={`font-base ${textColor} transition-colors duration-300 ease-in-out`}
-              >
-                Tsukasa Kikuchi
-              </span>
+              Tsukasa Kikuchi
             </Link>
           </h1>
           <nav>
@@ -151,7 +149,9 @@ export default function Header() {
               <li>
                 <Link
                   href="/biography/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto`}
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
+                    pathname === "/biography" ? "" : ""
+                  }`}
                 >
                   Biography
                 </Link>
@@ -159,7 +159,9 @@ export default function Header() {
               <li>
                 <Link
                   href="/contact/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto`}
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
+                    pathname === "/contact" ? "" : ""
+                  }`}
                 >
                   Contact
                 </Link>
