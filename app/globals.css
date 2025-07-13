@@ -62,7 +62,7 @@ details > summary::-webkit-details-marker {
 }
 
 .cursor-close {
-  cursor: url("/images/cursor_close.svg") 0 32 auto;
+  cursor: url(/images/cursor_close.svg), url(/images/cursor_close.png), auto;
 }
 
 article a {
