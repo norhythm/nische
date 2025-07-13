@@ -52,7 +52,7 @@ export default function BackButton({ className = "" }: { className?: string }) {
   return (
     <button
       onClick={handleBack}
-      className={`flex items-center text-sm md:text-base hover:text-gray-500 transition-colors ${className}`}
+      className={`flex items-center text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
     >
       <span className="hidden">Back</span>
       <span className="icon-cross"></span>

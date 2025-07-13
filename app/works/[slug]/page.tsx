@@ -53,9 +53,9 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-      <div className="hidden md:block fixed top-0 left-0 z-20 w-full h-full">
+      <div className="fixed top-0 left-0 z-20 w-full h-full">
         <Link
-          className="block w-full h-full bg-red-600 opacity-50 cursor-close"
+          className="block w-full h-full bg-red-600 opacity-80 cursor-close"
           href={"/"}
         ></Link>
       </div>
@@ -163,17 +163,17 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8 md:pt-0">
+        <div className="sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8 md:pt-0 pointer-events-none">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               {/* <div className="flex-1 flex"> */}
-              <BackButton />
+              <BackButton className="pointer-events-auto" />
             </div>
             <div className="md:flex-1">
               {prevPost && (
                 <Link
                   href={`/works/${prevPost.url}`}
-                  className="relative z-20 inline-flex items-center text-sm md:text-base hover:opacity-80 transition-colors align-bottom"
+                  className="inline-flex items-center text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
                 >
                   <span className="">
                     <span className="hidden">← Next work</span>
@@ -187,7 +187,7 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <Link
                   href={`/works/${nextPost.url}`}
-                  className="relative z-20 inline-flex items-center justify-end text-sm md:text-base hover:opacity-80 transition-colors align-bottom"
+                  className="inline-flex items-center justify-end text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
                 >
                   <span className="">
                     <span className="hidden">Previous work →</span>
