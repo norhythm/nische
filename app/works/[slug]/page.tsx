@@ -6,9 +6,10 @@ import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 import Link from "next/link";
 
-import BackLayer from "@/components/back-layer";
+import Tag from "@/components/Tag";
+import BackComponent from "@/components/back-component";
 import TiltImage from "@/components/tiltImage";
-import BackButton from "@/components/back-button";
+import WorkNavLink from "@/components/work-nav-link";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -54,7 +55,7 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-      <BackLayer />
+      <BackComponent style="layer" />
       <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-0 w-screen h-full`}
         // style={{ backgroundImage: `url(${post.image})` }}
@@ -86,12 +87,7 @@ export default async function Post(props: Params) {
                       {post.tag.map((tag, i) => {
                         return (
                           <span key={i}>
-                            <Link
-                              className="text-xs md:text-sm decoration-underline capitalize"
-                              href={`/?tag=${tag}`}
-                            >
-                              {tag}
-                            </Link>
+                            <Tag tag={tag} />
                             {i < post.tag.length - 1 && ", "}
                           </span>
                         );
@@ -162,12 +158,11 @@ export default async function Post(props: Params) {
         <div className="sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8 md:pt-0 pointer-events-none">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
-              {/* <div className="flex-1 flex"> */}
-              <BackButton className="pointer-events-auto" />
+              <BackComponent style="button" className="pointer-events-auto" />
             </div>
             <div className="md:flex-1">
               {prevPost && (
-                <Link
+                <WorkNavLink
                   href={`/works/${prevPost.url}`}
                   className="inline-flex items-center text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
                 >
@@ -175,13 +170,13 @@ export default async function Post(props: Params) {
                     <span className="hidden">← Next work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
-                </Link>
+                </WorkNavLink>
               )}
             </div>
 
             <div className="md:flex-1 text-right">
               {nextPost && (
-                <Link
+                <WorkNavLink
                   href={`/works/${nextPost.url}`}
                   className="inline-flex items-center justify-end text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
                 >
@@ -189,7 +184,7 @@ export default async function Post(props: Params) {
                     <span className="hidden">Previous work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
-                </Link>
+                </WorkNavLink>
               )}
             </div>
           </nav>

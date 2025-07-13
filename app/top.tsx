@@ -68,8 +68,18 @@ export default function BlogPage({
 
   const handleTagChange = (tag: string | null) => {
     setSelectedTag(tag);
+    // sessionStorageにタグを保存
+    if (typeof window !== 'undefined') {
+      if (tag) {
+        sessionStorage.setItem('selectedTag', tag);
+      } else {
+        sessionStorage.removeItem('selectedTag');
+      }
+    }
+    // URLを更新するがページリロードは避ける
     const query = tag ? `?tag=${tag}` : "";
-    router.push(`/${query}`);
+    const newUrl = `/${query}`;
+    window.history.replaceState(null, '', newUrl);
   };
 
   return (
@@ -125,8 +135,13 @@ export default function BlogPage({
               } relative flex justify-center items-center`}
             >
               <Link
-                href={`/works/${work.url}`}
+                href={`/works/${work.url}${selectedTag ? `?fromTag=${selectedTag}` : ""}`}
                 className="work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+                onClick={() => {
+                  if (typeof window !== 'undefined') {
+                    sessionStorage.setItem('isInternalNavigation', 'true');
+                  }
+                }}
               >
                 <div className="relative flex justify-center items-center">
                   <TiltImage
