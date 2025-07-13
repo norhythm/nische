@@ -6,6 +6,7 @@ import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 import Link from "next/link";
 
+import BackLayer from "@/components/back-layer";
 import TiltImage from "@/components/tiltImage";
 import BackButton from "@/components/back-button";
 
@@ -53,12 +54,7 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-      <div className="fixed top-0 left-0 z-20 w-full h-full">
-        <Link
-          className="block w-full h-full bg-red-600 opacity-80 cursor-close"
-          href={"/"}
-        ></Link>
-      </div>
+      <BackLayer />
       <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-0 w-screen h-full`}
         // style={{ backgroundImage: `url(${post.image})` }}
