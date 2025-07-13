@@ -16,7 +16,9 @@ export default function BlogPage({
 }) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const [selectedTag, setSelectedTag] = useState<string | null>(null);
+  const [selectedTag, setSelectedTag] = useState<string | null>(() => {
+    return searchParams.get("tag");
+  });
   const [underlineStyle, setUnderlineStyle] = useState<{
     left: number;
     width: number;
@@ -33,13 +35,14 @@ export default function BlogPage({
     const updateUnderlinePosition = () => {
       const allTags = ["rec", "mix", "master", null];
       const activeIndex = allTags.indexOf(selectedTag);
-      
+
       if (activeIndex !== -1 && buttonRefs.current[activeIndex]) {
         const activeButton = buttonRefs.current[activeIndex];
         if (activeButton) {
-          const parentRect = activeButton.parentElement?.parentElement?.getBoundingClientRect();
+          const parentRect =
+            activeButton.parentElement?.parentElement?.getBoundingClientRect();
           const buttonRect = activeButton.getBoundingClientRect();
-          
+
           if (parentRect && buttonRect) {
             setUnderlineStyle({
               left: buttonRect.left - parentRect.left,
@@ -49,7 +52,7 @@ export default function BlogPage({
           }
         }
       } else {
-        setUnderlineStyle(prev => ({ ...prev, opacity: 0 }));
+        setUnderlineStyle((prev) => ({ ...prev, opacity: 0 }));
       }
     };
 
@@ -82,7 +85,7 @@ export default function BlogPage({
               opacity: underlineStyle.opacity,
             }}
           />
-          
+
           {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
               <button
