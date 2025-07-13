@@ -53,18 +53,21 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-      {/* <div className="hidden md:block fixed top-0 left-0 w-full h-full">
-        <Link className="block w-full h-full cursor-w-resize" href={"/"}></Link>
-      </div> */}
+      <div className="hidden md:block fixed top-0 left-0 z-20 w-full h-full">
+        <Link
+          className="block w-full h-full bg-red-600 opacity-50 cursor-close"
+          href={"/"}
+        ></Link>
+      </div>
       <div
-        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full`}
+        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-0 w-screen h-full`}
         // style={{ backgroundImage: `url(${post.image})` }}
       ></div>
       <div className="relative md:w-3/4 mx-auto h-full">
-        <div className="relative py-0 md:py-12">
+        <div className="py-0 md:py-12">
           {/* <div className="hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div> */}
 
-          <article className="relative z-10">
+          <article className="relative">
             <div className="mx-auto">
               <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
                 <div
@@ -151,7 +154,7 @@ export default async function Post(props: Params) {
                     width={512}
                     height={512}
                     tilt={1}
-                    parentClassName="z-20"
+                    parentClassName="z-10"
                     childClassName={`w-full post-${post.layout} block drop-shadow-md`}
                   />
                 </div>
@@ -160,7 +163,7 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8">
+        <div className="sticky bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8 md:pt-0">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               {/* <div className="flex-1 flex"> */}
@@ -170,17 +173,12 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <Link
                   href={`/works/${prevPost.url}`}
-                  className="group flex items-center text-sm md:text-base hover:text-gray-500 transition-colors"
+                  className="relative z-20 inline-flex items-center text-sm md:text-base hover:opacity-80 transition-colors align-bottom"
                 >
                   <span className="">
                     <span className="hidden">← Next work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
-                  {/* <div className="hidden md:block">
-                  <div className="group-hover:underline line-clamp-2">
-                    {prevPost.title}
-                  </div>
-                </div> */}
                 </Link>
               )}
             </div>
@@ -189,13 +187,8 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <Link
                   href={`/works/${nextPost.url}`}
-                  className="group flex items-center justify-end text-sm md:text-base hover:text-gray-500 transition-colors"
+                  className="relative z-20 inline-flex items-center justify-end text-sm md:text-base hover:opacity-80 transition-colors align-bottom"
                 >
-                  {/* <div className="hidden md:block text-right">
-                  <div className="group-hover:underline line-clamp-2">
-                    {nextPost.title}
-                  </div>
-                </div> */}
                   <span className="">
                     <span className="hidden">Previous work →</span>
                     <span className="icon-arrow-right"></span>

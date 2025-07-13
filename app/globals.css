@@ -61,6 +61,15 @@ details > summary::-webkit-details-marker {
   height: auto;
 }
 
+.cursor-close {
+  cursor: url("/images/cursor_close.svg") 0 32 auto;
+}
+
+article a {
+  position: relative;
+  z-index: 20;
+}
+
 .icon-cross {
   position: relative;
   display: block;
