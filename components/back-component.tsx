@@ -57,13 +57,17 @@ export default function BackComponent({
     const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
 
     if (isOnWorkDetailPage && canGoBack && isFromSiteNavigation) {
-      // 詳細ページ間遷移後の場合は、タグ付きトップページに遷移
-      if (isWorkToWorkNavigation && savedTag) {
+      // 詳細ページ間遷移後の場合は、トップページに遷移（タグありの場合はタグ付き）
+      if (isWorkToWorkNavigation) {
         // フラグをクリア
         if (typeof window !== "undefined") {
           sessionStorage.removeItem("isWorkToWorkNavigation");
         }
-        router.push(`/?tag=${savedTag}`);
+        if (savedTag) {
+          router.push(`/?tag=${savedTag}`);
+        } else {
+          router.push("/");
+        }
         return;
       }
 
