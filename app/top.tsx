@@ -31,6 +31,34 @@ export default function BlogPage({
     if (tagFromQuery) setSelectedTag(tagFromQuery);
   }, [searchParams]);
 
+  // sessionStorageの変更を監視してselectedTagを同期
+  useEffect(() => {
+    const handleStorageChange = () => {
+      const savedTag = sessionStorage.getItem("selectedTag");
+      if (!savedTag) {
+        setSelectedTag(null);
+        // URLからもtagパラメータを削除
+        window.history.replaceState(null, "", "/");
+      }
+    };
+
+    // storageイベントは同じタブ内では発火しないため、カスタムイベントを使用
+    const handleCustomStorageChange = (event: CustomEvent) => {
+      if (event.detail.key === "selectedTag" && !event.detail.value) {
+        setSelectedTag(null);
+        window.history.replaceState(null, "", "/");
+      }
+    };
+
+    window.addEventListener("storage", handleStorageChange);
+    window.addEventListener("selectedTagCleared", handleCustomStorageChange as EventListener);
+
+    return () => {
+      window.removeEventListener("storage", handleStorageChange);
+      window.removeEventListener("selectedTagCleared", handleCustomStorageChange as EventListener);
+    };
+  }, []);
+
   useEffect(() => {
     const updateUnderlinePosition = () => {
       const allTags = ["rec", "mix", "master", null];

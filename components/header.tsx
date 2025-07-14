@@ -140,6 +140,16 @@ export default function Header() {
             <Link
               href="/"
               className={`font-base hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
+              onClick={() => {
+                if (typeof window !== 'undefined') {
+                  sessionStorage.removeItem('selectedTag');
+                  sessionStorage.setItem('isInternalNavigation', 'true');
+                  // カスタムイベントを発火してtop.tsxに変更を通知
+                  window.dispatchEvent(new CustomEvent('selectedTagCleared', {
+                    detail: { key: 'selectedTag', value: null }
+                  }));
+                }
+              }}
             >
               Tsukasa Kikuchi
             </Link>
@@ -152,6 +162,16 @@ export default function Header() {
                   className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
                     pathname === "/biography" ? "" : ""
                   }`}
+                  onClick={() => {
+                    if (typeof window !== 'undefined') {
+                      sessionStorage.removeItem('selectedTag');
+                      sessionStorage.setItem('isInternalNavigation', 'true');
+                      // カスタムイベントを発火してtop.tsxに変更を通知
+                      window.dispatchEvent(new CustomEvent('selectedTagCleared', {
+                        detail: { key: 'selectedTag', value: null }
+                      }));
+                    }
+                  }}
                 >
                   Biography
                 </Link>
@@ -162,6 +182,16 @@ export default function Header() {
                   className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
                     pathname === "/contact" ? "" : ""
                   }`}
+                  onClick={() => {
+                    if (typeof window !== 'undefined') {
+                      sessionStorage.removeItem('selectedTag');
+                      sessionStorage.setItem('isInternalNavigation', 'true');
+                      // カスタムイベントを発火してtop.tsxに変更を通知
+                      window.dispatchEvent(new CustomEvent('selectedTagCleared', {
+                        detail: { key: 'selectedTag', value: null }
+                      }));
+                    }
+                  }}
                 >
                   Contact
                 </Link>
