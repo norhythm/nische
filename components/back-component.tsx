@@ -53,24 +53,18 @@ export default function BackComponent({
     const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
     const hasTagToPreserve = fromTag || savedTag;
 
-    // 1. トップページから詳細ページへの直接遷移後のhandleBack() -> history.back()
-    // (タグ選択後の遷移も含む、prev/nextでの詳細間遷移でない場合)
+    console.log(isOnWorkDetailPage, hasTagToPreserve, fromTag, savedTag);
+
     if (isOnWorkDetailPage && canGoBack && isFromSiteNavigation) {
-      // referrerをチェックして、前のページがトップページかどうかを判定
-      const referrer = typeof window !== "undefined" ? document.referrer : "";
-      const currentOrigin = typeof window !== "undefined" ? window.location.origin : "";
-      const isFromTopPage = referrer === currentOrigin || referrer === `${currentOrigin}/` || 
-                           referrer.includes(`${currentOrigin}/?tag=`);
-      
-      // トップページからの直接遷移の場合はhistory.back()
-      if (isFromTopPage) {
-        window.history.back();
-        return;
-      }
-      
-      // prev/nextで詳細ページ間遷移後の場合はタグ付きトップページに遷移
+      // fromTagがある場合は、prev/nextで詳細ページ間遷移後なので、タグ付きトップページに遷移
       if (fromTag && hasTagToPreserve) {
         router.push(`/?tag=${hasTagToPreserve}`);
+        return;
+      }
+
+      // fromTagがない場合は、トップページからの直接遷移なのでhistory.back()
+      if (!fromTag) {
+        window.history.back();
         return;
       }
     }
