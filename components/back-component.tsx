@@ -42,36 +42,45 @@ export default function BackComponent({
   }, []);
 
   const handleBack = () => {
-    const fromTag = searchParams.get("fromTag");
-
     // sessionStorageから保存されたタグを取得
     const savedTag =
       typeof window !== "undefined"
         ? sessionStorage.getItem("selectedTag")
         : null;
 
-    const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
-    const hasTagToPreserve = fromTag || savedTag;
+    // 詳細ページ間遷移かどうかをsessionStorageで判定
+    const isWorkToWorkNavigation =
+      typeof window !== "undefined"
+        ? sessionStorage.getItem("isWorkToWorkNavigation") === "true"
+        : false;
 
-    console.log(isOnWorkDetailPage, hasTagToPreserve, fromTag, savedTag);
+    const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
 
     if (isOnWorkDetailPage && canGoBack && isFromSiteNavigation) {
-      // fromTagがある場合は、prev/nextで詳細ページ間遷移後なので、タグ付きトップページに遷移
-      if (fromTag && hasTagToPreserve) {
-        router.push(`/?tag=${hasTagToPreserve}`);
+      // 詳細ページ間遷移後の場合は、タグ付きトップページに遷移
+      if (isWorkToWorkNavigation && savedTag) {
+        // フラグをクリア
+        if (typeof window !== "undefined") {
+          sessionStorage.removeItem("isWorkToWorkNavigation");
+        }
+        router.push(`/?tag=${savedTag}`);
         return;
       }
 
-      // fromTagがない場合は、トップページからの直接遷移なのでhistory.back()
-      if (!fromTag) {
+      // 通常の詳細ページ遷移（トップページから）の場合はhistory.back()
+      if (!isWorkToWorkNavigation) {
         window.history.back();
         return;
       }
     }
 
-    // 3. 外部サイトからのアクセスやブラウザ履歴なし、または同じオリジンでない遷移 -> トップページに遷移
+    // 外部サイトからのアクセスやブラウザ履歴なし、または同じオリジンでない遷移 -> トップページに遷移
     if (!canGoBack || !isFromSiteNavigation) {
-      router.push("/");
+      if (savedTag) {
+        router.push(`/?tag=${savedTag}`);
+      } else {
+        router.push("/");
+      }
       return;
     }
 
