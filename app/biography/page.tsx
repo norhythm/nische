@@ -22,17 +22,12 @@ export default function Biography() {
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="absolute w-full h-full object-cover object-top opacity-90"
-                onLoadingComplete={(image) => {
-                  // Find the parent element and remove the loading indicator
-                  const parent = image.parentElement?.parentElement;
-                  if (parent) {
-                    const loadingEl = parent.querySelector(".animate-pulse");
-                    if (loadingEl) loadingEl.classList.add("hidden");
-                  }
-                }}
+                className="absolute w-full h-full object-cover object-top"
               />
-              <div className="absolute w-full h-full bg-black opacity-50"></div>
+              <div
+                className="absolute w-full h-full opacity-50 mix-blend-multiply"
+                style={{ backgroundColor: "#7b7c4c" }}
+              ></div>
             </div>
 
             <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50 tracking-wide">
