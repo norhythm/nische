@@ -79,7 +79,7 @@ img {
     /* background-color: red; */
   }
   .work-detail {
-    @apply w-10/12 !important;
+    /* @apply w-10/12 !important; */
   }
   .article > div {
     /* @apply flex-col; */
