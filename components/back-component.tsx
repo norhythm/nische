@@ -2,8 +2,9 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useState, Suspense } from "react";
+import MobileTouchCursor from "./mobile-touch-cursor";
 
-type StyleType = "layer" | "button";
+type StyleType = "layer" | "button" | "mobile-cursor";
 
 export default function BackComponent({
   className = "",
@@ -97,7 +98,7 @@ export default function BackComponent({
         {style == "layer" && (
           <div
             onClick={handleBack}
-            className={`fixed top-0 left-0 z-20 w-full h-full cursor-close`}
+            className={`hidden md:block fixed top-0 left-0 z-20 w-full h-full cursor-close select-none`}
           ></div>
         )}
         {style == "button" && (
@@ -108,6 +109,14 @@ export default function BackComponent({
             <span className="hidden">Back</span>
             <span className="icon-cross"></span>
           </button>
+        )}
+        {style == "mobile-cursor" && (
+          <div
+            id="touch-layer"
+            className={`block md:hidden fixed top-0 left-0 z-20 w-full h-full select-none`}
+          >
+            <MobileTouchCursor onTap={handleBack} className={className} />
+          </div>
         )}
       </Suspense>
     </>

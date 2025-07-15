@@ -66,6 +66,12 @@ img {
   cursor: url(/images/cursor_close.svg), url(/images/cursor_close.png), auto;
 }
 
+.bg-close {
+  background-image: url(/images/cursor_close.svg);
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+}
+
 .article a {
   position: relative;
   z-index: 20;

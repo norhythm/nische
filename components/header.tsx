@@ -161,7 +161,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/biography/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto ${
                     pathname === "/biography" ? "" : ""
                   }`}
                   onClick={() => {
@@ -183,7 +183,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/contact/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out ${textColor} pointer-events-auto ${
+                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto ${
                     pathname === "/contact" ? "" : ""
                   }`}
                   onClick={() => {

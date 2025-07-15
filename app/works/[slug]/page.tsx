@@ -56,6 +56,7 @@ export default async function Post(props: Params) {
   return (
     <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
       <BackComponent style="layer" />
+      <BackComponent style="mobile-cursor" />
       <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
