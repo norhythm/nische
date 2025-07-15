@@ -57,99 +57,94 @@ export default async function Post(props: Params) {
     <section className="relative flex flex-1 container md:max-w-7xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
       <BackComponent style="layer" />
       <div
-        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-0 w-screen h-full`}
-        // style={{ backgroundImage: `url(${post.image})` }}
+        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
-      <div className="relative md:w-3/4 mx-auto h-full">
-        <div className="py-0 md:py-12">
-          {/* <div className="hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-10 w-screen h-full"></div> */}
-
-          <article className="relative">
-            <div className="mx-auto">
-              <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
-                <div
-                  className={`order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
-                    layoutGrid()
-                  )}`}
-                >
-                  <header>
-                    <h1 className="tracking-wider">
-                      {post.artist && (
-                        <span className="pb-1 block text-lg md:text-2xl">
-                          {post.artist}
-                        </span>
-                      )}
-                      <span className="block text-lg md:text-xl">
-                        {post.title}
+      <div className="work-detail relative md:w-3/4 mx-auto h-full">
+        <div className="py-0 md:py-12 md:min-h-[480px]">
+          <article className="relative article">
+            <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
+              <div
+                className={`article-header order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
+                  layoutGrid()
+                )}`}
+              >
+                <header>
+                  <h1 className="tracking-wider">
+                    {post.artist && (
+                      <span className="pb-1 block text-lg md:text-2xl">
+                        {post.artist}
                       </span>
-                    </h1>
-                    <p className="pt-1">
-                      {post.tag.map((tag, i) => {
-                        return (
-                          <span key={i}>
-                            <Tag tag={tag} />
-                            {i < post.tag.length - 1 && ", "}
-                          </span>
-                        );
-                      })}
-                    </p>
-                  </header>
-                  <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
-                    {/* <div
-                      className={`${markdownStyles["markdown"]}`}
-                      dangerouslySetInnerHTML={{ __html: content }}
-                    ></div> */}
-                    <div>
-                      <table>
-                        <tbody>
-                          <tr>
-                            <td>Recoding</td>
-                            <td className="pl-1">M1, M2, M4</td>
-                          </tr>
-                          <tr>
-                            <td>Mixing</td>
-                            <td className="pl-1">M1~M5</td>
-                          </tr>
-                          <tr>
-                            <td>Mastering</td>
-                            <td className="pl-1"></td>
-                          </tr>
-                        </tbody>
-                      </table>
-                      <p></p>
-                      <br />
-                      <p>
-                        <a
-                          className="decoration-underline"
-                          href=""
-                          target="_blank"
-                        >
-                          Link style
-                        </a>
-                      </p>
-                    </div>
-
-                    <p className="text-xs italic pt-8">
-                      ※記事データとクレジットの頭揃えの課題
+                    )}
+                    <span className="block text-lg md:text-xl">
+                      {post.title}
+                    </span>
+                  </h1>
+                  <p className="pt-1">
+                    {post.tag.map((tag, i) => {
+                      return (
+                        <span key={i}>
+                          <Tag tag={tag} />
+                          {i < post.tag.length - 1 && ", "}
+                        </span>
+                      );
+                    })}
+                  </p>
+                </header>
+                <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+                  {/* <div
+                    className={`${markdownStyles["markdown"]}`}
+                    dangerouslySetInnerHTML={{ __html: content }}
+                  ></div> */}
+                  <div>
+                    <table>
+                      <tbody>
+                        <tr>
+                          <td>Recoding</td>
+                          <td className="pl-1">M1, M2, M4</td>
+                        </tr>
+                        <tr>
+                          <td>Mixing</td>
+                          <td className="pl-1">M1~M5</td>
+                        </tr>
+                        <tr>
+                          <td>Mastering</td>
+                          <td className="pl-1"></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p></p>
+                    <br />
+                    <p>
+                      <a
+                        className="decoration-underline"
+                        href=""
+                        target="_blank"
+                      >
+                        Link style
+                      </a>
                     </p>
                   </div>
-                </div>
 
-                <div
-                  className={`relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
-                >
-                  <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div>
-                  <TiltImage
-                    single={false}
-                    src={`${post.image}`}
-                    alt={post.title}
-                    width={512}
-                    height={512}
-                    tilt={1}
-                    parentClassName="z-10"
-                    childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-                  />
+                  <p className="text-xs italic pt-8">
+                    ※記事データとクレジットの頭揃えの課題
+                  </p>
                 </div>
+              </div>
+
+              <div
+                className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
+              >
+                <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div>
+                <TiltImage
+                  single={false}
+                  src={`${post.image}`}
+                  alt={post.title}
+                  width={512}
+                  height={512}
+                  tilt={1}
+                  parentClassName="z-10"
+                  childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                />
               </div>
             </div>
           </article>

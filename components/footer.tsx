@@ -1,8 +1,14 @@
-export default function Footer() {
+interface FooterProps {
+  className: string;
+}
+
+export default function Footer({ className }: FooterProps) {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="container md:max-w-7xl mt-auto mx-auto pt-4 md:pt-10 px-4 pb-4 md:px-8 md:pb-8 text-xs text-gray-500 tracking-wider">
+    <footer
+      className={`container md:max-w-7xl mx-auto pt-4 md:pt-10 px-4 pb-4 md:px-8 md:pb-8 text-xs text-gray-500 tracking-wider ${className}`}
+    >
       <p>&copy; 2009 - {year} Tsukasa Kikuchi. All Rights Reserved.</p>
     </footer>
   );

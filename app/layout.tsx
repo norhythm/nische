@@ -38,7 +38,7 @@ export default function RootLayout({
             <Header />
             {children}
           </main>
-          <Footer />
+          <Footer className={"mt-auto"} />
         </div>
       </body>
     </html>
