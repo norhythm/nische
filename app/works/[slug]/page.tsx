@@ -59,7 +59,7 @@ export default async function Post(props: Params) {
       <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
-      <div className="work-detail relative md:w-3/4 mx-auto h-full">
+      <div className="work-detail relative md:w-3/4 mx-auto flex flex-col items-stretch">
         <div className="py-0 md:py-12 md:min-h-[480px]">
           <article className="relative article">
             <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
@@ -91,10 +91,10 @@ export default async function Post(props: Params) {
                   </p>
                 </header>
                 <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
-                  {/* <div
+                  <div
                     className={`${markdownStyles["markdown"]}`}
                     dangerouslySetInnerHTML={{ __html: content }}
-                  ></div> */}
+                  ></div>
                   <div>
                     <table>
                       <tbody>
@@ -150,7 +150,7 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto pt-8 md:pt-0 pointer-events-none">
+        <div className="works-navigation sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
@@ -159,9 +159,9 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <WorkNavLink
                   href={`/works/${prevPost.url}`}
-                  className="inline-flex items-center text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
+                  className="inline-flex justify-center items-center text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto"
                 >
-                  <span className="">
+                  <span className="group-hover:-translate-x-1 transition-transform">
                     <span className="hidden">← Next work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
@@ -173,9 +173,9 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <WorkNavLink
                   href={`/works/${nextPost.url}`}
-                  className="inline-flex items-center justify-end text-sm md:text-base hover:opacity-80 transition-colors align-bottom pointer-events-auto"
+                  className="inline-flex justify-center items-center justify-end text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto"
                 >
-                  <span className="">
+                  <span className="group-hover:translate-x-1 transition-transform">
                     <span className="hidden">Previous work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
