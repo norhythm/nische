@@ -73,7 +73,7 @@ export default function Biography() {
                       <td>Playlists</td>
                       <td className="pl-2">
                         <a
-                          href="#"
+                          href="https://open.spotify.com/playlist/4U1dQMh92G4ELhc4aMHI7N?si=7d94615962db4ef2"
                           className="decoration-underline"
                           target="_blank"
                           rel="noopener noreferrer"
@@ -82,7 +82,7 @@ export default function Biography() {
                         </a>
                         ,&nbsp;
                         <a
-                          href="#"
+                          href="https://music.apple.com/jp/playlist/%E8%8F%8A%E6%B1%A0%E5%8F%B8-tsukasa-kikuchi-arte-refact/pl.u-e98lGapca4vgAmd"
                           className="decoration-underline"
                           target="_blank"
                           rel="noopener noreferrer"
