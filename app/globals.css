@@ -59,16 +59,13 @@ img {
 }
 
 .cursor-close {
-  /* degbug */
-  /* display: none !important;
-  background-color: red; */
-
-  cursor: url(/images/cursor_close.svg), url(/images/cursor_close.png), auto;
+  cursor: url(/images/cursor_close.png), auto;
 }
 
 .bg-close {
   background-image: url(/images/cursor_close.svg);
-  background-size: 32px 32px;
+  background-position: center center;
+  background-size: 16px 16px;
   background-repeat: no-repeat;
 }
 
@@ -214,12 +211,11 @@ img {
   text-decoration-line: underline;
   text-decoration-thickness: 1px;
   text-decoration-style: wavy;
-  text-decoration-color: inherit;
 }
 
 .decoration-underline {
   padding-bottom: 0.05em;
-  border-bottom: 1px solid rgb(var(--foreground-rgb));
+  border-bottom: 1px solid;
   transition: opacity 0.4s ease;
 }
 
@@ -237,7 +233,6 @@ img {
   :root {
     --text-primary: rgb(var(--foreground-rgb));
     --bg-hero: #fbfaf9;
-    /* --bg-hero: #f6f6f1; */
     --background: 0 0% 100%;
     --foreground: 0 0% 3.9%;
     --card: 0 0% 100%;

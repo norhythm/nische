@@ -23,8 +23,6 @@
 .markdown a {
   position: relative;
   z-index: 30;
-  /* text-decoration: underline; */
-
   padding-bottom: 0.05em;
-  border-bottom: 1px solid rgb(var(--foreground-rgb));
+  border-bottom: 1px solid;
 }

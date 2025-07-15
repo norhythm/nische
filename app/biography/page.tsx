@@ -24,13 +24,10 @@ export default function Biography() {
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
                 className="absolute w-full h-full object-cover object-top"
               />
-              <div
-                className="absolute w-full h-full opacity-50 mix-blend-multiply"
-                style={{ backgroundColor: "#7b7c4c" }}
-              ></div>
+              <div className="absolute w-full h-full opacity-40 md:opacity-50 mix-blend-multiply bg-black md:bg-natural"></div>
             </div>
 
-            <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-12 md:px-12 text-gray-50 tracking-wide">
+            <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-10 md:px-12 text-gray-50 tracking-wide">
               <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
                 菊池 司
               </h2>
@@ -39,12 +36,12 @@ export default function Biography() {
               </p>
 
               <div className="flex flex-col md:flex-row md:gap-12 mb-8 text-sm md:text-base">
-                <p className="mb-4 leading-loose flex-1">
+                <p className="mb-4 md:leading-loose flex-1">
                   1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte
                   Refact」に所属しながら、常なる活動の幅を広げている。
                 </p>
 
-                <p className="mb-4 leading-loose flex-1">
+                <p className="mb-4 md:leading-loose flex-1">
                   Born in 1985, Tokyo. Through self-produced projects, developed
                   a deep interest in acoustics and equipment, which led to a
                   passion for engineering. While centered on beat and electronic
@@ -62,7 +59,12 @@ export default function Biography() {
                     <tr>
                       <td>X(Twitter)</td>
                       <td className="pl-2">
-                        <a href="https://x.com/tsukasa_kikuchi" target="_blank">
+                        <a
+                          href="https://x.com/tsukasa_kikuchi"
+                          className="decoration-underline"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           @tsukasa_kikuchi
                         </a>
                       </td>
@@ -70,11 +72,21 @@ export default function Biography() {
                     <tr>
                       <td>Playlists</td>
                       <td className="pl-2">
-                        <a href="#" className="">
+                        <a
+                          href="#"
+                          className="decoration-underline"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Spotify
                         </a>
                         ,&nbsp;
-                        <a href="#" className="">
+                        <a
+                          href="#"
+                          className="decoration-underline"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Apple Music
                         </a>
                       </td>

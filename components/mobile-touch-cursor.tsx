@@ -41,24 +41,79 @@ export default function MobileTouchCursor({
     if (!isMobile) return;
 
     const layer = document.getElementById("touch-layer");
-
     if (!layer) return;
+
+    let startPosition = { x: 0, y: 0 };
+    let hasScrolled = false;
+    let touchedInteractiveElement = false;
+
+    const isInteractiveElement = (element: Element): boolean => {
+      const interactiveSelectors = [
+        "a",
+        "button",
+        "input",
+        "textarea",
+        "select",
+        "label",
+        '[role="button"]',
+        '[role="link"]',
+        "[tabindex]",
+        ".pointer-events-auto",
+      ];
+
+      return interactiveSelectors.some((selector) => {
+        return element.matches(selector) || element.closest(selector);
+      });
+    };
 
     const handleTouchStart = (e: TouchEvent) => {
       const touch = e.touches[0];
+      const targetElement = document.elementFromPoint(
+        touch.clientX,
+        touch.clientY
+      );
+
+      // インタラクティブ要素をタッチした場合はカーソルを表示しない
+      if (targetElement && isInteractiveElement(targetElement)) {
+        touchedInteractiveElement = true;
+        return;
+      }
+
+      touchedInteractiveElement = false;
+      hasScrolled = false;
+      startPosition = { x: touch.clientX, y: touch.clientY };
       setTouchPosition({ x: touch.clientX, y: touch.clientY });
       setIsPressed(true);
     };
 
     const handleTouchMove = (e: TouchEvent) => {
+      if (touchedInteractiveElement) return;
+
       const touch = e.touches[0];
+      const deltaX = Math.abs(touch.clientX - startPosition.x);
+      const deltaY = Math.abs(touch.clientY - startPosition.y);
+
+      // スクロールの閾値（10px以上移動でスクロール判定）
+      if (deltaX > 10 || deltaY > 10) {
+        hasScrolled = true;
+        setIsPressed(false);
+        // スクロール時はカーソルを非表示
+        setTouchPosition(null);
+        return;
+      }
+
       setTouchPosition({ x: touch.clientX, y: touch.clientY });
     };
 
     const handleTouchEnd = () => {
+      if (touchedInteractiveElement) return;
+
       setIsPressed(false);
-      // タップ効果を実行
-      onTap();
+
+      // スクロールしていない場合のみonTapを実行
+      if (!hasScrolled) {
+        onTap();
+      }
 
       // 少し遅延してカーソルを非表示にする
       touchTimeoutRef.current = setTimeout(() => {
@@ -95,20 +150,15 @@ export default function MobileTouchCursor({
 
   return (
     <div
-      className={`fixed pointer-events-none z-50 ${className} bg-red-500`}
+      className={`fixed pointer-events-none z-50 ${className}`}
       style={{
         left: touchPosition.x - 20,
         top: touchPosition.y - 20,
-        transform: "translate(-50%, -50%)",
+        transform: "translate(-75%, -75%)",
       }}
     >
-      {/* <div
-        className={`w-10 h-10 rounded-full border-2 border-white/60 bg-white/20 backdrop-blur-sm transition-all duration-150 ${
-          isPressed ? "scale-125 bg-white/30" : "scale-100"
-        }`}
-      /> */}
       <div
-        className={`w-10 h-10 bg-close transition-all duration-150 ${
+        className={`w-16 h-16 rounded-full backdrop-blur-sm bg-close transition-all duration-150 ${
           isPressed ? "" : ""
         }`}
       />
