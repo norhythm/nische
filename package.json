@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "mail:start": "mailpit",
+    "mail:dev": "mailpit --verbose"
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
@@ -16,6 +18,7 @@
     "gray-matter": "^4.0.3",
     "next": "15.2.4",
     "next-themes": "^0.4.4",
+    "nodemailer": "^7.0.5",
     "react": "^19",
     "react-dom": "^19",
     "remark": "^15.0.1",
@@ -27,6 +30,7 @@
   },
   "devDependencies": {
     "@types/node": "^22",
+    "@types/nodemailer": "^6.4.17",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "postcss": "^8",

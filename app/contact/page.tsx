@@ -1,8 +1,61 @@
 "use client";
 
-import Link from "next/link";
+import { useState } from "react";
+
+interface FormData {
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
+}
 
 export default function Contact() {
+  const [form, setForm] = useState<FormData>({
+    name: "",
+    email: "",
+    subject: "",
+    message: "",
+  });
+  const [status, setStatus] = useState("");
+  const [isSubmitting, setIsSubmitting] = useState(false);
+
+  const handleChange = (
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+  ) => {
+    setForm({ ...form, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: form.name,
+          email: form.email,
+          subject: form.subject,
+          message: `${form.message}`,
+        }),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        setStatus("Success! Thank you! Please wait for reply.");
+        setForm({ name: "", email: "", subject: "", message: "" });
+      } else {
+        setStatus(data.error || "Sending failed, please try again.");
+      }
+    } catch (error) {
+      console.error("Form submission error:", error);
+      setStatus("Something went wrong, please try again.");
+    } finally {
+      setIsSubmitting(false);
+    }
+  };
   return (
     <>
       {/* Contact Content */}
@@ -27,7 +80,7 @@ export default function Contact() {
             </p>
           </div>
 
-          <form className="space-y-6">
+          <form className="space-y-6" onSubmit={handleSubmit}>
             <div>
               <label htmlFor="name" className="block mb-2 text-sm">
                 Name
@@ -35,6 +88,9 @@ export default function Contact() {
               <input
                 type="text"
                 id="name"
+                name="name"
+                value={form.name}
+                onChange={handleChange}
                 className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -47,6 +103,9 @@ export default function Contact() {
               <input
                 type="email"
                 id="email"
+                name="email"
+                value={form.email}
+                onChange={handleChange}
                 className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -59,6 +118,9 @@ export default function Contact() {
               <input
                 type="text"
                 id="subject"
+                name="subject"
+                value={form.subject}
+                onChange={handleChange}
                 className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -70,7 +132,10 @@ export default function Contact() {
               </label>
               <textarea
                 id="message"
+                name="message"
                 rows={6}
+                value={form.message}
+                onChange={handleChange}
                 className="w-full md:w-2/3 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               ></textarea>
@@ -79,12 +144,14 @@ export default function Contact() {
             <div>
               <button
                 type="submit"
-                className="px-6 py-2 border border-color border-gray-300 transition-colors hover:border-gray-800"
+                disabled={isSubmitting}
+                className="px-6 py-2 border border-color border-gray-300 transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                Send Message
+                {isSubmitting ? "Sending..." : "Send Message"}
               </button>
             </div>
           </form>
+          {status && <p className="pt-4 text-sm md:text-base">{status}</p>}
         </div>
       </section>
     </>
