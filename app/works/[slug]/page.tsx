@@ -60,7 +60,7 @@ export default async function Post(props: Params) {
       <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
-      <div className="work-detail relative md:w-3/4 mx-auto flex flex-col items-stretch">
+      <div className="work-detail relative lg:w-3/4 mx-auto flex flex-col items-stretch">
         <div className="py-0 md:py-12 md:min-h-[480px]">
           <article className="relative article">
             <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
