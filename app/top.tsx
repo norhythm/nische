@@ -51,11 +51,17 @@ export default function BlogPage({
     };
 
     window.addEventListener("storage", handleStorageChange);
-    window.addEventListener("selectedTagCleared", handleCustomStorageChange as EventListener);
+    window.addEventListener(
+      "selectedTagCleared",
+      handleCustomStorageChange as EventListener
+    );
 
     return () => {
       window.removeEventListener("storage", handleStorageChange);
-      window.removeEventListener("selectedTagCleared", handleCustomStorageChange as EventListener);
+      window.removeEventListener(
+        "selectedTagCleared",
+        handleCustomStorageChange as EventListener
+      );
     };
   }, []);
 
@@ -112,7 +118,7 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[50px] md:top-[100px] container md:max-w-7xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
+      <div className="sticky top-[50px] md:top-[100px] container xl:max-w-screen-xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
         <div className="flex text-sm md:text-base tracking-wider relative">
           {/* 動的な下線 */}
           <div

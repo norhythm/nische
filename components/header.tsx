@@ -132,8 +132,8 @@ export default function Header() {
 
   return (
     <>
-      <header className="sticky top-0 left-0 right-0 z-50 py-6 md:py-[60px] pointer-events-none">
-        <div className="container md:max-w-7xl mx-auto px-4 md:px-8 flex justify-between items-center">
+      <header className="sticky top-0 left-0 right-0 z-50 container xl:max-w-screen-xl mx-auto py-6 md:py-[60px] pointer-events-none">
+        <div className="px-4 md:px-8 flex justify-between items-center">
           <h1
             className={`md:text-xl font-medium text-base flex justify-content items-center tracking-wider`}
           >
@@ -141,13 +141,15 @@ export default function Header() {
               href="/"
               className={`font-base hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
               onClick={() => {
-                if (typeof window !== 'undefined') {
-                  sessionStorage.removeItem('selectedTag');
-                  sessionStorage.setItem('isInternalNavigation', 'true');
+                if (typeof window !== "undefined") {
+                  sessionStorage.removeItem("selectedTag");
+                  sessionStorage.setItem("isInternalNavigation", "true");
                   // カスタムイベントを発火してtop.tsxに変更を通知
-                  window.dispatchEvent(new CustomEvent('selectedTagCleared', {
-                    detail: { key: 'selectedTag', value: null }
-                  }));
+                  window.dispatchEvent(
+                    new CustomEvent("selectedTagCleared", {
+                      detail: { key: "selectedTag", value: null },
+                    })
+                  );
                 }
               }}
             >
@@ -163,13 +165,15 @@ export default function Header() {
                     pathname === "/biography" ? "" : ""
                   }`}
                   onClick={() => {
-                    if (typeof window !== 'undefined') {
-                      sessionStorage.removeItem('selectedTag');
-                      sessionStorage.setItem('isInternalNavigation', 'true');
+                    if (typeof window !== "undefined") {
+                      sessionStorage.removeItem("selectedTag");
+                      sessionStorage.setItem("isInternalNavigation", "true");
                       // カスタムイベントを発火してtop.tsxに変更を通知
-                      window.dispatchEvent(new CustomEvent('selectedTagCleared', {
-                        detail: { key: 'selectedTag', value: null }
-                      }));
+                      window.dispatchEvent(
+                        new CustomEvent("selectedTagCleared", {
+                          detail: { key: "selectedTag", value: null },
+                        })
+                      );
                     }
                   }}
                 >
@@ -183,13 +187,15 @@ export default function Header() {
                     pathname === "/contact" ? "" : ""
                   }`}
                   onClick={() => {
-                    if (typeof window !== 'undefined') {
-                      sessionStorage.removeItem('selectedTag');
-                      sessionStorage.setItem('isInternalNavigation', 'true');
+                    if (typeof window !== "undefined") {
+                      sessionStorage.removeItem("selectedTag");
+                      sessionStorage.setItem("isInternalNavigation", "true");
                       // カスタムイベントを発火してtop.tsxに変更を通知
-                      window.dispatchEvent(new CustomEvent('selectedTagCleared', {
-                        detail: { key: 'selectedTag', value: null }
-                      }));
+                      window.dispatchEvent(
+                        new CustomEvent("selectedTagCleared", {
+                          detail: { key: "selectedTag", value: null },
+                        })
+                      );
                     }
                   }}
                 >

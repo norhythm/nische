@@ -7,7 +7,7 @@ export default function Biography() {
   return (
     <>
       {/* Biography Content */}
-      <section className="container md:max-w-7xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
+      <section className="container xl:max-w-screen-xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
         <h1 className="text-lg md:text-2xl tracking-wider mb-4 md:mb-8 capitalize">
           Biography
         </h1>
