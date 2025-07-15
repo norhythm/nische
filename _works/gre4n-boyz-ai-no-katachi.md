@@ -1,10 +1,11 @@
 ---
-title: "GRe4N BOYZ「アイノカタチ」"
-date: "2025-06-30"
-image: "/works/media/gre4n-boyz-ai-no-katachi.jpg"
+published: true
+date: 2025-06-30
+artist: GRe4N BOYZ
+title: アイノカタチ
+url: gre4n-boyz-ai-no-katachi
 tag:
   - mix
-layout: "square"
-published: true
-url: "gre4n-boyz-ai-no-katachi"
+layout: square
+image: /works/media/gre4n-boyz-ai-no-katachi.jpg
 ---
