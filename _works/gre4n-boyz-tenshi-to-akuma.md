@@ -1,12 +1,12 @@
 ---
-title: "GRe4N BOYZ「天使と悪魔」"
-date: "2025-04-06"
-image: "/works/media/gre4n-boyz-tenshi-to-akuma.jpg"
+published: true
+date: 2025-04-06
+artist: GRe4N BOYZ
+title: 天使と悪魔
+url: gre4n-boyz-tenshi-to-akuma
 tag:
   - rec
-layout: "square"
-published: true
-url: "gre4n-boyz-tenshi-to-akuma"
+layout: square
+image: /works/media/gre4n-boyz-tenshi-to-akuma.jpg
 ---
-
 Audio engineering work for gre4n boyz tenshi to akuma.
