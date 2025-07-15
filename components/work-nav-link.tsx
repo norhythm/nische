@@ -1,8 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
 
 interface WorkNavLinkProps {
   href: string;
@@ -17,9 +15,7 @@ export default function WorkNavLink({
 }: WorkNavLinkProps) {
   const handleClick = () => {
     if (typeof window !== "undefined") {
-      // サイト内遷移フラグを設定
       sessionStorage.setItem("isInternalNavigation", "true");
-      // 詳細ページ間遷移であることを記録
       sessionStorage.setItem("isWorkToWorkNavigation", "true");
     }
   };

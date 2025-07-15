@@ -1,7 +1,7 @@
 "use client";
 
-import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
+import { useEffect, useState, Suspense } from "react";
 
 type StyleType = "layer" | "button";
 
@@ -13,7 +13,6 @@ export default function BackComponent({
   style?: StyleType;
 }) {
   const router = useRouter();
-  const searchParams = useSearchParams();
   const [canGoBack, setCanGoBack] = useState(false);
   const [isFromSiteNavigation, setIsFromSiteNavigation] = useState(false);
 
@@ -94,21 +93,23 @@ export default function BackComponent({
 
   return (
     <>
-      {style == "layer" && (
-        <div
-          onClick={handleBack}
-          className={`fixed top-0 left-0 z-20 w-full h-full cursor-close`}
-        ></div>
-      )}
-      {style == "button" && (
-        <button
-          onClick={handleBack}
-          className={`flex items-center text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
-        >
-          <span className="hidden">Back</span>
-          <span className="icon-cross"></span>
-        </button>
-      )}
+      <Suspense>
+        {style == "layer" && (
+          <div
+            onClick={handleBack}
+            className={`fixed top-0 left-0 z-20 w-full h-full cursor-close`}
+          ></div>
+        )}
+        {style == "button" && (
+          <button
+            onClick={handleBack}
+            className={`flex items-center text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
+          >
+            <span className="hidden">Back</span>
+            <span className="icon-cross"></span>
+          </button>
+        )}
+      </Suspense>
     </>
   );
 }
