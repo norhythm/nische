@@ -32,7 +32,7 @@ const config: Config = {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         active: "#1E4AE9",
-        natural: "#7b7c4c",
+        natural: "#97977d",
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
