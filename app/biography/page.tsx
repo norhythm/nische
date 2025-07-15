@@ -188,9 +188,7 @@ export default function Biography() {
                   </ul>
                 </div>
                 <div>
-                  <ul className="leading-relaxed">
-                    <li>and more...</li>
-                  </ul>
+                  <h3 className="mb-2">and more..</h3>
                 </div>
               </div>
             </div>
