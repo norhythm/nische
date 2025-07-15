@@ -11,8 +11,11 @@ tag:
 layout: square
 image: /works/media/furukawa-makoto-2nd-mini-album-catch-me-if-you-can.jpg
 ---
-|     |     |
-| --- | --- |
+
+Audio engineering work for furukawa makoto catch me if you can.
+
+|           |            |
+| --------- | ---------- |
 | Recording | M1, M2, M4 |
-| Mixing | M1~M5 |
-| Mastering |     |
+| Mixing    | M1~M5      |
+| Mastering |            |

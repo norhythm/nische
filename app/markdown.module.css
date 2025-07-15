@@ -26,3 +26,11 @@
   padding-bottom: 0.05em;
   border-bottom: 1px solid;
 }
+
+.markdown table thead {
+  display: none;
+}
+
+.markdown table td:not(:first-child) {
+  @apply pl-2;
+}

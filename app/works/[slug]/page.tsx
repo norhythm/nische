@@ -96,39 +96,6 @@ export default async function Post(props: Params) {
                     className={`${markdownStyles["markdown"]}`}
                     dangerouslySetInnerHTML={{ __html: content }}
                   ></div>
-                  <div>
-                    <table>
-                      <tbody>
-                        <tr>
-                          <td>Recoding</td>
-                          <td className="pl-1">M1, M2, M4</td>
-                        </tr>
-                        <tr>
-                          <td>Mixing</td>
-                          <td className="pl-1">M1~M5</td>
-                        </tr>
-                        <tr>
-                          <td>Mastering</td>
-                          <td className="pl-1"></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <p></p>
-                    <br />
-                    <p>
-                      <a
-                        className="decoration-underline"
-                        href=""
-                        target="_blank"
-                      >
-                        Link style
-                      </a>
-                    </p>
-                  </div>
-
-                  <p className="text-xs italic pt-8">
-                    ※記事データとクレジットの頭揃えの課題
-                  </p>
                 </div>
               </div>
 
