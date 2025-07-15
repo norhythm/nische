@@ -124,7 +124,7 @@ export default function Biography() {
                 <div>
                   <h3 className="mb-2 font-medium uppercase">Monitor</h3>
 
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>Amphion Two18+BaseTwo25</li>
                     <li>Auratone 5C</li>
                     <li>Victor EX-A1</li>
@@ -138,7 +138,7 @@ export default function Biography() {
                 <div>
                   <h3 className="mb-2 font-medium uppercase">Converter</h3>
 
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>PrismSound DREAM ADA-128</li>
                     <li>Lavry Engineering AD-24-2016avIIr</li>
                     <li>AVID MTRX</li>
@@ -150,7 +150,7 @@ export default function Biography() {
                     Compressor/Dynamics
                   </h3>
 
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>KmfAudio SOLO</li>
                     <li>VertigoSound VSC-3CompressorVCA</li>
                     <li>rockruepel COMP.TWO</li>
@@ -162,7 +162,7 @@ export default function Biography() {
                     Equalizer/Enhancer
                   </h3>
 
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>KmfAudio EX5A(gain/filter)</li>
                     <li>VertigoSound VSE-2Gyrator EQ</li>
                     <li>Heritage Audio 73JR</li>
@@ -180,7 +180,7 @@ export default function Biography() {
                 <div>
                   <h3 className="mb-2 font-medium uppercase">Plugins</h3>
 
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>DMG</li>
                     <li>MAAT</li>
                     <li>Leapwing</li>
@@ -188,7 +188,7 @@ export default function Biography() {
                   </ul>
                 </div>
                 <div>
-                  <ul className="leading-normal">
+                  <ul className="leading-relaxed">
                     <li>and more...</li>
                   </ul>
                 </div>
