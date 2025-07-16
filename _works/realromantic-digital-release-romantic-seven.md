@@ -1,12 +1,11 @@
 ---
-title: 'RealRomantic Digital Release "ROMANTIC SEVEN"'
-date: "2025-04-15"
-image: "/works/media/realromantic-digital-release-romantic-seven.jpg"
-tag:
-  - rec
-layout: "square"
 published: true
-url: "realromantic-digital-release-romantic-seven"
+date: 2025-04-15
+artist: RealRomantic
+title: ROMANTIC SEVEN
+url: realromantic-digital-release-romantic-seven
+tag:
+  - mix
+layout: square
+image: /works/media/realromantic-digital-release-romantic-seven.jpg
 ---
-
-Audio engineering work for realromantic digital release romantic seven.
