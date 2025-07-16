@@ -11,5 +11,6 @@ tag:
 layout: square
 image: /works/media/tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-ed-theme.jpg
 ---
-TVアニメ『ゲーセン少女と異文化交流』エンディングテーマ  
+TVアニメ『ゲーセン少女と異文化交流』  
+エンディングテーマ  
 [https://gacen-girl-anime.com/](https://gacen-girl-anime.com/)
