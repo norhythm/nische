@@ -10,23 +10,47 @@ export function getPostSlugs() {
 }
 
 export function getPostBySlug(slug: string) {
-  const realSlug = slug.replace(/\.md$/, "");
-  const fullPath = join(postsDirectory, `${realSlug}.md`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-  const { data, content } = matter(fileContents);
-
-  // 日付がDateオブジェクトの場合は文字列に変換
-  if (data.date instanceof Date) {
-    data.date = data.date.toISOString().split('T')[0];
+  // 全てのファイルを読み込んで、frontmatterのurlでマッチするものを探す
+  const allFiles = fs.readdirSync(postsDirectory);
+  
+  for (const fileName of allFiles) {
+    if (!fileName.endsWith('.md')) continue;
+    
+    const fullPath = join(postsDirectory, fileName);
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const { data, content } = matter(fileContents);
+    
+    // frontmatterのurlがslugと一致する場合
+    if (data.url === slug) {
+      // 日付がDateオブジェクトの場合は文字列に変換
+      if (data.date instanceof Date) {
+        data.date = data.date.toISOString().split('T')[0];
+      }
+      
+      return { ...data, slug: data.url, content } as Post;
+    }
   }
-
-  return { ...data, slug: realSlug, content } as Post;
+  
+  // 見つからない場合はnullを返す
+  throw new Error(`Post with slug "${slug}" not found`);
 }
 
 export function getAllPosts(): Post[] {
-  const slugs = getPostSlugs();
-  const posts = slugs
-    .map((slug) => getPostBySlug(slug))
+  const allFiles = fs.readdirSync(postsDirectory);
+  const posts = allFiles
+    .filter((fileName) => fileName.endsWith('.md'))
+    .map((fileName) => {
+      const fullPath = join(postsDirectory, fileName);
+      const fileContents = fs.readFileSync(fullPath, "utf8");
+      const { data, content } = matter(fileContents);
+      
+      // 日付がDateオブジェクトの場合は文字列に変換
+      if (data.date instanceof Date) {
+        data.date = data.date.toISOString().split('T')[0];
+      }
+      
+      return { ...data, slug: data.url, content } as Post;
+    })
     // published: trueのみをフィルタリング
     .filter((post) => post.published === true)
     // sort posts by date in descending order
@@ -50,7 +74,7 @@ export function getAdjacentPosts(currentSlug: string): {
   nextPost: Post | null;
 } {
   const allPosts = getAllPosts();
-  const currentIndex = allPosts.findIndex((post) => post.slug === currentSlug);
+  const currentIndex = allPosts.findIndex((post) => post.url === currentSlug);
 
   if (currentIndex === -1) {
     return { prevPost: null, nextPost: null };
