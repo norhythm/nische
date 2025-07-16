@@ -3,6 +3,7 @@ published: true
 date: 2025-07-06
 artist: リリー・ベイカー(CV：天城サリー), 草壁葵衣(CV：小山内怜央)
 title: ふたりのスタートボタン
+url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-theme
 tag:
   - rec
   - mix
