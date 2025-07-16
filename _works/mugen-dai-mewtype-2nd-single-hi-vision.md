@@ -1,14 +1,17 @@
 ---
-title: "夢限大みゅーたいぷ 2nd Single「Hi-Vision」"
-date: "2025-04-30"
-image: "/works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg"
-tag:
-  - rec
-  - mix
-  - master
-layout: "square"
 published: true
-url: "mugen-dai-mewtype-2nd-single-hi-vision"
+date: 2025-04-30
+artist: 夢限大みゅーたいぷ
+title: Hi-Vision
+url: mugen-dai-mewtype-2nd-single-hi-vision
+tag:
+  - mix
+layout: square
+image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 ---
+  
 
-[https://example.com](https://example.com)
+| M2『TRASH LIFE』 | mix |     |
+| --- | --- | --- |
+| M3『テレパシー』 | mix |     |
+|     |     |     |
