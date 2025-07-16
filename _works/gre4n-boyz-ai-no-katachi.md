@@ -9,3 +9,4 @@ tag:
 layout: square
 image: /works/media/gre4n-boyz-ai-no-katachi.jpg
 ---
+mixing.
