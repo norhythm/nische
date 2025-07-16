@@ -156,7 +156,7 @@ export default function BlogPage({
         id="works"
         className="container 2xl:max-w-full mx-auto px-4 2xl:px-32 pt-8 mb-20"
       >
-        <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
+        <div className="grid grid-cols-2 md:grid-cols-3 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
             <div
               key={index}

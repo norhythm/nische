@@ -25,6 +25,8 @@ const config: Config = {
       "2xl": "1536px",
       "3xl": "1792px",
       "4xl": "1920px",
+      "5xl": "2048px",
+      "6xl": "2176px",
     },
     extend: {
       colors: {
