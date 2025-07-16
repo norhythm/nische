@@ -1,13 +1,12 @@
 ---
-title: "『HELIOS Rising Heroes』THIRD SEASON 「Overflow」 ENDING THEME"
-date: "2025-06-25"
-image: "/works/media/helios-rising-heroes-third-season-overflow-ending-theme.jpg"
+published: true
+date: 2025-06-25
+artist: HELIOS Rising Heroes
+title: 『Overflow』
+url: helios-rising-heroes-third-season-overflow-ending-theme
 tag:
   - rec
   - mix
-layout: "square"
-published: true
-url: "helios-rising-heroes-third-season-overflow-ending-theme"
+layout: square
+image: /works/media/helios-rising-heroes-third-season-overflow-ending-theme.jpg
 ---
-
-Audio engineering work for helios rising heroes third season overflow ending theme.
