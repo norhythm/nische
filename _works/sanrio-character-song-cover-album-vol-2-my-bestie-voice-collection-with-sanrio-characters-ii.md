@@ -1,10 +1,11 @@
 ---
-title: "サンリオキャラクターソングカヴァーアルバム第２弾『My Bestie Voice Collection with Sanrio characters II』"
-date: "2025-06-25"
-image: "/works/media/sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii.jpg"
+published: true
+date: 2025-06-25
+artist: サンリオキャラクターソングカヴァーアルバム
+title: 『My Bestie Voice Collection with Sanrio characters II』
+url: sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii
 tag:
   - mix
-layout: "rect-v"
-published: true
-url: "sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii"
+layout: rect-v
+image: /works/media/sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii.jpg
 ---
