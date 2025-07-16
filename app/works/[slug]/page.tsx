@@ -55,12 +55,21 @@ export default async function Post(props: Params) {
   };
 
   return (
-    <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
+    // <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
+    <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
       <TopScroller />
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
+
       <div
+        className={`block fixed top-0 left-0 w-full h-full bg-hero`}
+        style={{ zIndex: "-1" }}
+      ></div>
+      {/* <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
+      ></div> */}
+      <div
+        className={`absolute top-0 left-1/2 -translate-x-2/4 bg-white z-0 w-screen h-full`}
       ></div>
       <div className="work-detail relative lg:w-3/4 mx-auto flex flex-col items-stretch">
         <div className="py-0 md:py-12 md:min-h-[480px]">
@@ -104,7 +113,8 @@ export default async function Post(props: Params) {
               <div
                 className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
               >
-                <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div>
+                {/* <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div> */}
+                <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-white textured-bg z-10 w-screen h-full"></div>
                 <TiltImage
                   single={false}
                   src={`${post.image}`}
