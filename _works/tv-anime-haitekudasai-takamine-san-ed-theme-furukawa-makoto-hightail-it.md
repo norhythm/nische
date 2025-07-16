@@ -1,13 +1,14 @@
 ---
-title: "TVアニメ『履いてください、鷹峰さん』EDテーマ / 古川慎「Hightail it」"
-date: "2025-04-02"
-image: "/works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it.jpg"
+published: true
+date: 2025-04-02
+artist: 古川慎
+title: 『Hightail it(Digital Single)』
+url: tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it
 tag:
   - rec
   - mix
-layout: "rect-v"
-published: true
-url: "tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it"
+  - master
+layout: rect-v
+image: /works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it.jpg
 ---
-
-Audio engineering work for tv anime haitekudasai takamine san ed theme furukawa makoto hightail it.
+TVアニメ『履いてください、鷹峰さん』EDテーマ
