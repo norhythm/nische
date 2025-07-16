@@ -2,7 +2,7 @@
 published: true
 date: 2025-04-02
 artist: 古川慎
-title: 『Hightail it(Digital Single)』
+title: Hightail it(Digital Single)
 url: tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it
 tag:
   - rec
