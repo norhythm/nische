@@ -1,13 +1,15 @@
 ---
-artist: RealRomantic
-title: 'Digital Release "AURA"'
-date: "2025-05-20"
-image: "/works/media/realromantic-digital-release-aura.jpg"
-tag:
-  - rec
-layout: "square"
 published: true
-url: "realromantic-digital-release-aura"
+date: 2025-05-20
+artist: RealRomantic
+title: AURA
+url: realromantic-digital-release-aura
+tag:
+  - mix
+layout: square
+image: /works/media/realromantic-digital-release-aura.jpg
 ---
+[https://realromantic-official.com/discography/digital-release-aura/](https://realromantic-official.com/discography/digital-release-aura/)  
+Digital Release.
 
-Audio engineering work for realromantic digital release aura.
+mixing.
