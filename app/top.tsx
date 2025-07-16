@@ -139,7 +139,7 @@ export default function BlogPage({
               >
                 {tag}
               </button>
-              <span>&nbsp;-&nbsp;</span>
+              <span>&nbsp;</span>
             </div>
           ))}
           <div>
