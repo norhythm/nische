@@ -11,8 +11,4 @@ tag:
 layout: square
 image: /works/media/furukawa-makoto-2nd-mini-album-catch-me-if-you-can.jpg
 ---
-|     |     |
-| --- | --- |
-| Recording | M1, M2, M4 |
-| Mixing | M1~M5 |
-| Mastering |     |
+Vocal Recording M1, M3~M5, All Track mixing and Mastering.
