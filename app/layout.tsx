@@ -2,6 +2,7 @@ import type React from "react";
 import type { Metadata } from "next";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import PathAwareContainer from "@/components/path-aware-container";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -33,13 +34,13 @@ export default function RootLayout({
         ></link>
       </head>
       <body>
-        <div id="container" className="min-h-screen flex flex-col">
+        <PathAwareContainer>
           <main className="flex flex-col flex-1">
             <Header />
             {children}
           </main>
           <Footer className={"mt-auto"} />
-        </div>
+        </PathAwareContainer>
       </body>
     </html>
   );

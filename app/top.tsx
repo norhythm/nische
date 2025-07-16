@@ -157,6 +157,30 @@ export default function BlogPage({
         className="container 2xl:max-w-full mx-auto px-4 2xl:px-32 pt-8 mb-20"
       >
         <div className="grid grid-cols-2 md:grid-cols-3 6xl:grid-cols-5 gap-8 md:group/works pointer-events-none animate-fade-in">
+          <div
+            className="col-span-2 md:col-span-1
+               relative flex justify-center items-center"
+          >
+            <Link
+              href={`/dummy/`}
+              className="work-item relative cursor-pointer group/item md:group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+            >
+              <div className="relative flex justify-center items-center">
+                <TiltImage
+                  single={true}
+                  clip={true}
+                  src={`/works/media/drama-cd-maku-ga-oritara-bokura-wa-tsugai-2.jpg`}
+                  alt={`ドラマCD『幕が下りたら僕らは番 2』`}
+                  width={512}
+                  height={512}
+                  tilt={3}
+                  parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero textured-bg layout-square`}
+                  childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
+                />
+              </div>
+            </Link>
+          </div>
+
           {filteredPosts.map((work, index) => (
             <div
               key={index}

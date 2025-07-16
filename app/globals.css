@@ -74,6 +74,11 @@ img {
   z-index: 20;
 }
 
+.page-dummy main > header a,
+.page-dummy > footer {
+  color: white !important;
+}
+
 @media screen and (min-width: 768px) and (min-height: 896px) {
   #container {
     /* background-color: red; */
