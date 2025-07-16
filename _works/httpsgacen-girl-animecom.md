@@ -8,8 +8,8 @@ tag:
   - rec
   - mix
   - master
-layout: square
-image: /works/media/tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-ed-theme-1.jpg
+layout: rect-h
+image: /works/media/kv01.webp
 ---
 TVアニメ『ゲーセン少女と異世界交流』オープニングテーマ  
 [https://gacen-girl-anime.com/](https://gacen-girl-anime.com/)
