@@ -10,6 +10,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  experimental: {
+    scrollRestoration: true,
+  },
   devIndicators: false,
 };
 

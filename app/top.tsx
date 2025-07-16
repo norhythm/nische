@@ -119,7 +119,7 @@ export default function BlogPage({
   return (
     <>
       <div className="sticky top-[50px] md:top-[100px] container xl:max-w-screen-xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
-        <div className="flex gap-2 text-sm md:text-base tracking-wider relative">
+        <div className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
           {/* 動的な下線 */}
           <div
             className="absolute bottom-0 h-[1px] bg-current transition-all duration-300 ease-out"
@@ -175,7 +175,7 @@ export default function BlogPage({
                     sessionStorage.setItem("isInternalNavigation", "true");
                   }
                 }}
-                scroll={false}
+                scroll={true}
               >
                 <div className="relative flex justify-center items-center">
                   <TiltImage
