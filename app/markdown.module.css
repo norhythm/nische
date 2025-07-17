@@ -25,6 +25,11 @@
   z-index: 30;
   padding-bottom: 0.05em;
   border-bottom: 1px solid;
+  transition: opacity ease 0.3s;
+}
+
+.markdown a:hover {
+  opacity: 0.8;
 }
 
 .markdown table thead {
@@ -36,36 +41,33 @@
 }
 
 .markdown iframe {
-  @apply w-full max-w-full my-6 rounded-lg;
+  position: relative;
+  z-index: 30;
+  @apply w-full max-w-full my-6;
   aspect-ratio: 16/9;
   border: none;
 }
 
 .markdown iframe[src*="youtube.com"],
 .markdown iframe[src*="youtu.be"] {
-  @apply shadow-md;
   min-height: 315px;
 }
 
 .markdown iframe[src*="vimeo.com"] {
-  @apply shadow-md;
   min-height: 315px;
 }
 
 .markdown iframe[src*="soundcloud.com"] {
-  @apply shadow-sm;
   height: 166px;
   aspect-ratio: unset;
 }
 
 .markdown iframe[src*="spotify.com"] {
-  @apply shadow-sm;
   height: 352px;
   aspect-ratio: unset;
 }
 
 .markdown iframe[src*="music.apple.com"] {
-  @apply shadow-sm;
   height: 450px;
   aspect-ratio: unset;
 }
@@ -76,15 +78,15 @@
     @apply mx-0;
     min-height: 250px;
   }
-  
+
   .markdown iframe[src*="soundcloud.com"] {
     height: 120px;
   }
-  
+
   .markdown iframe[src*="spotify.com"] {
     height: 352px;
   }
-  
+
   .markdown iframe[src*="music.apple.com"] {
     height: 450px;
   }
