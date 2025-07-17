@@ -9,7 +9,5 @@ tag:
 layout: square
 image: /works/media/amane-kanata-self-service.jpg
 ---
-| <iframe width="560" height="315" src="[https://www.youtube.com/embed/wvtP9tUr\_S4?si=M8oMbjtrjNArNUF4](https://www.youtube.com/embed/wvtP9tUr_S4?si=M8oMbjtrjNArNUF4)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wvtP9tUr_S4?si=lx9Vi9VC8ZCB1Ack" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

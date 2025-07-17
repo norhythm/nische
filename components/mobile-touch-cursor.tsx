@@ -55,6 +55,7 @@ export default function MobileTouchCursor({
         "textarea",
         "select",
         "label",
+        "iframe",
         '[role="button"]',
         '[role="link"]',
         "[tabindex]",
