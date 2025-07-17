@@ -34,3 +34,58 @@
 .markdown table td:not(:first-child) {
   @apply pl-2;
 }
+
+.markdown iframe {
+  @apply w-full max-w-full my-6 rounded-lg;
+  aspect-ratio: 16/9;
+  border: none;
+}
+
+.markdown iframe[src*="youtube.com"],
+.markdown iframe[src*="youtu.be"] {
+  @apply shadow-md;
+  min-height: 315px;
+}
+
+.markdown iframe[src*="vimeo.com"] {
+  @apply shadow-md;
+  min-height: 315px;
+}
+
+.markdown iframe[src*="soundcloud.com"] {
+  @apply shadow-sm;
+  height: 166px;
+  aspect-ratio: unset;
+}
+
+.markdown iframe[src*="spotify.com"] {
+  @apply shadow-sm;
+  height: 352px;
+  aspect-ratio: unset;
+}
+
+.markdown iframe[src*="music.apple.com"] {
+  @apply shadow-sm;
+  height: 450px;
+  aspect-ratio: unset;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+  .markdown iframe {
+    @apply mx-0;
+    min-height: 250px;
+  }
+  
+  .markdown iframe[src*="soundcloud.com"] {
+    height: 120px;
+  }
+  
+  .markdown iframe[src*="spotify.com"] {
+    height: 352px;
+  }
+  
+  .markdown iframe[src*="music.apple.com"] {
+    height: 450px;
+  }
+}
