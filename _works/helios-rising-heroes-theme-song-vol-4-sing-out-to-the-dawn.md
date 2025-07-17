@@ -6,7 +6,7 @@ url: helios-rising-heroes-sing-out-to-the-dawn
 tag:
   - mix
   - rec
-layout: rect-v
+layout: square
 image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.jpg
 ---
 鳳 アキラ（CV：豊永 利行）  
