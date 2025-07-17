@@ -62,7 +62,7 @@ export default async function Post(props: Params) {
       <BackComponent style="mobile-cursor" />
 
       <div
-        className={`block fixed top-0 left-0 w-full h-full bg-hero`}
+        className={`block fixed top-0 left-0 w-full h-full textured-bg`}
         style={{ zIndex: "-1" }}
       ></div>
       {/* <div
@@ -76,18 +76,18 @@ export default async function Post(props: Params) {
           <article className="relative article">
             <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
               <div
-                className={`article-header order-2 md:order-1 w-full pt-6 md:pt-0 md:pr-10 ${layoutImageStyle(
+                className={`article-header order-2 md:order-1 w-full md:pr-10 ${layoutImageStyle(
                   layoutGrid()
                 )}`}
               >
                 <header>
-                  <h1 className="tracking-wider">
+                  <h1 className="tracking-wide pt-1">
                     {post.artist && (
-                      <span className="pb-1 block text-lg md:text-2xl">
+                      <span className="md:pb-1 block text-md md:text-xl">
                         {post.artist}
                       </span>
                     )}
-                    <span className="block text-lg md:text-xl">
+                    <span className="block text-lg md:text-2xl">
                       {post.title}
                     </span>
                   </h1>
@@ -114,7 +114,7 @@ export default async function Post(props: Params) {
                 className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
               >
                 {/* <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div> */}
-                <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-white textured-bg z-10 w-screen h-full"></div>
+                {/* <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-white textured-bg z-10 w-screen h-full"></div> */}
                 <TiltImage
                   single={false}
                   src={`${post.image}`}
