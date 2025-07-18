@@ -16,6 +16,26 @@ export const metadata: Metadata = {
     noimageindex: true,
     nosnippet: true,
   },
+  openGraph: {
+    title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
+    description: "Professional audio engineering services by Tsukasa Kikuchi",
+    images: [
+      {
+        url: "/images/ogimage.png",
+        width: 1200,
+        height: 630,
+        alt: "Tsukasa Kikuchi - Audio Engineer",
+      },
+    ],
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
+    description: "Professional audio engineering services by Tsukasa Kikuchi",
+    images: ["/images/ogimage.png"],
+  },
 };
 
 export default function RootLayout({
