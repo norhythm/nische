@@ -69,7 +69,7 @@ export default async function Post(props: Params) {
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div> */}
       <div
-        className={`absolute top-0 left-1/2 -translate-x-2/4 bg-white z-0 w-screen h-full`}
+        className={`absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
       <div className="work-detail relative lg:w-3/4 mx-auto flex flex-col items-stretch">
         <div className="py-0 md:py-12 md:min-h-[480px]">
@@ -102,7 +102,7 @@ export default async function Post(props: Params) {
                     })}
                   </p>
                 </header>
-                <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+                <div className="pt-6 mb-8 text-sm md:text-sm md:pt-8">
                   <div
                     className={`${markdownStyles["markdown"]}`}
                     dangerouslySetInnerHTML={{ __html: content }}
