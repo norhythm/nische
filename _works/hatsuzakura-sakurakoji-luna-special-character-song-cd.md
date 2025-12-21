@@ -1,11 +1,11 @@
 ---
 title: "『初桜』桜小路ルナ Special Character Song CD&Music Video Collection"
 date: "2025-09-26"
-image: "/works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpeg"
+image: "/works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "hatsuzakura-sakurakoji-luna-special-character-song-cd"
 ---

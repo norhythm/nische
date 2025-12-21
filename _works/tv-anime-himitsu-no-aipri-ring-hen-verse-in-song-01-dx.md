@@ -1,11 +1,11 @@
 ---
 title: "TVアニメ『ひみつのアイプリ リング編』キャラクターソングミニアルバム　VERSE IN SONG 01 DX"
 date: "2025-09-24"
-image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpeg"
+image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx"
 ---

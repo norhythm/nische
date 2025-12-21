@@ -5,7 +5,7 @@ image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenuker
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "ensemble-stars-special-for-princess-melancholy-wo-kakenukero"
 ---

@@ -5,7 +5,7 @@ image: "/works/media/one-punch-man-season-3-ed-theme-soko-ni-aru-akari.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "rect-h"
 published: true
 url: "one-punch-man-season-3-ed-theme-soko-ni-aru-akari"
 ---

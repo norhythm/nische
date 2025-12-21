@@ -5,7 +5,7 @@ image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "mugendai-mewtype-3rd-single-mayonaka-yuenchi"
 ---

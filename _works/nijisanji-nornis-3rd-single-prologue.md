@@ -5,7 +5,7 @@ image: "/works/media/nijisanji-nornis-3rd-single-prologue.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "nijisanji-nornis-3rd-single-prologue"
 ---

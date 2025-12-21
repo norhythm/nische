@@ -5,7 +5,7 @@ image: "/works/media/okada-nana-incomplete.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "okada-nana-incomplete"
 ---

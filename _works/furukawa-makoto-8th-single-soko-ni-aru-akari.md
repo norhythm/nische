@@ -5,7 +5,7 @@ image: "/works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "furukawa-makoto-8th-single-soko-ni-aru-akari"
 ---

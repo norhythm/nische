@@ -5,7 +5,7 @@ image: "/works/media/kitou-akari-3rd-album-journey.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "kitou-akari-3rd-album-journey"
 ---

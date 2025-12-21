@@ -5,7 +5,7 @@ image: "/works/media/mugendai-mewtype-1st-album-progress-sign.png"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "mugendai-mewtype-1st-album-progress-sign"
 ---

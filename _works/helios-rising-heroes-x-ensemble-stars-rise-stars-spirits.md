@@ -5,7 +5,7 @@ image: "/works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jp
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "helios-rising-heroes-x-ensemble-stars-rise-stars-spirits"
 ---

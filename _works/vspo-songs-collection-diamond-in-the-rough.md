@@ -1,11 +1,11 @@
 ---
-title: "ぶいすぽっ！「VSPO! Songs Collection \"DIAMOND in the ROUGH\"」"
+title: 'ぶいすぽっ！「VSPO! Songs Collection "DIAMOND in the ROUGH"」'
 date: "2025-11-15"
-image: "/works/media/vspo-songs-collection-diamond-in-the-rough.jpeg"
+image: "/works/media/vspo-songs-collection-diamond-in-the-rough.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "vspo-songs-collection-diamond-in-the-rough"
 ---

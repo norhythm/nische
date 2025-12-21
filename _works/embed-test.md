@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2025-08-31
+date: 2222-01-01
 artist: Embed test
 title: iframe, scripts
 url: embed-test

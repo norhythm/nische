@@ -1,11 +1,11 @@
 ---
-title: "『メメントモリ』\"ルミカ\"ラメント「lumière」"
+title: '『メメントモリ』"ルミカ"ラメント「lumière」'
 date: "2025-07-30"
-image: "/works/media/memento-mori-rumika-lament-lumiere.jpeg"
+image: "/works/media/memento-mori-rumika-lament-lumiere.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "memento-mori-rumika-lament-lumiere"
 ---

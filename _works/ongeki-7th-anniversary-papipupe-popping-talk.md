@@ -5,7 +5,7 @@ image: "/works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "ongeki-7th-anniversary-papipupe-popping-talk"
 ---

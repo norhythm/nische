@@ -5,7 +5,7 @@ image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "rect-h"
 published: true
 url: "tv-anime-himitsu-no-aipri-music-collection-dx"
 ---

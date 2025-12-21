@@ -1,11 +1,11 @@
 ---
 title: "あんさんぶるスターズ！！Bright me up!! / MELLOW DEAR US「Mellow Addiction」"
 date: "2025-10-25"
-image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction.jpeg"
+image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction.jpg"
 tag:
   - rec
   - mix
-layout: "rect-v"
+layout: "square"
 published: true
 url: "ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction"
 ---
