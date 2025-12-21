@@ -1,0 +1,13 @@
+---
+title: "岡田奈々「インコンプリート」"
+date: "2025-08-01"
+image: "/works/media/okada-nana-incomplete.jpg"
+tag:
+  - rec
+  - mix
+layout: "rect-v"
+published: true
+url: "okada-nana-incomplete"
+---
+
+Audio engineering work for okada nana incomplete.
