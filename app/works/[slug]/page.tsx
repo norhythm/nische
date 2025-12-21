@@ -10,7 +10,6 @@ import Tag from "@/components/Tag";
 import BackComponent from "@/components/back-component";
 import TiltImage from "@/components/tiltImage";
 import WorkNavLink from "@/components/work-nav-link";
-import TopScroller from "@/components/top-scroller";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -57,12 +56,11 @@ export default async function Post(props: Params) {
   return (
     // <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
     <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-      <TopScroller />
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
 
       <div
-        className={`block fixed top-0 left-0 w-full h-full textured-bg`}
+        className={`block fixed top-0 left-0 w-full h-full`}
         style={{ zIndex: "-1" }}
       ></div>
       {/* <div

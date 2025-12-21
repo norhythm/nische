@@ -104,7 +104,7 @@ export default function BlogPage({
         id="works"
         className="container 2xl:max-w-full mx-auto px-4 2xl:px-32 pt-8 mb-20"
       >
-        <div className="grid grid-cols-2 md:grid-cols-3 6xl:grid-cols-5 gap-8 md:group/works pointer-events-none animate-fade-in">
+        <div className="grid grid-cols-2 md:grid-cols-3 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
             <div
               key={index}
@@ -117,7 +117,7 @@ export default function BlogPage({
             >
               <Link
                 href={`/works/${work.url}/`}
-                className="work-item relative cursor-pointer group/item md:group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+                className="work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
                 scroll={true}
               >
                 <div className="relative flex justify-center items-center">

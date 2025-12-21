@@ -4,9 +4,11 @@ import Header from "@/components/header";
 import Footer from "@/components/footer";
 import PathAwareContainer from "@/components/path-aware-container";
 import { SelectedTagProvider } from "@/lib/selected-tag-context";
+import ScrollRestoration from "@/lib/scroll-restoration";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://tsukasa-kikuchi.com"),
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
   robots: {
@@ -56,6 +58,7 @@ export default function RootLayout({
       </head>
       <body>
         <SelectedTagProvider>
+          <ScrollRestoration />
           <PathAwareContainer>
             <main className="flex flex-col flex-1">
               <Header />

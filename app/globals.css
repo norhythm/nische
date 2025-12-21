@@ -85,7 +85,7 @@ img {
   @apply textured-bg;
 } */
 
-.page-works main > header a,
+/* .page-works main > header a,
 .page-works > footer {
   color: var(--bg-hero) !important;
   transition: opacity 0.3s ease;
@@ -93,7 +93,7 @@ img {
 
 .page-works main > header a:hover {
   opacity: 0.8;
-}
+} */
 
 @media screen and (min-width: 768px) and (min-height: 896px) {
   #container {
@@ -331,4 +331,14 @@ img {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Scroll restoration - hide content during position restoration */
+html.scroll-restoring body {
+  opacity: 0;
+}
+
+html:not(.scroll-restoring) body {
+  opacity: 1;
+  transition: opacity 0.1s ease-out;
 }
