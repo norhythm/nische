@@ -130,7 +130,7 @@ export default function BlogPage({
                     height={512}
                     tilt={3}
                     parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
-                    childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform duration-500"
+                    childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
                   />
                 </div>
               </Link>

@@ -333,12 +333,22 @@ img {
   }
 }
 
-/* Scroll restoration - hide content during position restoration */
-html.scroll-restoring body {
+/* Page transitions */
+html.scroll-restoring body,
+html.page-transitioning body {
   opacity: 0;
 }
 
-html:not(.scroll-restoring) body {
+html:not(.scroll-restoring):not(.page-transitioning) body {
   opacity: 1;
-  transition: opacity 0.1s ease-out;
+  animation: page-fade-in 0.15s ease-out;
+}
+
+@keyframes page-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

@@ -147,7 +147,14 @@ export function useScrollRestoration() {
       } else {
         pushNavHistory(pathname);
       }
+
+      // Add page transition effect for forward navigation
+      document.documentElement.classList.add("page-transitioning");
       window.scrollTo(0, 0);
+
+      requestAnimationFrame(() => {
+        document.documentElement.classList.remove("page-transitioning");
+      });
     }
 
     prevPathname.current = pathname;
