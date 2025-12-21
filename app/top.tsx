@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
 
 import Link from "next/link";
@@ -16,54 +17,13 @@ export default function BlogPage({
 }) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const [selectedTag, setSelectedTag] = useState<string | null>(() => {
-    return searchParams.get("tag");
-  });
+  const { selectedTag, setSelectedTag } = useSelectedTagContext();
   const [underlineStyle, setUnderlineStyle] = useState<{
     left: number;
     width: number;
     opacity: number;
   }>({ left: 0, width: 0, opacity: 0 });
   const buttonRefs = useRef<(HTMLButtonElement | null)[]>([]);
-
-  useEffect(() => {
-    const tagFromQuery = searchParams.get("tag");
-    if (tagFromQuery) setSelectedTag(tagFromQuery);
-  }, [searchParams]);
-
-  // sessionStorageの変更を監視してselectedTagを同期
-  useEffect(() => {
-    const handleStorageChange = () => {
-      const savedTag = sessionStorage.getItem("selectedTag");
-      if (!savedTag) {
-        setSelectedTag(null);
-        // URLからもtagパラメータを削除
-        window.history.replaceState(null, "", "/");
-      }
-    };
-
-    // storageイベントは同じタブ内では発火しないため、カスタムイベントを使用
-    const handleCustomStorageChange = (event: CustomEvent) => {
-      if (event.detail.key === "selectedTag" && !event.detail.value) {
-        setSelectedTag(null);
-        window.history.replaceState(null, "", "/");
-      }
-    };
-
-    window.addEventListener("storage", handleStorageChange);
-    window.addEventListener(
-      "selectedTagCleared",
-      handleCustomStorageChange as EventListener
-    );
-
-    return () => {
-      window.removeEventListener("storage", handleStorageChange);
-      window.removeEventListener(
-        "selectedTagCleared",
-        handleCustomStorageChange as EventListener
-      );
-    };
-  }, []);
 
   useEffect(() => {
     const updateUnderlinePosition = () => {
@@ -102,18 +62,6 @@ export default function BlogPage({
 
   const handleTagChange = (tag: string | null) => {
     setSelectedTag(tag);
-    // sessionStorageにタグを保存
-    if (typeof window !== "undefined") {
-      if (tag) {
-        sessionStorage.setItem("selectedTag", tag);
-      } else {
-        sessionStorage.removeItem("selectedTag");
-      }
-    }
-    // URLを更新するがページリロードは避ける
-    const query = tag ? `?tag=${tag}` : "";
-    const newUrl = `/${query}`;
-    window.history.replaceState(null, "", newUrl);
   };
 
   return (
@@ -170,11 +118,6 @@ export default function BlogPage({
               <Link
                 href={`/works/${work.url}/`}
                 className="work-item relative cursor-pointer group/item md:group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
-                onClick={() => {
-                  if (typeof window !== "undefined") {
-                    sessionStorage.setItem("isInternalNavigation", "true");
-                  }
-                }}
                 scroll={true}
               >
                 <div className="relative flex justify-center items-center">

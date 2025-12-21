@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "../tailwind.config.ts";
 
 :root {
   --foreground-rgb: 60, 55, 50;
@@ -119,16 +118,16 @@ img {
     /* background-color: red; */
   }
   .work-detail {
-    @apply w-6/12 !important;
+    @apply !w-6/12;
   }
   .article > div {
     @apply flex-col;
   }
   .article-header {
-    @apply order-2 w-full pt-8 pr-0 !important;
+    @apply !order-2 !w-full !pt-8 !pr-0;
   }
   .article-image {
-    @apply order-1 w-full mx-auto !important;
+    @apply !order-1 !w-full !mx-auto;
   }
   .works-navigation {
     position: fixed !important;

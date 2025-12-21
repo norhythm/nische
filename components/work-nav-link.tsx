@@ -13,15 +13,8 @@ export default function WorkNavLink({
   children,
   className,
 }: WorkNavLinkProps) {
-  const handleClick = () => {
-    if (typeof window !== "undefined") {
-      sessionStorage.setItem("isInternalNavigation", "true");
-      sessionStorage.setItem("isWorkToWorkNavigation", "true");
-    }
-  };
-
   return (
-    <Link href={href} className={className} onClick={handleClick}>
+    <Link href={href} className={className}>
       {children}
     </Link>
   );

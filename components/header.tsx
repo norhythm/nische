@@ -2,10 +2,12 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
+import { useSelectedTagContext } from "@/lib/selected-tag-context";
 
 export default function Header() {
   const [textColor, setTextColor] = useState("text-black");
   const pathname = usePathname();
+  const { setSelectedTag } = useSelectedTagContext();
 
   // useEffect(() => {
   //   const handleScroll = () => {
@@ -141,16 +143,7 @@ export default function Header() {
               href="/"
               className={`font-base hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
               onClick={() => {
-                if (typeof window !== "undefined") {
-                  sessionStorage.removeItem("selectedTag");
-                  sessionStorage.setItem("isInternalNavigation", "true");
-                  // カスタムイベントを発火してtop.tsxに変更を通知
-                  window.dispatchEvent(
-                    new CustomEvent("selectedTagCleared", {
-                      detail: { key: "selectedTag", value: null },
-                    })
-                  );
-                }
+                setSelectedTag(null);
               }}
             >
               Tsukasa Kikuchi
@@ -165,16 +158,7 @@ export default function Header() {
                     pathname === "/biography" ? "" : ""
                   }`}
                   onClick={() => {
-                    if (typeof window !== "undefined") {
-                      sessionStorage.removeItem("selectedTag");
-                      sessionStorage.setItem("isInternalNavigation", "true");
-                      // カスタムイベントを発火してtop.tsxに変更を通知
-                      window.dispatchEvent(
-                        new CustomEvent("selectedTagCleared", {
-                          detail: { key: "selectedTag", value: null },
-                        })
-                      );
-                    }
+                    setSelectedTag(null);
                   }}
                 >
                   Biography
@@ -187,16 +171,7 @@ export default function Header() {
                     pathname === "/contact" ? "" : ""
                   }`}
                   onClick={() => {
-                    if (typeof window !== "undefined") {
-                      sessionStorage.removeItem("selectedTag");
-                      sessionStorage.setItem("isInternalNavigation", "true");
-                      // カスタムイベントを発火してtop.tsxに変更を通知
-                      window.dispatchEvent(
-                        new CustomEvent("selectedTagCleared", {
-                          detail: { key: "selectedTag", value: null },
-                        })
-                      );
-                    }
+                    setSelectedTag(null);
                   }}
                 >
                   Contact

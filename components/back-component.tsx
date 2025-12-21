@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useState, Suspense } from "react";
+import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import MobileTouchCursor from "./mobile-touch-cursor";
 
 type StyleType = "layer" | "button" | "mobile-cursor";
@@ -16,6 +17,7 @@ export default function BackComponent({
   const router = useRouter();
   const [canGoBack, setCanGoBack] = useState(false);
   const [isFromSiteNavigation, setIsFromSiteNavigation] = useState(false);
+  const { selectedTag } = useSelectedTagContext();
 
   useEffect(() => {
     // ページ読み込み時にブラウザ履歴があるかチェック
@@ -28,60 +30,25 @@ export default function BackComponent({
       const referrer = document.referrer;
       const isFromSameOrigin = referrer.startsWith(currentOrigin);
 
-      // sessionStorageでサイト内遷移を追跡
-      const wasInternalNavigation =
-        sessionStorage.getItem("isInternalNavigation") === "true";
-
-      setIsFromSiteNavigation(isFromSameOrigin || wasInternalNavigation);
-
-      // 現在のページロード後、フラグをリセット
-      sessionStorage.removeItem("isInternalNavigation");
+      setIsFromSiteNavigation(isFromSameOrigin);
     };
 
     checkNavigation();
   }, []);
 
   const handleBack = () => {
-    // sessionStorageから保存されたタグを取得
-    const savedTag =
-      typeof window !== "undefined"
-        ? sessionStorage.getItem("selectedTag")
-        : null;
-
-    // 詳細ページ間遷移かどうかをsessionStorageで判定
-    const isWorkToWorkNavigation =
-      typeof window !== "undefined"
-        ? sessionStorage.getItem("isWorkToWorkNavigation") === "true"
-        : false;
-
     const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
 
     if (isOnWorkDetailPage && canGoBack && isFromSiteNavigation) {
-      // 詳細ページ間遷移後の場合は、トップページに遷移（タグありの場合はタグ付き）
-      if (isWorkToWorkNavigation) {
-        // フラグをクリア
-        if (typeof window !== "undefined") {
-          sessionStorage.removeItem("isWorkToWorkNavigation");
-        }
-        if (savedTag) {
-          router.push(`/?tag=${savedTag}`);
-        } else {
-          router.push("/");
-        }
-        return;
-      }
-
       // 通常の詳細ページ遷移（トップページから）の場合はhistory.back()
-      if (!isWorkToWorkNavigation) {
-        window.history.back();
-        return;
-      }
+      window.history.back();
+      return;
     }
 
     // 外部サイトからのアクセスやブラウザ履歴なし、または同じオリジンでない遷移 -> トップページに遷移
     if (!canGoBack || !isFromSiteNavigation) {
-      if (savedTag) {
-        router.push(`/?tag=${savedTag}`);
+      if (selectedTag) {
+        router.push(`/?tag=${selectedTag}`);
       } else {
         router.push("/");
       }
