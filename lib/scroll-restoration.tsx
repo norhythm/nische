@@ -149,12 +149,12 @@ export function useScrollRestoration() {
       }
 
       // Add page transition effect for forward navigation
-      document.documentElement.classList.add("page-transitioning");
+      // document.documentElement.classList.add("page-transitioning");
       window.scrollTo(0, 0);
 
-      requestAnimationFrame(() => {
-        document.documentElement.classList.remove("page-transitioning");
-      });
+      // requestAnimationFrame(() => {
+      //   document.documentElement.classList.remove("page-transitioning");
+      // });
     }
 
     prevPathname.current = pathname;

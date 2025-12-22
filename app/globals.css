@@ -20,7 +20,6 @@ body {
     sans-serif;
 }
 
-.container,
 img {
   transition: all 0.2s ease;
 }
@@ -117,7 +116,7 @@ img {
   #container {
     /* background-color: red; */
   }
-  .work-detail {
+  /* .work-detail {
     @apply !w-6/12;
   }
   .article > div {
@@ -141,7 +140,7 @@ img {
   .works-navigation > nav a {
     width: 128px !important;
     height: 100vh;
-  }
+  } */
 }
 
 .icon-cross {
@@ -334,21 +333,19 @@ img {
 }
 
 /* Page transitions */
-html.scroll-restoring body,
-html.page-transitioning body {
+html.scroll-restoring {
+  background: var(--bg-hero);
+}
+
+html.scroll-restoring body {
   opacity: 0;
 }
 
-html:not(.scroll-restoring):not(.page-transitioning) body {
-  opacity: 1;
-  animation: page-fade-in 0.15s ease-out;
+html:not(.scroll-restoring) {
+  background-color: #fff;
 }
 
-@keyframes page-fade-in {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
+html:not(.scroll-restoring) body {
+  opacity: 1;
+  animation: opacity 0.15s ease-out;
 }

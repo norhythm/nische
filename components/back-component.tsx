@@ -1,11 +1,23 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useEffect, useState, Suspense } from "react";
+import { Suspense } from "react";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import MobileTouchCursor from "./mobile-touch-cursor";
 
 type StyleType = "layer" | "button" | "mobile-cursor";
+
+const NAV_HISTORY_KEY = "navHistory";
+
+function getNavHistory(): string[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const stored = sessionStorage.getItem(NAV_HISTORY_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch {
+    return [];
+  }
+}
 
 export default function BackComponent({
   className = "",
@@ -15,48 +27,23 @@ export default function BackComponent({
   style?: StyleType;
 }) {
   const router = useRouter();
-  const [canGoBack, setCanGoBack] = useState(false);
-  const [isFromSiteNavigation, setIsFromSiteNavigation] = useState(false);
   const { selectedTag } = useSelectedTagContext();
 
-  useEffect(() => {
-    // ページ読み込み時にブラウザ履歴があるかチェック
-    setCanGoBack(window.history.length > 1);
-
-    // サイト内ナビゲーションからの遷移かどうかをチェック
-    const checkNavigation = () => {
-      // referrerが同じオリジンかチェック
-      const currentOrigin = window.location.origin;
-      const referrer = document.referrer;
-      const isFromSameOrigin = referrer.startsWith(currentOrigin);
-
-      setIsFromSiteNavigation(isFromSameOrigin);
-    };
-
-    checkNavigation();
-  }, []);
-
   const handleBack = () => {
-    const isOnWorkDetailPage = window.location.pathname.startsWith("/works/");
+    const navHistory = getNavHistory();
+    const hasPreviousPage = navHistory.length > 1;
 
-    if (isOnWorkDetailPage && canGoBack && isFromSiteNavigation) {
-      // 通常の詳細ページ遷移（トップページから）の場合はhistory.back()
+    if (hasPreviousPage) {
+      // サイト内ナビゲーション履歴がある場合はhistory.back()
       window.history.back();
-      return;
-    }
-
-    // 外部サイトからのアクセスやブラウザ履歴なし、または同じオリジンでない遷移 -> トップページに遷移
-    if (!canGoBack || !isFromSiteNavigation) {
+    } else {
+      // 外部からの直接アクセスまたは履歴がない場合はトップページへ
       if (selectedTag) {
         router.push(`/?tag=${selectedTag}`);
       } else {
         router.push("/");
       }
-      return;
     }
-
-    // デフォルト: 通常のブラウザ戻る
-    window.history.back();
   };
 
   return (
@@ -65,7 +52,7 @@ export default function BackComponent({
         {style == "layer" && (
           <div
             onClick={handleBack}
-            className={`hidden md:block fixed top-0 left-0 z-20 w-full h-full cursor-close select-none`}
+            className={`hidden md:block absolute top-0 left-0 z-20 w-full h-full cursor-close select-none`}
           ></div>
         )}
         {style == "button" && (

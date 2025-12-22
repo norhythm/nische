@@ -43,19 +43,18 @@ export default async function Post(props: Params) {
     }
     switch (layout) {
       case "rect-h":
-        return "md:w-6/12";
+        return "md:w-7/12";
       case "rect-v":
-        return "md:w-4/12";
+        return "md:w-5/12";
       case "square":
-        return "md:w-5/12";
+        return "md:w-6/12";
       default:
-        return "md:w-5/12";
+        return "md:w-6/12";
     }
   };
 
   return (
-    // <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
-    <section className="relative flex flex-1 container xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-8 md:px-0 md:pt-0 md:pb-10">
+    <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-[8%] md:pt-0 md:pb-10">
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
 
@@ -63,13 +62,13 @@ export default async function Post(props: Params) {
         className={`block fixed top-0 left-0 w-full h-full`}
         style={{ zIndex: "-1" }}
       ></div>
-      {/* <div
+      <div
         className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
-      ></div> */}
+      ></div>
       <div
         className={`absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
-      <div className="work-detail relative lg:w-3/4 mx-auto flex flex-col items-stretch">
+      <div className="work-detail relative mx-auto flex flex-col items-stretch">
         <div className="py-0 md:py-12 md:min-h-[480px]">
           <article className="relative article">
             <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
@@ -81,11 +80,11 @@ export default async function Post(props: Params) {
                 <header>
                   <h1 className="tracking-wide pt-1">
                     {post.artist && (
-                      <span className="md:pb-1 block text-md md:text-xl">
+                      <span className="md:pb-1 block text-base md:text-[22px]">
                         {post.artist}
                       </span>
                     )}
-                    <span className="block text-lg md:text-2xl">
+                    <span className="block text-lg md:text-[22px]">
                       {post.title}
                     </span>
                   </h1>
@@ -100,7 +99,7 @@ export default async function Post(props: Params) {
                     })}
                   </p>
                 </header>
-                <div className="pt-6 mb-8 text-sm md:text-sm md:pt-8">
+                <div className="pt-6 mb-8 text-sm md:text-[15px] md:pt-8">
                   <div
                     className={`${markdownStyles["markdown"]}`}
                     dangerouslySetInnerHTML={{ __html: content }}
@@ -111,8 +110,6 @@ export default async function Post(props: Params) {
               <div
                 className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
               >
-                {/* <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-hero textured-bg z-10 w-screen h-full"></div> */}
-                {/* <div className="block md:hidden absolute top-0 left-1/2 -translate-x-2/4 bg-white textured-bg z-10 w-screen h-full"></div> */}
                 <TiltImage
                   single={false}
                   src={`${post.image}`}
@@ -128,7 +125,7 @@ export default async function Post(props: Params) {
           </article>
         </div>
         {/* Prev/Next Navigation */}
-        <div className="works-navigation sticky z-20 bottom-4 md:relative md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
+        <div className="works-navigation sticky z-50 bottom-4 md:relative md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />

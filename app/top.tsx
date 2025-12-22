@@ -66,7 +66,7 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[50px] md:top-[100px] container xl:max-w-screen-xl mx-auto px-4 md:px-8 z-50 pointer-events-none">
+      <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] z-50 pointer-events-none">
         <div className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
           {/* 動的な下線 */}
           <div
@@ -102,9 +102,9 @@ export default function BlogPage({
       </div>
       <section
         id="works"
-        className="container 2xl:max-w-full mx-auto px-4 2xl:px-32 pt-8 mb-20"
+        className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20"
       >
-        <div className="grid grid-cols-2 md:grid-cols-3 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
+        <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
             <div
               key={index}

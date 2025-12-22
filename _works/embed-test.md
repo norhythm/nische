@@ -1,8 +1,8 @@
 ---
 published: true
 date: 2222-01-01
-artist: Embed test
-title: iframe, scripts
+artist: 夢限大みゅーたいぷ
+title: 奏でる音のシンフォニー
 url: embed-test
 tag:
   - rec

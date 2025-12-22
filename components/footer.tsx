@@ -7,7 +7,7 @@ export default function Footer({ className }: FooterProps) {
 
   return (
     <footer
-      className={`container xl:max-w-screen-xl mx-auto pt-8 md:pt-10 px-4 md:px-8 pb-8 md:pb-8 text-xs text-gray-500 tracking-wider ${className}`}
+      className={`w-full xl:max-w-screen-xl mx-auto pt-8 md:pt-10 px-4 md:px-[8%] pb-8 md:pb-8 text-xs text-gray-500 tracking-wider ${className}`}
     >
       <p>&copy; 2009 - {year} Tsukasa Kikuchi. All Rights Reserved.</p>
     </footer>
