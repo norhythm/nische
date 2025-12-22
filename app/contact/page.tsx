@@ -59,7 +59,7 @@ export default function Contact() {
   return (
     <>
       {/* Contact Content */}
-      <section className="container xl:max-w-screen-xl mx-auto px-4 pt-0 mb-20 md:pt-0 md:px-8">
+      <section className="w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] pt-0 mb-20 md:pt-0 md:px-8">
         <div className="mx-auto">
           <h1 className="text-lg md:text-2xl tracking-wider mb-8 capitalize">
             Contact
