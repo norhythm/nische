@@ -62,10 +62,13 @@ export default function ArticleModal({
 
   return (
     // <div className="fixed inset-0 z-[100] flex items-center justify-center">
-    <div className="fixed inset-0 z-40 md:z-[100] flex justify-center">
+    <div
+      className="fixed inset-0 z-40 md:z-[100] flex justify-center cursor-close"
+      onClick={onClose}
+    >
       {/* Backdrop */}
       <div
-        className="absolute inset-0 md:bg-white/60 md:backdrop-blur-xs animate-fade-in"
+        className="absolute inset-0 md:bg-white/60 backdrop-blur-xs animate-fade-in"
         onClick={onClose}
       />
 
@@ -74,7 +77,7 @@ export default function ArticleModal({
         {/* Close button */}
         <button
           onClick={onClose}
-          className="absolute bottom-0 left-0 md:fixed md:bottom-auto md:left-auto md:top-4 md:right-4 z-20 p-2 hover:opacity-70 transition-opacity cursor-pointer"
+          className="hidden md:block md:fixed md:bottom-auto md:left-auto md:top-4 md:right-4 z-20 p-2 hover:opacity-70 transition-opacity cursor-pointer"
           aria-label="Close modal"
         >
           <span className="icon-cross"></span>
@@ -151,7 +154,17 @@ export default function ArticleModal({
           </article>
 
           {/* Mobile navigation */}
-          <div className="md:hidden flex justify-between items-center mt-8 pt-4 border-t border-gray-200">
+          <div className="md:hidden flex gap-2 md:gap-0 justify-between items-center">
+            <div className="flex-1">
+              {/* Close button */}
+              <button
+                onClick={onClose}
+                className="block md:hidden z-20 p-2 hover:opacity-70 transition-opacity cursor-pointer"
+                aria-label="Close modal"
+              >
+                <span className="icon-cross"></span>
+              </button>
+            </div>
             <div>
               {prevPost && (
                 <button
