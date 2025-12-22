@@ -86,7 +86,10 @@ export default function ArticleModal({
         {/* Navigation buttons */}
         {prevPost && (
           <button
-            onClick={() => onNavigate(prevPost.url)}
+            onClick={(e) => {
+              e.stopPropagation();
+              onNavigate(prevPost.url);
+            }}
             className="hidden md:flex fixed md:absolute left-4 top-1/2 -translate-y-1/2 z-20 p-3 hover:opacity-70 transition-opacity bg-hero/80 rounded-full items-center justify-center"
             aria-label="Previous work"
           >
@@ -95,7 +98,10 @@ export default function ArticleModal({
         )}
         {nextPost && (
           <button
-            onClick={() => onNavigate(nextPost.url)}
+            onClick={(e) => {
+              e.stopPropagation();
+              onNavigate(nextPost.url);
+            }}
             className="hidden md:flex fixed md:absolute right-4 top-1/2 -translate-y-1/2 z-20 p-3 hover:opacity-70 transition-opacity bg-hero/80 rounded-full items-center justify-center"
             aria-label="Next work"
           >
@@ -168,7 +174,10 @@ export default function ArticleModal({
             <div>
               {prevPost && (
                 <button
-                  onClick={() => onNavigate(prevPost.url)}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onNavigate(prevPost.url);
+                  }}
                   className="p-2 hover:opacity-70 transition-opacity"
                 >
                   <span className="icon-arrow-left"></span>
@@ -178,7 +187,10 @@ export default function ArticleModal({
             <div>
               {nextPost && (
                 <button
-                  onClick={() => onNavigate(nextPost.url)}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onNavigate(nextPost.url);
+                  }}
                   className="p-2 hover:opacity-70 transition-opacity"
                 >
                   <span className="icon-arrow-right"></span>
