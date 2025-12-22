@@ -68,13 +68,13 @@ export default function ArticleModal({
     >
       {/* Backdrop */}
       <div
-        className="absolute inset-0 bg-black/30 md:bg-white/60 backdrop-blur-xs animate-fade-in"
+        className="absolute inset-0 bg-black/10 backdrop-blur-xs animate-fade-in"
         onClick={onClose}
       />
 
       {/* Modal content */}
       {/* <div className="relative z-10 w-full h-full pt-[72px] md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in"> */}
-      <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] mx-[8px] md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg">
+      <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] mx-[8px] md:mx-0 md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg md:rounded-none">
         {/* Close button */}
         <button
           onClick={onClose}
