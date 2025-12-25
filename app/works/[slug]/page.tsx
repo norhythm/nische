@@ -1,15 +1,11 @@
-import markdownStyles from "@/app/markdown.module.css";
-
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
-import Link from "next/link";
 
-import Tag from "@/components/Tag";
 import BackComponent from "@/components/back-component";
-import TiltImage from "@/components/tiltImage";
 import WorkNavLink from "@/components/work-nav-link";
+import WorkArticleContent from "@/components/work-article-content";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -19,42 +15,11 @@ export default async function Post(props: Params) {
     return notFound();
   }
 
-  const layout = post.layout;
-
   const content = await markdownToHtml(post.content || "");
   const { prevPost, nextPost } = getAdjacentPosts(params.slug);
 
-  const layoutGrid = (): number => {
-    switch (layout) {
-      case "rect-h":
-        return 6;
-      case "rect-v":
-        return 8;
-      case "square":
-        return 7;
-      default:
-        return 7;
-    }
-  };
-
-  const layoutImageStyle = (grid?: number): string => {
-    if (typeof grid === "number") {
-      return `md:w-${grid}/12`;
-    }
-    switch (layout) {
-      case "rect-h":
-        return "md:w-7/12";
-      case "rect-v":
-        return "md:w-5/12";
-      case "square":
-        return "md:w-6/12";
-      default:
-        return "md:w-6/12";
-    }
-  };
-
   return (
-    <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-[8%] md:pt-0 md:pb-10">
+    <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
 
@@ -69,61 +34,16 @@ export default async function Post(props: Params) {
         className={`absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
       ></div>
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
-        <div className="py-0 md:py-12 md:min-h-[480px]">
-          <article className="relative article">
-            <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
-              <div
-                className={`article-header order-2 md:order-1 w-full md:pr-10 ${layoutImageStyle(
-                  layoutGrid()
-                )}`}
-              >
-                <header>
-                  <h1 className="tracking-wide pt-1">
-                    {post.artist && (
-                      <span className="md:pb-1 block text-base md:text-[22px]">
-                        {post.artist}
-                      </span>
-                    )}
-                    <span className="block text-lg md:text-[22px]">
-                      {post.title}
-                    </span>
-                  </h1>
-                  <p className="pt-1">
-                    {post.tag.map((tag, i) => {
-                      return (
-                        <span key={i}>
-                          <Tag tag={tag} />
-                          {i < post.tag.length - 1 && ", "}
-                        </span>
-                      );
-                    })}
-                  </p>
-                </header>
-                <div className="pt-6 mb-8 text-sm md:text-[15px] md:pt-8">
-                  <div
-                    className={`${markdownStyles["markdown"]}`}
-                    dangerouslySetInnerHTML={{ __html: content }}
-                  ></div>
-                </div>
-              </div>
-
-              <div
-                className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
-              >
-                <TiltImage
-                  single={false}
-                  src={`${post.image}`}
-                  alt={post.title}
-                  width={512}
-                  height={512}
-                  tilt={1}
-                  parentClassName="z-10"
-                  childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-                />
-              </div>
-            </div>
-          </article>
-        </div>
+        <WorkArticleContent
+          post={{
+            artist: post.artist,
+            title: post.title,
+            tag: post.tag,
+            image: post.image,
+            layout: post.layout,
+          }}
+          content={content}
+        />
         {/* Prev/Next Navigation */}
         <div className="works-navigation sticky z-50 bottom-4 md:relative md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
           <nav className="flex gap-2 md:gap-0 justify-between items-center">

@@ -66,7 +66,7 @@ export default function BlogPage({
 
   return (
     <>
-      <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] z-50 pointer-events-none">
+      <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] z-50 pointer-events-none transition-all">
         <div className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
           {/* 動的な下線 */}
           <div

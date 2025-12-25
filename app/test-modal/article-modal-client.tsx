@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Post } from "@/interfaces/post";
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
@@ -26,6 +26,10 @@ export default function ArticleModal({
   nextPost,
   onNavigate,
 }: ArticleModalProps) {
+  const [layoutMode, setLayoutMode] = useState<"vertical" | "horizontal">(
+    "vertical"
+  );
+
   // Handle ESC key and arrow keys
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -74,7 +78,7 @@ export default function ArticleModal({
 
       {/* Modal content */}
       {/* <div className="relative z-10 w-full h-full pt-[72px] md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in"> */}
-      <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] mx-[8px] md:mx-0 md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg md:rounded-none">
+      <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] md:top-0 mx-[8px] md:mx-0 md:h-[calc(100vh-148px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg md:rounded-none">
         {/* Close button */}
         <button
           onClick={onClose}
@@ -83,6 +87,44 @@ export default function ArticleModal({
         >
           <span className="icon-cross"></span>
         </button>
+
+        {/* Layout Toggle */}
+        <div className="hidden md:flex justify-end fixed top-4 left-4">
+          <div className="flex items-center gap-2 text-sm">
+            <span
+              className={`${
+                layoutMode === "vertical" ? "opacity-100" : "opacity-50"
+              }`}
+            >
+              Vertical
+            </span>
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                setLayoutMode(
+                  layoutMode === "vertical" ? "horizontal" : "vertical"
+                );
+              }}
+              className="relative w-12 h-6 bg-gray-300 rounded-full transition-colors cursor-pointer"
+              aria-label="Toggle layout"
+            >
+              <span
+                className={`absolute top-1 w-4 h-4 bg-white rounded-full transition-transform ${
+                  layoutMode === "horizontal"
+                    ? "translate-x-1"
+                    : "-translate-x-[100%]"
+                }`}
+              />
+            </button>
+            <span
+              className={`${
+                layoutMode === "horizontal" ? "opacity-100" : "opacity-50"
+              }`}
+            >
+              Horizontal
+            </span>
+          </div>
+        </div>
 
         {/* Navigation buttons */}
         {prevPost && (
@@ -111,54 +153,122 @@ export default function ArticleModal({
         )}
 
         {/* Article content */}
-        <div className="px-4 md:px-0 md:py-12">
-          <article className="relative article w-full mx-auto md:px-[8%] xl:max-w-screen-xl">
-            <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
-              <div className="article-header order-2 md:order-1 w-full md:w-7/12 md:pr-10">
-                <header>
-                  <h1 className="tracking-wide pt-1">
-                    {post.artist && (
-                      <span className="md:pb-1 block text-base md:text-[22px]">
-                        {post.artist}
-                      </span>
-                    )}
-                    <span className="block text-lg md:text-[22px]">
-                      {post.title}
-                    </span>
-                  </h1>
-                  <p className="pt-1">
-                    {post.tag.map((tag, i) => (
-                      <span key={i}>
-                        <Tag tag={tag} />
-                        {i < post.tag.length - 1 && ", "}
-                      </span>
-                    ))}
-                  </p>
-                </header>
-                <div className="pt-6 mb-8 text-sm md:text-[15px] md:pt-8">
+        <div
+          className={`w-full py-0 md:py-12 mx-auto px-4 ${
+            layoutMode === "vertical"
+              ? "xl:max-w-screen-xl md:px-[8%] xl:px-[102px]"
+              : ""
+          }`}
+        >
+          {/* vertical */}
+          {layoutMode === "vertical" && (
+            <article className="relative article mx-auto xl:max-w-screen-xl md:w-8/12 md:mx-auto">
+              <div className="w-full mx-auto flex justify-between flex-col">
+                <div className="w-full mx-auto flex justify-between flex-col">
+                  <div className={`article-header order-2 w-full pt-6`}>
+                    <header>
+                      <h1 className="tracking-wide pt-1">
+                        {post.artist && (
+                          <span className="md:pb-1 block text-base md:text-[24px]">
+                            {post.artist}
+                          </span>
+                        )}
+                        <span className="block text-lg md:text-[24px]">
+                          {post.title}
+                        </span>
+                      </h1>
+                      <p className="pt-1">
+                        {post.tag.map((tag, i) => {
+                          return (
+                            <span key={i}>
+                              <Tag tag={tag} classNames={"md:text-[15px]"} />
+                              {i < post.tag.length - 1 && ", "}
+                            </span>
+                          );
+                        })}
+                      </p>
+                    </header>
+                    <div className="pt-6 mb-8 text-sm md:text-[17px] md:pt-8">
+                      <div
+                        className={`${markdownStyles["markdown"]}`}
+                        dangerouslySetInnerHTML={{
+                          __html: post.htmlContent || "",
+                        }}
+                      />
+                    </div>
+                  </div>
+
                   <div
-                    className={`${markdownStyles["markdown"]}`}
-                    dangerouslySetInnerHTML={{ __html: post.htmlContent || "" }}
+                    className={`article-image relative order-1 md:order-1 py-4 md:py-0`}
+                  >
+                    <TiltImage
+                      single={false}
+                      src={`${post.image}`}
+                      alt={post.title}
+                      width={512}
+                      height={512}
+                      tilt={1}
+                      parentClassName="z-10"
+                      childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                    />
+                  </div>
+                </div>
+              </div>
+            </article>
+          )}
+
+          {/* horizontal */}
+          {layoutMode === "horizontal" && (
+            <article className="relative article w-full mx-auto md:px-[8%] xl:max-w-screen-xl">
+              <div className="w-full mx-auto flex justify-between flex-col md:flex-row">
+                <div className="article-header order-2 md:order-1 w-full md:w-7/12 md:pr-10">
+                  <header>
+                    <h1 className="tracking-wide pt-1">
+                      {post.artist && (
+                        <span className="md:pb-1 block text-base md:text-[22px]">
+                          {post.artist}
+                        </span>
+                      )}
+                      <span className="block text-lg md:text-[22px]">
+                        {post.title}
+                      </span>
+                    </h1>
+                    <p className="pt-1">
+                      {post.tag.map((tag, i) => (
+                        <span key={i}>
+                          <Tag tag={tag} />
+                          {i < post.tag.length - 1 && ", "}
+                        </span>
+                      ))}
+                    </p>
+                  </header>
+                  <div className="pt-6 mb-8 text-sm md:text-[15px] md:pt-8">
+                    <div
+                      className={`${markdownStyles["markdown"]}`}
+                      dangerouslySetInnerHTML={{
+                        __html: post.htmlContent || "",
+                      }}
+                    />
+                  </div>
+                </div>
+
+                <div
+                  className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
+                >
+                  <TiltImage
+                    single={false}
+                    src={`${post.image}`}
+                    alt={post.title}
+                    width={512}
+                    height={512}
+                    tilt={1}
+                    parentClassName="z-10"
+                    childClassName={`w-full post-${post.layout} block drop-shadow-md`}
                   />
                 </div>
               </div>
-
-              <div
-                className={`article-image relative order-1 md:order-2 py-4 md:py-0 ${layoutImageStyle()}`}
-              >
-                <TiltImage
-                  single={false}
-                  src={`${post.image}`}
-                  alt={post.title}
-                  width={512}
-                  height={512}
-                  tilt={1}
-                  parentClassName="z-10"
-                  childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-                />
-              </div>
-            </div>
-          </article>
+            </article>
+          )}
 
           {/* Mobile navigation */}
           <div className="md:hidden flex gap-2 md:gap-0 justify-between items-center">
@@ -200,7 +310,7 @@ export default function ArticleModal({
             </div>
           </div>
         </div>
-        <Footer className={"mt-auto"} />
+        {/* <Footer className={"mt-auto"} /> */}
       </div>
     </div>
   );
