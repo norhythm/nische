@@ -29,6 +29,9 @@ export default function FullScreenTiltImage({
   tilt,
 }: FullScreenTiltImageProps) {
   const [transform, setTransform] = useState("");
+  const [boxShadow, setBoxShadow] = useState(
+    "0 10px 15px -3px rgba(0, 0, 0, 0.1)"
+  );
   const imageRef = useRef<HTMLDivElement>(null);
   const maskId = `clip-mask`;
 
@@ -62,11 +65,23 @@ export default function FullScreenTiltImage({
       setTransform(
         `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`
       );
+
+      // シャドウの計算（光源がマウスの反対側にあるように）
+      const shadowX = rotateY * -5 * intensity;
+      const shadowY = rotateX * 5 * intensity + 10;
+      const distance = Math.sqrt(rotateX * rotateX + rotateY * rotateY);
+      const blur = 5 + distance * 10 * intensity;
+      const opacity = 0.1 + distance * 0.15 * intensity;
+
+      setBoxShadow(
+        `${shadowX}px ${shadowY}px ${blur}px -3px rgba(0, 0, 0, ${opacity})`
+      );
     };
 
     const handleMouseLeave = () => {
       if (single) {
         setTransform("perspective(1000px) rotateX(0deg) rotateY(0deg)");
+        setBoxShadow("0 10px 15px -3px rgba(0, 0, 0, 0.1)");
       }
     };
 
@@ -108,7 +123,8 @@ export default function FullScreenTiltImage({
         alt={alt}
         width={width}
         height={height}
-        className={`${childClassName} transition-transform duration-300 ease-out shadow-lg`}
+        className={`${childClassName} transition-all duration-300 ease-out`}
+        style={{ boxShadow }}
       />
     </div>
   );
