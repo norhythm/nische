@@ -117,7 +117,7 @@ export default function BlogPage({
             >
               <Link
                 href={`/works/${work.url}/`}
-                className="work-item relative cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+                className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
                 scroll={true}
               >
                 <div className="relative flex justify-center items-center">
