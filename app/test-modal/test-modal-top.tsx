@@ -190,7 +190,7 @@ export default function TestModalTop({
                     alt={work.title}
                     width={512}
                     height={512}
-                    tilt={3}
+                    tilt={4}
                     parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
                     childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
                   />
