@@ -285,12 +285,12 @@ export default function ArticleModal({
           )}
 
           {/* Mobile navigation */}
-          <div className="md:hidden sticky w-full mt-auto -px-4 bottom-2 flex gap-2 md:gap-0 justify-between items-center">
+          <div className="md:hidden sticky z-50 w-full mt-auto -px-4 bottom-2 flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1">
               {/* Close button */}
               <button
                 onClick={onClose}
-                className="block md:hidden z-20 hover:opacity-70 transition-opacity cursor-pointer"
+                className="relative block md:hidden z-50 hover:opacity-70 transition-opacity cursor-pointer"
                 aria-label="Close modal"
               >
                 <span className="icon-cross"></span>
@@ -303,7 +303,7 @@ export default function ArticleModal({
                     e.stopPropagation();
                     onNavigate(prevPost.url);
                   }}
-                  className="p-2 hover:opacity-80 group transition-opacity"
+                  className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
                 >
                   <span className="icon-arrow-left group-hover:translate-x-1"></span>
                 </button>
@@ -316,7 +316,7 @@ export default function ArticleModal({
                     e.stopPropagation();
                     onNavigate(nextPost.url);
                   }}
-                  className="p-2 hover:opacity-80 group transition-opacity"
+                  className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
                 >
                   <span className="icon-arrow-right group-hover:translate-x-1"></span>
                 </button>
