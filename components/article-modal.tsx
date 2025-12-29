@@ -173,58 +173,56 @@ export default function ArticleModal({
         >
           {/* vertical */}
           {layoutMode === "vertical" && (
-            <article className="relative article mx-auto md:mx-auto">
+            <article className="relative article w-full mx-auto">
               <div className="w-full mx-auto flex justify-between flex-col">
-                <div className="w-full mx-auto flex justify-between flex-col">
-                  <div
-                    className={`article-header order-2 w-full md:pt-6 xl:max-w-screen-xl md:w-7/12 mx-auto`}
-                  >
-                    <header>
-                      <h1 className="tracking-wide pt-1">
-                        {post.artist && (
-                          <span className="md:pb-1 block text-base md:text-[24px]">
-                            {post.artist}
-                          </span>
-                        )}
-                        <span className="block text-lg md:text-[24px]">
-                          {post.title}
+                <div
+                  className={`article-header order-2 w-full flex-auto md:pt-6 xl:max-w-screen-xl md:w-7/12 mx-auto`}
+                >
+                  <header>
+                    <h1 className="tracking-wide pt-1">
+                      {post.artist && (
+                        <span className="md:pb-1 block text-base md:text-[24px]">
+                          {post.artist}
                         </span>
-                      </h1>
-                      <p className="pt-1">
-                        {post.tag.map((tag, i) => {
-                          return (
-                            <span key={i}>
-                              <Tag tag={tag} classNames={"md:text-[15px]"} />
-                              {i < post.tag.length - 1 && ", "}
-                            </span>
-                          );
-                        })}
-                      </p>
-                    </header>
-                    <div className="pt-6 mb-8 text-sm md:text-[17px] md:pt-8">
-                      <div
-                        className={`${markdownStyles["markdown"]}`}
-                        dangerouslySetInnerHTML={{
-                          __html: post.htmlContent || "",
-                        }}
-                      />
-                    </div>
-                  </div>
-
-                  <div
-                    className={`article-image relative order-1 md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle2()}`}
-                  >
-                    <TiltImage
-                      single={false}
-                      src={`${post.image}`}
-                      alt={post.title}
-                      width={512}
-                      height={512}
-                      tilt={1}
-                      parentClassName="z-10"
-                      childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                      )}
+                      <span className="block text-lg md:text-[24px]">
+                        {post.title}
+                      </span>
+                    </h1>
+                    <p className="pt-1">
+                      {post.tag.map((tag, i) => {
+                        return (
+                          <span key={i}>
+                            <Tag tag={tag} classNames={"md:text-[15px]"} />
+                            {i < post.tag.length - 1 && ", "}
+                          </span>
+                        );
+                      })}
+                    </p>
+                  </header>
+                  <div className="pt-6 mb-8 text-sm md:text-[17px] md:pt-8">
+                    <div
+                      className={`${markdownStyles["markdown"]}`}
+                      dangerouslySetInnerHTML={{
+                        __html: post.htmlContent || "",
+                      }}
                     />
                   </div>
+                </div>
+
+                <div
+                  className={`article-image relative order-1 flex-auto md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle2()}`}
+                >
+                  <TiltImage
+                    single={false}
+                    src={`${post.image}`}
+                    alt={post.title}
+                    width={512}
+                    height={512}
+                    tilt={1}
+                    parentClassName="z-10"
+                    childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                  />
                 </div>
               </div>
             </article>
