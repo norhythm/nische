@@ -63,6 +63,19 @@ export default function ArticleModal({
     }
   };
 
+  const layoutImageStyle2 = (): string => {
+    switch (post.layout) {
+      case "rect-h":
+        return "md:w-9/12";
+      case "rect-v":
+        return "md:w-6/12";
+      case "square":
+        return "md:w-7/12";
+      default:
+        return "md:w-7/12";
+    }
+  };
+
   return (
     <div
       className="fixed inset-0 z-40 md:z-[100] flex justify-center cursor-close"
@@ -160,10 +173,12 @@ export default function ArticleModal({
         >
           {/* vertical */}
           {layoutMode === "vertical" && (
-            <article className="relative article mx-auto xl:max-w-screen-xl md:w-7/12 md:mx-auto">
+            <article className="relative article mx-auto md:mx-auto">
               <div className="w-full mx-auto flex justify-between flex-col">
                 <div className="w-full mx-auto flex justify-between flex-col">
-                  <div className={`article-header order-2 w-full md:pt-6`}>
+                  <div
+                    className={`article-header order-2 w-full md:pt-6 xl:max-w-screen-xl md:w-7/12 mx-auto`}
+                  >
                     <header>
                       <h1 className="tracking-wide pt-1">
                         {post.artist && (
@@ -197,7 +212,7 @@ export default function ArticleModal({
                   </div>
 
                   <div
-                    className={`article-image relative order-1 md:order-1 py-4 md:py-0`}
+                    className={`article-image relative order-1 md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle2()}`}
                   >
                     <TiltImage
                       single={false}
