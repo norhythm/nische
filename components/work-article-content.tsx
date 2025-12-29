@@ -49,7 +49,7 @@ export default function WorkArticleContent({
     }
   };
   const [layoutMode, setLayoutMode] = useState<"vertical" | "horizontal">(
-    "horizontal"
+    "vertical"
   );
 
   return (
@@ -90,10 +90,9 @@ export default function WorkArticleContent({
           </span>
         </div>
       </div>
-
       {/* vertical */}
       {layoutMode === "vertical" && (
-        <div className="py-0 md:py-12 md:min-h-[480px] md:w-8/12 md:mx-auto">
+        <div className="py-0 md:py-12 md:min-h-[480px] md:w-7/12 md:mx-auto">
           <article className="relative article">
             <div className="w-full mx-auto flex justify-between flex-col">
               <div className={`article-header order-2 w-full pt-6`}>
@@ -132,6 +131,7 @@ export default function WorkArticleContent({
               >
                 <TiltImage
                   single={false}
+                  clip={false}
                   src={`${post.image}`}
                   alt={post.title}
                   width={512}
@@ -145,7 +145,6 @@ export default function WorkArticleContent({
           </article>
         </div>
       )}
-
       {/* horizontal */}
       {layoutMode === "horizontal" && (
         <div className="py-0 md:py-12 md:min-h-[480px]">
@@ -191,6 +190,7 @@ export default function WorkArticleContent({
               >
                 <TiltImage
                   single={false}
+                  clip={false}
                   src={`${post.image}`}
                   alt={post.title}
                   width={512}

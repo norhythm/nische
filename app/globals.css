@@ -189,6 +189,7 @@ img {
   height: 1px;
   background-color: rgb(var(--foreground-rgb));
   transform-origin: left top;
+  @apply md:left-[16px];
 }
 
 .icon-arrow-left::before {
@@ -217,6 +218,7 @@ img {
   height: 1px;
   background-color: rgb(var(--foreground-rgb));
   transform-origin: right top;
+  @apply md:right-[16px];
 }
 
 .icon-arrow-right::before {

@@ -26,7 +26,7 @@ export default function ArticleModal({
   onNavigate,
 }: ArticleModalProps) {
   const [layoutMode, setLayoutMode] = useState<"vertical" | "horizontal">(
-    "horizontal"
+    "vertical"
   );
 
   // Handle ESC key and arrow keys
@@ -75,7 +75,8 @@ export default function ArticleModal({
       />
 
       {/* Modal content */}
-      <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] md:top-0 mx-[8px] md:mx-0 md:h-[calc(100vh-148px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg md:rounded-none">
+      {/* <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] md:top-0 mx-[8px] md:mx-4 md:h-[calc(100vh-164px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg"> */}
+      <div className="relative z-10 w-full h-[calc(100vh-88px)] top-[72px] md:h-[calc(100vh-32px)] md:top-4 mx-4 bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg">
         {/* Close button */}
         <button
           onClick={onClose}
@@ -130,10 +131,10 @@ export default function ArticleModal({
               e.stopPropagation();
               onNavigate(prevPost.url);
             }}
-            className="hidden md:flex fixed md:absolute left-4 top-1/2 -translate-y-1/2 z-20 p-3 hover:opacity-70 transition-opacity bg-hero/80 rounded-full items-center justify-center"
+            className="hidden md:flex fixed left-4 top-1/2 -translate-y-1/2 z-20 hover:opacity-70 group transition-opacity bg-hero/80 rounded-full items-center justify-center cursor-pointer"
             aria-label="Previous work"
           >
-            <span className="icon-arrow-left"></span>
+            <span className="icon-arrow-left group-hover:-translate-x-1 transition-transform"></span>
           </button>
         )}
         {nextPost && (
@@ -142,16 +143,16 @@ export default function ArticleModal({
               e.stopPropagation();
               onNavigate(nextPost.url);
             }}
-            className="hidden md:flex fixed md:absolute right-4 top-1/2 -translate-y-1/2 z-20 p-3 hover:opacity-70 transition-opacity bg-hero/80 rounded-full items-center justify-center"
+            className="hidden md:flex fixed right-4 top-1/2 -translate-y-1/2 z-20 hover:opacity-70 group transition-opacity bg-hero/80 rounded-full items-center justify-center cursor-pointer"
             aria-label="Next work"
           >
-            <span className="icon-arrow-right"></span>
+            <span className="icon-arrow-right group-hover:translate-x-1 transition-transform"></span>
           </button>
         )}
 
         {/* Article content */}
         <div
-          className={`w-full py-0 md:py-12 mx-auto px-4 ${
+          className={`flex flex-col w-full h-full py-0 md:py-12 mx-auto px-4 md:px-0 ${
             layoutMode === "vertical"
               ? "xl:max-w-screen-xl md:px-[8%] xl:px-[102px]"
               : ""
@@ -159,10 +160,10 @@ export default function ArticleModal({
         >
           {/* vertical */}
           {layoutMode === "vertical" && (
-            <article className="relative article mx-auto xl:max-w-screen-xl md:w-8/12 md:mx-auto">
+            <article className="relative article mx-auto xl:max-w-screen-xl md:w-7/12 md:mx-auto">
               <div className="w-full mx-auto flex justify-between flex-col">
                 <div className="w-full mx-auto flex justify-between flex-col">
-                  <div className={`article-header order-2 w-full pt-6`}>
+                  <div className={`article-header order-2 w-full md:pt-6`}>
                     <header>
                       <h1 className="tracking-wide pt-1">
                         {post.artist && (
@@ -268,12 +269,12 @@ export default function ArticleModal({
           )}
 
           {/* Mobile navigation */}
-          <div className="md:hidden flex gap-2 md:gap-0 justify-between items-center">
+          <div className="md:hidden sticky w-full mt-auto -px-4 bottom-2 flex gap-2 md:gap-0 justify-between items-center">
             <div className="flex-1">
               {/* Close button */}
               <button
                 onClick={onClose}
-                className="block md:hidden z-20 p-2 hover:opacity-70 transition-opacity cursor-pointer"
+                className="block md:hidden z-20 hover:opacity-70 transition-opacity cursor-pointer"
                 aria-label="Close modal"
               >
                 <span className="icon-cross"></span>
@@ -286,9 +287,9 @@ export default function ArticleModal({
                     e.stopPropagation();
                     onNavigate(prevPost.url);
                   }}
-                  className="p-2 hover:opacity-70 transition-opacity"
+                  className="p-2 hover:opacity-80 group transition-opacity"
                 >
-                  <span className="icon-arrow-left"></span>
+                  <span className="icon-arrow-left group-hover:translate-x-1"></span>
                 </button>
               )}
             </div>
@@ -299,9 +300,9 @@ export default function ArticleModal({
                     e.stopPropagation();
                     onNavigate(nextPost.url);
                   }}
-                  className="p-2 hover:opacity-70 transition-opacity"
+                  className="p-2 hover:opacity-80 group transition-opacity"
                 >
-                  <span className="icon-arrow-right"></span>
+                  <span className="icon-arrow-right group-hover:translate-x-1"></span>
                 </button>
               )}
             </div>

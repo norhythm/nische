@@ -96,7 +96,6 @@ export default function BlogPage({
   const handleWorkClick = useCallback((e: React.MouseEvent, slug: string) => {
     e.preventDefault();
     setSelectedSlug(slug);
-    // Update URL without full navigation
     window.history.pushState({}, "", `/works/${slug}/`);
   }, []);
 

@@ -6,6 +6,7 @@ import markdownToHtml from "@/lib/markdownToHtml";
 import BackComponent from "@/components/back-component";
 import WorkNavLink from "@/components/work-nav-link";
 import WorkArticleContent from "@/components/work-article-content";
+import KeyboardNavigation from "@/components/keyboard-navigation";
 
 export default async function Post(props: Params) {
   const params = await props.params;
@@ -20,6 +21,10 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
+      <KeyboardNavigation
+        prevUrl={prevPost ? `/works/${prevPost.url}` : undefined}
+        nextUrl={nextPost ? `/works/${nextPost.url}` : undefined}
+      />
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
 
@@ -45,8 +50,8 @@ export default async function Post(props: Params) {
           content={content}
         />
         {/* Prev/Next Navigation */}
-        <div className="works-navigation sticky z-50 bottom-4 md:relative md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
-          <nav className="flex gap-2 md:gap-0 justify-between items-center">
+        <div className="works-navigation sticky z-50 bottom-4 md:fixed md:top-0 md:left-0 md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
+          <nav className="flex gap-2 md:gap-0 md:h-full justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
             </div>
@@ -54,7 +59,7 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <WorkNavLink
                   href={`/works/${prevPost.url}`}
-                  className="inline-flex justify-center items-center text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto"
+                  className="md:h-[100vh] inline-flex justify-center items-center text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
                     <span className="hidden">← Next work</span>
@@ -68,7 +73,7 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <WorkNavLink
                   href={`/works/${nextPost.url}`}
-                  className="inline-flex justify-center items-center justify-end text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto"
+                  className="md:h-[100vh] inline-flex justify-center items-center justify-end text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
                     <span className="hidden">Previous work →</span>

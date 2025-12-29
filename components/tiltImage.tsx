@@ -66,7 +66,6 @@ export default function FullScreenTiltImage({
         `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`
       );
 
-      // シャドウの計算（光源がマウスの反対側にあるように）
       const shadowX = rotateY * -5 * intensity;
       const shadowY = rotateX * 5 * intensity + 10;
       const distance = Math.sqrt(rotateX * rotateX + rotateY * rotateY);
@@ -107,7 +106,7 @@ export default function FullScreenTiltImage({
     <div
       ref={imageRef}
       className={`relative ${parentClassName}`}
-      style={{ transform, clipPath: `url(#${maskId})` }}
+      style={{ transform, ...(clip && { clipPath: `url(#${maskId})` }) }}
     >
       {clip && (
         <svg width="0" height="0" style={{ position: "absolute" }}>
