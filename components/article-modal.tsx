@@ -5,6 +5,7 @@ import { Post } from "@/interfaces/post";
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
+import BackComponent from "@/components/back-component";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -90,6 +91,8 @@ export default function ArticleModal({
       {/* Modal content */}
       {/* <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] md:top-0 mx-[8px] md:mx-4 md:h-[calc(100vh-164px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg"> */}
       <div className="relative z-10 w-full h-[calc(100vh-88px)] top-[72px] md:h-[calc(100vh-32px)] md:top-4 mx-4 bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg">
+        <BackComponent style="mobile-cursor" />
+
         {/* Close button */}
         <button
           onClick={onClose}
