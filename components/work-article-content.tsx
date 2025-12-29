@@ -49,7 +49,7 @@ export default function WorkArticleContent({
     }
   };
   const [layoutMode, setLayoutMode] = useState<"vertical" | "horizontal">(
-    "vertical"
+    "horizontal"
   );
 
   return (

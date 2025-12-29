@@ -5,7 +5,6 @@ import { Post } from "@/interfaces/post";
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
-import Footer from "@/components/footer";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -27,7 +26,7 @@ export default function ArticleModal({
   onNavigate,
 }: ArticleModalProps) {
   const [layoutMode, setLayoutMode] = useState<"vertical" | "horizontal">(
-    "vertical"
+    "horizontal"
   );
 
   // Handle ESC key and arrow keys
@@ -65,7 +64,6 @@ export default function ArticleModal({
   };
 
   return (
-    // <div className="fixed inset-0 z-[100] flex items-center justify-center">
     <div
       className="fixed inset-0 z-40 md:z-[100] flex justify-center cursor-close"
       onClick={onClose}
@@ -77,7 +75,6 @@ export default function ArticleModal({
       />
 
       {/* Modal content */}
-      {/* <div className="relative z-10 w-full h-full pt-[72px] md:h-[calc(100vh-60px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in"> */}
       <div className="relative z-10 w-full h-[calc(100vh-80px)] top-[72px] md:top-0 mx-[8px] md:mx-0 md:h-[calc(100vh-148px)] md:mt-[148px] bg-hero overflow-auto animate-fade-in shadow-xl rounded-lg md:rounded-none">
         {/* Close button */}
         <button
@@ -310,7 +307,6 @@ export default function ArticleModal({
             </div>
           </div>
         </div>
-        {/* <Footer className={"mt-auto"} /> */}
       </div>
     </div>
   );

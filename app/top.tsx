@@ -1,29 +1,58 @@
 "use client";
 
-import { useState, useEffect, useMemo, useRef } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useState, useEffect, useMemo, useRef, useCallback } from "react";
+import { usePathname } from "next/navigation";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
 
-import Link from "next/link";
 import TiltImage from "@/components/tiltImage";
+import ArticleModal from "@/components/article-modal";
+
+interface PostWithHtml extends Post {
+  htmlContent?: string;
+}
 
 export default function BlogPage({
   posts,
   tags,
 }: {
-  posts: Post[];
+  posts: PostWithHtml[];
   tags: string[];
 }) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
+  const pathname = usePathname();
   const { selectedTag, setSelectedTag } = useSelectedTagContext();
+  const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
   const [underlineStyle, setUnderlineStyle] = useState<{
     left: number;
     width: number;
     opacity: number;
   }>({ left: 0, width: 0, opacity: 0 });
   const buttonRefs = useRef<(HTMLButtonElement | null)[]>([]);
+
+  // Check if we should show modal from URL
+  useEffect(() => {
+    const match = pathname.match(/^\/works\/([^/]+)\/?$/);
+    if (match) {
+      setSelectedSlug(match[1]);
+    } else {
+      setSelectedSlug(null);
+    }
+  }, [pathname]);
+
+  // Handle browser back/forward
+  useEffect(() => {
+    const handlePopState = () => {
+      const match = window.location.pathname.match(/^\/works\/([^/]+)\/?$/);
+      if (match) {
+        setSelectedSlug(match[1]);
+      } else {
+        setSelectedSlug(null);
+      }
+    };
+
+    window.addEventListener("popstate", handlePopState);
+    return () => window.removeEventListener("popstate", handlePopState);
+  }, []);
 
   useEffect(() => {
     const updateUnderlinePosition = () => {
@@ -64,11 +93,41 @@ export default function BlogPage({
     setSelectedTag(tag);
   };
 
+  const handleWorkClick = useCallback((e: React.MouseEvent, slug: string) => {
+    e.preventDefault();
+    setSelectedSlug(slug);
+    // Update URL without full navigation
+    window.history.pushState({}, "", `/works/${slug}/`);
+  }, []);
+
+  const handleCloseModal = useCallback(() => {
+    setSelectedSlug(null);
+    window.history.pushState({}, "", "/");
+  }, []);
+
+  const handleNavigateWork = useCallback((slug: string) => {
+    setSelectedSlug(slug);
+    window.history.pushState({}, "", `/works/${slug}/`);
+  }, []);
+
+  const selectedPost = useMemo(() => {
+    if (!selectedSlug) return null;
+    return posts.find((p) => p.url === selectedSlug) || null;
+  }, [posts, selectedSlug]);
+
+  const adjacentPosts = useMemo(() => {
+    if (!selectedSlug) return { prev: null, next: null };
+    const currentIndex = posts.findIndex((p) => p.url === selectedSlug);
+    return {
+      prev: currentIndex > 0 ? posts[currentIndex - 1] : null,
+      next: currentIndex < posts.length - 1 ? posts[currentIndex + 1] : null,
+    };
+  }, [posts, selectedSlug]);
+
   return (
     <>
-      <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] z-50 pointer-events-none transition-all">
+      <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] xl:px-[102px] z-30 pointer-events-none">
         <div className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
-          {/* 動的な下線 */}
           <div
             className="absolute bottom-0 h-[1px] bg-current transition-all duration-300 ease-out"
             style={{
@@ -100,6 +159,7 @@ export default function BlogPage({
           </div>
         </div>
       </div>
+
       <section
         id="works"
         className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20"
@@ -115,10 +175,10 @@ export default function BlogPage({
                 work.layout === "rect-v" ? "px-[10%]" : ""
               } relative flex justify-center items-center`}
             >
-              <Link
+              <a
                 href={`/works/${work.url}/`}
+                onClick={(e) => handleWorkClick(e, work.url)}
                 className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
-                scroll={true}
               >
                 <div className="relative flex justify-center items-center">
                   <TiltImage
@@ -133,7 +193,7 @@ export default function BlogPage({
                     childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
                   />
                 </div>
-              </Link>
+              </a>
             </div>
           ))}
         </div>
@@ -143,6 +203,17 @@ export default function BlogPage({
           </div>
         )}
       </section>
+
+      {/* Modal */}
+      {selectedPost && (
+        <ArticleModal
+          post={selectedPost}
+          onClose={handleCloseModal}
+          prevPost={adjacentPosts.prev}
+          nextPost={adjacentPosts.next}
+          onNavigate={handleNavigateWork}
+        />
+      )}
     </>
   );
 }

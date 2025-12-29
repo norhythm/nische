@@ -162,6 +162,6 @@ export function useScrollRestoration() {
 }
 
 export default function ScrollRestoration() {
-  useScrollRestoration();
+  // useScrollRestoration();
   return null;
 }
