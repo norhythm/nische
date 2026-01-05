@@ -1,23 +1,27 @@
 "use client";
 
 import Link from "next/link";
-import { useSelectedTagContext } from "@/lib/selected-tag-context";
+import { useRouter } from "next/navigation";
 
 interface TagProps {
   tag: string;
-  classNames: string;
+  classNames?: string;
 }
 
-export default function Tag({ tag, classNames }: TagProps) {
-  const { setSelectedTag } = useSelectedTagContext();
+export default function Tag({ tag, classNames = "" }: TagProps) {
+  const router = useRouter();
+
+  const handleClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    router.push(`/?tag=${tag}`);
+  };
 
   return (
     <Link
       className={`text-xs md:text-sm decoration-underline capitalize ${classNames}`}
       href={`/?tag=${tag}`}
-      onClick={() => {
-        setSelectedTag(tag);
-      }}
+      onClick={handleClick}
     >
       {tag}
     </Link>
