@@ -76,7 +76,7 @@ export default function ArticleModal({
           {/* Close button */}
           <button
             onClick={onClose}
-            className="hidden md:block md:absolute md:bottom-auto md:left-auto md:top-2 md:right-2 z-20 hover:opacity-70 transition-opacity cursor-pointer"
+            className="hidden md:block md:absolute md:bottom-auto md:left-auto md:top-2 md:right-2 z-30 hover:opacity-70 transition-opacity cursor-pointer"
             aria-label="Close modal"
           >
             <span className="icon-cross"></span>
@@ -89,7 +89,7 @@ export default function ArticleModal({
                 e.stopPropagation();
                 onNavigate(prevPost.url);
               }}
-              className="hidden md:flex absolute left-2 top-1/2 -translate-y-1/2 z-20 hover:opacity-80 group transition-opacity items-center justify-center cursor-pointer"
+              className="hidden md:flex absolute left-2 top-0 bottom-0 z-20 hover:opacity-80 group transition-opacity items-center justify-center cursor-pointer"
               aria-label="Previous work"
             >
               <span className="icon-arrow-left group-hover:-translate-x-1 transition-transform"></span>
@@ -101,7 +101,7 @@ export default function ArticleModal({
                 e.stopPropagation();
                 onNavigate(nextPost.url);
               }}
-              className="hidden md:flex absolute right-2 top-1/2 -translate-y-1/2 z-20 hover:opacity-80 group transition-opacity items-center justify-center cursor-pointer"
+              className="hidden md:flex absolute right-2 top-0 bottom-0 z-20 hover:opacity-80 group transition-opacity items-center justify-center cursor-pointer"
               aria-label="Next work"
             >
               <span className="icon-arrow-right group-hover:translate-x-1 transition-transform"></span>
