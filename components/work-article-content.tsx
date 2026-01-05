@@ -26,21 +26,23 @@ export default function WorkArticleContent({
     }
     switch (post.layout) {
       case "rect-h":
-        return "md:w-7/12";
+        return "md:w-8/12";
       case "rect-v":
-        return "md:w-5/12";
+        return "md:w-6/12";
       case "square":
-        return "md:w-6/12";
+        return "md:w-7/12";
       default:
-        return "md:w-6/12";
+        return "md:w-7/12";
     }
   };
 
   return (
-    <div className="py-0 md:py-12 md:w-7/12 md:mx-auto">
+    <div className="py-0 md:py-12">
       <article className="relative article">
         <div className="w-full mx-auto flex justify-between flex-col">
-          <div className={`article-header order-2 w-full pt-6`}>
+          <div
+            className={`article-header order-2 w-full pt-6 md:w-7/12 md:mx-auto`}
+          >
             <header>
               <h1 className="tracking-wide pt-1">
                 {post.artist && (
@@ -72,7 +74,7 @@ export default function WorkArticleContent({
           </div>
 
           <div
-            className={`article-image relative order-1 md:order-1 py-4 md:py-0`}
+            className={`article-image relative order-1 md:order-1 py-4 md:py-0 md:mx-auto ${layoutImageStyle()}`}
           >
             <TiltImage
               single={false}
