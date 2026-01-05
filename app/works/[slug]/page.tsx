@@ -50,7 +50,7 @@ export default async function Post(props: Params) {
           content={content}
         />
         {/* Prev/Next Navigation */}
-        <div className="works-navigation sticky z-50 bottom-4 md:fixed md:top-0 md:left-0 md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 pointer-events-none">
+        <div className="works-navigation sticky md:absolute z-50 bottom-4 md:absolute md:top-0 md:left-0 md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 overflow-hidden pointer-events-none">
           <nav className="flex gap-2 md:gap-0 md:h-full justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
@@ -59,7 +59,7 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <WorkNavLink
                   href={`/works/${prevPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="md:h-[100vh] inline-flex justify-center items-center md:pl-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
                     <span className="hidden">← Next work</span>
@@ -73,7 +73,7 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <WorkNavLink
                   href={`/works/${nextPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center justify-end text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="md:h-[100vh] inline-flex justify-center items-center justify-end md:pr-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
                     <span className="hidden">Previous work →</span>

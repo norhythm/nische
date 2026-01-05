@@ -67,7 +67,7 @@ export default function BackComponent({
         {style == "mobile-cursor" && (
           <div
             id="touch-layer"
-            className={`block md:hidden fixed top-0 left-0 z-20 w-full h-full select-none`}
+            className={`block md:hidden absolute top-0 left-0 z-20 w-full h-full min-h-[calc(80vh+20px)] select-none`}
           >
             <MobileTouchCursor onTap={handleBack} className={className} />
           </div>

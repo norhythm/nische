@@ -8,7 +8,9 @@ interface SelectedTagContextType {
   setSelectedTag: (tag: string | null) => void;
 }
 
-const SelectedTagContext = createContext<SelectedTagContextType | undefined>(undefined);
+const SelectedTagContext = createContext<SelectedTagContextType | undefined>(
+  undefined
+);
 
 function SelectedTagProviderInner({ children }: { children: ReactNode }) {
   const [selectedTag, setSelectedTag] = useSelectedTag();
@@ -22,7 +24,13 @@ function SelectedTagProviderInner({ children }: { children: ReactNode }) {
 
 export function SelectedTagProvider({ children }: { children: ReactNode }) {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense
+      fallback={
+        <div className="flex justify-center py-20 text-sm md:text-base">
+          <p>Loading... ;)</p>
+        </div>
+      }
+    >
       <SelectedTagProviderInner>{children}</SelectedTagProviderInner>
     </Suspense>
   );
@@ -31,7 +39,9 @@ export function SelectedTagProvider({ children }: { children: ReactNode }) {
 export function useSelectedTagContext() {
   const context = useContext(SelectedTagContext);
   if (context === undefined) {
-    throw new Error("useSelectedTagContext must be used within a SelectedTagProvider");
+    throw new Error(
+      "useSelectedTagContext must be used within a SelectedTagProvider"
+    );
   }
   return context;
 }

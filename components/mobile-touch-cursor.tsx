@@ -20,7 +20,6 @@ export default function MobileTouchCursor({
   const touchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
-    // モバイルデバイスかどうかを判定
     const checkMobile = () => {
       const isMobileDevice =
         /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(

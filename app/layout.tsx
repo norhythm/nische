@@ -60,11 +60,11 @@ export default function RootLayout({
         <SelectedTagProvider>
           <ScrollRestoration />
           <PathAwareContainer>
-            <main className="flex flex-col flex-1">
+            <main>
               <Header />
               {children}
+              <Footer className={"mt-auto"} />
             </main>
-            <Footer className={"mt-auto"} />
           </PathAwareContainer>
         </SelectedTagProvider>
       </body>
