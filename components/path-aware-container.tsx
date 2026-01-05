@@ -41,8 +41,8 @@ export default function PathAwareContainer({
   }, [pathname]);
 
   return (
-    <div id="container" className={`h-screen overflow-hidden ${pathClasses}`}>
-      <div className="h-full overflow-auto">{children}</div>
+    <div id="container" className={`h-dvh ${pathClasses}`}>
+      {children}
     </div>
   );
 }
