@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useMemo, useRef, useCallback } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import { usePathname } from "next/navigation";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
@@ -22,6 +22,11 @@ export default function BlogPage({
   const pathname = usePathname();
   const { selectedTag, setSelectedTag } = useSelectedTagContext();
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
+
+  // Helper to build URL with tag query param
+  const buildUrl = (path: string, tag: string | null) => {
+    return tag ? `${path}?tag=${tag}` : path;
+  };
   const [underlineStyle, setUnderlineStyle] = useState<{
     left: number;
     width: number;
@@ -39,7 +44,7 @@ export default function BlogPage({
     }
   }, [pathname]);
 
-  // Handle browser back/forward
+  // Handle browser back/forward for modal
   useEffect(() => {
     const handlePopState = () => {
       const match = window.location.pathname.match(/^\/works\/([^/]+)\/?$/);
@@ -93,21 +98,24 @@ export default function BlogPage({
     setSelectedTag(tag);
   };
 
-  const handleWorkClick = useCallback((e: React.MouseEvent, slug: string) => {
+  const handleWorkClick = (e: React.MouseEvent, slug: string) => {
     e.preventDefault();
     setSelectedSlug(slug);
-    window.history.pushState({}, "", `/works/${slug}/`);
-  }, []);
+    const url = buildUrl(`/works/${slug}/`, selectedTag);
+    window.history.pushState({}, "", url);
+  };
 
-  const handleCloseModal = useCallback(() => {
+  const handleCloseModal = () => {
     setSelectedSlug(null);
-    window.history.pushState({}, "", "/");
-  }, []);
+    const url = buildUrl("/", selectedTag);
+    window.history.pushState({}, "", url);
+  };
 
-  const handleNavigateWork = useCallback((slug: string) => {
+  const handleNavigateWork = (slug: string) => {
     setSelectedSlug(slug);
-    window.history.pushState({}, "", `/works/${slug}/`);
-  }, []);
+    const url = buildUrl(`/works/${slug}/`, selectedTag);
+    window.history.pushState({}, "", url);
+  };
 
   const selectedPost = useMemo(() => {
     if (!selectedSlug) return null;
@@ -175,7 +183,7 @@ export default function BlogPage({
               } relative flex justify-center items-center`}
             >
               <a
-                href={`/works/${work.url}/`}
+                href={buildUrl(`/works/${work.url}/`, selectedTag)}
                 onClick={(e) => handleWorkClick(e, work.url)}
                 className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
               >
