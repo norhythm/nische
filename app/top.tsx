@@ -169,7 +169,7 @@ export default function BlogPage({
 
       <section
         id="works"
-        className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-10"
+        className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20"
       >
         <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
           {filteredPosts.map((work, index) => (
