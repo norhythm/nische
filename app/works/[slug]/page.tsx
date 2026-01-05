@@ -50,7 +50,7 @@ export default async function Post(props: Params) {
           content={content}
         />
         {/* Prev/Next Navigation */}
-        <div className="works-navigation sticky md:absolute z-50 bottom-4 md:absolute md:top-0 md:left-0 md:bottom-0 w-full mx-auto mt-auto pt-8 md:pt-0 overflow-hidden pointer-events-none">
+        <div className="works-navigation sticky md:fixed md:left-[50%] md:-translate-x-1/2 z-40 bottom-4 md:absolute md:top-0 md:left-0 md:bottom-0 w-full xl:max-w-screen-xl mt-auto pt-8 md:pt-0 md:px-[8%] xl:px-[102px] overflow-hidden pointer-events-none">
           <nav className="flex gap-2 md:gap-0 md:h-full justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
