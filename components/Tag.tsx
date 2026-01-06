@@ -8,6 +8,19 @@ interface TagProps {
   classNames?: string;
 }
 
+const tagName = (tag: string) => {
+  switch (tag) {
+    case "rec":
+      return "recording";
+    case "mix":
+      return "mixing";
+    case "master":
+      return "mastering";
+    default:
+      return tag;
+  }
+};
+
 export default function Tag({ tag, classNames = "" }: TagProps) {
   const router = useRouter();
 
@@ -23,7 +36,8 @@ export default function Tag({ tag, classNames = "" }: TagProps) {
       href={`/?tag=${tag}`}
       onClick={handleClick}
     >
-      {tag}
+      {/* {tag} */}
+      {tagName(tag)}
     </Link>
   );
 }

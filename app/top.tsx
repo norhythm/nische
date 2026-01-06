@@ -131,6 +131,19 @@ export default function BlogPage({
     };
   }, [posts, selectedSlug]);
 
+  const tagName = (tag: string) => {
+    switch (tag) {
+      case "rec":
+        return "recording";
+      case "mix":
+        return "mixing";
+      case "master":
+        return "mastering";
+      default:
+        return tag;
+    }
+  };
+
   return (
     <>
       <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] xl:px-[102px] z-30 pointer-events-none">
@@ -151,7 +164,8 @@ export default function BlogPage({
                 onClick={() => handleTagChange(tag)}
                 className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
               >
-                {tag}
+                {/* {tag} */}
+                {tagName(tag)}
               </button>
             </div>
           ))}
