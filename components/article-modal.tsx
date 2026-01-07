@@ -1,11 +1,11 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { Post } from "@/interfaces/post";
-import markdownStyles from "@/app/markdown.module.css";
-import Tag from "@/components/Tag";
+import ArticleBody from "@/components/article-body";
 import TiltImage from "@/components/tiltImage";
 import BackComponent from "@/components/back-component";
+import { layoutImageStyle } from "@/lib/utils";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -45,19 +45,6 @@ export default function ArticleModal({
       document.body.style.overflow = "";
     };
   }, [onClose, prevPost, nextPost, onNavigate]);
-
-  const layoutImageStyle = (): string => {
-    switch (post.layout) {
-      case "rect-h":
-        return "md:w-9/12";
-      case "rect-v":
-        return "md:w-6/12";
-      case "square":
-        return "md:w-7/12";
-      default:
-        return "md:w-7/12";
-    }
-  };
 
   return (
     <div
@@ -118,40 +105,13 @@ export default function ArticleModal({
                 <div
                   className={`article-header order-2 w-full flex-auto md:pt-6 xl:max-w-screen-xl md:w-7/12 mx-auto`}
                 >
-                  <header>
-                    <h1 className="tracking-wide pt-1">
-                      {post.artist && (
-                        <span className="md:pb-1 block text-base md:text-[24px]">
-                          {post.artist}
-                        </span>
-                      )}
-                      <span className="block text-lg md:text-[24px]">
-                        {post.title}
-                      </span>
-                    </h1>
-                    <p className="pt-1">
-                      {post.tag.map((tag, i) => {
-                        return (
-                          <span key={i}>
-                            <Tag tag={tag} classNames={"md:text-[15px]"} />
-                            {i < post.tag.length - 1 && ", "}
-                          </span>
-                        );
-                      })}
-                    </p>
-                  </header>
-                  <div className="pt-6 pb-8 text-sm md:text-[17px] md:pt-8">
-                    <div
-                      className={`${markdownStyles["markdown"]}`}
-                      dangerouslySetInnerHTML={{
-                        __html: post.htmlContent || "",
-                      }}
-                    />
-                  </div>
+                  <ArticleBody post={post} content={post.htmlContent || ""} />
                 </div>
 
                 <div
-                  className={`article-image relative order-1 flex-auto md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle()}`}
+                  className={`article-image relative order-1 flex-auto md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle(
+                    post
+                  )}`}
                 >
                   <TiltImage
                     single={false}
