@@ -35,13 +35,13 @@ export default function Biography() {
                 Recording / Mixing / Mastering Engineer
               </p>
 
-              <div className="flex flex-col md:flex-row md:gap-12 mb-8 text-sm md:text-base">
-                <p className="mb-4 md:leading-loose flex-1">
+              <div className="flex flex-col md:flex-row md:gap-12 mb-8">
+                <p className="mb-4 leading-[1.5] md:leading-[1.8] flex-1 text-[13px] md:text-[15px]">
                   1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte
                   Refact」に所属しながら、常なる活動の幅を広げている。
                 </p>
 
-                <p className="mb-4 md:leading-loose flex-1">
+                <p className="mb-4 md:leading-[1.675] flex-1 text-sm md:text-base">
                   Born in 1985, Tokyo. Through self-produced projects, developed
                   a deep interest in acoustics and equipment, which led to a
                   passion for engineering. While centered on beat and electronic
@@ -109,9 +109,12 @@ export default function Biography() {
                 {equipmentsData.slice(0, 3).map((data, i) => (
                   <div key={i}>
                     <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
-                    <div className="leading-relaxed text-text-secondary">
+                    <div className="leading-[1.3]">
                       {data.items?.map((item, j) => (
-                        <dl key={j} className="grid grid-cols-12 gap-2">
+                        <dl
+                          key={j}
+                          className="grid grid-cols-12 gap-2 py-[3px]"
+                        >
                           <dt className="col-start-1 col-end-5">
                             {item.production}
                           </dt>
@@ -128,9 +131,12 @@ export default function Biography() {
                 {equipmentsData.slice(3).map((data, i) => (
                   <div key={i}>
                     <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
-                    <div className="leading-relaxed text-text-secondary">
+                    <div className="leading-[1.3]">
                       {data.items?.map((item, j) => (
-                        <dl key={j} className="grid grid-cols-12 gap-2">
+                        <dl
+                          key={j}
+                          className="grid grid-cols-12 gap-2 py-[3px]"
+                        >
                           <dt className="col-start-1 col-end-5">
                             {item.production}
                           </dt>
