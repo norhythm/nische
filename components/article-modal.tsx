@@ -3,9 +3,7 @@
 import { useEffect } from "react";
 import { Post } from "@/interfaces/post";
 import ArticleBody from "@/components/article-body";
-import TiltImage from "@/components/tiltImage";
 import BackComponent from "@/components/back-component";
-import { layoutImageStyle } from "@/lib/utils";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -101,30 +99,11 @@ export default function ArticleModal({
           >
             <article className="relative article w-full mx-auto px-4">
               <BackComponent style="mobile-cursor" />
-              <div className="w-full mx-auto flex justify-between flex-col">
-                <div
-                  className={`article-header order-2 w-full flex-auto md:pt-6 xl:max-w-screen-xl md:w-7/12 mx-auto`}
-                >
-                  <ArticleBody post={post} content={post.htmlContent || ""} />
-                </div>
-
-                <div
-                  className={`article-image relative order-1 flex-auto md:order-1 py-4 md:py-0 mx-auto ${layoutImageStyle(
-                    post
-                  )}`}
-                >
-                  <TiltImage
-                    single={false}
-                    src={`${post.image}`}
-                    alt={post.title}
-                    width={512}
-                    height={512}
-                    tilt={1}
-                    parentClassName="z-10"
-                    childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-                  />
-                </div>
-              </div>
+              <ArticleBody
+                post={post}
+                content={post.htmlContent || ""}
+                modal={true}
+              />
             </article>
 
             {/* Mobile navigation */}
