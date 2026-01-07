@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
+import equipmentsData from "@/data/equipments.json";
 
 export default function Biography() {
   return (
@@ -103,93 +103,45 @@ export default function Biography() {
           <h2 className="text-lg md:text-2xl tracking-wider mb-4 md:mb-8">
             Equipments
           </h2>
-
-          {/* <div className="flex flex-col md:grid grid-cols-1 md:grid-cols-6 gap-0 md:gap-8"> */}
-          <div className="">
-            <div className="relative">
-              {/* <div className="">
-                <Image
-                  src="/images/studio.jpg"
-                  alt="Tsukasa Kikuchi"
-                  width={370}
-                  height={555}
-                  placeholder="blur"
-                  blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                  className="absolute w-full h-full object-cover object-top opacity-90"
-                />
-                <div className="absolute w-full h-full bg-black opacity-30"></div>
-              </div> */}
-
-              <div className="grid md:grid-cols-3 gap-8 relative tracking-wide text-sm md:text-base">
-                <div>
-                  <h3 className="mb-2 font-medium uppercase">Monitor</h3>
-
-                  <ul className="leading-relaxed">
-                    <li>Amphion Two18+BaseTwo25</li>
-                    <li>Auratone 5C</li>
-                    <li>Victor EX-A1</li>
-                    <li>Audeze MM-500</li>
-                    <li>OLLOAudio X1</li>
-                    <li>TAOSTUDIO T3-01</li>
-                    <li>SPL PhonitorX</li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h3 className="mb-2 font-medium uppercase">Converter</h3>
-
-                  <ul className="leading-relaxed">
-                    <li>PrismSound DREAM ADA-128</li>
-                    <li>Lavry Engineering AD-24-2016avIIr</li>
-                    <li>AVID MTRX</li>
-                    <li>Lynx aurora(8)</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="mb-2 font-medium uppercase">
-                    Compressor/Dynamics
-                  </h3>
-
-                  <ul className="leading-relaxed">
-                    <li>KmfAudio SOLO</li>
-                    <li>VertigoSound VSC-3CompressorVCA</li>
-                    <li>rockruepel COMP.TWO</li>
-                    <li>Bettermaker MasteringLimiter2.0</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="mb-2 font-medium uppercase">
-                    Equalizer/Enhancer
-                  </h3>
-
-                  <ul className="leading-relaxed">
-                    <li>KmfAudio EX5A(gain/filter)</li>
-                    <li>VertigoSound VSE-2Gyrator EQ</li>
-                    <li>Heritage Audio 73JR</li>
-                    <li>VSM-2microSATELLITEM2FULL Version</li>
-                    <li>elysia Museq</li>
-                    <li>BlackBoxAnalogDesign HG-2</li>
-                    <li>CranbourneAudio HE2</li>
-                    <li>Sonidform StarTEQ</li>
-                    <li>DanAgeAudioworks V2EQ</li>
-                    <li>CustomAudioGermany HDE-250A</li>
-                    <li>HandyAmps Michelangelo</li>
-                    <li>D.A.V Electronics BroadhurstGardensNo.3MKV</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="mb-2 font-medium uppercase">Plugins</h3>
-
-                  <ul className="leading-relaxed">
-                    <li>DMG</li>
-                    <li>MAAT</li>
-                    <li>Leapwing</li>
-                    <li>iZotope</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="mb-2">and more..</h3>
-                </div>
+          <div>
+            <div className="grid md:grid-cols-2 gap-8 relative tracking-wide text-sm md:text-base">
+              <div className="flex flex-col gap-8">
+                {equipmentsData.slice(0, 3).map((data, i) => (
+                  <div key={i}>
+                    <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
+                    <div className="leading-relaxed text-text-secondary">
+                      {data.items?.map((item, j) => (
+                        <dl key={j} className="grid grid-cols-12 gap-2">
+                          <dt className="col-start-1 col-end-5">
+                            {item.production}
+                          </dt>
+                          <dd className="col-start-5 -col-end-1">
+                            {item.name}
+                          </dd>
+                        </dl>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+              <div className="flex flex-col gap-8">
+                {equipmentsData.slice(3).map((data, i) => (
+                  <div key={i}>
+                    <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
+                    <div className="leading-relaxed text-text-secondary">
+                      {data.items?.map((item, j) => (
+                        <dl key={j} className="grid grid-cols-12 gap-2">
+                          <dt className="col-start-1 col-end-5">
+                            {item.production}
+                          </dt>
+                          <dd className="col-start-5 -col-end-1">
+                            {item.name}
+                          </dd>
+                        </dl>
+                      ))}
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
           </div>
