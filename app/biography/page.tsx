@@ -3,6 +3,22 @@
 import Image from "next/image";
 import equipmentsData from "@/data/equipments.json";
 
+const equipmentsGroup = (data: any, i: number) => {
+  return (
+    <div key={i}>
+      <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
+      <div className="leading-[1.3]">
+        {data.items?.map((item: any, j: number) => (
+          <dl key={j} className="grid grid-cols-12 gap-2 py-[3px]">
+            <dt className="col-start-1 col-end-5">{item.production}</dt>
+            <dd className="col-start-5 -col-end-1">{item.name}</dd>
+          </dl>
+        ))}
+      </div>
+    </div>
+  );
+};
+
 export default function Biography() {
   return (
     <>
@@ -106,48 +122,14 @@ export default function Biography() {
           <div>
             <div className="grid md:grid-cols-2 gap-8 relative tracking-wide text-sm md:text-base">
               <div className="flex flex-col gap-8">
-                {equipmentsData.slice(0, 3).map((data, i) => (
-                  <div key={i}>
-                    <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
-                    <div className="leading-[1.3]">
-                      {data.items?.map((item, j) => (
-                        <dl
-                          key={j}
-                          className="grid grid-cols-12 gap-2 py-[3px]"
-                        >
-                          <dt className="col-start-1 col-end-5">
-                            {item.production}
-                          </dt>
-                          <dd className="col-start-5 -col-end-1">
-                            {item.name}
-                          </dd>
-                        </dl>
-                      ))}
-                    </div>
-                  </div>
-                ))}
+                {equipmentsData
+                  .slice(0, 3)
+                  .map((data, i) => equipmentsGroup(data, i))}
               </div>
               <div className="flex flex-col gap-8">
-                {equipmentsData.slice(3).map((data, i) => (
-                  <div key={i}>
-                    <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
-                    <div className="leading-[1.3]">
-                      {data.items?.map((item, j) => (
-                        <dl
-                          key={j}
-                          className="grid grid-cols-12 gap-2 py-[3px]"
-                        >
-                          <dt className="col-start-1 col-end-5">
-                            {item.production}
-                          </dt>
-                          <dd className="col-start-5 -col-end-1">
-                            {item.name}
-                          </dd>
-                        </dl>
-                      ))}
-                    </div>
-                  </div>
-                ))}
+                {equipmentsData
+                  .slice(3)
+                  .map((data, i) => equipmentsGroup(data, i))}
               </div>
             </div>
           </div>
