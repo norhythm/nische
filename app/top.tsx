@@ -198,7 +198,6 @@ export default function BlogPage({
               ${
                 work.layout === "rect-v" ? "px-[10%]" : ""
               } relative flex justify-center items-center animate-slide-in-up`}
-              style={{ animationDelay: `${index * 50}ms` }}
             >
               <a
                 href={buildUrl(`/works/${work.url}/`, selectedTag)}

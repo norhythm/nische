@@ -117,7 +117,7 @@ const config: Config = {
         "slide-in-up": {
           from: {
             opacity: "0",
-            transform: "translateY(16px)",
+            transform: "translateY(8px)",
           },
           to: {
             opacity: "1",
