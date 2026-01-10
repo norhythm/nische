@@ -41,17 +41,22 @@ export default async function Post(props: Params) {
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
         <WorkArticleContent
           post={{
+            slug: post.slug,
+            url: post.url,
             artist: post.artist,
             title: post.title,
-            tag: post.tag,
+            date: post.date,
             image: post.image,
+            tag: post.tag,
             layout: post.layout,
+            content: post.content,
+            published: post.published,
           }}
           content={content}
         />
         {/* Prev/Next Navigation */}
         <div className="works-navigation sticky md:fixed md:left-[50%] md:-translate-x-1/2 z-40 bottom-4 md:absolute md:top-0 md:left-0 md:bottom-0 w-full xl:max-w-screen-xl mt-auto pt-8 md:pt-0 md:px-[8%] xl:px-[102px] overflow-hidden pointer-events-none">
-          <nav className="flex gap-2 md:gap-0 md:h-full justify-between items-center">
+          <nav className="flex md:h-full justify-between items-center">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
             </div>
@@ -59,7 +64,7 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <WorkNavLink
                   href={`/works/${prevPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center md:pl-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="md:h-[100vh] inline-flex justify-center items-center p-2 md:p-0 md:pl-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
                     <span className="hidden">← Next work</span>
@@ -73,7 +78,7 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <WorkNavLink
                   href={`/works/${nextPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center justify-end md:pr-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="md:h-[100vh] inline-flex justify-center items-center justify-end p-2 md:p-0 md:pr-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
                     <span className="hidden">Previous work →</span>

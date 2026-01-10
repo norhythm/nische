@@ -58,7 +58,7 @@ export default function BackComponent({
         {style == "button" && (
           <button
             onClick={handleBack}
-            className={`flex items-center text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
+            className={`flex items-center p-2 text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
           >
             <span className="hidden">Back</span>
             <span className="icon-cross"></span>
@@ -67,7 +67,7 @@ export default function BackComponent({
         {style == "mobile-cursor" && (
           <div
             id="touch-layer"
-            className={`block md:hidden absolute top-0 left-0 z-20 w-full h-full min-h-[calc(80vh+20px)] select-none`}
+            className={`block md:hidden absolute top-0 left-0 z-20 w-full h-full select-none`}
           >
             <MobileTouchCursor onTap={handleBack} className={className} />
           </div>

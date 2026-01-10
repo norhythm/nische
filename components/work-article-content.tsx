@@ -14,8 +14,13 @@ export default function WorkArticleContent({
 }: WorkArticleContentProps) {
   return (
     <div className="py-0 md:py-12">
-      <article className="relative article">
-        <ArticleBody post={post} content={content} modal={false} />
+      <article className="article">
+        <ArticleBody
+          post={post}
+          content={content}
+          modal={false}
+          backComponent={false}
+        />
       </article>
     </div>
   );

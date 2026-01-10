@@ -92,7 +92,10 @@ export default function FullScreenTiltImage({
     <div
       ref={imageRef}
       className={`relative ${parentClassName}`}
-      style={{ transform, ...(clip && { clipPath: `url(#${maskId})` }) }}
+      style={{
+        transform,
+        ...(clip && { clipPath: `url(#${maskId})` }),
+      }}
     >
       {clip && (
         <svg width="0" height="0" style={{ position: "absolute" }}>

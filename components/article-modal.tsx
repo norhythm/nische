@@ -97,53 +97,54 @@ export default function ArticleModal({
           <div
             className={`relative flex flex-col w-full h-full py-0 md:py-12 mx-auto md:px-0 overflow-auto`}
           >
-            <article className="relative article w-full mx-auto px-4">
-              <BackComponent style="mobile-cursor" />
+            <article className="article w-full h-full mx-auto">
               <ArticleBody
                 post={post}
                 content={post.htmlContent || ""}
                 modal={true}
+                backComponent={true}
+                classNames="px-4"
               />
-            </article>
 
-            {/* Mobile navigation */}
-            <div className="md:hidden sticky z-50 w-full mt-auto bottom-1 flex md:gap-0 justify-between items-center">
-              <div className="flex-1">
-                <button
-                  onClick={onClose}
-                  className="relative block md:hidden z-50 p-2 hover:opacity-70 transition-opacity cursor-pointer"
-                  aria-label="Close modal"
-                >
-                  <span className="icon-cross"></span>
-                </button>
-              </div>
-              <div>
-                {prevPost && (
+              {/* Mobile navigation */}
+              <div className="md:hidden sticky z-50 w-full mt-auto bottom-1 flex md:gap-0 justify-between items-center overflow-visible">
+                <div className="flex-1">
                   <button
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      onNavigate(prevPost.url);
-                    }}
-                    className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
+                    onClick={onClose}
+                    className="relative block md:hidden z-50 p-2 hover:opacity-70 transition-opacity cursor-pointer"
+                    aria-label="Close modal"
                   >
-                    <span className="icon-arrow-left group-hover:translate-x-1"></span>
+                    <span className="icon-cross"></span>
                   </button>
-                )}
+                </div>
+                <div>
+                  {prevPost && (
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onNavigate(prevPost.url);
+                      }}
+                      className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
+                    >
+                      <span className="icon-arrow-left group-hover:translate-x-1"></span>
+                    </button>
+                  )}
+                </div>
+                <div>
+                  {nextPost && (
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onNavigate(nextPost.url);
+                      }}
+                      className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
+                    >
+                      <span className="icon-arrow-right group-hover:translate-x-1"></span>
+                    </button>
+                  )}
+                </div>
               </div>
-              <div>
-                {nextPost && (
-                  <button
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      onNavigate(nextPost.url);
-                    }}
-                    className="relative z-50 p-2 hover:opacity-80 group transition-opacity"
-                  >
-                    <span className="icon-arrow-right group-hover:translate-x-1"></span>
-                  </button>
-                )}
-              </div>
-            </div>
+            </article>
           </div>
         </div>
       </div>
