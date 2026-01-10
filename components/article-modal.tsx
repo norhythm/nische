@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import { Post } from "@/interfaces/post";
 import ArticleBody from "@/components/article-body";
 import BackComponent from "@/components/back-component";
@@ -24,6 +24,9 @@ export default function ArticleModal({
   nextPost,
   onNavigate,
 }: ArticleModalProps) {
+  const touchStartX = useRef<number | null>(null);
+  const touchEndX = useRef<number | null>(null);
+
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
@@ -35,11 +38,46 @@ export default function ArticleModal({
       }
     };
 
+    const handleTouchStart = (e: TouchEvent) => {
+      touchStartX.current = e.touches[0].clientX;
+      touchEndX.current = null;
+    };
+
+    const handleTouchMove = (e: TouchEvent) => {
+      touchEndX.current = e.touches[0].clientX;
+    };
+
+    const handleTouchEnd = () => {
+      if (touchStartX.current === null || touchEndX.current === null) return;
+
+      const diff = touchStartX.current - touchEndX.current;
+      const threshold = 50;
+
+      if (Math.abs(diff) > threshold) {
+        if (diff > 0 && nextPost) {
+          // Swiped left -> next
+          onNavigate(nextPost.url);
+        } else if (diff < 0 && prevPost) {
+          // Swiped right -> prev
+          onNavigate(prevPost.url);
+        }
+      }
+
+      touchStartX.current = null;
+      touchEndX.current = null;
+    };
+
     document.addEventListener("keydown", handleKeyDown);
+    document.addEventListener("touchstart", handleTouchStart);
+    document.addEventListener("touchmove", handleTouchMove);
+    document.addEventListener("touchend", handleTouchEnd);
     document.body.style.overflow = "hidden";
 
     return () => {
       document.removeEventListener("keydown", handleKeyDown);
+      document.removeEventListener("touchstart", handleTouchStart);
+      document.removeEventListener("touchmove", handleTouchMove);
+      document.removeEventListener("touchend", handleTouchEnd);
       document.body.style.overflow = "";
     };
   }, [onClose, prevPost, nextPost, onNavigate]);
