@@ -32,7 +32,7 @@ export default function Biography() {
           <div className="relative">
             <div className="">
               <Image
-                src="/images/profile_check3.jpg"
+                src="/images/profile.jpg"
                 alt="Tsukasa Kikuchi"
                 width={370}
                 height={555}

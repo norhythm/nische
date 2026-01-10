@@ -14,7 +14,7 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb));
-  background-image: url("/images/bg_fix.gif");
+  background-image: url("/images/bg.gif");
   background-size: 200px 200px;
   font-family: "Barlow", "M PLUS Rounded 1c", "Helvetica Neue", Arial,
     sans-serif;
