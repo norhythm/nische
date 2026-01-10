@@ -185,16 +185,20 @@ export default function BlogPage({
         id="works"
         className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20"
       >
-        <div className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none animate-fade-in">
+        <div
+          key={selectedTag ?? "all"}
+          className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none"
+        >
           {filteredPosts.map((work, index) => (
             <div
-              key={index}
+              key={work.url}
               className={`${
                 index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
               }
               ${
                 work.layout === "rect-v" ? "px-[10%]" : ""
-              } relative flex justify-center items-center`}
+              } relative flex justify-center items-center animate-slide-in-up`}
+              style={{ animationDelay: `${index * 50}ms` }}
             >
               <a
                 href={buildUrl(`/works/${work.url}/`, selectedTag)}
