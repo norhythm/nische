@@ -2,7 +2,6 @@ import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
 import BackComponent from "@/components/back-component";
-import { layoutImageStyle } from "@/lib/utils";
 import { Post } from "@/interfaces/post";
 
 interface ArticleBodyProps {
@@ -26,29 +25,34 @@ export default function ArticleBody({
     >
       {backComponent && <BackComponent style="mobile-cursor" />}
       <div
-        className={`article-header order-2 w-full flex-auto md:w-7/12 mx-auto xl:max-w-screen-xl`}
+        className={`article-header order-2 w-full flex-auto md:w-6/12 mx-auto xl:max-w-screen-xl`}
       >
         <header>
           <h1 className="tracking-wide">
             {post.artist && (
-              <span className="md:pb-1 block text-base md:text-xl">
+              <span className="md:pb-1 block text-[15px] md:text-[17px] leading-[150%]">
                 {post.artist}
               </span>
             )}
-            <span className="block text-base md:text-xl">{post.title}</span>
+            <span className="block text-[15px] md:text-[17px] leading-[150%]">
+              {post.title}
+            </span>
           </h1>
-          <p className="pt-1">
+          <div className="pt-1">
             {post.tag.map((tag, i) => {
               return (
                 <span key={i}>
-                  <Tag tag={tag} classNames={"md:text-[15px]"} />
+                  <Tag
+                    tag={tag}
+                    classNames={"text-[11px] md:text-[13px] leading-[150%]"}
+                  />
                   {i < post.tag.length - 1 && ", "}
                 </span>
               );
             })}
-          </p>
+          </div>
         </header>
-        <div className="pt-6 mb-8 text-sm md:text-base md:pt-8">
+        <div className="pt-6 mb-8 text-sm md:pt-8">
           <div
             className={`${markdownStyles["markdown"]}`}
             dangerouslySetInnerHTML={{ __html: content || "" }}
@@ -56,10 +60,7 @@ export default function ArticleBody({
         </div>
       </div>
       <div
-        className={`article-image relative order-1 md:order-1 mx-auto ${layoutImageStyle(
-          post,
-          modal
-        )}`}
+        className={`article-image relative order-1 md:order-1 mx-auto md:w-6/12`}
       >
         <TiltImage
           single={false}
@@ -69,7 +70,7 @@ export default function ArticleBody({
           width={512}
           height={512}
           tilt={1}
-          parentClassName="z-10 mt-4 mb-3 p-4 bg-plate"
+          parentClassName="z-10 mt-4 mb-2 md:mb-3 p-2 bg-plate"
           childClassName={`w-full post-${post.layout} block drop-shadow-md`}
         />
       </div>

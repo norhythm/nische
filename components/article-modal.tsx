@@ -3,7 +3,6 @@
 import { useEffect, useRef } from "react";
 import { Post } from "@/interfaces/post";
 import ArticleBody from "@/components/article-body";
-import BackComponent from "@/components/back-component";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -141,7 +140,7 @@ export default function ArticleModal({
                 content={post.htmlContent || ""}
                 modal={true}
                 backComponent={true}
-                classNames="px-4"
+                classNames="px-4 md:pb-12"
               />
 
               {/* Mobile navigation */}
