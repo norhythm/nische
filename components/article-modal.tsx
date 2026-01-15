@@ -25,6 +25,13 @@ export default function ArticleModal({
 }: ArticleModalProps) {
   const touchStartX = useRef<number | null>(null);
   const touchEndX = useRef<number | null>(null);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (scrollContainerRef.current) {
+      scrollContainerRef.current.scrollTop = 0;
+    }
+  }, [post]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -132,6 +139,7 @@ export default function ArticleModal({
 
           {/* Article content */}
           <div
+            ref={scrollContainerRef}
             className={`relative flex flex-col w-full h-full py-0 md:py-12 mx-auto md:px-0 overflow-auto`}
           >
             <article className="article w-full h-full mx-auto">
