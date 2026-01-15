@@ -50,3 +50,5 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options: 
+          language: markdown
