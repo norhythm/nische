@@ -1,13 +1,11 @@
-import { getAllPosts, getAllTags } from "@/lib/api";
+import { getAllPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 import TopPage from "./top";
 import { Suspense } from "react";
 
 export default async function Page() {
   const posts = getAllPosts();
-  const tags = getAllTags();
 
-  // Pre-render markdown content to HTML for each post
   const postsWithHtml = await Promise.all(
     posts.map(async (post) => ({
       ...post,
@@ -23,7 +21,7 @@ export default async function Page() {
         </div>
       }
     >
-      <TopPage posts={postsWithHtml} tags={tags} />
+      <TopPage posts={postsWithHtml} />
     </Suspense>
   );
 }

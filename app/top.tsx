@@ -14,10 +14,8 @@ interface PostWithHtml extends Post {
 
 export default function BlogPage({
   posts,
-  tags,
 }: {
   posts: PostWithHtml[];
-  tags: string[];
 }) {
   const pathname = usePathname();
   const { selectedTag, setSelectedTag } = useSelectedTagContext();
@@ -164,7 +162,6 @@ export default function BlogPage({
                 onClick={() => handleTagChange(tag)}
                 className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
               >
-                {/* {tag} */}
                 {tagName(tag)}
               </button>
             </div>

@@ -58,17 +58,6 @@ export function getAllPosts(): Post[] {
   return posts;
 }
 
-export function getAllTags(): string[] {
-  const posts = getAllPosts();
-  const tagSet = new Set<string>();
-
-  posts.forEach((post) => {
-    post.tag.forEach((tag) => tagSet.add(tag));
-  });
-
-  return Array.from(tagSet);
-}
-
 export function getAdjacentPosts(currentSlug: string): {
   prevPost: Post | null;
   nextPost: Post | null;

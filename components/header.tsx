@@ -1,11 +1,9 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 
 export default function Header() {
-  const [textColor, setTextColor] = useState("text-black");
   const pathname = usePathname();
   const { setSelectedTag } = useSelectedTagContext();
 

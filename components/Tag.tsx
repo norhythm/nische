@@ -36,7 +36,6 @@ export default function Tag({ tag, classNames = "" }: TagProps) {
       href={`/?tag=${tag}`}
       onClick={handleClick}
     >
-      {/* {tag} */}
       {tagName(tag)}
     </Link>
   );
