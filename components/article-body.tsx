@@ -25,7 +25,7 @@ export default function ArticleBody({
     >
       {backComponent && <BackComponent style="mobile-cursor" />}
       <div
-        className={`article-header order-2 w-full flex-auto md:w-6/12 mx-auto xl:max-w-screen-xl`}
+        className={`article-header order-2 w-full flex-auto md:w-6/12 md:min-w-lg mx-auto xl:max-w-screen-xl`}
       >
         <header>
           <h1 className="tracking-wide">
@@ -60,7 +60,7 @@ export default function ArticleBody({
         </div>
       </div>
       <div
-        className={`article-image relative order-1 md:order-1 mx-auto md:w-6/12`}
+        className={`article-image relative order-1 md:order-1 mx-auto md:w-6/12 md:min-w-lg`}
       >
         <TiltImage
           single={false}
