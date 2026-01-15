@@ -1,7 +1,7 @@
 @reference "tailwindcss";
 
 .markdown {
-  @apply leading-relaxed;
+  @apply leading-[150%];
 }
 
 .markdown p,
@@ -19,7 +19,7 @@
 
 .markdown h1,
 .markdown h2 {
-  @apply text-xl tracking-wide;
+  @apply text-lg tracking-wide;
 }
 
 .markdown a {
