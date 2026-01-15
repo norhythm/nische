@@ -49,6 +49,6 @@ content:
         type: image
       - name: body
         label: Body
-        type: rich-text
+        type: code
         options: 
           language: markdown
