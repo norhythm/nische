@@ -66,7 +66,7 @@ export default function Contact() {
           </h1>
 
           <div className="my-12">
-            <h2 className="mb-4 text-lg">Contact Information</h2>
+            <h2 className="mb-4 text-lg">Information</h2>
             <p className="mb-2 text-sm md:text-base">
               If you get more information,{" "}
               <a
@@ -145,7 +145,7 @@ export default function Contact() {
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="px-6 py-2 border border-color border-gray-300 transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed"
+                className="px-6 py-2 border border-color border-gray-300 transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
               >
                 {isSubmitting ? "Sending..." : "Send Message"}
               </button>
