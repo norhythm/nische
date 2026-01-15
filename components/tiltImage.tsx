@@ -111,6 +111,9 @@ export default function FullScreenTiltImage({
         alt={alt}
         width={width}
         height={height}
+        preload
+        loading="eager"
+        fetchPriority="high"
         className={`${childClassName} transition-all duration-300 ease-out`}
       />
     </div>
