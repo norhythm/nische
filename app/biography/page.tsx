@@ -69,7 +69,7 @@ export default function Biography() {
                 </p>
               </div>
 
-              <div className="text-sm md:text-base">
+              <div className="text-[13px] md:text-[15px] leading-[1.5]">
                 <table>
                   <tbody>
                     <tr>

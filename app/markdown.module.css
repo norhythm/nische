@@ -1,7 +1,7 @@
 @reference "tailwindcss";
 
 .markdown {
-  @apply leading-[150%];
+  @apply leading-[1.5];
 }
 
 .markdown p,

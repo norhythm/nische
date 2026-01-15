@@ -30,11 +30,11 @@ export default function ArticleBody({
         <header>
           <h1 className="tracking-wide">
             {post.artist && (
-              <span className="md:pb-1 block text-[15px] md:text-[17px] leading-[150%]">
+              <span className="md:pb-1 block text-[15px] md:text-[17px] leading-[1.5]">
                 {post.artist}
               </span>
             )}
-            <span className="block text-[15px] md:text-[17px] leading-[150%]">
+            <span className="block text-[15px] md:text-[17px] leading-[1.5]">
               {post.title}
             </span>
           </h1>
@@ -44,7 +44,7 @@ export default function ArticleBody({
                 <span key={i}>
                   <Tag
                     tag={tag}
-                    classNames={"text-[11px] md:text-[13px] leading-[150%]"}
+                    classNames={"text-[11px] md:text-[13px] leading-[1.5]"}
                   />
                   {i < post.tag.length - 1 && ", "}
                 </span>
