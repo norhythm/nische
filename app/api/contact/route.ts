@@ -36,41 +36,29 @@ export async function POST(request: NextRequest) {
     const mailOptions = {
       from: process.env.SMTP_FROM || process.env.SMTP_USER,
       to: process.env.CONTACT_EMAIL, // 受信メールアドレス
-      subject: `ポートフォリオサイトからのお問い合わせ${envLabel} - ${name}`,
+      subject: `ポートフォリオサイトからのお問い合わせ${envLabel} - ${
+        subject || "(件名なし)"
+      } ${name}`,
       html: `
-        <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+        <div style="font: small / 1.5 Arial, Helvetica, sans-serif;">
           ${
             !isProduction
               ? '<div style="background-color: #fff3cd; color: #856404; padding: 10px; border: 1px solid #ffeaa7; border-radius: 4px; margin-bottom: 20px;"><strong>開発環境テスト</strong> - このメールは開発環境から送信されました。</div>'
               : ""
           }
 
-          <h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">
-            新しいお問い合わせ
-          </h2>
+          お名前: ${name}<br/>
+          メールアドレス: ${email}<br/>
+          件名: ${subject || "(件名なし)"}<br/><br/>
 
-          <div style="margin: 20px 0;">
-            <p><strong>お名前:</strong> ${name}</p>
-            <p><strong>メールアドレス:</strong> ${email}</p>
-            <p><strong>件名:</strong> ${subject || "(件名なし)"}</p>
-          </div>
+          メッセージ:<br/>
+          ${message}<br/><br/>
 
-          <div style="margin: 20px 0;">
-            <h3 style="color: #34495e; margin-bottom: 10px;">メッセージ:</h3>
-            <div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #3498db; white-space: pre-wrap;">
-${message}
-            </div>
-          </div>
 
-          <hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
-          <p style="font-size: 12px; color: #7f8c8d;">
-            このメールはポートフォリオサイトのお問い合わせフォームから送信されました。
-            ${
-              !isProduction
-                ? "<br><strong>環境:</strong> 開発環境 (Mailpit)"
-                : ""
-            }
-          </p>
+          このメールはポートフォリオサイトのお問い合わせフォームから送信されました。
+          ${
+            !isProduction ? "<br><strong>環境:</strong> 開発環境 (Mailpit)" : ""
+          }
         </div>
       `,
     };
