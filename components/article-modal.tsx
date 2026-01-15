@@ -148,7 +148,7 @@ export default function ArticleModal({
                 content={post.htmlContent || ""}
                 modal={true}
                 backComponent={true}
-                classNames="px-4 md:pb-12"
+                classNames="px-4 md:px-0  md:pb-12"
               />
 
               {/* Mobile navigation */}
