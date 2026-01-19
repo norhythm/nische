@@ -79,7 +79,7 @@ body {
 
 .article .youtube-wrapper {
   position: relative;
-  width: 75%;
+  width: 66%;
   @apply my-6 mx-auto;
 }
 
