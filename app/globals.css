@@ -79,7 +79,8 @@ body {
 
 .article .youtube-wrapper {
   position: relative;
-  @apply my-6;
+  width: 75%;
+  @apply my-6 mx-auto;
 }
 
 .article .youtube-wrapper::before {
@@ -91,8 +92,14 @@ body {
 .article .youtube-wrapper iframe {
   position: absolute;
   @apply inset-0 my-0;
-  width: 100%;
+  width: 100% !important;
   height: 100%;
+}
+
+@media (max-width: 768px) {
+  .article .youtube-wrapper {
+    width: 100%;
+  }
 }
 
 .icon-cross {
