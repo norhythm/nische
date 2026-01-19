@@ -77,6 +77,24 @@ body {
   word-break: break-all;
 }
 
+.article .youtube-wrapper {
+  position: relative;
+  @apply my-6;
+}
+
+.article .youtube-wrapper::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%;
+}
+
+.article .youtube-wrapper iframe {
+  position: absolute;
+  @apply inset-0 my-0;
+  width: 100%;
+  height: 100%;
+}
+
 .icon-cross {
   position: relative;
   display: block;
