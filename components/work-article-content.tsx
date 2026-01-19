@@ -13,7 +13,7 @@ export default function WorkArticleContent({
   content,
 }: WorkArticleContentProps) {
   return (
-    <div className="py-0 md:py-12">
+    <div className="py-0">
       <article className="article">
         <ArticleBody
           post={post}

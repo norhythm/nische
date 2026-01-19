@@ -101,7 +101,7 @@ export default function ArticleModal({
 
       {/* Modal content */}
       <div className="md:flex justify-center items-center w-full h-full p-4 xl:max-w-screen-xl mx-auto md:px-[8%] xl:px-[102px]">
-        <div className="relative z-10 w-full h-full md:h-[80vh] md:top-0 bg-hero animate-fade-in shadow-xl rounded-lg overflow-hidden">
+        <div className="relative z-10 w-full h-full md:h-[80vh] md:top-0 bg-white animate-fade-in shadow-xl rounded-lg overflow-hidden">
           {/* Close button */}
           <button
             onClick={onClose}
@@ -140,7 +140,7 @@ export default function ArticleModal({
           {/* Article content */}
           <div
             ref={scrollContainerRef}
-            className={`relative flex flex-col w-full h-full py-0 md:py-12 mx-auto md:px-0 overflow-auto`}
+            className={`relative flex flex-col w-full h-full py-0 md:pb-12 mx-auto md:px-0 overflow-auto`}
           >
             <article className="article w-full h-full mx-auto">
               <ArticleBody
@@ -148,7 +148,7 @@ export default function ArticleModal({
                 content={post.htmlContent || ""}
                 modal={true}
                 backComponent={true}
-                classNames="px-4 md:px-0  md:pb-12"
+                classNames=""
               />
 
               {/* Mobile navigation */}

@@ -5,7 +5,7 @@ image: "/works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpg"
 tag:
   - rec
   - mix
-layout: "square"
+layout: "rect-v"
 published: true
 url: "hatsuzakura-sakurakoji-luna-special-character-song-cd"
 ---

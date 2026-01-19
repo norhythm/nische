@@ -45,7 +45,7 @@
 .markdown iframe {
   position: relative;
   z-index: 30;
-  @apply w-full max-w-full my-6;
+  @apply w-full !max-w-full my-6;
   aspect-ratio: 16/9;
   border: none;
 }

@@ -114,7 +114,7 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        className={`${childClassName} transition-all duration-300 ease-out`}
+        className={`${childClassName} object-contain  w-full h-full block transition-all duration-300 ease-out`}
       />
     </div>
   );

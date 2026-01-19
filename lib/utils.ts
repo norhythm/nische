@@ -10,24 +10,24 @@ export function layoutImageStyle(post: Post, modal: boolean) {
   if (modal) {
     switch (post.layout) {
       case "rect-h":
-        return "md:w-6/12 md:mb-2";
+        return "w-[90%] md:h-[400px] 4xl:h-[440px] 6xl:h-[480px]";
       case "rect-v":
-        return "md:w-6/12 md:mb-2";
+        return "w-[70%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
       case "square":
-        return "md:w-6/12 md:mb-1";
+        return "w-[85%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
       default:
-        return "md:w-6/12 md:mb-1";
+        return "w-[85%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
     }
   } else {
     switch (post.layout) {
       case "rect-h":
-        return "md:w-6/12 md:mb-3";
+        return "w-[90%] md:h-[440px] 4xl:h-[480px] 6xl:h-[520px]";
       case "rect-v":
-        return "md:w-6/12 md:mb-3";
+        return "w-[75%] md:h-[640px] 4xl:h-[680px] 6xl:h-[720px]";
       case "square":
-        return "md:w-6/12 md:mb-2";
+        return "w-[85%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
       default:
-        return "md:w-6/12 md:mb-2";
+        return "w-[85%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
     }
   }
 }

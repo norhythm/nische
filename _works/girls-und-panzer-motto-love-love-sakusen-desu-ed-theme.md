@@ -7,7 +7,7 @@ url: girls-und-panzer-motto-love-love-sakusen-desu-ed-theme
 tag:
   - rec
   - mix
-layout: square
+layout: rect-v
 image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-ed-theme.jpg
 ---
 

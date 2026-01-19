@@ -20,24 +20,13 @@ export default async function Post(props: Params) {
   const { prevPost, nextPost } = getAdjacentPosts(params.slug);
 
   return (
-    <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto px-4 pb-4 md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
+    <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
       <KeyboardNavigation
         prevUrl={prevPost ? `/works/${prevPost.url}` : undefined}
         nextUrl={nextPost ? `/works/${nextPost.url}` : undefined}
       />
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
-
-      <div
-        className={`block fixed top-0 left-0 w-full h-full`}
-        style={{ zIndex: "-1" }}
-      ></div>
-      <div
-        className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
-      ></div>
-      <div
-        className={`absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
-      ></div>
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
         <WorkArticleContent
           post={{

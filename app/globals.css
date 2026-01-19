@@ -67,6 +67,10 @@ body {
   background: linear-gradient(rgb(255 255 255), rgb(253 253 253));
 }
 
+.inset-shadow {
+  box-shadow: inset -8px -8px 16px rgba(55, 55, 55, 0.025);
+}
+
 .article a {
   position: relative;
   z-index: 20;
