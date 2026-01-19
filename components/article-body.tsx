@@ -30,7 +30,7 @@ export default function ArticleBody({
     >
       {backComponent && <BackComponent style="mobile-cursor" />}
       <div
-        className={`article-header order-2 w-full flex-auto mx-auto py-4 px-4 md:px-8`}
+        className={`article-header order-2 w-full flex-auto mx-auto py-4 px-4 md:px-12`}
       >
         <header>
           <h1 className="tracking-wide">
