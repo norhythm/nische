@@ -50,14 +50,10 @@
   border: none;
 }
 
-.markdown iframe[src*="youtube.com"],
+/* .markdown iframe[src*="youtube.com"],
 .markdown iframe[src*="youtu.be"] {
   min-height: 315px;
-}
-
-.markdown iframe[src*="vimeo.com"] {
-  min-height: 315px;
-}
+} */
 
 .markdown iframe[src*="soundcloud.com"] {
   height: 166px;
@@ -78,7 +74,6 @@
 @media (max-width: 768px) {
   .markdown iframe {
     @apply mx-0;
-    min-height: 250px;
   }
 
   .markdown iframe[src*="soundcloud.com"] {
