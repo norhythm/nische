@@ -14,20 +14,20 @@ export function layoutImageStyle(post: Post, modal: boolean) {
       case "rect-v":
         return "w-[70%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
       case "square":
-        return "w-[85%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
+        return "w-[80%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
       default:
-        return "w-[85%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
+        return "w-[80%] md:h-[420px] 4xl:h-[460px] 6xl:h-[520px]";
     }
   } else {
     switch (post.layout) {
       case "rect-h":
         return "w-[90%] md:h-[440px] 4xl:h-[480px] 6xl:h-[520px]";
       case "rect-v":
-        return "w-[75%] md:h-[640px] 4xl:h-[680px] 6xl:h-[720px]";
+        return "w-[70%] md:h-[640px] 4xl:h-[680px] 6xl:h-[720px]";
       case "square":
-        return "w-[85%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
+        return "w-[80%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
       default:
-        return "w-[85%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
+        return "w-[80%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
     }
   }
 }
