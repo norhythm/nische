@@ -16,7 +16,6 @@
           "name": "published",
           "label": "Published",
           "type": "boolean",
-          "default": true,
         },
         {
           "name": "date",
@@ -56,7 +55,6 @@
           "name": "image",
           "label": "Image",
           "type": "image",
-          "required": true,
         },
         {
           "name": "layout",
