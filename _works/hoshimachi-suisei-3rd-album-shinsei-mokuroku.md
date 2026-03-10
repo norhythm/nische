@@ -12,8 +12,6 @@ url: "hoshimachi-suisei-3rd-album-shinsei-mokuroku"
 
 星街すいせいの3rdアルバム『新星目録』のレコーディング、ミキシング、マスタリングを担当しました。彼女の多彩な表現力を最大限に引き出すため、繊細なボーカル処理と力強いサウンドメイクの両立を追求しました。
 
-短いテキスト
-
 ##### Tracklist
 
 | Track number | Title                    | Credit             |
