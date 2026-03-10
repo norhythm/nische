@@ -1,0 +1,77 @@
+{
+  "$schema": "https://pitcms.net/schema/pitcms.schema.json",
+  "schemaVersion": 1,
+  "media": {
+    "storagePath": "public/works/media",
+    "publicPath": "/works/media"
+  },
+  "collections": [
+    {
+      "name": "posts",
+      "label": "Posts",
+      "path": "_works",
+      "extension": "md",
+      "fields": [
+        {
+          "name": "published",
+          "label": "Published",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "name": "date",
+          "label": "Date",
+          "type": "date"
+        },
+        {
+          "name": "artist",
+          "label": "Artist",
+          "type": "text"
+        },
+        {
+          "name": "title",
+          "label": "Title",
+          "type": "text"
+        },
+        {
+          "name": "url",
+          "label": "Url",
+          "type": "text"
+        },
+        {
+          "name": "tag",
+          "label": "Tag",
+          "type": "checkbox",
+          "options": [
+            { "value": "rec" },
+            { "value": "mix" },
+            { "value": "master" }
+          ]
+        },
+        {
+          "name": "layout",
+          "label": "Layout",
+          "type": "select",
+          "default": "square",
+          "options": [
+            { "value": "square", "label": "正方形" },
+            { "value": "rect-h", "label": "縦長" },
+            { "value": "rect-v", "label": "横長" }
+          ]
+        },
+        {
+          "name": "image",
+          "label": "Image",
+          "type": "image"
+        }
+      ],
+      "pit": {
+        "title": "title",
+        "body": "body",
+        "draft": "published",
+        "defaultSortField": "_createdAt",
+        "defaultSortOrder": "desc"
+      }
+    }
+  ]
+}
