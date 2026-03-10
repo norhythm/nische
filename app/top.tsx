@@ -12,11 +12,7 @@ interface PostWithHtml extends Post {
   htmlContent?: string;
 }
 
-export default function BlogPage({
-  posts,
-}: {
-  posts: PostWithHtml[];
-}) {
+export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
   const pathname = usePathname();
   const { selectedTag, setSelectedTag } = useSelectedTagContext();
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
@@ -199,7 +195,7 @@ export default function BlogPage({
               <a
                 href={buildUrl(`/works/${work.url}/`, selectedTag)}
                 onClick={(e) => handleWorkClick(e, work.url)}
-                className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-25 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+                className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-35 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
               >
                 <div className="relative flex justify-center items-center">
                   <TiltImage

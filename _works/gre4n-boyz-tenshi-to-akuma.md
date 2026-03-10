@@ -5,7 +5,7 @@ artist: GRe4N BOYZ
 title: 天使と悪魔
 url: gre4n-boyz-tenshi-to-akuma
 tag:
-  - rec
+  - master
 layout: square
 image: /works/media/gre4n-boyz-tenshi-to-akuma.jpg
 ---

@@ -7,7 +7,6 @@ url: drama-cd-maku-ga-oritara-bokura-wa-tsugai-2
 tag:
   - mix
   - master
-  - rec
 layout: square
 image: /works/media/drama-cd-maku-ga-oritara-bokura-wa-tsugai-2.jpg
 ---

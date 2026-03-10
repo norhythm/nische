@@ -3,9 +3,7 @@ title: "そらる 6thアルバム『ユメトキ』"
 date: "2025-02-12"
 image: "/works/media/soraru-6th-album-yume-toki.jpg"
 tag:
-  - rec
   - mix
-  - master
 layout: "square"
 published: true
 url: "soraru-6th-album-yume-toki"

@@ -3,7 +3,6 @@ title: "TVアニメ『ばっどがーる』 天狼群 1stアルバム「KING OF 
 date: "2025-09-24"
 image: "/works/media/tv-anime-bad-girl-tenrou-gun-1st-album-king-of-evil.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

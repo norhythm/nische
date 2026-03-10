@@ -3,7 +3,7 @@ title: "大神ミオ『Colorful Universe』"
 date: "2025-01-26"
 image: "/works/media/ookami-mio-colorful-universe.jpg"
 tag:
-  - rec
+  - mix
 layout: "square"
 published: true
 url: "ookami-mio-colorful-universe"

@@ -3,9 +3,7 @@ title: '古川慎 アーティストデビュー5周年記念 6thシングル「
 date: "2023-07-05"
 image: "/works/media/furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets.jpg"
 tag:
-  - rec
   - mix
-  - master
 layout: "square"
 published: true
 url: "furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets"

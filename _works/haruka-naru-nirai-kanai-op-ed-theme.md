@@ -3,7 +3,6 @@ title: "『遥かなるニライカナイ』"
 date: "2024-10-25"
 image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
 tag:
-  - rec
   - mix
 layout: "rect-v"
 published: true

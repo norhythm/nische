@@ -3,7 +3,6 @@ title: "『アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-』
 date: "2025-10-15"
 image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

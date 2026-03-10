@@ -3,7 +3,6 @@ title: "『ぴゅあくる刀剣男士』 Ghostella デジタルシングル「R
 date: "2025-11-18"
 image: "/works/media/pure-kuru-touken-danshi-ghostella-roundabout.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

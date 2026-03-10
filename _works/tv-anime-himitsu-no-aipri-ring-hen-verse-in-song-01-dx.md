@@ -3,7 +3,6 @@ title: "TVアニメ『ひみつのアイプリ リング編』キャラクター
 date: "2025-09-24"
 image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

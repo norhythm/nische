@@ -3,7 +3,6 @@ title: "あんさんぶるスターズ！！Bright me up!! / MELLOW DEAR US「De
 date: "2025-10-25"
 image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

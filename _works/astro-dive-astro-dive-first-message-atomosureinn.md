@@ -3,7 +3,7 @@ title: "Astro Dive（アストロダイブ）「Astro Dive First Message -ATOMOS
 date: "2024-11-27"
 image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
 tag:
-  - rec
+  - mix
 layout: "square"
 published: true
 url: "astro-dive-astro-dive-first-message-atomosureinn"

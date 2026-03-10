@@ -3,7 +3,6 @@ title: "『エリオスライジングヒーローズ』第5部主題歌「LIGHT
 date: "2025-12-18"
 image: "/works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

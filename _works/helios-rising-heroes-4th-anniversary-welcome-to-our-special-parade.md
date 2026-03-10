@@ -3,7 +3,6 @@ title: "エリオスライジングヒーローズ 4周年記念楽曲「WELCOME
 date: "2025-10-27"
 image: "/works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

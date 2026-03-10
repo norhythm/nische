@@ -4,9 +4,7 @@ date: 2025-07-06
 title: ふたりのスタートボタン
 url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-theme
 tag:
-  - rec
   - mix
-  - master
 layout: rect-v
 image: /works/media/kv01.webp
 ---

@@ -3,7 +3,7 @@ title: "『遥かなるニライカナイ』「遥かなるニライカナイ-Co
 date: "2024-10-25"
 image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
 tag:
-  - rec
+  - mix
 layout: "square"
 published: true
 url: "haruka-naru-nirai-kanai-complete-soundtrack"

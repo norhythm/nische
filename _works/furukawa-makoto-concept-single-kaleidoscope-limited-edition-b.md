@@ -3,9 +3,7 @@ title: "古川慎コンセプトシングル『カレイドスコープ』【初
 date: "2024-06-12"
 image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition-b.jpg"
 tag:
-  - rec
   - mix
-  - master
 layout: "square"
 published: true
 url: "furukawa-makoto-concept-single-kaleidoscope-limited-edition-b"

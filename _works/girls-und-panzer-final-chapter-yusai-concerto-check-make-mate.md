@@ -3,7 +3,6 @@ title: "『eガールズ&パンツァー 最終章』デジタルシングル「
 date: "2025-11-15"
 image: "/works/media/girls-und-panzer-final-chapter-yusai-concerto-check-make-mate.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

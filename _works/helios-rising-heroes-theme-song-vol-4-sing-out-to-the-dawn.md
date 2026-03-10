@@ -5,7 +5,6 @@ title: Sing out to the Dawn
 url: helios-rising-heroes-sing-out-to-the-dawn
 tag:
   - mix
-  - rec
 layout: square
 image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.jpg
 ---

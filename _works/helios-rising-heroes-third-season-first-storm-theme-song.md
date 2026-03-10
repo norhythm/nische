@@ -3,7 +3,6 @@ title: "『HELIOS Rising Heroes』THIRD SEASON 「First Storm」THEME SONG"
 date: "2024-08-23"
 image: "/works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

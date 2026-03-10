@@ -5,7 +5,6 @@ artist: 古川慎
 title: Catch Me If You Can
 url: furukawa-makoto-2nd-mini-album-catch-me-if-you-can
 tag:
-  - rec
   - mix
   - master
 layout: square

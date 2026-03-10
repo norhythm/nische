@@ -5,7 +5,7 @@ artist: 江口拓也
 title: ダ x ダ x ダ
 url: eguchi-takuya-da-da-da
 tag:
-  - rec
+  - master
 layout: square
 image: /works/media/eguchi-takuya-da-da-da.jpg
 ---

@@ -3,7 +3,6 @@ title: "あんさんぶるスターズ！！ / Special for Princess!『メラン
 date: "2025-11-19"
 image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenukero.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

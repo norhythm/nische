@@ -3,7 +3,6 @@ title: "『アイドルランドプリパラ ソング♪コレクション OPEN
 date: "2024-11-13"
 image: "/works/media/idol-land-pripara-song-collection-open-dream-land.jpg"
 tag:
-  - rec
   - mix
 layout: "square"
 published: true

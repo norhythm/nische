@@ -4,9 +4,7 @@ date: 2025-07-06
 title: Amusing Flavor
 url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-ed-theme
 tag:
-  - rec
   - mix
-  - master
 layout: square
 image: /works/media/tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-ed-theme.jpg
 ---

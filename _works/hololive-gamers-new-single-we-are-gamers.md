@@ -3,9 +3,7 @@ title: "ホロライブゲーマーズのNew Single「We are GAMERS!!!!」"
 date: "2024-05-22"
 image: "/works/media/hololive-gamers-new-single-we-are-gamers.jpg"
 tag:
-  - rec
   - mix
-  - master
 layout: "square"
 published: true
 url: "hololive-gamers-new-single-we-are-gamers"
