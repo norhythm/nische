@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "media": {
     "storagePath": "public/works/media",
-    "publicPath": "/works/media"
+    "publicPath": "/works/media",
   },
   "collections": [
     {
@@ -16,27 +16,30 @@
           "name": "published",
           "label": "Published",
           "type": "boolean",
-          "default": true
+          "default": true,
         },
         {
           "name": "date",
           "label": "Date",
-          "type": "date"
+          "type": "date",
+          "required": true,
         },
         {
           "name": "artist",
           "label": "Artist",
-          "type": "text"
+          "type": "text",
         },
         {
           "name": "title",
           "label": "Title",
-          "type": "text"
+          "type": "text",
+          "required": true,
         },
         {
           "name": "url",
-          "label": "Url",
-          "type": "text"
+          "label": "URL",
+          "type": "text",
+          "required": true,
         },
         {
           "name": "tag",
@@ -45,33 +48,42 @@
           "options": [
             { "value": "rec" },
             { "value": "mix" },
-            { "value": "master" }
-          ]
+            { "value": "master" },
+          ],
+          "required": true,
+        },
+        {
+          "name": "image",
+          "label": "Image",
+          "type": "image",
+          "required": true,
         },
         {
           "name": "layout",
-          "label": "Layout",
+          "label": "画像の縦横比",
           "type": "select",
           "default": "square",
           "options": [
             { "value": "square", "label": "正方形" },
             { "value": "rect-h", "label": "縦長" },
-            { "value": "rect-v", "label": "横長" }
-          ]
+            { "value": "rect-v", "label": "横長" },
+          ],
+          "required": true,
         },
         {
-          "name": "image",
-          "label": "Image",
-          "type": "image"
-        }
+          "name": "content",
+          "type": "richtext",
+          "label": "本文",
+        },
       ],
       "pit": {
         "title": "title",
         "body": "body",
         "draft": "published",
+        "createdAt": "date",
         "defaultSortField": "_createdAt",
-        "defaultSortOrder": "desc"
-      }
-    }
-  ]
+        "defaultSortOrder": "desc",
+      },
+    },
+  ],
 }
