@@ -45,9 +45,9 @@
           "label": "Tag",
           "type": "checkbox",
           "options": [
-            { "value": "rec" },
-            { "value": "mix" },
             { "value": "master" },
+            { "value": "mix" },
+            { "value": "rec" },
           ],
           "required": true,
         },
@@ -76,7 +76,7 @@
       ],
       "pit": {
         "title": "title",
-        "body": "body",
+        "body": "content",
         "draft": "published",
         "createdAt": "date",
         "defaultSortField": "_createdAt",
