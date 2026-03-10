@@ -8,6 +8,5 @@ tag:
   - master
   - mix
   - rec
-image: /works/media/1773156181121-024nto.png
 layout: square
 ---
