@@ -65,6 +65,14 @@ body {
   background-repeat: no-repeat;
 }
 
+.bg-panel {
+  background-color: #fcfdfa;
+  background:
+    url("/images/bg_panel.png"),
+    linear-gradient(135deg, transparent 12%, rgba(238, 238, 238, 1) 100%);
+  background-size: cover;
+}
+
 .bg-plate {
   background: linear-gradient(rgb(255 255 255), rgb(253 253 253));
 }
@@ -305,4 +313,16 @@ html:not(.scroll-restoring) {
 html:not(.scroll-restoring) body {
   opacity: 1;
   animation: opacity 0.15s ease-out;
+}
+
+.page-works-append div[class^="markdown"] h5 {
+  @apply w-full text-left;
+}
+
+.page-works-append div[class^="markdown"] ul {
+  @apply w-full justify-start flex-wrap;
+}
+
+.page-works-append div[class^="markdown"] ul a {
+  min-width: 160px;
 }

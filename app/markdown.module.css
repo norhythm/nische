@@ -27,7 +27,7 @@
 }
 
 .markdown h5 {
-  @apply mt-8 md:mt-10.5 mb-4 text-center text-[#999] uppercase;
+  @apply mt-8 md:mt-10.5 mb-4 text-center text-[#999] text-xs font-medium uppercase tracking-[2px];
 }
 
 .markdown a {
