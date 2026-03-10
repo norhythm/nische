@@ -9,41 +9,36 @@ interface ArticleBodyProps {
   post: Post;
   content: string;
   modal: boolean;
-  backComponent: boolean;
   classNames?: string;
 }
 
 const imageBgStyle = () => {
-  return "bg-hero inset-shadow px-4 pb-3 md:px-0 md:py-10 4xl:py-12 6xl:py-14";
+  return "px-4 pb-6 md:px-0 md:py-10 4xl:py-12 6xl:py-14";
 };
 
 export default function ArticleBody({
   post,
   content,
   modal,
-  backComponent,
   classNames,
 }: ArticleBodyProps) {
   return (
     <div
-      className={`relative flex min-h-[calc(100%-44px)] flex-col w-full mx-auto text-center ${classNames}`}
+      className={`relative flex min-h-[calc(100%-44px)] flex-col md:w-8/12 mx-auto ${classNames}`}
     >
-      {backComponent && <BackComponent style="mobile-cursor" />}
-      <div
-        className={`article-header order-2 w-full flex-auto mx-auto py-4 px-4 md:px-14`}
-      >
-        <header>
+      <div className={`order-2 w-full flex-auto mx-auto pb-12`}>
+        <header className="text-center">
           <h1 className="tracking-wide">
             {post.artist && (
-              <span className="md:pb-1 block text-[16px] md:text-[18px] leading-[1.5]">
+              <span className="pb-1 md:pb-2 block text-[#888] text-[13px] md:text-[15px] leading-[1.5]">
                 {post.artist}
               </span>
             )}
-            <span className="block text-[16px] md:text-[18px] leading-[1.5]">
+            <span className="block text-[#222] text-[18px] md:text-[24px] leading-[1.5]">
               {post.title}
             </span>
           </h1>
-          <div className="pt-1">
+          <div className="flex justify-center gap-2 md:pt-2">
             {post.tag.map((tag, i) => {
               return (
                 <span key={i}>
@@ -51,11 +46,12 @@ export default function ArticleBody({
                     tag={tag}
                     classNames={"text-[11px] md:text-[13px] leading-[1.5]"}
                   />
-                  {i < post.tag.length - 1 && ", "}
+                  {i < post.tag.length - 1 && " "}
                 </span>
               );
             })}
           </div>
+          <hr className="w-[40px] h-[1px] mt-6 md:mt-8 mx-auto bg-[#ddd]" />
         </header>
         <div className="pt-6 mb-8 text-[13px] md:text-[14px] leading-[1.5] md:pt-8">
           <div
@@ -69,9 +65,6 @@ export default function ArticleBody({
         <div
           className={`article-image relative order-1 mx-auto py-4 md:p-0 transition-translate text-center ${imageBgStyle()}`}
         >
-          <div
-            className={`hidden md:block absolute top-0 left-1/2 -translate-x-2/4 bg-hero z-0 w-screen h-full`}
-          ></div>
           <TiltImage
             single={false}
             clip={false}
@@ -83,7 +76,7 @@ export default function ArticleBody({
             // parentClassName="z-10 mt-4 mb-2 md:mb-3 p-2 bg-plate"
             parentClassName={`inline-flex md:w-full h-full z-10 ${layoutImageStyle(
               post,
-              modal
+              modal,
             )}`}
             // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
             childClassName={`post-${post.layout} drop-shadow-lg`}

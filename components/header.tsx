@@ -25,7 +25,7 @@ export default function Header() {
             </Link>
           </h1>
           <nav>
-            <ul className="flex space-x-4 md:space-x-8 pb-[2px] text-sm md:text-base tracking-wider">
+            <ul className="flex space-x-4 md:space-x-8 pb-[2px] text-sm md:text-[18px] tracking-wider">
               <li>
                 <Link
                   href="/biography/"

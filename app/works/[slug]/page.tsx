@@ -4,8 +4,8 @@ import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 
 import BackComponent from "@/components/back-component";
+import ArticleBody from "@/components/article-body";
 import WorkNavLink from "@/components/work-nav-link";
-import WorkArticleContent from "@/components/work-article-content";
 import KeyboardNavigation from "@/components/keyboard-navigation";
 
 export default async function Post(props: Params) {
@@ -28,24 +28,19 @@ export default async function Post(props: Params) {
       <BackComponent style="layer" />
       <BackComponent style="mobile-cursor" />
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
-        <WorkArticleContent
-          post={{
-            slug: post.slug,
-            url: post.url,
-            artist: post.artist,
-            title: post.title,
-            date: post.date,
-            image: post.image,
-            tag: post.tag,
-            layout: post.layout,
-            content: post.content,
-            published: post.published,
-          }}
-          content={content}
-        />
+        <div className="px-4 md:px-0">
+          <article className="article">
+            <ArticleBody
+              post={post}
+              content={content}
+              modal={false}
+              classNames={""}
+            />
+          </article>
+        </div>
         {/* Prev/Next Navigation */}
-        <div className="works-navigation sticky md:fixed md:left-[50%] md:-translate-x-1/2 z-40 bottom-4 md:absolute md:top-0 md:left-0 md:bottom-0 w-full xl:max-w-screen-xl mt-auto pt-8 md:pt-0 md:px-[8%] xl:px-[102px] overflow-hidden pointer-events-none">
-          <nav className="flex md:h-full justify-between items-center">
+        <div className="works-navigation sticky md:relative z-40 bottom-4 w-full pt-8 md:pt-16 overflow-hidden pointer-events-none">
+          <nav className="flex justify-between items-center px-4 md:px-0 md:w-8/12 mx-auto">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
             </div>
@@ -53,7 +48,7 @@ export default async function Post(props: Params) {
               {prevPost && (
                 <WorkNavLink
                   href={`/works/${prevPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center p-2 md:p-0 md:pl-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="inline-flex justify-center items-center p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
                     <span className="hidden">← Next work</span>
@@ -67,7 +62,7 @@ export default async function Post(props: Params) {
               {nextPost && (
                 <WorkNavLink
                   href={`/works/${nextPost.url}`}
-                  className="md:h-[100vh] inline-flex justify-center items-center justify-end p-2 md:p-0 md:pr-2 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
+                  className="inline-flex justify-center items-center justify-end p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
                     <span className="hidden">Previous work →</span>

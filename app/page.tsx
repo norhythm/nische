@@ -10,14 +10,16 @@ export default async function Page() {
     posts.map(async (post) => ({
       ...post,
       htmlContent: await markdownToHtml(post.content || ""),
-    }))
+    })),
   );
 
   return (
     <Suspense
       fallback={
-        <div className="flex justify-center py-20 text-sm md:text-base">
-          <p>Loading... ;)</p>
+        <div className="flex justify-center items-center flex-1">
+          <div className="flex justify-center pb-20 text-sm md:text-sm tracking-wider animate-slide-in-up">
+            <p>Loading... ;)</p>
+          </div>
         </div>
       }
     >

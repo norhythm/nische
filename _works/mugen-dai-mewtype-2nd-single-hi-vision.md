@@ -9,7 +9,10 @@ tag:
 layout: square
 image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 ---
-|     |     |     |
-| --- | --- | --- |
-| mix | M2『TRASH LIFE』, M3『テレパシー』 |     |
-|     |     |     |
+
+##### Tracklist
+
+|     |               |     |
+| --- | ------------- | --- |
+| 02  | TRASH LIFE    | mix |
+| 03  | M3 テレパシー | mix |

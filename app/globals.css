@@ -16,8 +16,10 @@ body {
   background: rgb(var(--background-rgb));
   background-image: url("/images/bg.gif");
   background-size: 200px 200px;
-  font-family: "Barlow", "M PLUS Rounded 1c", "Helvetica Neue", Arial,
-    sans-serif;
+  font-family:
+    "Barlow", "M PLUS Rounded 1c", "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .layout-square {
@@ -79,8 +81,8 @@ body {
 
 .article .youtube-wrapper {
   position: relative;
-  width: 66%;
-  @apply my-6 mx-auto;
+  width: 100%;
+  @apply my-4 mx-auto;
 }
 
 .article .youtube-wrapper::before {
@@ -94,12 +96,6 @@ body {
   @apply inset-0 my-0;
   width: 100% !important;
   height: 100%;
-}
-
-@media (max-width: 768px) {
-  .article .youtube-wrapper {
-    width: 100%;
-  }
 }
 
 .icon-cross {
@@ -146,7 +142,7 @@ body {
   content: "";
   width: 8px;
   height: 1px;
-  background-color: rgb(var(--foreground-rgb));
+  background-color: #777;
   transform-origin: left top;
   @apply md:left-[16px];
 }
@@ -175,7 +171,7 @@ body {
   content: "";
   width: 8px;
   height: 1px;
-  background-color: rgb(var(--foreground-rgb));
+  background-color: #777;
   transform-origin: right top;
   @apply md:right-[16px];
 }

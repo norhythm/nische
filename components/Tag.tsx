@@ -32,7 +32,7 @@ export default function Tag({ tag, classNames = "" }: TagProps) {
 
   return (
     <Link
-      className={`text-xs md:text-sm decoration-underline capitalize ${classNames}`}
+      className={`text-[#888] hover:text-[#aaa] text-xs md:text-sm capitalize transition ${classNames}`}
       href={`/?tag=${tag}`}
       onClick={handleClick}
     >

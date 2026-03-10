@@ -8,7 +8,7 @@ import ScrollRestoration from "@/lib/scroll-restoration";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://tsukasa-kikuchi.com"),
+  metadataBase: new URL("https://nische.com"),
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
   robots: {

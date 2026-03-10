@@ -20,7 +20,7 @@ export default function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleChange = (
-    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
+    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
   ) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
@@ -91,7 +91,7 @@ export default function Contact() {
                 name="name"
                 value={form.name}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -106,7 +106,7 @@ export default function Contact() {
                 name="email"
                 value={form.email}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -121,7 +121,7 @@ export default function Contact() {
                 name="subject"
                 value={form.subject}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -136,7 +136,7 @@ export default function Contact() {
                 rows={6}
                 value={form.message}
                 onChange={handleChange}
-                className="w-full md:w-2/3 p-2 border border-gray-300 focus:outline-none focus:ring-1 focus:ring-gray-400"
+                className="w-full md:w-2/3 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               ></textarea>
             </div>
@@ -145,7 +145,7 @@ export default function Contact() {
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="px-6 py-2 border border-color border-gray-300 transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
+                className="px-6 py-2 border border-color border-gray-[#ddd] transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
               >
                 {isSubmitting ? "Sending..." : "Send Message"}
               </button>

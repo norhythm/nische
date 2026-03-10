@@ -12,30 +12,25 @@ url: "hoshimachi-suisei-3rd-album-shinsei-mokuroku"
 
 星街すいせいの3rdアルバム『新星目録』のレコーディング、ミキシング、マスタリングを担当しました。彼女の多彩な表現力を最大限に引き出すため、繊細なボーカル処理と力強いサウンドメイクの両立を追求しました。
 
-## Tracklist
+短いテキスト
 
-|----|----|----|
-|01|Overture| Rec / Mix / Matser |
-|02|Stellar Stellar| Rec / Mix / Matser |
-|03|NEXT COLOR PLANET| Mix / Matser |
-|04|Midnight Grand Orchestra| Matser |
-|05|灼熱にて純情| Rec / Mix / Matser |
+##### Tracklist
 
-<table>
-  <tr>
-    <td>01</th>
-    <td>Overture</td>
-    <td>Rec / Mix / Matser</td>
-  </tr>
-   <tr>
-    <td>02</th>
-    <td>Stellar Stellar</td>
-    <td>Rec / Mix / Matser</td>
-  </tr>
-</table>
+| Track number | Title                    | Credit             |
+| ------------ | ------------------------ | ------------------ |
+| 01           | Overture                 | Rec / Mix / Matser |
+| 02           | Stellar Stellar          | Rec / Mix / Matser |
+| 03           | NEXT COLOR PLANET        | Mix / Matser       |
+| 04           | Midnight Grand Orchestra | Matser             |
+| 05           | 灼熱にて純情             | Rec / Mix / Matser |
 
-## Video
+##### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Links
+##### Links
+
+- <a data-type="button" href="" target="_blank">Spotify</a>
+- <a data-type="button" href="" target="_blank">Apple Music</a>
+- <a data-type="button" href="" target="_blank">YouTube Music</a>
+- <a data-type="button" href="" target="_blank">Amazon</a>

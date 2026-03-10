@@ -176,61 +176,50 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
 
       <section
         id="works"
-        className="w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20"
+        className={`w-full 2xl:max-w-full mx-auto px-[4%] pt-8 mb-20 ${filteredPosts.length === 0 ? "flex justify-center items-center flex-1" : ""}`}
       >
-        <div
-          key={selectedTag ?? "all"}
-          className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none"
-        >
-          {filteredPosts.map((work, index) => (
-            <div
-              key={work.url}
-              className={`${
-                index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
-              }
+        {filteredPosts.length === 0 ? (
+          <div className="flex justify-center pb-20 text-sm md:text-sm tracking-wider animate-slide-in-up">
+            <p>There are no relevant articles.</p>
+          </div>
+        ) : (
+          <div
+            key={selectedTag ?? "all"}
+            className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none"
+          >
+            {filteredPosts.map((work, index) => (
+              <div
+                key={work.url}
+                className={`${
+                  index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
+                }
               ${
                 work.layout === "rect-v" ? "px-[10%]" : ""
               } relative flex justify-center items-center animate-slide-in-up`}
-            >
-              <a
-                href={buildUrl(`/works/${work.url}/`, selectedTag)}
-                onClick={(e) => handleWorkClick(e, work.url)}
-                className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-35 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
               >
-                <div className="relative flex justify-center items-center">
-                  <TiltImage
-                    single={true}
-                    clip={true}
-                    src={`${work.image}`}
-                    alt={work.title}
-                    width={512}
-                    height={512}
-                    tilt={4}
-                    parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
-                    childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
-                  />
-                </div>
-              </a>
-            </div>
-          ))}
-        </div>
-        {filteredPosts.length === 0 && (
-          <div className="flex justify-center py-20 text-sm md:text-base">
-            <p>There are no relevant articles.</p>
+                <a
+                  href={buildUrl(`/works/${work.url}/`, selectedTag)}
+                  className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-35 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
+                >
+                  <div className="relative flex justify-center items-center">
+                    <TiltImage
+                      single={true}
+                      clip={true}
+                      src={`${work.image}`}
+                      alt={work.title}
+                      width={512}
+                      height={512}
+                      tilt={4}
+                      parentClassName={`absolute overflow-hidden flex justify-center items-center py-[11%] bg-hero layout-${work.layout}`}
+                      childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
+                    />
+                  </div>
+                </a>
+              </div>
+            ))}
           </div>
         )}
       </section>
-
-      {/* Modal */}
-      {selectedPost && (
-        <ArticleModal
-          post={selectedPost}
-          onClose={handleCloseModal}
-          prevPost={adjacentPosts.prev}
-          nextPost={adjacentPosts.next}
-          onNavigate={handleNavigateWork}
-        />
-      )}
     </>
   );
 }
