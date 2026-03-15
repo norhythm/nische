@@ -1,4 +1,6 @@
 ---
+holder: ""
+artist: ""
 published: true
 date: 2025-07-06
 title: Amusing Flavor
@@ -9,7 +11,6 @@ tag:
 layout: square
 image: /works/media/tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-ed-theme.jpg
 ---
-
 リリー・ベイカー(CV：天城サリー)
 
 TVアニメ『ゲーセン少女と異文化交流』

@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2025-04-02
 artist: 古川慎

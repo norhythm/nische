@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2025-06-30
 artist: GRe4N BOYZ

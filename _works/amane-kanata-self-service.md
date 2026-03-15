@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2025-05-31
 artist: 天音かなた

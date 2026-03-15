@@ -29,11 +29,21 @@ export default function ArticleBody({
       <div className={`order-2 w-full flex-auto mx-auto pb-12`}>
         <header className="text-center">
           <h1 className="tracking-wide">
-            {post.artist && (
-              <span className="pb-1 md:pb-2 block text-[#888] text-[13px] md:text-[15px] leading-[1.5]">
-                {post.artist}
-              </span>
+            {(post.holder || post.artist) && (
+              <div className="flex gap-1 justify-center">
+                {post.holder && (
+                  <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[15px] leading-[1.5]">
+                    {post.holder}
+                  </span>
+                )}
+                {post.artist && (
+                  <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[15px] leading-[1.5]">
+                    {post.artist}
+                  </span>
+                )}
+              </div>
             )}
+
             <span className="block text-[#222] text-[18px] md:text-[24px] leading-[1.5]">
               {post.title}
             </span>

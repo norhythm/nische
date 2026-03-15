@@ -1,4 +1,6 @@
 ---
+holder: ""
+artist: ""
 published: true
 date: 2025-07-06
 title: ふたりのスタートボタン
@@ -10,7 +12,6 @@ tag:
 layout: rect-v
 image: /works/media/kv01.webp
 ---
-
 リリー・ベイカー(CV：天城サリー)
 草壁葵衣(CV：小山内怜央)
 

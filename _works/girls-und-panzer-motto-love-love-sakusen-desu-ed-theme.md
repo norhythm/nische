@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2025-12-26
 artist: ガールズ＆パンツァー もっとらぶらぶ作戦です！

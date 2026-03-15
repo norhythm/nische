@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2025-05-22
 artist: 江口拓也

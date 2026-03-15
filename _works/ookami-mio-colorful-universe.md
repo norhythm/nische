@@ -1,4 +1,6 @@
 ---
+holder: ""
+artist: ""
 title: "大神ミオ『Colorful Universe』"
 date: "2025-01-26"
 image: "/works/media/ookami-mio-colorful-universe.jpg"
@@ -8,5 +10,4 @@ layout: "square"
 published: true
 url: "ookami-mio-colorful-universe"
 ---
-
 Audio engineering work for ookami mio colorful universe.

@@ -1,6 +1,7 @@
 export type Post = {
   slug: string;
   url: string;
+  holder: string;
   artist: string;
   title: string;
   date: string;

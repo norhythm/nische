@@ -1,4 +1,6 @@
 ---
+holder: ""
+artist: ""
 published: true
 date: 2026-01-11
 title: "TVアニメ『ひみつのアイプリ リング編』第91話挿入歌「レジェンド・ストーリー!!!!」"

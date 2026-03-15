@@ -1,4 +1,5 @@
 ---
+holder: "Hololive"
 artist: "星街すいせい"
 title: "3rd Album『新星目録』"
 date: "2025-01-22"

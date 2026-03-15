@@ -1,4 +1,5 @@
 ---
+holder: ""
 published: true
 date: 2026-01-21
 artist: 澤村光彩
