@@ -206,7 +206,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                       single={true}
                       clip={true}
                       src={`${work.image}`}
-                      alt={work.title}
+                      alt={`${work.holder} ${work.artist} ${work.title}`}
                       width={512}
                       height={512}
                       tilt={4}

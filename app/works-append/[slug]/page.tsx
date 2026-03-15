@@ -74,11 +74,20 @@ export default async function Post(props: Params, modal: false) {
               </div>
               <div className="relative hidden md:block flex-1 pl-24 pb-4">
                 <h1 className="tracking-wide">
-                  {post.artist && (
+                  {(post.holder || post.artist) && (
                     <div className="pb-4">
-                      <span className="block text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
-                        {post.artist}
-                      </span>
+                      <div className="flex gap-1">
+                        {post.holder && (
+                          <span className="text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
+                            {post.holder}
+                          </span>
+                        )}
+                        {post.artist && (
+                          <span className="text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
+                            {post.artist}
+                          </span>
+                        )}
+                      </div>
                       <div className="w-[30px] h-[2px] md:mt-2 bg-[#222]" />
                     </div>
                   )}

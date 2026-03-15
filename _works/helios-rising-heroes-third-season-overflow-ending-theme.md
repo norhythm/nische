@@ -11,6 +11,7 @@ tag:
 layout: square
 image: /works/media/helios-rising-heroes-third-season-overflow-ending-theme.jpg
 ---
+
 如月 レン（CV：石谷 春貴）
 ガスト・アドラー（CV：日野 聡）
 ヴィクター・ヴァレンタイン（CV：諏訪部 順一）
