@@ -20,6 +20,9 @@ content:
       - name: holder
         label: ContentsHolder
         type: string
+      - name: artist
+        label: Artist
+        type: string
       - name: title
         label: Title
         type: string
