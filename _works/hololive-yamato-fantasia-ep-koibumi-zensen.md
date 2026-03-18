@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ『ヤマトファンタジア(EP)』収録曲「恋文前線」"
 date: "2023-07-16"
