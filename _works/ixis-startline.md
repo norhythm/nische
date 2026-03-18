@@ -1,9 +1,8 @@
 ---
 published: true
 date: 2025-12-21
-holder: ""
 artist: IXIS
-title: "IXIS「STARTLINE！」"
+title: STARTLINE！
 url: ixis-startline
 tag:
   - mix
@@ -11,7 +10,6 @@ tag:
 layout: square
 image: /works/media/ixis-startline.jpg
 ---
-
 この作品の概要や説明文を記入する
 
 ##### Tracklist
