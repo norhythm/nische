@@ -1,16 +1,14 @@
 ---
 published: true
 date: 2026-01-21
-holder: ""
 artist: 澤村光彩
-title: "澤村光彩 1st Album「Eternal Star」"
+title: 1st Album「Eternal Star」
 url: sawamura-kirari-1st-album-eternal-star
 tag:
   - mix
 layout: square
 image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 ---
-
 この作品の概要や説明文を記入する
 
 ##### Tracklist
