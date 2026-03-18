@@ -8,7 +8,7 @@ content:
     type: collection
     path: "_works"
     view:
-      fields: [artist, title, url, published, date, image]
+      fields: [holder, artist, title, url, published, date, image]
     fields:
       - name: published
         label: Published
@@ -48,7 +48,7 @@ content:
             - value: rect-v
               label: 横長
       - name: image
-        label: Image
+        label: Image (The maximum size is 1MB.)
         type: image
       - name: body
         label: Body
