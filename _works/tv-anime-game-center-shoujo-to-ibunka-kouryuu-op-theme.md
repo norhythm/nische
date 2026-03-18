@@ -1,8 +1,8 @@
 ---
 published: true
 date: 2025-07-06
-holder: ""
-artist: ""
+holder: ゲーセン少女と異世界交流
+artist: 草壁葵衣(CV：小山内怜央)
 title: ふたりのスタートボタン
 url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-theme
 tag:
@@ -12,7 +12,6 @@ tag:
 layout: rect-v
 image: /works/media/kv01.webp
 ---
-
 リリー・ベイカー(CV：天城サリー)
 草壁葵衣(CV：小山内怜央)
 
