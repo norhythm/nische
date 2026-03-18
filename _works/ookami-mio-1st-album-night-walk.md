@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "大神ミオ 1stアルバム『Night walk』"
+holder: "Hololive"
+artist: "大神ミオ"
+title: "1stアルバム『Night walk』"
 date: "2023-12-07"
 image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
 tag:

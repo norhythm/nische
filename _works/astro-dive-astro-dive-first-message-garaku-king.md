@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "Astro Dive「Astro Dive First Message -我楽多KING-」"
+artist: "Astro Dive"
+title: "Astro Dive First Message -我楽多KING-"
 date: "2025-02-26"
 image: "/works/media/astro-dive-astro-dive-first-message-garaku-king.jpg"
 tag:

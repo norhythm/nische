@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "さくらみこ 1stアルバム『flower rhapsody』"
+holder: "Hololive"
+artist: "さくらみこ"
+title: "1stアルバム『flower rhapsody』"
 date: "2024-09-25"
 image: "/works/media/sakura-miko-1st-album-flower-rhapsody.jpg"
 tag:

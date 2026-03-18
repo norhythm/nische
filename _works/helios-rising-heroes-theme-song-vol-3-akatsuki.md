@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』主題歌 Vol.3 「アカツキ」"
 date: "2024-01-12"

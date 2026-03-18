@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "大神ミオ『Colorful Universe』"
+holder: "Hololive"
+artist: "大神ミオ"
+title: "Colorful Universe"
 date: "2025-01-26"
 image: "/works/media/ookami-mio-colorful-universe.jpg"
 tag:

@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "エリオスライジングヒーローズ 4周年記念楽曲「WELCOME TO OUR SPECIAL PARADE!」"
+title: "4周年記念楽曲「WELCOME TO OUR SPECIAL PARADE!」"
 date: "2025-10-27"
 image: "/works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade.jpg"
 tag:

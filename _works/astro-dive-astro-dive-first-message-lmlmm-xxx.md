@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "Astro Dive「Astro Dive First Message -LMLMM×××♡-」"
+artist: "Astro Dive"
+title: Astro Dive First Message -LMLMM×××♡-"
 date: "2025-01-29"
 image: "/works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg"
 tag:

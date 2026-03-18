@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "小林愛香  Single「グミチュウ」"
+artist: "小林愛香"
+title: "グミチュウ"
 date: "2023-10-18"
 image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
 tag:

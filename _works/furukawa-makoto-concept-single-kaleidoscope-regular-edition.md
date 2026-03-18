@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "古川慎コンセプトシングル『カレイドスコープ』【通常盤】"
+artist: "古川慎"
+title: "『カレイドスコープ』【通常盤】"
 date: "2024-06-12"
 image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-regular-edition.jpg"
 tag:

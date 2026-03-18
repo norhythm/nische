@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "あんさんぶるスターズ！！"
 artist: ""
-title: "あんさんぶるスターズ！！ / Special for Princess!『メランコリーを駆け抜けろ♥』"
+title: "Special for Princess!『メランコリーを駆け抜けろ♥』"
 date: "2025-11-19"
 image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenukero.jpg"
 tag:

@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "RealRomantic 1st EP ＜BLOOMING＞"
+artist: "RealRomantic"
+title: "1st EP ＜BLOOMING＞"
 date: "2025-04-16"
 image: "/works/media/realromantic-1st-ep-blooming.jpg"
 tag:

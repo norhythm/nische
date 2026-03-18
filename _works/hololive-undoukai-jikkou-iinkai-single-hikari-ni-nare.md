@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "『ホロライブ運動会実行委員』 Single「光になれ！」"
 date: "2023-11-05"

@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "Astro Dive「Astro Dive First Message – Twi■■light -」"
+artist: "Astro Dive"
+title: "Astro Dive First Message – Twi■■light -"
 date: "2024-12-25"
 image: "/works/media/astro-dive-astro-dive-first-message-twilight.jpg"
 tag:

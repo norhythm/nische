@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "Pyxis「私たちの合言葉」"
+artist: "Pyxis"
+title: "私たちの合言葉"
 date: "2025-04-28"
 image: "/works/media/pyxis-watashitachi-no-aikotoba.jpg"
 tag:

@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』THIRD SEASON 「First Storm」THEME SONG"
 date: "2024-08-23"

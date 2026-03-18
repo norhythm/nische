@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "大神ミオ 新曲「カメリア」"
+holder: "Hololive"
+artist: "大神ミオ"
+title: "カメリア"
 date: "2023-11-24"
 image: "/works/media/ookami-mio-new-song-camellia.jpg"
 tag:

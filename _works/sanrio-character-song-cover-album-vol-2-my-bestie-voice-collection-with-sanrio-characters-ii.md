@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "サンリオ"
 artist: ""
 published: true
 date: 2025-06-25

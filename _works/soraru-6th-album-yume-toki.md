@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "そらる 6thアルバム『ユメトキ』"
+artist: "そらる"
+title: "6thアルバム『ユメトキ』"
 date: "2025-02-12"
 image: "/works/media/soraru-6th-album-yume-toki.jpg"
 tag:

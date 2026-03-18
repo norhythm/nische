@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "白上フブキ「ストーリーテラー」"
+holder: "Hololive"
+artist: "白上フブキ"
+title: "ストーリーテラー"
 date: "2024-12-24"
 image: "/works/media/shirakami-fubuki-storyteller.jpg"
 tag:

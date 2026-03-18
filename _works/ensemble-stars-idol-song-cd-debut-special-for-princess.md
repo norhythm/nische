@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "あんさんぶるスターズ！！"
 artist: ""
-title: "『あんさんぶるスターズ！！IDOL SONG CD 「Debut」 Special for Princess!』"
+title: "『IDOL SONG CD 「Debut」 Special for Princess!』"
 date: "2025-02-26"
 image: "/works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg"
 tag:

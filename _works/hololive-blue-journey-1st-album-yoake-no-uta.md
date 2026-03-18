@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ Blue Journey 1st Album『夜明けのうた』"
 date: "2023-09-06"

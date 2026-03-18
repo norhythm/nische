@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブゲーマーズのNew Single「We are GAMERS!!!!」"
 date: "2024-05-22"

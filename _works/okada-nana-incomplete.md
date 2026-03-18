@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "岡田奈々「インコンプリート」"
+artist: "岡田奈々"
+title: "インコンプリート"
 date: "2025-08-01"
 image: "/works/media/okada-nana-incomplete.jpg"
 tag:

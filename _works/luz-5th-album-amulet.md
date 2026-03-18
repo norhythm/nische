@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "luz 5thアルバム『AMULET』"
+artist: "luz"
+title: "5thアルバム『AMULET』"
 date: "2023-12-06"
 image: "/works/media/luz-5th-album-amulet.jpg"
 tag:

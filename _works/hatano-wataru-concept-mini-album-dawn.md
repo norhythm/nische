@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "羽多野渉 コンセプトミニアルバム「Dawn」"
+artist: "羽多野渉"
+title: "コンセプトミニアルバム「Dawn」"
 date: "2023-11-15"
 image: "/works/media/hatano-wataru-concept-mini-album-dawn.jpg"
 tag:

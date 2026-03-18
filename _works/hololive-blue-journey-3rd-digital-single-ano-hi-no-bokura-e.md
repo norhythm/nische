@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ Blue Journey 3rdデジタルシングル「あの日の僕らへ」"
 date: "2023-06-19"

@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ5期生（雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ）New Single「Hyper Jumpin'」"
 date: "2023-07-08"

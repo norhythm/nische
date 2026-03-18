@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "宝鐘マリン 1stアルバム『Ahoy!! キミたちみんなパイレーツ♡』"
+holder: "Hololive"
+artist: "宝鐘マリン"
+title: "1stアルバム『Ahoy!! キミたちみんなパイレーツ♡』"
 date: "2024-10-16"
 image: "/works/media/houshou-marine-1st-album-ahoy-kimitachi-minna-pirates.jpg"
 tag:

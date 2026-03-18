@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "優里香「Believe」"
+artist: "優里香"
+title: "Believe"
 date: "2024-02-16"
 image: "/works/media/yurika-new-single-believe.jpg"
 tag:

@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ / 不知火建設 1st EP『scrap ＆ build !』"
 date: "2024-06-07"

@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ5期生（雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ）New Single「Twinkle 4 You」"
 date: "2023-06-17"

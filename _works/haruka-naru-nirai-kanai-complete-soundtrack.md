@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "遥かなるニライカナイ"
 artist: ""
-title: "『遥かなるニライカナイ』「遥かなるニライカナイ-Complete Soundtrack-」"
+title: "「遥かなるニライカナイ-Complete Soundtrack-」"
 date: "2024-10-25"
 image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
 tag:

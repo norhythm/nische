@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "夢限大みゅーたいぷ 1st Single「コミュ着火Fire!」"
+artist: "夢限大みゅーたいぷ"
+title: "1st Single「コミュ着火Fire!」"
 date: "2024-12-25"
 image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
 tag:

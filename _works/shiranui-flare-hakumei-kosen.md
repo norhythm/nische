@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "不知火フレア「薄明光線」"
+holder: "Hololive"
+artist: "不知火フレア"
+title: "薄明光線"
 date: "2025-04-02"
 image: "/works/media/shiranui-flare-hakumei-kosen.jpg"
 tag:

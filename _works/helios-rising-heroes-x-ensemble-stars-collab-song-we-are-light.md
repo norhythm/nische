@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
 artist: ""
-title: "『エリオスライジングヒーローズ』×『あんさんぶるスターズ！！』コラボ楽曲「We Are Light」"
+title: "コラボ楽曲「We Are Light」"
 date: "2024-11-01"
 image: "/works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light.jpg"
 tag:

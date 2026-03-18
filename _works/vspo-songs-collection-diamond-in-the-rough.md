@@ -1,7 +1,7 @@
 ---
-holder: ""
+holder: "ぶいすぽっ！"
 artist: ""
-title: 'ぶいすぽっ！「VSPO! Songs Collection "DIAMOND in the ROUGH"」'
+title: 'VSPO! Songs Collection "DIAMOND in the ROUGH"'
 date: "2025-11-15"
 image: "/works/media/vspo-songs-collection-diamond-in-the-rough.jpg"
 tag:

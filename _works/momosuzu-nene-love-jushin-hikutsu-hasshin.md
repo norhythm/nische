@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "桃鈴ねね「LOVE受信、ヒクツ発信」"
+artist: "桃鈴ねね"
+title: "LOVE受信、ヒクツ発信"
 date: "2025-03-02"
 image: "/works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg"
 tag:

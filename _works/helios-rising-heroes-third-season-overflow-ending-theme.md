@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
 published: true
 date: 2025-06-25

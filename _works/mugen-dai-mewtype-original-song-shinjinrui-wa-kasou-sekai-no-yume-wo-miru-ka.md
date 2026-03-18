@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "夢限大みゅーたいぷ オリジナル楽曲「新人類は仮想世界の夢を見るか？ 」"
+artist: "夢限大みゅーたいぷ"
+title: "新人類は仮想世界の夢を見るか？"
 date: "2024-10-27"
 image: "/works/media/mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka.jpg"
 tag:

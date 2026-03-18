@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ Blue Journey 2ndデジタルシングル「君になりたかった」"
 date: "2023-05-15"

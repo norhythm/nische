@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "Hololive"
 artist: ""
 title: "ホロライブ Blue Journey 1stデジタルシングル「僕は独りだ」"
 date: "2023-04-17"

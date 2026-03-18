@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』Sing in the darkness 「FACTS ERROR」／「dawn light」"
 date: "2023-08-23"

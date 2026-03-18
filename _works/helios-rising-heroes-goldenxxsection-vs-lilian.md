@@ -1,5 +1,5 @@
 ---
-holder: ""
+holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』GoldenXXsection VS LILIAN"
 date: "2024-09-27"

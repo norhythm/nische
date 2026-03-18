@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "凪原涼菜「Albus」"
+artist: "凪原涼菜"
+title: "Albus"
 date: "2025-01-11"
 image: "/works/media/nagihara-suzuna-albus.jpg"
 tag:

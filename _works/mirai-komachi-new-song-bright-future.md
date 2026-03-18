@@ -1,7 +1,7 @@
 ---
 holder: ""
-artist: ""
-title: "ミライ小町「Bright Future」"
+artist: "ミライ小町"
+title: "Bright Future"
 date: "2024-05-22"
 image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
 tag:

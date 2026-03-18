@@ -1,7 +1,7 @@
 ---
-holder: ""
-artist: ""
-title: "『ホロライブ』所属Vtuber 鷹嶺ルイ オリジナル曲「FIRST CRY」"
+holder: "Hololive"
+artist: "鷹嶺ルイ"
+title: "FIRST CRY"
 date: "2023-06-12"
 image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 tag:
