@@ -1,16 +1,14 @@
 ---
 published: true
 date: 2026-03-05
-holder: ""
 artist: IXIS
-title: "IXIS デビューミニアルバム「Roots of」"
+title: デビューミニアルバム「Roots of」
 url: ixis-debut-mini-album-roots-of
 tag:
   - mix
 layout: square
 image: /works/media/ixis-debut-mini-album-roots-of.jpg
 ---
-
 この作品の概要や説明文を記入する
 
 ##### Tracklist
