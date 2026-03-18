@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-11-13"
-holder: ""
+holder: "プリパラ"
 artist: ""
 title: "『プリパラ ソング♪コレクション Melody Moments!』"
 url: "pripara-song-collection-melody-moments"

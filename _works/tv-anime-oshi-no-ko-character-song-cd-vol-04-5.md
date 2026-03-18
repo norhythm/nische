@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-10-09"
-holder: ""
+holder: "TVアニメ『推しの子』"
 artist: ""
-title: "TVアニメ【推しの子】『キャラクターソングCD Vol.04.5』"
+title: "『キャラクターソングCD Vol.04.5』"
 url: "tv-anime-oshi-no-ko-character-song-cd-vol-04-5"
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-10-09"
-holder: ""
+holder: "TVアニメ【推しの子】第2期"
 artist: ""
-title: "TVアニメ【推しの子】第2期「キャラクターソングCDVol.04」"
+title: "「キャラクターソングCDVol.04」"
 url: "tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04"
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-09-18"
-holder: ""
+holder: "TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』"
 artist: ""
-title: "TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』 "
+title: "TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』"
 url: "tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed"
 tag:
   - mix

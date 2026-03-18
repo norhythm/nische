@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-07-28"
-holder: ""
+holder: "ONGEKI"
 artist: ""
-title: "オンゲキ7周年記念楽曲「パピプペPopping！Talk！」"
+title: "7周年記念楽曲「パピプペPopping！Talk！」"
 url: "ongeki-7th-anniversary-papipupe-popping-talk"
 tag:
   - mix

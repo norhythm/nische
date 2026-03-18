@@ -3,7 +3,7 @@ published: true
 date: 2026-03-03
 holder: "ぶいすぽっ！"
 artist: 兎咲ミミ
-title: " 青いまま"
+title: "青いまま"
 url: vspo-tosaki-mimi-aoi-mama
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-09-24"
-holder: ""
-artist: ""
-title: "TVアニメ『ばっどがーる』 天狼群 1stアルバム「KING OF EVIL」"
+holder: "TVアニメ『ばっどがーる』"
+artist: "天狼群"
+title: "1stアルバム「KING OF EVIL」"
 url: "tv-anime-bad-girl-tenrou-gun-1st-album-king-of-evil"
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-11-18"
-holder: ""
-artist: ""
-title: "『ぴゅあくる刀剣男士』 Ghostella デジタルシングル「Roundabout」"
+holder: "ぴゅあくる刀剣男士"
+artist: "Ghostella"
+title: "デジタルシングル「Roundabout」"
 url: "pure-kuru-touken-danshi-ghostella-roundabout"
 tag:
   - mix

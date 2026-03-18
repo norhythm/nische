@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-10-10"
-holder: ""
+holder: "映画『アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-』"
 artist: ""
-title: "映画『アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-』 メインテーマ「ハッピーチューニング」、エンディングテーマ「プリティー×アクティビティ」"
+title: "メインテーマ「ハッピーチューニング」、エンディングテーマ「プリティー×アクティビティ」"
 url: "aikatsu-x-pripara-the-movie-happy-tuning-pretty-activity"
 tag:
   - mix

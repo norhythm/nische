@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-09-24"
-holder: ""
+holder: "TVアニメ『ひみつのアイプリ リング編』"
 artist: ""
-title: "TVアニメ『ひみつのアイプリ リング編』キャラクターソングミニアルバム　VERSE IN SONG 01 DX"
+title: "キャラクターソングミニアルバム　VERSE IN SONG 01 DX"
 url: "tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx"
 tag:
   - mix

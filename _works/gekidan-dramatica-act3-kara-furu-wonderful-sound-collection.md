@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-07-24"
-holder: ""
+holder: "劇団『ドラマティカ』ACT3"
 artist: ""
-title: "劇団『ドラマティカ』ACT3／カラ降るワンダフル！Sound Collection"
+title: "カラ降るワンダフル！Sound Collection"
 url: "gekidan-dramatica-act3-kara-furu-wonderful-sound-collection"
 tag:
   - mix

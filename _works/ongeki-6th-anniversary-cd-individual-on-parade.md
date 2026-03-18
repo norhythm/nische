@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-07-26"
-holder: ""
+holder: "ONGEKI"
 artist: ""
-title: "ONGEKI 6th Anniversary CD『Individual on parade!』"
+title: "6th Anniversary CD『Individual on parade!』"
 url: "ongeki-6th-anniversary-cd-individual-on-parade"
 tag:
   - mix

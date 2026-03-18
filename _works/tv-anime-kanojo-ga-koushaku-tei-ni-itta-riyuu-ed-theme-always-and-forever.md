@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2023-04-26"
-holder: ""
+holder: "TVアニメ『彼女が公爵邸に行った理由』"
 artist: ""
-title: "TVアニメ『彼女が公爵邸に行った理由』EDテーマ「Always and Forever」"
+title: "EDテーマ「Always and Forever」"
 url: "tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever"
 tag:
   - mix
