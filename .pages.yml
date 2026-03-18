@@ -27,7 +27,7 @@ content:
         label: Title
         type: string
       - name: url
-        label: Url
+        label: URL
         type: string
       - name: tag
         label: Tag
@@ -36,7 +36,7 @@ content:
           multiple: true
           values: [rec, mix, master]
       - name: layout
-        label: Layout
+        label: Image layout
         type: select
         options:
           values:
