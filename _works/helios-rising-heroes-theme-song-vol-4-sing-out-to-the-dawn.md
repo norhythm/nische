@@ -1,8 +1,8 @@
 ---
-holder: "エリオスライジングヒーローズ"
-artist: ""
 published: true
 date: 2025-07-23
+holder: "エリオスライジングヒーローズ"
+artist: ""
 title: Sing out to the Dawn
 url: helios-rising-heroes-sing-out-to-the-dawn
 tag:

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-12-24"
 holder: "Hololive"
 artist: "白上フブキ"
 title: "ストーリーテラー"
-date: "2024-12-24"
-image: "/works/media/shirakami-fubuki-storyteller.jpg"
+url: "shirakami-fubuki-storyteller"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "shirakami-fubuki-storyteller"
+image: "/works/media/shirakami-fubuki-storyteller.jpg"
 ---
 
 この作品の概要や説明文を記入する

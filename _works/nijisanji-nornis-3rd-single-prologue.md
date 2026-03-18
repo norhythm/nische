@@ -1,15 +1,16 @@
 ---
 published: true
-date: 2025-10-29
-holder: にじさんじ
-artist: Nornis
-title: Prologue
-url: nijisanji-nornis-3rd-single-prologue
+date: "2025-10-29"
+holder: "にじさんじ"
+artist: "Nornis"
+title: "Prologue"
+url: "nijisanji-nornis-3rd-single-prologue"
 tag:
   - mix
-layout: square
-image: /works/media/nijisanji-nornis-3rd-single-prologue.jpg
+layout: "square"
+image: "/works/media/nijisanji-nornis-3rd-single-prologue.jpg"
 ---
+
 この作品の概要や説明文を記入する
 
 ##### Tracklist

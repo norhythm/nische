@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-10-15"
 holder: ""
 artist: "鬼頭明里"
 title: "3rd Album「Journey」"
-date: "2025-10-15"
-image: "/works/media/kitou-akari-3rd-album-journey.jpg"
+url: "kitou-akari-3rd-album-journey"
 tag:
   - mix
 layout: "square"
-published: true
-url: "kitou-akari-3rd-album-journey"
+image: "/works/media/kitou-akari-3rd-album-journey.jpg"
 ---
 
 この作品の概要や説明文を記入する

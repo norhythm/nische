@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-04-02
+holder: ""
 artist: 古川慎
 title: Hightail it
 url: tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it

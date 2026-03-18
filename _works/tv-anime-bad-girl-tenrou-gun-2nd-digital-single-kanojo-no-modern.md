@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-05-11"
 holder: ""
 artist: ""
 title: 'TVアニメ『ばっどがーる』天狼群 2nd Digital Single「彼女の"Modern…"」'
-date: "2025-05-11"
-image: "/works/media/tv-anime-bad-girl-tenrou-gun-2nd-digital-single-kanojo-no-modern.jpg"
+url: "tv-anime-bad-girl-tenrou-gun-2nd-digital-single-kanojo-no-modern"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-bad-girl-tenrou-gun-2nd-digital-single-kanojo-no-modern"
+image: "/works/media/tv-anime-bad-girl-tenrou-gun-2nd-digital-single-kanojo-no-modern.jpg"
 ---
 
 この作品の概要や説明文を記入する

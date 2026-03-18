@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-01-11"
 holder: ""
 artist: "凪原涼菜"
 title: "Albus"
-date: "2025-01-11"
-image: "/works/media/nagihara-suzuna-albus.jpg"
+url: "nagihara-suzuna-albus"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "nagihara-suzuna-albus"
+image: "/works/media/nagihara-suzuna-albus.jpg"
 ---
 
 この作品の概要や説明文を記入する

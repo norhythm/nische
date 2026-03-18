@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-05-28"
 holder: "RIOT MUSIC"
 artist: "凪原涼菜"
 title: "1st EP「断章 – fragment -」"
-date: "2023-05-28"
-image: "/works/media/riot-music-nagihara-ryona-1st-ep-danshou-fragment.jpg"
+url: "riot-music-nagihara-ryona-1st-ep-danshou-fragment"
 tag:
   - mix
 layout: "square"
-published: true
-url: "riot-music-nagihara-ryona-1st-ep-danshou-fragment"
+image: "/works/media/riot-music-nagihara-ryona-1st-ep-danshou-fragment.jpg"
 ---
 
 この作品の概要や説明文を記入する

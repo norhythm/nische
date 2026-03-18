@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-12-24
+holder: ""
 artist: "夢限大みゅーたいぷ "
 title: 『プログレス サイン』
 url: mugendai-mewtype-1st-album-progress-sign

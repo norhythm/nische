@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-08-27"
 holder: ""
 artist: ""
 title: "TVアニメ『ひみつのアイプリ』ミュージックコレクション DX"
-date: "2025-08-27"
-image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
+url: "tv-anime-himitsu-no-aipri-music-collection-dx"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "tv-anime-himitsu-no-aipri-music-collection-dx"
+image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
 ---
 
 この作品の概要や説明文を記入する

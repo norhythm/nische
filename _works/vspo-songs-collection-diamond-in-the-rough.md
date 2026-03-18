@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-11-15"
 holder: "ぶいすぽっ！"
 artist: ""
 title: 'VSPO! Songs Collection "DIAMOND in the ROUGH"'
-date: "2025-11-15"
-image: "/works/media/vspo-songs-collection-diamond-in-the-rough.jpg"
+url: "vspo-songs-collection-diamond-in-the-rough"
 tag:
   - mix
 layout: "square"
-published: true
-url: "vspo-songs-collection-diamond-in-the-rough"
+image: "/works/media/vspo-songs-collection-diamond-in-the-rough.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-12-09"
 holder: ""
 artist: "RealRomantic"
 title: "先行配信楽曲「BLOOMING」"
-date: "2024-12-09"
-image: "/works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg"
+url: "realromantic-senko-haishin-gakkyoku-blooming"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "realromantic-senko-haishin-gakkyoku-blooming"
+image: "/works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg"
 ---
 
 この作品の概要や説明文を記入する

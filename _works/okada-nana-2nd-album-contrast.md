@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-27"
 holder: ""
 artist: "岡田奈々"
 title: "2nd Album「Contrust"
-date: "2024-11-27"
-image: "/works/media/okada-nana-2nd-album-contrast.jpg"
+url: "okada-nana-2nd-album-contrast"
 tag:
   - mix
 layout: "square"
-published: true
-url: "okada-nana-2nd-album-contrast"
+image: "/works/media/okada-nana-2nd-album-contrast.jpg"
 ---
 
 この作品の概要や説明文を記入する

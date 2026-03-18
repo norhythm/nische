@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-02-16"
 holder: ""
 artist: "優里香"
 title: "Believe"
-date: "2024-02-16"
-image: "/works/media/yurika-new-single-believe.jpg"
+url: "yurika-new-single-believe"
 tag:
   - mix
 layout: "square"
-published: true
-url: "yurika-new-single-believe"
+image: "/works/media/yurika-new-single-believe.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2026-03-11"
 holder: "あんさんぶるスターズ！！Bright me up!!"
 artist: "MELLOW DEAR US"
 title: "Dear World"
-date: "2026-03-11"
-image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg"
+url: "ensemble-stars-bright-me-up-mellow-dear-us-dear-world"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ensemble-stars-bright-me-up-mellow-dear-us-dear-world"
+image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg"
 ---
 
 この作品の概要や説明文を記入する

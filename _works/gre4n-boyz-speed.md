@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-03-19"
 holder: ""
 artist: "GRe4N BOYZ"
 title: "スピード"
-date: "2025-03-19"
-image: "/works/media/gre4n-boyz-speed.jpg"
+url: "gre4n-boyz-speed"
 tag:
   - master
 layout: "square"
-published: true
-url: "gre4n-boyz-speed"
+image: "/works/media/gre4n-boyz-speed.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-01"
 holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
 artist: ""
 title: "コラボ楽曲「We Are Light」"
-date: "2024-11-01"
-image: "/works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light.jpg"
+url: "helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light"
+image: "/works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light.jpg"
 ---
 
 この作品の概要や説明文を記入する

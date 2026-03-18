@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-11-26"
 holder: ""
 artist: "古川慎"
 title: "8th Single「そこに有る灯り」"
-date: "2025-11-26"
-image: "/works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg"
+url: "furukawa-makoto-8th-single-soko-ni-aru-akari"
 tag:
   - mix
 layout: "square"
-published: true
-url: "furukawa-makoto-8th-single-soko-ni-aru-akari"
+image: "/works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg"
 ---
 
 この作品の概要や説明文を記入する

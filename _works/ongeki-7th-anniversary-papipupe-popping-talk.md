@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-07-28"
 holder: ""
 artist: ""
 title: "オンゲキ7周年記念楽曲「パピプペPopping！Talk！」"
-date: "2025-07-28"
-image: "/works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg"
+url: "ongeki-7th-anniversary-papipupe-popping-talk"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ongeki-7th-anniversary-papipupe-popping-talk"
+image: "/works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,8 +1,8 @@
 ---
-holder: "サンリオ"
-artist: ""
 published: true
 date: 2025-06-25
+holder: "サンリオ"
+artist: ""
 title: My Bestie Voice Collection with Sanrio characters II
 url: sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii
 tag:

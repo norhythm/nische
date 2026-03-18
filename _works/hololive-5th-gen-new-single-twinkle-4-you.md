@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-06-17"
 holder: "Hololive"
 artist: ""
 title: "ホロライブ5期生（雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ）New Single「Twinkle 4 You」"
-date: "2023-06-17"
-image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
+url: "hololive-5th-gen-new-single-twinkle-4-you"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-5th-gen-new-single-twinkle-4-you"
+image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
 ---
 
 この作品の概要や説明文を記入する

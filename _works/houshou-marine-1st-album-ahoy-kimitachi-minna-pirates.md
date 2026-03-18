@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-10-16"
 holder: "Hololive"
 artist: "宝鐘マリン"
 title: "1stアルバム『Ahoy!! キミたちみんなパイレーツ♡』"
-date: "2024-10-16"
-image: "/works/media/houshou-marine-1st-album-ahoy-kimitachi-minna-pirates.jpg"
+url: "houshou-marine-1st-album-ahoy-kimitachi-minna-pirates"
 tag:
   - mix
 layout: "square"
-published: true
-url: "houshou-marine-1st-album-ahoy-kimitachi-minna-pirates"
+image: "/works/media/houshou-marine-1st-album-ahoy-kimitachi-minna-pirates.jpg"
 ---
 
 この作品の概要や説明文を記入する

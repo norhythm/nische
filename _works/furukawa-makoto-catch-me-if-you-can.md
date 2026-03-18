@@ -1,8 +1,8 @@
 ---
-holder: ""
-artist: "古川慎"
 published: true
 date: 2025-05-18
+holder: ""
+artist: "古川慎"
 title: "「Catch Me If You Can」"
 url: furukawa-makoto-catch-me-if-you-can
 tag:

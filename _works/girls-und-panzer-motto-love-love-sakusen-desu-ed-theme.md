@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-12-26
+holder: ""
 artist: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 title: 西住みほ(CV:渕上舞)『おやすみなさいの続きです！』
 url: girls-und-panzer-motto-love-love-sakusen-desu-ed-theme

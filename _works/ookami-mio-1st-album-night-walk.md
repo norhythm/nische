@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-12-07"
 holder: "Hololive"
 artist: "大神ミオ"
 title: "1stアルバム『Night walk』"
-date: "2023-12-07"
-image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
+url: "ookami-mio-1st-album-night-walk"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ookami-mio-1st-album-night-walk"
+image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
 ---
 
 この作品の概要や説明文を記入する

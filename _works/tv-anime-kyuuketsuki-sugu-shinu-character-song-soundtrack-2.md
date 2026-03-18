@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-06-07"
 holder: ""
 artist: ""
 title: "TVアニメ『吸血鬼すぐ死ぬ』キャラクターソング入りサウンドトラック②"
-date: "2023-06-07"
-image: "/works/media/tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2.jpg"
+url: "tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2"
+image: "/works/media/tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2.jpg"
 ---
 
 この作品の概要や説明文を記入する

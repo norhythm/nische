@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-04-09"
 holder: ""
 artist: ""
 title: "マンガ『ガールクラッシュ』スペシャルPV"
-date: "2025-04-09"
-image: "/works/media/manga-girl-crush-special-pv.jpg"
+url: "manga-girl-crush-special-pv"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "manga-girl-crush-special-pv"
+image: "/works/media/manga-girl-crush-special-pv.jpg"
 ---
 
 この作品の概要や説明文を記入する

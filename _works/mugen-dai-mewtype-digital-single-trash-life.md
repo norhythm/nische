@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-02-07"
 holder: ""
 artist: "夢限大みゅーたいぷ"
 title: "TRASH LIFE"
-date: "2025-02-07"
-image: "/works/media/mugen-dai-mewtype-digital-single-trash-life.jpg"
+url: "mugen-dai-mewtype-digital-single-trash-life"
 tag:
   - mix
 layout: "square"
-published: true
-url: "mugen-dai-mewtype-digital-single-trash-life"
+image: "/works/media/mugen-dai-mewtype-digital-single-trash-life.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-04-28"
 holder: ""
 artist: "Pyxis"
 title: "私たちの合言葉"
-date: "2025-04-28"
-image: "/works/media/pyxis-watashitachi-no-aikotoba.jpg"
+url: "pyxis-watashitachi-no-aikotoba"
 tag:
   - master
 layout: "square"
-published: true
-url: "pyxis-watashitachi-no-aikotoba"
+image: "/works/media/pyxis-watashitachi-no-aikotoba.jpg"
 ---
 
 この作品の概要や説明文を記入する

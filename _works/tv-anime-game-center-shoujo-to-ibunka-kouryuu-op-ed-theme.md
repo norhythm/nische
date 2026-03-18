@@ -1,8 +1,8 @@
 ---
-holder: ""
-artist: ""
 published: true
 date: 2025-07-06
+holder: ""
+artist: ""
 title: Amusing Flavor
 url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-ed-theme
 tag:

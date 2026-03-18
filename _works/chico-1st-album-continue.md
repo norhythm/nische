@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-07-31"
 holder: ""
 artist: "CHiCO"
 title: "1st Album 『CONTiNUE』"
-date: "2024-07-31"
-image: "/works/media/chico-1st-album-continue.jpg"
+url: "chico-1st-album-continue"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "chico-1st-album-continue"
+image: "/works/media/chico-1st-album-continue.jpg"
 ---
 
 この作品の概要や説明文を記入する

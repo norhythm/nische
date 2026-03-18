@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-02-26"
 holder: "あんさんぶるスターズ！！"
 artist: ""
 title: "『IDOL SONG CD 「Debut」 Special for Princess!』"
-date: "2025-02-26"
-image: "/works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg"
+url: "ensemble-stars-idol-song-cd-debut-special-for-princess"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ensemble-stars-idol-song-cd-debut-special-for-princess"
+image: "/works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg"
 ---
 
 この作品の概要や説明文を記入する

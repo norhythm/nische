@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-20"
 holder: ""
 artist: ""
 title: "TVアニメ『甘神さんちの縁結び』キャラクターソングミニアルバム「君に恋を結んで」"
-date: "2024-11-20"
-image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde.jpg"
+url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde"
+image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde.jpg"
 ---
 
 この作品の概要や説明文を記入する

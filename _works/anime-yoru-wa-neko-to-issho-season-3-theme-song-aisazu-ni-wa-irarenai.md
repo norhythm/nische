@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-12-04"
 holder: "アニメ『夜は猫といっしょ』"
 artist: ""
 title: "第3期　主題歌「愛さずにはいられない」"
-date: "2024-12-04"
-image: "/works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai.jpg"
+url: "anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai"
 tag:
   - mix
 layout: "square"
-published: true
-url: "anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai"
+image: "/works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai.jpg"
 ---
 
 この作品の概要や説明文を記入する

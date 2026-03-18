@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2026-03-05
+holder: ""
 artist: IXIS
 title: "IXIS デビューミニアルバム「Roots of」"
 url: ixis-debut-mini-album-roots-of

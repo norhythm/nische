@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-08-18"
 holder: ""
 artist: "澤村 光彩"
 title: "2ndデジタルシングル『憑いていく』"
-date: "2024-08-18"
-image: "/works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg"
+url: "sawamura-kirari-2nd-digital-single-tsuite-iku"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "sawamura-kirari-2nd-digital-single-tsuite-iku"
+image: "/works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-04-02"
 holder: "Hololive"
 artist: "不知火フレア"
 title: "薄明光線"
-date: "2025-04-02"
-image: "/works/media/shiranui-flare-hakumei-kosen.jpg"
+url: "shiranui-flare-hakumei-kosen"
 tag:
   - mix
 layout: "square"
-published: true
-url: "shiranui-flare-hakumei-kosen"
+image: "/works/media/shiranui-flare-hakumei-kosen.jpg"
 ---
 
 この作品の概要や説明文を記入する

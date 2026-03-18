@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-04-24"
 holder: ""
 artist: ""
 title: "TVアニメ『転生貴族、鑑定スキルで成り上がる』OP主題歌 TRUE「ブルーデイズ」"
-date: "2024-04-24"
-image: "/works/media/tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days.jpg"
+url: "tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days"
+image: "/works/media/tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-13"
 holder: ""
 artist: ""
 title: "『プリパラ ソング♪コレクション Melody Moments!』"
-date: "2024-11-13"
-image: "/works/media/pripara-song-collection-melody-moments.jpg"
+url: "pripara-song-collection-melody-moments"
 tag:
   - mix
 layout: "square"
-published: true
-url: "pripara-song-collection-melody-moments"
+image: "/works/media/pripara-song-collection-melody-moments.jpg"
 ---
 
 この作品の概要や説明文を記入する

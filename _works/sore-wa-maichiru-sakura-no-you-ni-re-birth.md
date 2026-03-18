@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-09-29"
 holder: ""
 artist: ""
 title: "『それは舞い散る桜のように-Re:BIRTH-』"
-date: "2023-09-29"
-image: "/works/media/sore-wa-maichiru-sakura-no-you-ni-re-birth.jpg"
+url: "sore-wa-maichiru-sakura-no-you-ni-re-birth"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "sore-wa-maichiru-sakura-no-you-ni-re-birth"
+image: "/works/media/sore-wa-maichiru-sakura-no-you-ni-re-birth.jpg"
 ---
 
 この作品の概要や説明文を記入する

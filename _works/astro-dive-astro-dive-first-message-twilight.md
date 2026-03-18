@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-12-25"
 holder: ""
 artist: "Astro Dive"
 title: "Astro Dive First Message – Twi■■light -"
-date: "2024-12-25"
-image: "/works/media/astro-dive-astro-dive-first-message-twilight.jpg"
+url: "astro-dive-astro-dive-first-message-twilight"
 tag:
   - mix
 layout: "square"
-published: true
-url: "astro-dive-astro-dive-first-message-twilight"
+image: "/works/media/astro-dive-astro-dive-first-message-twilight.jpg"
 ---
 
 この作品の概要や説明文を記入する

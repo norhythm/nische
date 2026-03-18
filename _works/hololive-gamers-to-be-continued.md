@@ -1,7 +1,7 @@
 ---
-holder: "Hololive"
 published: true
 date: 2025-07-03
+holder: "Hololive"
 artist: ホロライブゲーマーズ
 title: To Be Continued…
 url: hololive-gamers-to-be-continued

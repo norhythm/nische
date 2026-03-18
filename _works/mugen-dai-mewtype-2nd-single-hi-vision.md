@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-04-30
+holder: ""
 artist: 夢限大みゅーたいぷ
 title: Hi-Vision
 url: mugen-dai-mewtype-2nd-single-hi-vision

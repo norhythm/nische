@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-11-15"
 holder: ""
 artist: ""
 title: "『eガールズ&パンツァー 最終章』デジタルシングル「有彩コンチェルト / Check Make Mate」"
-date: "2025-11-15"
-image: "/works/media/girls-und-panzer-final-chapter-yusai-concerto-check-make-mate.jpg"
+url: "girls-und-panzer-final-chapter-yusai-concerto-check-make-mate"
 tag:
   - mix
 layout: "square"
-published: true
-url: "girls-und-panzer-final-chapter-yusai-concerto-check-make-mate"
+image: "/works/media/girls-und-panzer-final-chapter-yusai-concerto-check-make-mate.jpg"
 ---
 
 この作品の概要や説明文を記入する

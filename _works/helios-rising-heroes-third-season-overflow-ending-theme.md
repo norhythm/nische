@@ -1,8 +1,8 @@
 ---
-holder: "エリオスライジングヒーローズ"
-artist: ""
 published: true
 date: 2025-06-25
+holder: "エリオスライジングヒーローズ"
+artist: ""
 title: Signs of Dawn
 url: helios-rising-heroes-third-season-overflow-ending-theme
 tag:

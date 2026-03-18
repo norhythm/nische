@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-06-30
+holder: ""
 artist: GRe4N BOYZ
 title: アイノカタチ
 url: gre4n-boyz-ai-no-katachi

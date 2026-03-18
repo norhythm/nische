@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-10-27"
 holder: ""
 artist: "夢限大みゅーたいぷ"
 title: "新人類は仮想世界の夢を見るか？"
-date: "2024-10-27"
-image: "/works/media/mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka.jpg"
+url: "mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka"
+image: "/works/media/mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka.jpg"
 ---
 
 この作品の概要や説明文を記入する

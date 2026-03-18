@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-02-12"
 holder: ""
 artist: "そらる"
 title: "6thアルバム『ユメトキ』"
-date: "2025-02-12"
-image: "/works/media/soraru-6th-album-yume-toki.jpg"
+url: "soraru-6th-album-yume-toki"
 tag:
   - mix
 layout: "square"
-published: true
-url: "soraru-6th-album-yume-toki"
+image: "/works/media/soraru-6th-album-yume-toki.jpg"
 ---
 
 この作品の概要や説明文を記入する

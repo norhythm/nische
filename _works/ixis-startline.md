@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-12-21
+holder: ""
 artist: IXIS
 title: "IXIS「STARTLINE！」"
 url: ixis-startline

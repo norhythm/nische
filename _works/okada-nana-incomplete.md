@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-08-01"
 holder: ""
 artist: "岡田奈々"
 title: "インコンプリート"
-date: "2025-08-01"
-image: "/works/media/okada-nana-incomplete.jpg"
+url: "okada-nana-incomplete"
 tag:
   - mix
 layout: "square"
-published: true
-url: "okada-nana-incomplete"
+image: "/works/media/okada-nana-incomplete.jpg"
 ---
 
 この作品の概要や説明文を記入する

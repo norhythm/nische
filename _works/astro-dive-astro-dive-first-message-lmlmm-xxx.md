@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-01-29"
 holder: ""
 artist: "Astro Dive"
 title: Astro Dive First Message -LMLMM×××♡-"
-date: "2025-01-29"
-image: "/works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg"
+url: "astro-dive-astro-dive-first-message-lmlmm-xxx"
 tag:
   - mix
 layout: "square"
-published: true
-url: "astro-dive-astro-dive-first-message-lmlmm-xxx"
+image: "/works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg"
 ---
 
 この作品の概要や説明文を記入する

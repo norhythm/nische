@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-12-18"
 holder: エリオスライジングヒーローズ""
 artist: ""
 title: "第5部主題歌「LIGHT IN YOUR EYES」"
-date: "2025-12-18"
-image: "/works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg"
+url: "helios-rising-heroes-season-5-theme-light-in-your-eyes"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-season-5-theme-light-in-your-eyes"
+image: "/works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg"
 ---
 
 この作品の概要や説明文を記入する

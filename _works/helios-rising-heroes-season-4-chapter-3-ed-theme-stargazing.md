@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-08-06"
 holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "第4部3章EDテーマ「STARGAZING」"
-date: "2025-08-06"
-image: "/works/media/helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing.jpg"
+url: "helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing"
+image: "/works/media/helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing.jpg"
 ---
 
 この作品の概要や説明文を記入する

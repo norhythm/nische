@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-04-16"
 holder: ""
 artist: "RealRomantic"
 title: "1st EP ＜BLOOMING＞"
-date: "2025-04-16"
-image: "/works/media/realromantic-1st-ep-blooming.jpg"
+url: "realromantic-1st-ep-blooming"
 tag:
   - mix
 layout: "square"
-published: true
-url: "realromantic-1st-ep-blooming"
+image: "/works/media/realromantic-1st-ep-blooming.jpg"
 ---
 
 この作品の概要や説明文を記入する

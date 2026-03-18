@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-09-18"
 holder: ""
 artist: ""
 title: "TVアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』 "
-date: "2024-09-18"
-image: "/works/media/tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed.jpg"
+url: "tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed"
+image: "/works/media/tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-27"
 holder: ""
 artist: "Astro Dive"
 title: "Astro Dive First Message -ATOMOSUREINN-"
-date: "2024-11-27"
-image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
+url: "astro-dive-astro-dive-first-message-atomosureinn"
 tag:
   - mix
 layout: "square"
-published: true
-url: "astro-dive-astro-dive-first-message-atomosureinn"
+image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
 ---
 
 この作品の概要や説明文を記入する

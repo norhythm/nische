@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-12-25"
 holder: ""
 artist: "夢限大みゅーたいぷ"
 title: "1st Single「コミュ着火Fire!」"
-date: "2024-12-25"
-image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
+url: "mugen-dai-mewtype-1st-single-commu-chakka-fire"
 tag:
   - mix
 layout: "square"
-published: true
-url: "mugen-dai-mewtype-1st-single-commu-chakka-fire"
+image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
 ---
 
 この作品の概要や説明文を記入する

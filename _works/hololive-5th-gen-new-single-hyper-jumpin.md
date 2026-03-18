@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-07-08"
 holder: "Hololive"
 artist: ""
 title: "ホロライブ5期生（雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ）New Single「Hyper Jumpin'」"
-date: "2023-07-08"
-image: "/works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg"
+url: "hololive-5th-gen-new-single-hyper-jumpin"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-5th-gen-new-single-hyper-jumpin"
+image: "/works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg"
 ---
 
 この作品の概要や説明文を記入する

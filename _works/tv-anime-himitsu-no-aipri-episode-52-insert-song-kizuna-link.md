@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-04-06"
 holder: ""
 artist: ""
 title: "TVアニメ『ひみつのアイプリ』第52話挿入歌「キズナ×リンク」"
-date: "2025-04-06"
-image: "/works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link.jpg"
+url: "tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link"
+image: "/works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link.jpg"
 ---
 
 この作品の概要や説明文を記入する

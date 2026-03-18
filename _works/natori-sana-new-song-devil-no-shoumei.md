@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-03-07"
 holder: ""
 artist: "名取さな"
 title: "デビルの証明"
-date: "2024-03-07"
-image: "/works/media/natori-sana-new-song-devil-no-shoumei.jpg"
+url: "natori-sana-new-song-devil-no-shoumei"
 tag:
   - mix
 layout: "square"
-published: true
-url: "natori-sana-new-song-devil-no-shoumei"
+image: "/works/media/natori-sana-new-song-devil-no-shoumei.jpg"
 ---
 
 この作品の概要や説明文を記入する

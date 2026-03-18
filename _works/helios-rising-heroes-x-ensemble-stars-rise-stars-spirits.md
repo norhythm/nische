@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-11-01"
 holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
 artist: ""
 title: "コラボ楽曲「RISE STAR'S SPIRITS」"
-date: "2025-11-01"
-image: "/works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg"
+url: "helios-rising-heroes-x-ensemble-stars-rise-stars-spirits"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-x-ensemble-stars-rise-stars-spirits"
+image: "/works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg"
 ---
 
 この作品の概要や説明文を記入する

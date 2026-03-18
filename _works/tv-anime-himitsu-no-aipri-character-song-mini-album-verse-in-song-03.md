@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-03-26"
 holder: ""
 artist: ""
 title: "TVアニメ『ひみつのアイプリ』キャラクターソングミニアルバム VERSE IN SONG 03"
-date: "2025-03-26"
-image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03.jpg"
+url: "tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03"
+image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03.jpg"
 ---
 
 この作品の概要や説明文を記入する

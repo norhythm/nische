@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-04-26"
 holder: ""
 artist: ""
 title: "TVアニメ「スパイ教室」スペシャルエンディングテーマCD File.02"
-date: "2023-04-26"
-image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-02.jpg"
+url: "tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-02"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-02"
+image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-02.jpg"
 ---
 
 この作品の概要や説明文を記入する

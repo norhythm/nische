@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-06-18
+holder: ""
 artist: 古川慎
 title: Catch Me If You Can
 url: furukawa-makoto-2nd-mini-album-catch-me-if-you-can

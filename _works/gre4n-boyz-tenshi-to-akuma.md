@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-04-06
+holder: ""
 artist: GRe4N BOYZ
 title: 天使と悪魔
 url: gre4n-boyz-tenshi-to-akuma

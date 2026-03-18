@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-09-21"
 holder: ""
 artist: ""
 title: "TVアニメ『ひみつのアイプリ リング編』第76話挿入歌「ミライのプリンセス」"
-date: "2025-09-21"
-image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess.jpg"
+url: "tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess"
+image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess.jpg"
 ---
 
 この作品の概要や説明文を記入する

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-08-23"
 holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』Sing in the darkness 「FACTS ERROR」／「dawn light」"
-date: "2023-08-23"
-image: "/works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light.jpg"
+url: "helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light"
+image: "/works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light.jpg"
 ---
 
 この作品の概要や説明文を記入する

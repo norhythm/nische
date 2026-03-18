@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-10-25"
 holder: "あんさんぶるスターズ！！Bright me up!!"
 artist: "MELLOW DEAR US"
 title: "Mellow Addiction"
-date: "2025-10-25"
-image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction-short.jpg"
+url: "ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction-short"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction-short"
+image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction-short.jpg"
 ---
 
 この作品の概要や説明文を記入する

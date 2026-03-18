@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-09-15"
 holder: "Hololive"
 artist: "宝鐘マリン"
 title: " パイパイ仮面でどうかしらん？"
-date: "2024-09-15"
-image: "/works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg"
+url: "houshou-marine-new-song-paipai-kamen-de-doukashiran"
 tag:
   - mix
 layout: "square"
-published: true
-url: "houshou-marine-new-song-paipai-kamen-de-doukashiran"
+image: "/works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg"
 ---
 
 この作品の概要や説明文を記入する

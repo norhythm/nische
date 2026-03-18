@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-10-25"
 holder: ""
 artist: ""
 title: "『遥かなるニライカナイ』"
-date: "2024-10-25"
-image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
+url: "haruka-naru-nirai-kanai-op-ed-theme"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "haruka-naru-nirai-kanai-op-ed-theme"
+image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
 ---
 
 この作品の概要や説明文を記入する

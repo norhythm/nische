@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-04-15
+holder: ""
 artist: RealRomantic
 title: ROMANTIC SEVEN
 url: realromantic-digital-release-romantic-seven

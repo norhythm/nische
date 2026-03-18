@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-11-05"
 holder: "Hololive"
 artist: ""
 title: "『ホロライブ運動会実行委員』 Single「光になれ！」"
-date: "2023-11-05"
-image: "/works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg"
+url: "hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare"
+image: "/works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg"
 ---
 
 この作品の概要や説明文を記入する

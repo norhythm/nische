@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-01"
 holder: ""
 artist: ""
 title: "『CAFE CINNAMON』アレンジCD「ES idol songs Cinnamon arrange selection Vol.5」"
-date: "2024-11-01"
-image: "/works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg"
+url: "cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5"
 tag:
   - mix
 layout: "square"
-published: true
-url: "cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5"
+image: "/works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg"
 ---
 
 この作品の概要や説明文を記入する

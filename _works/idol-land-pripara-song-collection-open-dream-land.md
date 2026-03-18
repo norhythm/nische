@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-11-13"
 holder: ""
 artist: ""
 title: "『アイドルランドプリパラ ソング♪コレクション OPEN DREAM LAND!』"
-date: "2024-11-13"
-image: "/works/media/idol-land-pripara-song-collection-open-dream-land.jpg"
+url: "idol-land-pripara-song-collection-open-dream-land"
 tag:
   - mix
 layout: "square"
-published: true
-url: "idol-land-pripara-song-collection-open-dream-land"
+image: "/works/media/idol-land-pripara-song-collection-open-dream-land.jpg"
 ---
 
 この作品の概要や説明文を記入する

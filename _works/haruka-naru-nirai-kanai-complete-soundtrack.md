@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-10-25"
 holder: "遥かなるニライカナイ"
 artist: ""
 title: "「遥かなるニライカナイ-Complete Soundtrack-」"
-date: "2024-10-25"
-image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
+url: "haruka-naru-nirai-kanai-complete-soundtrack"
 tag:
   - mix
 layout: "square"
-published: true
-url: "haruka-naru-nirai-kanai-complete-soundtrack"
+image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
 ---
 
 この作品の概要や説明文を記入する

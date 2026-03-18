@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-06-12"
 holder: "Hololive"
 artist: "鷹嶺ルイ"
 title: "FIRST CRY"
-date: "2023-06-12"
-image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
+url: "hololive-takane-lui-original-song-first-cry"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-takane-lui-original-song-first-cry"
+image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 ---
 
 この作品の概要や説明文を記入する

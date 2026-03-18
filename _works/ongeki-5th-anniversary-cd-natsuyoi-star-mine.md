@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-08-30"
 holder: ""
 artist: ""
 title: "ONGEKI 5th Anniversary CD『夏宵スターマイン』"
-date: "2023-08-30"
-image: "/works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg"
+url: "ongeki-5th-anniversary-cd-natsuyoi-star-mine"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ongeki-5th-anniversary-cd-natsuyoi-star-mine"
+image: "/works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg"
 ---
 
 この作品の概要や説明文を記入する

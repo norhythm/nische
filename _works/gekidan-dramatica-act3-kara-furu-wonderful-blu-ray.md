@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-07-24"
 holder: ""
 artist: ""
 title: "劇団『ドラマティカ』ACT3／カラ降るワンダフル！ "
-date: "2024-07-24"
-image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-blu-ray.jpg"
+url: "gekidan-dramatica-act3-kara-furu-wonderful-blu-ray"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "gekidan-dramatica-act3-kara-furu-wonderful-blu-ray"
+image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-blu-ray.jpg"
 ---
 
 この作品の概要や説明文を記入する

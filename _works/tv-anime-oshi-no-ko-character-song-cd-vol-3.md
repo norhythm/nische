@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-07-05"
 holder: ""
 artist: ""
 title: "TVアニメ『推しの子』キャラクターソングCD Vol.3"
-date: "2023-07-05"
-image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
+url: "tv-anime-oshi-no-ko-character-song-cd-vol-3"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-oshi-no-ko-character-song-cd-vol-3"
+image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
 ---
 
 この作品の概要や説明文を記入する

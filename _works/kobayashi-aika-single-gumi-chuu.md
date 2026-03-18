@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-10-18"
 holder: ""
 artist: "小林愛香"
 title: "グミチュウ"
-date: "2023-10-18"
-image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
+url: "kobayashi-aika-single-gumi-chuu"
 tag:
   - mix
 layout: "square"
-published: true
-url: "kobayashi-aika-single-gumi-chuu"
+image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
 ---
 
 この作品の概要や説明文を記入する

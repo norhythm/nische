@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-11-19"
 holder: "あんさんぶるスターズ！！"
 artist: ""
 title: "Special for Princess!『メランコリーを駆け抜けろ♥』"
-date: "2025-11-19"
-image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenukero.jpg"
+url: "ensemble-stars-special-for-princess-melancholy-wo-kakenukero"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ensemble-stars-special-for-princess-melancholy-wo-kakenukero"
+image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenukero.jpg"
 ---
 
 この作品の概要や説明文を記入する

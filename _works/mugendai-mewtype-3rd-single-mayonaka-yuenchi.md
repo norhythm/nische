@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-09-03"
 holder: ""
 artist: "夢限大みゅーたいぷ"
 title: "真夜中遊園地"
-date: "2025-09-03"
-image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
+url: "mugendai-mewtype-3rd-single-mayonaka-yuenchi"
 tag:
   - mix
 layout: "square"
-published: true
-url: "mugendai-mewtype-3rd-single-mayonaka-yuenchi"
+image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
 ---
 
 この作品の概要や説明文を記入する

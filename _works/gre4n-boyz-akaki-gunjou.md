@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-07-09
+holder: ""
 artist: GRe4N BOYZ
 title: "アカキ群青"
 url: gre4n-boyz-akaki-gunjou

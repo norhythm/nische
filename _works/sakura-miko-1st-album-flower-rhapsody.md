@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-09-25"
 holder: "Hololive"
 artist: "さくらみこ"
 title: "1stアルバム『flower rhapsody』"
-date: "2024-09-25"
-image: "/works/media/sakura-miko-1st-album-flower-rhapsody.jpg"
+url: "sakura-miko-1st-album-flower-rhapsody"
 tag:
   - mix
 layout: "rect-v"
-published: true
-url: "sakura-miko-1st-album-flower-rhapsody"
+image: "/works/media/sakura-miko-1st-album-flower-rhapsody.jpg"
 ---
 
 この作品の概要や説明文を記入する

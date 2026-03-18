@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-06-07"
 holder: "Hololive"
 artist: ""
 title: "ホロライブ / 不知火建設 1st EP『scrap ＆ build !』"
-date: "2024-06-07"
-image: "/works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg"
+url: "hololive-shiranui-kensetsu-1st-ep-scrap-and-build"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-shiranui-kensetsu-1st-ep-scrap-and-build"
+image: "/works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg"
 ---
 
 この作品の概要や説明文を記入する

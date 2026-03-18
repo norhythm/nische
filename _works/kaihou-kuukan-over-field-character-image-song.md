@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-10-23"
 holder: ""
 artist: ""
 title: "『開放空間：Over Field』"
-date: "2024-10-23"
-image: "/works/media/kaihou-kuukan-over-field-character-image-song.jpg"
+url: "kaihou-kuukan-over-field-character-image-song"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "kaihou-kuukan-over-field-character-image-song"
+image: "/works/media/kaihou-kuukan-over-field-character-image-song.jpg"
 ---
 
 この作品の概要や説明文を記入する

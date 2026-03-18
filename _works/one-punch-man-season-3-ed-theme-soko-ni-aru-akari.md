@@ -1,15 +1,15 @@
 ---
+published: true
+date: "2025-10-13"
 holder: "アニメ『ワンパンマン』"
 artist: ""
 title: "第3期 ED主題歌「そこに有る灯り」"
-date: "2025-10-13"
-image: "/works/media/one-punch-man-season-3-ed-theme-soko-ni-aru-akari.jpg"
+url: "one-punch-man-season-3-ed-theme-soko-ni-aru-akari"
 tag:
   - mix
   - master
 layout: "rect-h"
-published: true
-url: "one-punch-man-season-3-ed-theme-soko-ni-aru-akari"
+image: "/works/media/one-punch-man-season-3-ed-theme-soko-ni-aru-akari.jpg"
 ---
 
 この作品の概要や説明文を記入する

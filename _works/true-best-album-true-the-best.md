@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-02-26"
 holder: ""
 artist: "TRUE"
 title: "ベストアルバム「TRUE the BEST」"
-date: "2025-02-26"
-image: "/works/media/true-best-album-true-the-best.jpg"
+url: "true-best-album-true-the-best"
 tag:
   - mix
 layout: "square"
-published: true
-url: "true-best-album-true-the-best"
+image: "/works/media/true-best-album-true-the-best.jpg"
 ---
 
 この作品の概要や説明文を記入する

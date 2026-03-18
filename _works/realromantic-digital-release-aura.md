@@ -1,7 +1,7 @@
 ---
-holder: ""
 published: true
 date: 2025-05-20
+holder: ""
 artist: RealRomantic
 title: AURA
 url: realromantic-digital-release-aura

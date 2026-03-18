@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-05-22"
 holder: ""
 artist: "ミライ小町"
 title: "Bright Future"
-date: "2024-05-22"
-image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
+url: "mirai-komachi-new-song-bright-future"
 tag:
   - mix
 layout: "square"
-published: true
-url: "mirai-komachi-new-song-bright-future"
+image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
 ---
 
 この作品の概要や説明文を記入する

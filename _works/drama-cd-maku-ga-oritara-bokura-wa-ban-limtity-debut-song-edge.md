@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-07-07"
 holder: "ドラマCD『幕が下りたら僕らは番』"
 artist: "Limtity"
 title: "EDGE"
-date: "2023-07-07"
-image: "/works/media/drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge.jpg"
+url: "drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge"
 tag:
   - mix
 layout: "square"
-published: true
-url: "drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge"
+image: "/works/media/drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge.jpg"
 ---
 
 この作品の概要や説明文を記入する

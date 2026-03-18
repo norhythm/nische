@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-07-30"
 holder: ""
 artist: ""
 title: '『メメントモリ』"ルミカ"ラメント「lumière」'
-date: "2025-07-30"
-image: "/works/media/memento-mori-rumika-lament-lumiere.jpg"
+url: "memento-mori-rumika-lament-lumiere"
 tag:
   - mix
 layout: "square"
-published: true
-url: "memento-mori-rumika-lament-lumiere"
+image: "/works/media/memento-mori-rumika-lament-lumiere.jpg"
 ---
 
 この作品の概要や説明文を記入する

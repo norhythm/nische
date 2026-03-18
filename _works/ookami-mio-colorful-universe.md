@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-01-26"
 holder: "Hololive"
 artist: "大神ミオ"
 title: "Colorful Universe"
-date: "2025-01-26"
-image: "/works/media/ookami-mio-colorful-universe.jpg"
+url: "ookami-mio-colorful-universe"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ookami-mio-colorful-universe"
+image: "/works/media/ookami-mio-colorful-universe.jpg"
 ---
 
 この作品の概要や説明文を記入する

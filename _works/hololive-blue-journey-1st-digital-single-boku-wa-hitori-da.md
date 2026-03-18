@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-04-17"
 holder: "Hololive"
 artist: ""
 title: "ホロライブ Blue Journey 1stデジタルシングル「僕は独りだ」"
-date: "2023-04-17"
-image: "/works/media/hololive-blue-journey-1st-digital-single-boku-wa-hitori-da.jpg"
+url: "hololive-blue-journey-1st-digital-single-boku-wa-hitori-da"
 tag:
   - mix
 layout: "square"
-published: true
-url: "hololive-blue-journey-1st-digital-single-boku-wa-hitori-da"
+image: "/works/media/hololive-blue-journey-1st-digital-single-boku-wa-hitori-da.jpg"
 ---
 
 この作品の概要や説明文を記入する

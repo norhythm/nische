@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-11-24"
 holder: "Hololive"
 artist: "大神ミオ"
 title: "カメリア"
-date: "2023-11-24"
-image: "/works/media/ookami-mio-new-song-camellia.jpg"
+url: "ookami-mio-new-song-camellia"
 tag:
   - mix
 layout: "square"
-published: true
-url: "ookami-mio-new-song-camellia"
+image: "/works/media/ookami-mio-new-song-camellia.jpg"
 ---
 
 この作品の概要や説明文を記入する

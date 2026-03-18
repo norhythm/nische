@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-02-26"
 holder: ""
 artist: "Astro Dive"
 title: "Astro Dive First Message -我楽多KING-"
-date: "2025-02-26"
-image: "/works/media/astro-dive-astro-dive-first-message-garaku-king.jpg"
+url: "astro-dive-astro-dive-first-message-garaku-king"
 tag:
   - mix
 layout: "square"
-published: true
-url: "astro-dive-astro-dive-first-message-garaku-king"
+image: "/works/media/astro-dive-astro-dive-first-message-garaku-king.jpg"
 ---
 
 この作品の概要や説明文を記入する

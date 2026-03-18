@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-03-19"
 holder: ""
 artist: ""
 title: "TVアニメ『甘神さんちの縁結び』キャラクターソングミニアルバム「Pray Pray Pray」"
-date: "2025-03-19"
-image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray.jpg"
+url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray"
+image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray.jpg"
 ---
 
 この作品の概要や説明文を記入する

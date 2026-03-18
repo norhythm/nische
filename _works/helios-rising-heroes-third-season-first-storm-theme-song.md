@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-08-23"
 holder: "エリオスライジングヒーローズ"
 artist: ""
 title: "『HELIOS Rising Heroes』THIRD SEASON 「First Storm」THEME SONG"
-date: "2024-08-23"
-image: "/works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg"
+url: "helios-rising-heroes-third-season-first-storm-theme-song"
 tag:
   - mix
 layout: "square"
-published: true
-url: "helios-rising-heroes-third-season-first-storm-theme-song"
+image: "/works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg"
 ---
 
 この作品の概要や説明文を記入する

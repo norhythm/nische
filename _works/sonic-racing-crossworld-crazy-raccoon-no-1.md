@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-08-17"
 holder: ""
 artist: ""
 title: "『ソニックレーシング クロスワールド』 Crazy Raccoon コラボ楽曲「No.1」"
-date: "2025-08-17"
-image: "/works/media/sonic-racing-crossworld-crazy-raccoon-no-1.jpg"
+url: "sonic-racing-crossworld-crazy-raccoon-no-1"
 tag:
   - mix
 layout: "rect-h"
-published: true
-url: "sonic-racing-crossworld-crazy-raccoon-no-1"
+image: "/works/media/sonic-racing-crossworld-crazy-raccoon-no-1.jpg"
 ---
 
 この作品の概要や説明文を記入する

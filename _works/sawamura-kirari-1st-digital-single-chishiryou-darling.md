@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-06-19"
 holder: ""
 artist: "澤村 光彩"
 title: "1stデジタルシングル『致死量ダーリン』"
-date: "2024-06-19"
-image: "/works/media/sawamura-kirari-1st-digital-single-chishiryou-darling.jpg"
+url: "sawamura-kirari-1st-digital-single-chishiryou-darling"
 tag:
   - mix
 layout: "square"
-published: true
-url: "sawamura-kirari-1st-digital-single-chishiryou-darling"
+image: "/works/media/sawamura-kirari-1st-digital-single-chishiryou-darling.jpg"
 ---
 
 この作品の概要や説明文を記入する

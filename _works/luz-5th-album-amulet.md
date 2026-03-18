@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2023-12-06"
 holder: ""
 artist: "luz"
 title: "5thアルバム『AMULET』"
-date: "2023-12-06"
-image: "/works/media/luz-5th-album-amulet.jpg"
+url: "luz-5th-album-amulet"
 tag:
   - mix
 layout: "square"
-published: true
-url: "luz-5th-album-amulet"
+image: "/works/media/luz-5th-album-amulet.jpg"
 ---
 
 この作品の概要や説明文を記入する

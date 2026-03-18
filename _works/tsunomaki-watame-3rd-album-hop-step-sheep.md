@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2024-01-10"
 holder: ""
 artist: ""
 title: "角巻わため 3rdアルバム『Hop Step Sheep』"
-date: "2024-01-10"
-image: "/works/media/tsunomaki-watame-3rd-album-hop-step-sheep.jpg"
+url: "tsunomaki-watame-3rd-album-hop-step-sheep"
 tag:
   - mix
 layout: "square"
-published: true
-url: "tsunomaki-watame-3rd-album-hop-step-sheep"
+image: "/works/media/tsunomaki-watame-3rd-album-hop-step-sheep.jpg"
 ---
 
 この作品の概要や説明文を記入する

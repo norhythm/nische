@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-03-02"
 holder: ""
 artist: "桃鈴ねね"
 title: "LOVE受信、ヒクツ発信"
-date: "2025-03-02"
-image: "/works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg"
+url: "momosuzu-nene-love-jushin-hikutsu-hasshin"
 tag:
   - mix
 layout: "square"
-published: true
-url: "momosuzu-nene-love-jushin-hikutsu-hasshin"
+image: "/works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg"
 ---
 
 この作品の概要や説明文を記入する

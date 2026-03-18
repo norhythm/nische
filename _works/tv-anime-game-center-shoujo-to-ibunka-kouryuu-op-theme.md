@@ -1,8 +1,8 @@
 ---
-holder: ""
-artist: ""
 published: true
 date: 2025-07-06
+holder: ""
+artist: ""
 title: ふたりのスタートボタン
 url: tv-anime-game-center-shoujo-to-ibunka-kouryuu-op-theme
 tag:

@@ -1,14 +1,14 @@
 ---
+published: true
+date: "2025-10-15"
 holder: ""
 artist: ""
 title: "『アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-』ボーカルアルバム -プリパラ ver.-"
-date: "2025-10-15"
-image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
+url: "aikatsu-x-pripara-the-movie-vocal-album-pripara-ver"
 tag:
   - mix
 layout: "square"
-published: true
-url: "aikatsu-x-pripara-the-movie-vocal-album-pripara-ver"
+image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
 ---
 
 この作品の概要や説明文を記入する
