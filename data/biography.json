@@ -14,15 +14,11 @@
       "label": "Playlists",
       "lists": [
         {
-          "text": "Spotify",
-          "url": "https://open.spotify.com/playlist/4U1dQMh92G4ELhc4aMHI7N?si=7d94615962db4ef2"
-        },
-        {
           "text": "Apple Music",
-          "url": "https://music.apple.com/jp/playlist/%E8%8F%8A%E6%B1%A0%E5%8F%B8-tsukasa-kikuchi-arte-refact/pl.u-e98lGapca4vgAmd"
+          "url": "https://music.apple.com/jp/playlist/works-tsukasa-kikuchi/pl.u-XkD0vRpCRLBoJR"
         }
       ]
     }
   ],
-  "equipment_note": "*Please refer to <a href=\"https://www.arte-refact.com/studio/\" target=\"_blank\">the studio materials of Arte Refact</a> for information on the recording equipment."
+  "equipment_note": "\\*Please refer to [the studio materials of Arte Refact](https://www.arte-refact.com/studio/) for information on the recording equipment."
 }
