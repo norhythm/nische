@@ -48,19 +48,36 @@ export default function Biography() {
             </div>
 
             <div className="absolute bottom-4 right-4 z-10 flex items-center gap-2 bg-black/50 backdrop-blur-sm rounded-full px-3 py-1.5">
-              <label htmlFor="blur-slider" className="text-gray-200 text-xs select-none">
+              <label
+                htmlFor="blur-slider"
+                className="text-gray-200 text-xs select-none"
+              >
                 Blur
               </label>
+              <button
+                type="button"
+                onClick={() => setBlur((v) => Math.max(0, Math.round((v - 0.1) * 10) / 10))}
+                className="text-gray-200 text-xs w-5 h-5 flex items-center justify-center rounded-full hover:bg-white/20 select-none"
+              >
+                −
+              </button>
               <input
                 id="blur-slider"
                 type="range"
                 min={0}
-                max={20}
-                step={0.5}
+                max={5}
+                step={0.1}
                 value={blur}
                 onChange={(e) => setBlur(Number(e.target.value))}
                 className="w-24 accent-white cursor-pointer"
               />
+              <button
+                type="button"
+                onClick={() => setBlur((v) => Math.min(5, Math.round((v + 0.1) * 10) / 10))}
+                className="text-gray-200 text-xs w-5 h-5 flex items-center justify-center rounded-full hover:bg-white/20 select-none"
+              >
+                +
+              </button>
               <span className="text-gray-200 text-xs w-8 text-right tabular-nums select-none">
                 {blur}
               </span>
