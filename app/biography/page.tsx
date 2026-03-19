@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import Image from "next/image";
 import equipmentsData from "@/data/equipments.json";
 
@@ -21,8 +20,6 @@ const equipmentsGroup = (data: any, i: number) => {
 };
 
 export default function Biography() {
-  const [blur, setBlur] = useState(0);
-
   return (
     <>
       {/* Biography Content */}
@@ -41,46 +38,9 @@ export default function Biography() {
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="absolute w-full h-full object-cover object-top transition-[filter] duration-200"
-                style={{ filter: `blur(${blur}px)` }}
+                className="absolute w-full h-full object-cover object-top transition-[filter] duration-200 blur-[2.7px]"
               />
               <div className="absolute w-full h-full opacity-40 md:opacity-50 mix-blend-multiply bg-black md:bg-natural"></div>
-            </div>
-
-            <div className="absolute bottom-4 right-4 z-10 flex items-center gap-2 bg-black/50 backdrop-blur-sm rounded-full px-3 py-1.5">
-              <label
-                htmlFor="blur-slider"
-                className="text-gray-200 text-xs select-none"
-              >
-                Blur
-              </label>
-              <button
-                type="button"
-                onClick={() => setBlur((v) => Math.max(0, Math.round((v - 0.1) * 10) / 10))}
-                className="text-gray-200 text-xs w-5 h-5 flex items-center justify-center rounded-full hover:bg-white/20 select-none"
-              >
-                −
-              </button>
-              <input
-                id="blur-slider"
-                type="range"
-                min={0}
-                max={5}
-                step={0.1}
-                value={blur}
-                onChange={(e) => setBlur(Number(e.target.value))}
-                className="w-24 accent-white cursor-pointer"
-              />
-              <button
-                type="button"
-                onClick={() => setBlur((v) => Math.min(5, Math.round((v + 0.1) * 10) / 10))}
-                className="text-gray-200 text-xs w-5 h-5 flex items-center justify-center rounded-full hover:bg-white/20 select-none"
-              >
-                +
-              </button>
-              <span className="text-gray-200 text-xs w-8 text-right tabular-nums select-none">
-                {blur}
-              </span>
             </div>
 
             <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-10 md:px-12 text-gray-50 tracking-wide">
