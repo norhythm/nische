@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/chico-1st-album-continue.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

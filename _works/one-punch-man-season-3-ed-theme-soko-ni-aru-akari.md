@@ -12,8 +12,6 @@ layout: "rect-h"
 image: "/works/media/one-punch-man-season-3-ed-theme-soko-ni-aru-akari.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

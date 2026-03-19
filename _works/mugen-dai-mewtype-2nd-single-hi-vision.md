@@ -11,8 +11,6 @@ layout: square
 image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 |     |               |     |

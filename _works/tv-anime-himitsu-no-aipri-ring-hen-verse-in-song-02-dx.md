@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -9,7 +9,6 @@ tag:
 layout: square
 image: /works/media/ixis-debut-mini-album-roots-of.jpg
 ---
-この作品の概要や説明文を記入する
 
 ##### Tracklist
 

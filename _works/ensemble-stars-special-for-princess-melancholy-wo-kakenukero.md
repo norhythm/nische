@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/ensemble-stars-special-for-princess-melancholy-wo-kakenukero.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

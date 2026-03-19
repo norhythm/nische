@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

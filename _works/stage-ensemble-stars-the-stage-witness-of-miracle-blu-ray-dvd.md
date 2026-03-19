@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

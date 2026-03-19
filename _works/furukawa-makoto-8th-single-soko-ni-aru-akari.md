@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

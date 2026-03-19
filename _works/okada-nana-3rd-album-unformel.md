@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/okada-nana-3rd-album-unformel.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

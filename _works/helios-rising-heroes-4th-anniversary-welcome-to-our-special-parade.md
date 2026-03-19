@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

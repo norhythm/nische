@@ -10,7 +10,6 @@ tag:
 layout: rect-v
 image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-ed-theme.jpg
 ---
-この作品の概要や説明文を記入する
 
 ##### Tracklist
 

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

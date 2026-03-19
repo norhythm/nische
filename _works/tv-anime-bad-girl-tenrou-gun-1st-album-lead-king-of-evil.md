@@ -11,8 +11,6 @@ layout: square
 image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil.jpg
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

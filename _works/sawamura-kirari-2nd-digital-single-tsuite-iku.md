@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

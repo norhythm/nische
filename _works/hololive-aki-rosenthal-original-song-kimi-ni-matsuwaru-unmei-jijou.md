@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

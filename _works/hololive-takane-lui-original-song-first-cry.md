@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

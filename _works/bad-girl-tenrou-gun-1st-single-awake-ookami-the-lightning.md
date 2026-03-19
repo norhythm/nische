@@ -10,7 +10,6 @@ tag:
 layout: square
 image: /works/media/bad-girl-tenrou-gun-1st-single-awake-ookami-the-lightning.jpg
 ---
-この作品の概要や説明文を記入する
 
 ##### Tracklist
 

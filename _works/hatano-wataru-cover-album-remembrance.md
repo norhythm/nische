@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hatano-wataru-cover-album-remembrance.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

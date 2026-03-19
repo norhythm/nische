@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

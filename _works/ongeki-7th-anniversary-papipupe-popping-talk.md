@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

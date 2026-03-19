@@ -11,8 +11,6 @@ layout: "rect-h"
 image: "/works/media/shirakami-fubuki-storyteller.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

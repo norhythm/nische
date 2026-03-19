@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/sawamura-kirari-3rd-digital-single-genkai-lost-world.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

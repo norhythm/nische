@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-03.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/true-best-album-true-the-best.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

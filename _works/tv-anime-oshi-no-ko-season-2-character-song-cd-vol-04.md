@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

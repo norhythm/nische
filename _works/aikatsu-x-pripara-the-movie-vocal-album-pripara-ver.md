@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

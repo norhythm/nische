@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: square
 image: /works/media/mugendai-mewtype-1st-album-progress-sign.png
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

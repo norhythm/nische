@@ -10,12 +10,11 @@ tag:
 layout: square
 image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed.jpg
 ---
-この作品の概要や説明文を記入する
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
+| Track number | Title                                                 | Credit    |
+| ------------ | ----------------------------------------------------- | --------- |
 | 01           | いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～ | Rec / Mix |
 
 ##### Video

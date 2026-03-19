@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

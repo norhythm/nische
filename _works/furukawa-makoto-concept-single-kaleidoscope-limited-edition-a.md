@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition-a.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

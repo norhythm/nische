@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-blu-ray-tokuten-disc.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

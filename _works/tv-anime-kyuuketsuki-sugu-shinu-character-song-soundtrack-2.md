@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

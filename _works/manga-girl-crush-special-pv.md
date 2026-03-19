@@ -11,8 +11,6 @@ layout: "rect-h"
 image: "/works/media/manga-girl-crush-special-pv.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

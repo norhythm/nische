@@ -11,8 +11,6 @@ layout: square
 image: /works/media/gre4n-boyz-tenshi-to-akuma.jpg
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

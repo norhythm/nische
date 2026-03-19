@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

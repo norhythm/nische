@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-blue-journey-3rd-digital-single-ano-hi-no-bokura-e.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

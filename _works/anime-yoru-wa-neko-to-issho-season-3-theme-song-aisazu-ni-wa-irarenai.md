@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

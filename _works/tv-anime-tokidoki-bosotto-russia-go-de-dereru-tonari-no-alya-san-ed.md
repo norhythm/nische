@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

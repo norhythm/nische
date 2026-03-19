@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

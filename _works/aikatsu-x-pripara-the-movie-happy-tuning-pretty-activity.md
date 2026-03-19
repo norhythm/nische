@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/aikatsu-x-pripara-the-movie-happy-tuning-pretty-activity.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

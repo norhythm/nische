@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

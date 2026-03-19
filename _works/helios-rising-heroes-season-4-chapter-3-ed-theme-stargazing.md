@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

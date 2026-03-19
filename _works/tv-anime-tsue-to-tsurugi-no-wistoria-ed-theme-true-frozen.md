@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

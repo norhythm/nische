@@ -11,8 +11,6 @@ layout: rect-v
 image: /works/media/aipri-ring-episode-91-insert-song-legend-story.jpg
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

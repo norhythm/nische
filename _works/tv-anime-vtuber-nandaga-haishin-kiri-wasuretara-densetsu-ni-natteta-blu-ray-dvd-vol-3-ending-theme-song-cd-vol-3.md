@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/tv-anime-vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-blu-ray-dvd-vol-3-ending-theme-song-cd-vol-3.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

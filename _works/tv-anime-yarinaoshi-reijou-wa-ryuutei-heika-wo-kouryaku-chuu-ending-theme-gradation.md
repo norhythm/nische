@@ -11,8 +11,6 @@ layout: "rect-h"
 image: "/works/media/tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chuu-ending-theme-gradation.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

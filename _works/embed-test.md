@@ -12,7 +12,6 @@ tag:
 layout: square
 image: /images/placeholder.svg
 ---
-この作品の概要や説明文を記入する
 
 ##### Tracklist
 
@@ -30,7 +29,6 @@ image: /images/placeholder.svg
 - <a data-type="button" href="" target="_blank">Apple Music</a>
 - <a data-type="button" href="" target="_blank">YouTube Music</a>
 - <a data-type="button" href="" target="_blank">Amazon</a>
-
 
 各サービスの埋込コードをコピーしたものをペーストで表示<br/>改行のテスト
 

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

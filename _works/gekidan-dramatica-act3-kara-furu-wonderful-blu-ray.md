@@ -11,8 +11,6 @@ layout: "rect-v"
 image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-blu-ray.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |

@@ -11,8 +11,6 @@ layout: "square"
 image: "/works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg"
 ---
 
-この作品の概要や説明文を記入する
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |
