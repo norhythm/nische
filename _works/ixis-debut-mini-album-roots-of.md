@@ -13,11 +13,13 @@ image: /works/media/ixis-debut-mini-album-roots-of.jpg
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| 01           | STARTLINE! | Mix |
+| 03           | Colors | Mix |
+| 05           | Trigger | Mix |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzKSLYQB6Cg?si=pGrppfH5J9v645VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
