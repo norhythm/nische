@@ -130,3 +130,11 @@ content:
               - name: name
                 label: 機材名
                 type: string
+  - name: contact
+    label: Contact
+    type: file
+    path: data/contact.json
+    fields:
+      - name: information
+        label: Information（案内文）
+        type: rich-text
