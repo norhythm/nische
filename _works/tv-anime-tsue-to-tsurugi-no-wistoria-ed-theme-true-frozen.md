@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-08-28"
-holder: ""
-artist: ""
-title: "TVアニメ『杖と剣のウィストリア』ED主題歌、TRUE New Single「フローズン」"
+holder: "TVアニメ『杖と剣のウィストリア』"
+artist: "TRUE"
+title: "フローズン"
 url: "tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen"
 tag:
   - mix
