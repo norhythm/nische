@@ -3,7 +3,7 @@ published: true
 date: 2026-03-06
 holder: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 artist: 第三幕 第7話エンディングテーマ
-title: 「いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～」
+title: いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～
 url: girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed
 tag:
   - mix
