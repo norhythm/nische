@@ -137,6 +137,11 @@ export default async function Post(props: Params, modal: false) {
               >
                 <header className="block md:hidden pt-4">
                   <h1 className="tracking-wide">
+                    {post.holder && (
+                      <span className="text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
+                        {post.holder}
+                      </span>
+                    )}
                     {post.artist && (
                       <span className="pb-1 md:pb-2 block text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
                         {post.artist}
