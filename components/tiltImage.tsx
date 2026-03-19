@@ -29,6 +29,7 @@ export default function FullScreenTiltImage({
   tilt,
 }: FullScreenTiltImageProps) {
   const [transform, setTransform] = useState("");
+  const [loaded, setLoaded] = useState(false);
   const imageRef = useRef<HTMLDivElement>(null);
   const maskId = `clip-mask`;
 
@@ -94,6 +95,7 @@ export default function FullScreenTiltImage({
       className={`relative ${parentClassName}`}
       style={{
         transform,
+        aspectRatio: `${width} / ${height}`,
         ...(clip && { clipPath: `url(#${maskId})` }),
       }}
     >
@@ -114,7 +116,8 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        className={`${childClassName} object-contain w-full h-full block transition-all duration-300 ease-out`}
+        onLoad={() => setLoaded(true)}
+        className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
       />
     </div>
   );
