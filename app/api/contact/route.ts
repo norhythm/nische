@@ -22,8 +22,8 @@ export async function POST(request: NextRequest) {
       secure: smtpPort === 465, // 465はSSL/TLS、587はSTARTTLS
     };
 
-    // 本番環境のみ認証を使用
-    if (isProduction) {
+    // SMTP認証情報が設定されていれば使用
+    if (process.env.SMTP_USER && process.env.SMTP_PASS) {
       smtpConfig.auth = {
         user: process.env.SMTP_USER,
         pass: process.env.SMTP_PASS,
