@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import equipmentsData from "@/data/equipments.json";
 
@@ -20,6 +21,8 @@ const equipmentsGroup = (data: any, i: number) => {
 };
 
 export default function Biography() {
+  const [blur, setBlur] = useState(0);
+
   return (
     <>
       {/* Biography Content */}
@@ -29,7 +32,7 @@ export default function Biography() {
         </h1>
 
         <div className="flex flex-col gap-8 mb-12 md:flex-col md:mb-16">
-          <div className="relative">
+          <div className="relative overflow-hidden">
             <div className="">
               <Image
                 src="/images/profile.jpg"
@@ -38,9 +41,29 @@ export default function Biography() {
                 height={555}
                 placeholder="blur"
                 blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                className="absolute w-full h-full object-cover object-top"
+                className="absolute w-full h-full object-cover object-top transition-[filter] duration-200"
+                style={{ filter: `blur(${blur}px)` }}
               />
               <div className="absolute w-full h-full opacity-40 md:opacity-50 mix-blend-multiply bg-black md:bg-natural"></div>
+            </div>
+
+            <div className="absolute bottom-4 right-4 z-10 flex items-center gap-2 bg-black/50 backdrop-blur-sm rounded-full px-3 py-1.5">
+              <label htmlFor="blur-slider" className="text-gray-200 text-xs select-none">
+                Blur
+              </label>
+              <input
+                id="blur-slider"
+                type="range"
+                min={0}
+                max={20}
+                step={0.5}
+                value={blur}
+                onChange={(e) => setBlur(Number(e.target.value))}
+                className="w-24 accent-white cursor-pointer"
+              />
+              <span className="text-gray-200 text-xs w-8 text-right tabular-nums select-none">
+                {blur}
+              </span>
             </div>
 
             <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-10 md:px-12 text-gray-50 tracking-wide">
