@@ -15,10 +15,11 @@ export async function POST(request: NextRequest) {
 
     // メール設定（環境変数から取得）
     const isProduction = process.env.NODE_ENV === "production";
+    const smtpPort = parseInt(process.env.SMTP_PORT || "587");
     const smtpConfig: any = {
       host: process.env.SMTP_HOST,
-      port: parseInt(process.env.SMTP_PORT || "587"),
-      secure: false, // TLS用にfalse
+      port: smtpPort,
+      secure: smtpPort === 465, // 465はSSL/TLS、587はSTARTTLS
     };
 
     // 本番環境のみ認証を使用
