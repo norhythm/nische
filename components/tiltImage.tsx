@@ -60,7 +60,7 @@ export default function FullScreenTiltImage({
       const tiltY = rotateY * maxTilt;
 
       setTransform(
-        `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`
+        `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`,
       );
     };
 
@@ -114,7 +114,7 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        className={`${childClassName} object-contain  w-full h-full block transition-all duration-300 ease-out`}
+        className={`${childClassName} object-contain w-full h-full block transition-all duration-300 ease-out`}
       />
     </div>
   );

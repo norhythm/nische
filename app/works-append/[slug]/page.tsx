@@ -2,11 +2,12 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
+import Image from "next/image";
 
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
-import { layoutImageStyle } from "@/lib/utils";
+import { layoutImageStyle, layoutImageStyleAppend } from "@/lib/utils";
 
 import BackComponent from "@/components/back-component";
 import ArticleBody from "@/components/article-body";
@@ -43,40 +44,53 @@ export default async function Post(props: Params, modal: false) {
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
         <div className="md:flex-1 px-4 md:px-0">
           <article className="article">
-            <div className="relative w-full flex flex-row justify-center items-center">
+            <div className="relative w-full md:grid grid-cols-2 gap-6 justify-center items-center">
               <div className="bg-panel absolute left-1/2 w-screen h-full -translate-x-1/2"></div>
               <div
-                className={`article-image relative py-4 md:p-0 transition-translate ${imageBgStyle()}`}
+                className={`article-image md:flex-1 relative py-4 md:p-0 transition-translate ${imageBgStyle()}`}
               >
-                <div className="relative flex justify-center md:block">
-                  <TiltImage
-                    single={false}
-                    clip={false}
-                    src={`${post.image}`}
-                    alt={post.title}
-                    width={512}
-                    height={512}
-                    tilt={1}
-                    // parentClassName="z-10 mt-4 mb-2 md:mb-3 p-2 bg-plate"
-                    parentClassName={`inline-flex md:w-full h-full z-10 ${layoutImageStyle(
-                      post,
-                    )}`}
-                    // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
-                    childClassName={`post-${post.layout} drop-shadow-lg`}
-                  />
+                <div className="flex justify-center">
                   <div
-                    className={`absolute top-0 left-1/2 -translate-x-1/2 w-[80%] md:w-full h-full rotate-[2.8deg] drop-shadow-lg ${layoutImageStyle(
+                    className={`relative inline-flex ${layoutImageStyleAppend(
                       post,
                     )}`}
-                    style={{ backgroundColor: fillRectColor() }}
-                  ></div>
+                  >
+                    <TiltImage
+                      single={false}
+                      clip={false}
+                      src={`${post.image}`}
+                      alt={post.title}
+                      width={512}
+                      height={512}
+                      tilt={1}
+                      // parentClassName="z-10 mt-4 mb-2 md:mb-3 p-2 bg-plate"
+                      parentClassName={`inline-flex md:w-full h-full z-10`}
+                      // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
+                      childClassName={`post-${post.layout} drop-shadow-lg`}
+                    />
+                    <div
+                      className={`absolute top-0 left-1/2 -translate-x-1/2 w-full h-full rotate-[2.8deg] drop-shadow-lg`}
+                      style={{ backgroundColor: fillRectColor() }}
+                    ></div>
+
+                    {/* <Image
+                      src={`${post.image}`}
+                      alt={post.title}
+                      width={512}
+                      height={512}
+                      preload
+                      loading="eager"
+                      fetchPriority="high"
+                      className={`absolute top-0 left-1/2 -translate-x-1/2 object-contain w-full h-full rotate-[2.8deg] drop-shadow-lg`}
+                    /> */}
+                  </div>
                 </div>
               </div>
-              <div className="relative hidden md:block flex-1 pl-24 pb-4">
+              <div className="relative hidden md:block flex-1 pb-6 pl-6">
                 <h1 className="tracking-wide">
                   {(post.holder || post.artist) && (
-                    <div className="pb-4">
-                      <div className="flex gap-1">
+                    <div className="pb-2">
+                      <div className="flex flex-col gap-0.5">
                         {post.holder && (
                           <span className="text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
                             {post.holder}
@@ -97,6 +111,21 @@ export default async function Post(props: Params, modal: false) {
                   >
                     {post.title}
                   </span>
+                  <div className="flex gap-2 md:pt-1">
+                    {post.tag.map((tag, i) => {
+                      return (
+                        <span key={i}>
+                          <Tag
+                            tag={tag}
+                            classNames={
+                              "text-[11px] md:text-[13px] leading-[1.5]"
+                            }
+                          />
+                          {i < post.tag.length - 1 && " "}
+                        </span>
+                      );
+                    })}
+                  </div>
                 </h1>
               </div>
             </div>
@@ -104,9 +133,9 @@ export default async function Post(props: Params, modal: false) {
               className={`relative flex min-h-[calc(100%-44px)] flex-col md:w-8/12 mx-auto`}
             >
               <div
-                className={`order-2 w-full flex-auto mx-auto pt-6 pb-2 md:py-12`}
+                className={`order-2 w-full flex-auto mx-auto pb-2 md:pt-4 md:pb-12`}
               >
-                <header className="">
+                <header className="block md:hidden pt-4">
                   <h1 className="tracking-wide">
                     {post.artist && (
                       <span className="pb-1 md:pb-2 block text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
@@ -133,7 +162,7 @@ export default async function Post(props: Params, modal: false) {
                     })}
                   </div>
                 </header>
-                <div className="pt-6 md:mb-8 text-[13px] md:text-[14px] leading-[1.5]">
+                <div className="pt-4 md:mb-8 text-[13px] md:text-[14px] leading-[1.5]">
                   <div
                     className={`${markdownStyles["markdown"]}`}
                     dangerouslySetInnerHTML={{ __html: content || "" }}

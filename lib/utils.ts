@@ -18,3 +18,16 @@ export function layoutImageStyle(post: Post) {
       return "w-[80%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
   }
 }
+
+export function layoutImageStyleAppend(post: Post) {
+  switch (post.layout) {
+    case "rect-h":
+      return "w-[90%] md:h-[356px] md:w-auto";
+    case "rect-v":
+      return "w-[70%] md:h-[512px] md:w-auto";
+    case "square":
+      return "w-[80%] md:h-[412px] md:w-auto";
+    default:
+      return "w-[80%] md:h-[412px] md:w-auto";
+  }
+}
