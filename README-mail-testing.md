@@ -103,13 +103,13 @@ npm run dev
 
 さくらインターネットのメールサーバーを使用します。SMTP接続情報はさくらインターネットのコントロールパネルで確認できます。
 
-| 項目 | 値 |
-|---|---|
+| 項目       | 値                                                        |
+| ---------- | --------------------------------------------------------- |
 | SMTPホスト | `初期ドメイン.sakura.ne.jp`（例: `example.sakura.ne.jp`） |
-| ポート | `587`（STARTTLS）または `465`（SSL/TLS） |
-| 認証方式 | SMTP AUTH（PLAIN / LOGIN） |
-| ユーザー名 | メールアドレス全体（例: `info@example.com`） |
-| パスワード | メールアカウントのパスワード |
+| ポート     | `587`（STARTTLS）または `465`（SSL/TLS）                  |
+| 認証方式   | SMTP AUTH（PLAIN / LOGIN）                                |
+| ユーザー名 | メールアドレス全体（例: `info@example.com`）              |
+| パスワード | メールアカウントのパスワード                              |
 
 > SMTPホストは、さくらインターネットのサーバーコントロールパネル > メール > メール一覧から確認できます。初期ドメイン（`xxx.sakura.ne.jp`）を使用してください。独自ドメインではなく初期ドメインを指定する点に注意してください。
 
@@ -139,14 +139,14 @@ Vercelのダッシュボードで環境変数を設定します。
 2. **Settings** > **Environment Variables** に移動
 3. 以下の環境変数を **Production** 環境に追加する：
 
-| Key | Value | Environment |
-|---|---|---|
-| `SMTP_HOST` | `初期ドメイン.sakura.ne.jp` | Production |
-| `SMTP_PORT` | `587` | Production |
-| `SMTP_USER` | `info@example.com` | Production |
-| `SMTP_PASS` | `メールアカウントのパスワード` | Production |
-| `SMTP_FROM` | `info@example.com` | Production |
-| `CONTACT_EMAIL` | `受信したいメールアドレス` | Production |
+| Key             | Value                          | Environment |
+| --------------- | ------------------------------ | ----------- |
+| `SMTP_HOST`     | `初期ドメイン.sakura.ne.jp`    | Production  |
+| `SMTP_PORT`     | `587`                          | Production  |
+| `SMTP_USER`     | `info@example.com`             | Production  |
+| `SMTP_PASS`     | `メールアカウントのパスワード` | Production  |
+| `SMTP_FROM`     | `info@example.com`             | Production  |
+| `CONTACT_EMAIL` | `受信したいメールアドレス`     | Production  |
 
 > `SMTP_FROM`と`SMTP_USER`は同じメールアドレスを指定してください。異なるアドレスを指定するとSPF認証に失敗し、迷惑メールとして扱われる可能性があります。
 
