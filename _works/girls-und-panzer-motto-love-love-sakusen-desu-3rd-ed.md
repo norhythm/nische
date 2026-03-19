@@ -1,23 +1,22 @@
 ---
 published: true
 date: 2026-03-06
-holder: "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
-artist:
-title: "第三幕 第7話ED「いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～」"
+holder: ガールズ＆パンツァー もっとらぶらぶ作戦です！
+artist: 第三幕 第7話エンディングテーマ
+title: 「いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～」
 url: girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed
 tag:
   - mix
 layout: square
 image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed.jpg
 ---
-
 この作品の概要や説明文を記入する
 
 ##### Tracklist
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| 01           | いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～ | Rec / Mix |
 
 ##### Video
 
