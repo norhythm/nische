@@ -55,7 +55,7 @@ content:
         type: code
         options:
           language: html
- - name: biography
+  - name: biography
     label: Biography
     type: file
     path: data/biography.json
