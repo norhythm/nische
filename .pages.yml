@@ -2,6 +2,76 @@ media:
   input: public/works/media
   output: /works/media
 content:
+  - name: biography
+    label: Biography
+    type: file
+    path: data/biography.json
+    fields:
+      - name: name_ja
+        label: 名前
+        type: string
+      - name: title
+        label: 肩書き
+        type: string
+      - name: bio_ja
+        label: 経歴（日本語）
+        type: text
+      - name: bio_en
+        label: 経歴（英語）
+        type: text
+      - name: profile_image
+        label: プロフィール画像パス
+        type: string
+      - name: links
+        label: リンク
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: ラベル
+            type: string
+          - name: text
+            label: 表示テキスト
+            type: string
+            description: 単一リンクの場合に使用
+          - name: url
+            label: URL
+            type: string
+            description: 単一リンクの場合に使用
+          - name: lists
+            label: 複数リンク
+            type: object
+            list: true
+            description: 1行に複数リンクを並べる場合に使用
+            fields:
+              - name: text
+                label: 表示テキスト
+                type: string
+              - name: url
+                label: URL
+                type: string
+      - name: studio_link
+        label: スタジオページURL
+        type: string
+  - name: equipments
+    label: Equipments
+    type: file
+    path: data/equipments.json
+    fields:
+      - name: group
+        label: グループ名
+        type: string
+      - name: items
+        label: 機材
+        type: object
+        list: true
+        fields:
+          - name: production
+            label: メーカー
+            type: string
+          - name: name
+            label: 機材名
+            type: string
   - name: posts
     label: Posts
     filename: "{fields.url}.md"

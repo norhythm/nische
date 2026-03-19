@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import biographyData from "@/data/biography.json";
 import equipmentsData from "@/data/equipments.json";
 
 const equipmentsGroup = (data: any, i: number) => {
@@ -32,8 +33,8 @@ export default function Biography() {
           <div className="relative overflow-hidden">
             <div className="">
               <Image
-                src="/images/profile.jpg"
-                alt="Tsukasa Kikuchi"
+                src={biographyData.profile_image}
+                alt={biographyData.name_ja}
                 width={370}
                 height={555}
                 placeholder="blur"
@@ -45,68 +46,55 @@ export default function Biography() {
 
             <div className="relative pt-8 pb-8 px-4 md:pt-12 md:pb-10 md:px-12 text-gray-50 tracking-wide">
               <h2 className="text-lg md:text-2xl mb-2 mincho tracking-wider">
-                菊池 司
+                {biographyData.name_ja}
               </h2>
-              <p className="text-sm md:text-base mb-4">
-                Recording / Mixing / Mastering Engineer
-              </p>
+              <p className="text-sm md:text-base mb-4">{biographyData.title}</p>
 
               <div className="flex flex-col md:flex-row md:gap-12 mb-8">
                 <p className="mb-4 leading-[1.5] md:leading-[1.8] flex-1 text-[13px] md:text-[15px]">
-                  1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte
-                  Refact」に所属しながら、常なる活動の幅を広げている。
+                  {biographyData.bio_ja}
                 </p>
 
                 <p className="mb-4 md:leading-[1.675] flex-1 text-sm md:text-base">
-                  Born in 1985, Tokyo. Through self-produced projects, developed
-                  a deep interest in acoustics and equipment, which led to a
-                  passion for engineering. While centered on beat and electronic
-                  music, draws from a wide variety of influences. Driven by
-                  innate curiosity, capable of handling everything from
-                  delicate, intricate expressions to aggressive and chaotic
-                  sounds. A member of the production team Arte Refact, and
-                  continues to expand activities into new arenas.
+                  {biographyData.bio_en}
                 </p>
               </div>
 
               <div className="text-[13px] md:text-[15px] leading-[1.5]">
                 <table>
                   <tbody>
-                    <tr>
-                      <td>X(Twitter)</td>
-                      <td className="pl-2">
-                        <a
-                          href="https://x.com/tsukasa_kikuchi"
-                          className="decoration-underline"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          @tsukasa_kikuchi
-                        </a>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>Playlists</td>
-                      <td className="pl-2">
-                        <a
-                          href="https://open.spotify.com/playlist/4U1dQMh92G4ELhc4aMHI7N?si=7d94615962db4ef2"
-                          className="decoration-underline"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Spotify
-                        </a>
-                        ,&nbsp;
-                        <a
-                          href="https://music.apple.com/jp/playlist/%E8%8F%8A%E6%B1%A0%E5%8F%B8-tsukasa-kikuchi-arte-refact/pl.u-e98lGapca4vgAmd"
-                          className="decoration-underline"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Apple Music
-                        </a>
-                      </td>
-                    </tr>
+                    {biographyData.links.map((link, i) => (
+                      <tr key={i}>
+                        <td>{link.label}</td>
+                        <td className="pl-2">
+                          {"url" in link && link.url ? (
+                            <a
+                              href={link.url}
+                              className="decoration-underline"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              {link.text}
+                            </a>
+                          ) : (
+                            "lists" in link &&
+                            link.lists?.map((item, j) => (
+                              <span key={j}>
+                                {j > 0 && <>,&nbsp;</>}
+                                <a
+                                  href={item.url}
+                                  className="decoration-underline"
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                >
+                                  {item.text}
+                                </a>
+                              </span>
+                            ))
+                          )}
+                        </td>
+                      </tr>
+                    ))}
                   </tbody>
                 </table>
               </div>
@@ -134,17 +122,19 @@ export default function Biography() {
             </div>
           </div>
 
-          <p className="text-sm mt-4 md:mt-8">
-            *Please refer to{" "}
-            <a
-              className="decoration-underline"
-              href="https://www.arte-refact.com/studio/"
-              target="_blank"
-            >
-              the studio materials of Arte Refact
-            </a>{" "}
-            for information on the recording equipment.
-          </p>
+          {biographyData.studio_link && (
+            <p className="text-sm mt-4 md:mt-8">
+              *Please refer to{" "}
+              <a
+                className="decoration-underline"
+                href={biographyData.studio_link}
+                target="_blank"
+              >
+                the studio materials of Arte Refact
+              </a>{" "}
+              for information on the recording equipment.
+            </p>
+          )}
         </div>
       </section>
     </>

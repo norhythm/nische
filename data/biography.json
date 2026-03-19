@@ -1,0 +1,28 @@
+{
+  "name_ja": "菊池 司",
+  "title": "Recording / Mixing / Mastering Engineer",
+  "bio_ja": "1985年生まれ。東京出身。自主制作の過程で音響と機材に深い興味を持ち、エンジニアリングへ傾倒。ビート・エレクトロニックミュージックを軸にしながらも様々なルーツを持ち、持ち前の好奇心と繊細さから、繊細で精緻な表現から攻撃的で混沌としたサウンドまで、あらゆるスタイルに対応。制作チーム「Arte Refact」に所属しながら、常なる活動の幅を広げている。",
+  "bio_en": "Born in 1985, Tokyo. Through self-produced projects, developed a deep interest in acoustics and equipment, which led to a passion for engineering. While centered on beat and electronic music, draws from a wide variety of influences. Driven by innate curiosity, capable of handling everything from delicate, intricate expressions to aggressive and chaotic sounds. A member of the production team Arte Refact, and continues to expand activities into new arenas.",
+  "profile_image": "/images/profile.jpg",
+  "links": [
+    {
+      "label": "X(Twitter)",
+      "text": "@tsukasa_kikuchi",
+      "url": "https://x.com/tsukasa_kikuchi"
+    },
+    {
+      "label": "Playlists",
+      "lists": [
+        {
+          "text": "Spotify",
+          "url": "https://open.spotify.com/playlist/4U1dQMh92G4ELhc4aMHI7N?si=7d94615962db4ef2"
+        },
+        {
+          "text": "Apple Music",
+          "url": "https://music.apple.com/jp/playlist/%E8%8F%8A%E6%B1%A0%E5%8F%B8-tsukasa-kikuchi-arte-refact/pl.u-e98lGapca4vgAmd"
+        }
+      ]
+    }
+  ],
+  "studio_link": "https://www.arte-refact.com/studio/"
+}
