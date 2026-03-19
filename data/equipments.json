@@ -3,56 +3,146 @@
     {
       "group": "Monitor",
       "items": [
-        { "production": "Amphion", "name": "Two18+BaseTwo25" },
-        { "production": "Auratone", "name": "5C" },
-        { "production": "Victor", "name": "EX-AK1" },
-        { "production": "Audeze", "name": "MM-500" },
-        { "production": "OLLO Audio", "name": "X1" },
-        { "production": "TAGO STUDIO", "name": "T3-01" },
-        { "production": "SPL", "name": "Phonitor X" }
+        {
+          "production": "Amphion",
+          "name": "Two18+BaseTwo25"
+        },
+        {
+          "production": "Auratone",
+          "name": "5C"
+        },
+        {
+          "production": "Victor",
+          "name": "EX-AK1"
+        },
+        {
+          "production": "Audeze",
+          "name": "MM-500"
+        },
+        {
+          "production": "OLLO Audio",
+          "name": "X1"
+        },
+        {
+          "production": "TAGO STUDIO",
+          "name": "T3-01"
+        },
+        {
+          "production": "SPL",
+          "name": "Phonitor X"
+        }
       ]
     },
     {
       "group": "Converter",
       "items": [
-        { "production": "Prism Sound", "name": "DREAM ADA-128" },
-        { "production": "Lavry Engineering", "name": "AD-24-200 savitr" },
-        { "production": "AVID", "name": "MTRX" },
-        { "production": "Lynx", "name": "aurora(n)" }
+        {
+          "production": "Prism Sound",
+          "name": "DREAM ADA-128"
+        },
+        {
+          "production": "Lavry Engineering",
+          "name": "AD-24-200 savitr"
+        },
+        {
+          "production": "AVID",
+          "name": "MTRX"
+        },
+        {
+          "production": "Lynx",
+          "name": "aurora(n)"
+        }
       ]
     },
     {
       "group": "Compressor/Dynamics",
       "items": [
-        { "production": "Knif Audio", "name": "SOLMU" },
-        { "production": "Vertigo Sound", "name": "VSC-3 Quad VCA Compressor" },
-        { "production": "rockruepel", "name": "COMP.TWO" },
-        { "production": "Bettermaker", "name": "Mastering Limiter 2.0" }
+        {
+          "production": "Knif Audio",
+          "name": "SOLMU"
+        },
+        {
+          "production": "Vertigo Sound",
+          "name": "VSC-3 Quad VCA Compressor"
+        },
+        {
+          "production": "rockruepel",
+          "name": "COMP.TWO"
+        },
+        {
+          "production": "Bettermaker",
+          "name": "Mastering Limiter 2.0"
+        },
+        {
+          "production": "Cranborne Audio",
+          "name": "Brick Lane MC4"
+        }
       ]
     },
     {
       "group": "Equalizer/Enhancer",
       "items": [
-        { "production": "Knif Audio", "name": "EKSA(gain+filter)" },
-        { "production": "Vertigo Sound", "name": "VSE-2 Gyrator EQ" },
-        { "production": "Vertigo Sound", "name": "VSM-2 MIX SATELLITE MK2 FULL Version" },
-        { "production": "elysia", "name": "Museq" },
-        { "production": "Black Box Analog Design", "name": "HG-Q" },
-        { "production": "Cranborne Audio", "name": "HE2" },
-        { "production": "Sonicfarm", "name": "StarTrEQ" },
-        { "production": "Iron Age Audioworks", "name": "V2 EQ" },
-        { "production": "Custum Audio Germany", "name": "HDE-250A" },
-        { "production": "HendyAmps", "name": "Michelangelo" },
-        { "production": "D.A.V. Electronics", "name": "Broadhurst Gardens No.3 MK V" }
+        {
+          "production": "Knif Audio",
+          "name": "EKSA(gain+filter)"
+        },
+        {
+          "production": "Vertigo Sound",
+          "name": "VSE-2 Gyrator EQ"
+        },
+        {
+          "production": "Vertigo Sound",
+          "name": "VSM-2 MIX SATELLITE MK2 FULL Version"
+        },
+        {
+          "production": "elysia",
+          "name": "Museq"
+        },
+        {
+          "production": "Black Box Analog Design",
+          "name": "HG-Q"
+        },
+        {
+          "production": "Cranborne Audio",
+          "name": "HE2"
+        },
+        {
+          "production": "Sonicfarm",
+          "name": "StarTrEQ"
+        },
+        {
+          "production": "Iron Age Audioworks",
+          "name": "V2 EQ"
+        },
+        {
+          "production": "Custum Audio Germany",
+          "name": "HDE-250A"
+        },
+        {
+          "production": "HendyAmps",
+          "name": "Michelangelo"
+        },
+        {
+          "production": "D.A.V. Electronics",
+          "name": "Broadhurst Gardens No.3 MK V"
+        }
       ]
     },
     {
       "group": "Plugins",
       "items": [
-        { "production": "DMG", "name": "" },
-        { "production": "MAAT", "name": "" },
-        { "production": "Leapwing", "name": "" },
-        { "production": "iZotope", "name": "" }
+        {
+          "production": "DMG"
+        },
+        {
+          "production": "MAAT"
+        },
+        {
+          "production": "Leapwing"
+        },
+        {
+          "production": "iZotope"
+        }
       ]
     }
   ]
