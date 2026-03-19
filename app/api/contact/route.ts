@@ -34,34 +34,15 @@ export async function POST(request: NextRequest) {
 
     // メール内容
     const envLabel = isProduction ? "" : " [開発環境]";
+    const devNotice = !isProduction
+      ? "[開発環境テスト] このメールは開発環境から送信されました。\n\n"
+      : "";
+
     const mailOptions = {
       from: process.env.SMTP_FROM || process.env.SMTP_USER,
-      to: process.env.CONTACT_EMAIL, // 受信メールアドレス
-      subject: `ポートフォリオサイトからのお問い合わせ${envLabel} - ${
-        subject || "(件名なし)"
-      } ${name}`,
-      html: `
-        <div style="font: small / 1.5 Arial, Helvetica, sans-serif;">
-          ${
-            !isProduction
-              ? '<div style="background-color: #fff3cd; color: #856404; padding: 10px; border: 1px solid #ffeaa7; border-radius: 4px; margin-bottom: 20px;"><strong>開発環境テスト</strong> - このメールは開発環境から送信されました。</div>'
-              : ""
-          }
-
-          お名前: ${name}<br/>
-          メールアドレス: ${email}<br/>
-          件名: ${subject || "(件名なし)"}<br/><br/>
-
-          メッセージ:<br/>
-          ${message}<br/><br/>
-
-
-          このメールはポートフォリオサイトのお問い合わせフォームから送信されました。
-          ${
-            !isProduction ? "<br><strong>環境:</strong> 開発環境 (Mailpit)" : ""
-          }
-        </div>
-      `,
+      to: process.env.CONTACT_EMAIL,
+      subject: `ポートフォリオサイトからのお問い合わせ${envLabel} - ${subject || "(件名なし)"} ${name}`,
+      text: `${devNotice}お名前: ${name}\nメールアドレス: ${email}\n件名: ${subject || "(件名なし)"}\n\nメッセージ:\n${message}\n\n---\nこのメールはポートフォリオサイトのお問い合わせフォームから送信されました。`,
     };
 
     // メール送信
