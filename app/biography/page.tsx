@@ -110,12 +110,12 @@ export default function Biography() {
           <div>
             <div className="grid md:grid-cols-2 gap-8 relative tracking-wide text-sm md:text-base">
               <div className="flex flex-col gap-8">
-                {equipmentsData
+                {equipmentsData.groups
                   .slice(0, 3)
                   .map((data, i) => equipmentsGroup(data, i))}
               </div>
               <div className="flex flex-col gap-8">
-                {equipmentsData
+                {equipmentsData.groups
                   .slice(3)
                   .map((data, i) => equipmentsGroup(data, i))}
               </div>

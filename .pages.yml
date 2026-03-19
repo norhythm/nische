@@ -111,17 +111,22 @@ content:
     type: file
     path: data/equipments.json
     fields:
-      - name: group
-        label: グループ名
-        type: string
-      - name: items
-        label: 機材
+      - name: groups
+        label: 機材グループ
         type: object
         list: true
         fields:
-          - name: production
-            label: メーカー
+          - name: group
+            label: グループ名
             type: string
-          - name: name
-            label: 機材名
-            type: string
+          - name: items
+            label: 機材
+            type: object
+            list: true
+            fields:
+              - name: production
+                label: メーカー
+                type: string
+              - name: name
+                label: 機材名
+                type: string
