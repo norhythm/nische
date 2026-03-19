@@ -1,7 +1,7 @@
 @reference "tailwindcss";
 
 .markdown {
-  @apply flex flex-col items-center leading-[1.5];
+  @apply flex flex-col leading-[1.5];
 }
 
 .markdown p,
