@@ -2,7 +2,60 @@ media:
   input: public/works/media
   output: /works/media
 content:
-  - name: biography
+  - name: posts
+    label: Posts
+    filename: "{fields.url}.md"
+    type: collection
+    path: "_works"
+    view:
+      fields: [published, date, holder, artist, title, image]
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: holder
+        label: ContentsHolder
+        type: string
+      - name: artist
+        label: Artist
+        type: string
+      - name: title
+        label: Title
+        type: string
+      - name: url
+        label: URL
+        type: string
+      - name: tag
+        label: Tag
+        type: select
+        options:
+          multiple: true
+          values: [rec, mix, master]
+      - name: layout
+        label: Image layout
+        type: select
+        options:
+          values:
+            - value: square
+              label: 正方形
+              selected: true
+            - value: rect-h
+              label: 縦長
+            - value: rect-v
+              label: 横長
+      - name: image
+        label: Image
+        type: image
+      - name: body
+        label: Body
+        type: code
+        options:
+          language: html
+ - name: biography
     label: Biography
     type: file
     path: data/biography.json
@@ -72,56 +125,3 @@ content:
           - name: name
             label: 機材名
             type: string
-  - name: posts
-    label: Posts
-    filename: "{fields.url}.md"
-    type: collection
-    path: "_works"
-    view:
-      fields: [published, date, holder, artist, title, image]
-    fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
-      - name: holder
-        label: ContentsHolder
-        type: string
-      - name: artist
-        label: Artist
-        type: string
-      - name: title
-        label: Title
-        type: string
-      - name: url
-        label: URL
-        type: string
-      - name: tag
-        label: Tag
-        type: select
-        options:
-          multiple: true
-          values: [rec, mix, master]
-      - name: layout
-        label: Image layout
-        type: select
-        options:
-          values:
-            - value: square
-              label: 正方形
-              selected: true
-            - value: rect-h
-              label: 縦長
-            - value: rect-v
-              label: 横長
-      - name: image
-        label: Image
-        type: image
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: html
