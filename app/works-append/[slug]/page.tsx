@@ -86,23 +86,23 @@ export default async function Post(props: Params, modal: false) {
                   </div>
                 </div>
               </div>
-              <div className="relative hidden md:block flex-1 pb-6 pl-6">
+              <div className="relative hidden md:block flex-1 pb-7 pl-6">
                 <h1 className="tracking-wide">
                   {(post.holder || post.artist) && (
                     <div className="pb-2">
                       <div className="flex flex-col gap-0.5">
                         {post.holder && (
-                          <span className="text-[#888] text-[12px] md:text-[15px] leading-[1.5]">
+                          <span className="text-[#888] text-[12px] md:text-[16px] leading-[1.5]">
                             {post.holder}
                           </span>
                         )}
                         {post.artist && (
-                          <span className="text-[#888] text-[12px] md:text-[15px] leading-[1.5]">
+                          <span className="text-[#888] text-[12px] md:text-[16px] leading-[1.5]">
                             {post.artist}
                           </span>
                         )}
                       </div>
-                      <div className="w-[30px] h-[2px] md:mt-3 bg-[#222]" />
+                      <div className="w-[30px] h-[2px] md:mt-4 bg-[#222]" />
                     </div>
                   )}
                   <span
@@ -118,7 +118,7 @@ export default async function Post(props: Params, modal: false) {
                           <Tag
                             tag={tag}
                             classNames={
-                              "text-[11px] md:text-[14px] leading-[1.5]"
+                              "text-[11px] md:text-[15px] leading-[1.5]"
                             }
                           />
                           {i < post.tag.length - 1 && " "}
