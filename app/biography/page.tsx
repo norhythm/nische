@@ -122,18 +122,11 @@ export default function Biography() {
             </div>
           </div>
 
-          {biographyData.studio_link && (
-            <p className="text-sm mt-4 md:mt-8">
-              *Please refer to{" "}
-              <a
-                className="decoration-underline"
-                href={biographyData.studio_link}
-                target="_blank"
-              >
-                the studio materials of Arte Refact
-              </a>{" "}
-              for information on the recording equipment.
-            </p>
+          {biographyData.equipment_note && (
+            <p
+              className="text-sm mt-4 md:mt-8 [&_a]:underline"
+              dangerouslySetInnerHTML={{ __html: biographyData.equipment_note }}
+            />
           )}
         </div>
       </section>

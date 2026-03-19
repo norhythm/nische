@@ -68,10 +68,10 @@ content:
         type: string
       - name: bio_ja
         label: 経歴（日本語）
-        type: text
+        type: rich-text
       - name: bio_en
         label: 経歴（英語）
-        type: text
+        type: rich-text
       - name: profile_image
         label: プロフィール画像パス
         type: string
@@ -103,9 +103,9 @@ content:
               - name: url
                 label: URL
                 type: string
-      - name: studio_link
-        label: スタジオページURL
-        type: string
+      - name: equipment_note
+        label: 機材セクション注釈
+        type: rich-text
   - name: equipments
     label: Equipments
     type: file
