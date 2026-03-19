@@ -5,6 +5,7 @@ import Footer from "@/components/footer";
 import PathAwareContainer from "@/components/path-aware-container";
 import { SelectedTagProvider } from "@/lib/selected-tag-context";
 import ScrollRestoration from "@/lib/scroll-restoration";
+import GoogleAnalytics from "@/components/google-analytics";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -55,6 +56,7 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=M+PLUS+Rounded+1c&family=Noto+Serif+JP:wght@200..900&display=swap"
           rel="stylesheet"
         ></link>
+        <GoogleAnalytics gaId="G-7L0R4ZXV6S" />
       </head>
       <body>
         <SelectedTagProvider>
