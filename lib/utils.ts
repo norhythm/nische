@@ -9,13 +9,13 @@ export function cn(...inputs: ClassValue[]) {
 export function layoutImageStyle(post: Post) {
   switch (post.layout) {
     case "rect-h":
-      return "w-[90%] md:h-[440px] 4xl:h-[480px] 6xl:h-[520px]";
+      return "w-[90%] md:h-[420px] 4xl:h-[460px] 6xl:h-[500px]";
     case "rect-v":
-      return "w-[70%] md:h-[640px] 4xl:h-[680px] 6xl:h-[720px]";
+      return "w-[70%] md:h-[540px] 4xl:h-[580px] 6xl:h-[620px]";
     case "square":
-      return "w-[80%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
+      return "w-[80%] md:h-[460px] 4xl:h-[500px] 6xl:h-[540px]";
     default:
-      return "w-[80%] md:h-[538px] 4xl:h-[580px] 6xl:h-[640px]";
+      return "w-[80%] md:h-[460px] 4xl:h-[500px] 6xl:h-[540px]";
   }
 }
 
