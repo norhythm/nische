@@ -13,17 +13,22 @@ image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                                           | Credit |
+| ------------ | ----------------------------------------------- | ------ |
+| 01           | SHOUT ALIVE／作詞・作曲：ZAQ　編曲：園田 健太郎 | Mixing |
+| 02           | Drama Track -ATOMOSUREINN- 1                    | Mixing |
+| 03           | Drama Track -ATOMOSUREINN- 2                    | Mixing |
+| 04           | Drama Track -ATOMOSUREINN- 3                    | Mixing |
+| 05           | ASTRONOTE（ATOMOSUREINN Ver.）                  | Mixing |
+| 06           | SHOUT ALIVE（Instrumental）                     | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/co6c2C0KivA?si=ekaC6To2KA90IYM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://astrodive.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://astrodive.jp/discography/atomosureinn_1/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://fwinc.lnk.to/UWEYv8" target="_blank">Stream</a>
+- <a data-type="button" href="https://fwinc.lnk.to/zFb3Zw" target="_blank">CD</a>
