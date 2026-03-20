@@ -2,7 +2,7 @@
 published: true
 date: 2026-01-21
 holder: ""
-artist: 澤村光彩
+artist: 澤村 光彩
 title: Eternal Star
 url: sawamura-kirari-1st-album-eternal-star
 tag:
@@ -34,5 +34,5 @@ image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.hmv.co.jp/artist_%E6%BE%A4%E6%9D%91%E5%85%89%E5%BD%A9_000000001006953/item_Eternal-Star_16281457" target="_blank">HMV</a>
-- <a data-type="button" href="https://tower.jp/item/7166489" target="_blank">Tower Records</a>
+- <a data-type="button" href="https://fan.pia.jp/sawamura_kirari/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://pcim.lnk.to/EternalStar" target="_blank">Stream & Buy</a>
