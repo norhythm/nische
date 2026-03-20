@@ -13,17 +13,26 @@ image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                        | Credit |
+| ------------ | -------------------------------------------- | ------ |
+| 01           | P.O.P.P.Y                                    | Mix    |
+| 02           | シークレット・ドリーム                       | Mix    |
+| 03           | ムテキDUOエナジー                            | Mix    |
+| 04           | Stand Get Up                                 | Mix    |
+| 05           | ネバギバラバー                               | Mix    |
+| 06           | Perfect☆STARs                                | Mix    |
+| 07           | We're The World                              | Mix    |
+| 08           | ヒカリノコトバ                               | Mix    |
+| 09           | GIRA GIRA STAR                               | Mix    |
+| 10           | ニュースタージョーカー                       | Mix    |
+| 11           | パステルステップデイズ                       | Mix    |
+| 12           | きらめきのうた（つむぎ Ver.）                | Mix    |
+| 13           | きらめきのうた（シークレットフレンズ∞ Ver.） | Mix    |
+| 14           | ひみつだけどね                               | Mix    |
+| 15           | アイプリバースイン！                         | Mix    |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-13/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://avex.lnk.to/aipri_musiccol_DX" target="_blank">avex</a>

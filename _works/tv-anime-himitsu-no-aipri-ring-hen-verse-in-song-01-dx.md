@@ -13,17 +13,28 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                            | Credit |
+| ------------ | -------------------------------- | ------ |
+| 01           | キズナ×リンク                    | Mix    |
+| 02           | 超Easy Drive☆                    | Mix    |
+| 03           | わたしの大切にしてたこと         | Mix    |
+| 04           | ときめきグラビティ               | Mix    |
+| 05           | キズナ×リンク -inst.-            | Mix    |
+| 06           | 超Easy Drive☆ -inst.-            | Mix    |
+| 07           | わたしの大切にしてたこと -inst.- | Mix    |
+| 08           | ときめきグラビティ -inst.-       | Mix    |
 
-##### Video
+##### CG Live
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                    | Credit |
+| ------------ | ------------------------ | ------ |
+| 01           | キズナ×リンク            | Mix    |
+| 02           | 超Easy Drive☆            | Mix    |
+| 03           | わたしの大切にしてたこと | Mix    |
+| 04           | ときめきグラビティ       | Mix    |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-14/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://avex.lnk.to/aipri2VERSEIN_SONG_01_DX" target="_blank">avex</a>

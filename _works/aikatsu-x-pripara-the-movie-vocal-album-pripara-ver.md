@@ -13,17 +13,28 @@ image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                                        | Credit |
+| ------------ | -------------------------------------------- | ------ |
+| 01           | プリティー×アクティビティ                    | Mix    |
+| 08           | プリティー×アクティビティ～プリパラ ver.～   | Mix    |
+| 09           | プリティー×アクティビティ～アイカツ！ ver.～ | Mix    |
+| 10           | プリティー×アクティビティ（inst）            | Mix    |
 
-##### Video
+##### Tracklist
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                                                   | Credit |
+| ------------ | ----------------------------------------------------------------------- | ------ |
+| 01           | プリティー×アクティビティ                                               | Mix    |
+| 02           | ま～ぶるMake up a-ha-ha! ～みれぃ & ひなき ver.～                       |        |
+| 03           | コノウタトマレイヒ ～ふわり & のの & リサ ver.～                        |        |
+| 04           | 純・アモーレ・愛 ～ひびき & 珠璃 ver.～                                 |        |
+| 05           | でび&えん☆Reversible-Ring ～凛 & まどか ver.～                          |        |
+| 06           | Realize! ～あろま & みかん & ガァルル & みやび & ここね & ニーナ ver.～ |        |
+| 07           | Make it! ～らぁら & あかり ver.～                                       |        |
+| 08           | プリティー×アクティビティ～プリパラ ver.～                              | Mix    |
+| 09           | プリティー×アクティビティ～アイカツ！ ver.～                            | Mix    |
+| 10           | プリティー×アクティビティ（inst）                                       | Mix    |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://aikatsu-pripara-10movie.jp/" target="_blank">Official Site</a>

@@ -13,17 +13,27 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                          | Credit |
+| ------------ | ------------------------------ | ------ |
+| 01           | ヒカリノコトバ                 | Mix    |
+| 02           | GIRA GIRA STAR                 | Mix    |
+| 03           | ニュースタージョーカー         | Mix    |
+| 04           | アイプリバースイン！           | Mix    |
+| 05           | ヒカリノコトバ -inst.-         | Mix    |
+| 06           | GIRA GIRA STAR -inst.-         | Mix    |
+| 07           | ニュースタージョーカー -inst.- | Mix    |
+| 08           | アイプリバースイン！ -inst.-   | Mix    |
 
-##### Video
+##### CG Live
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | ヒカリノコトバ         | Mix    |
+| 02           | GIRA GIRA STAR         | Mix    |
+| 03           | ニュースタージョーカー | Mix    |
+| 04           | アイプリバースイン！   | Mix    |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-10/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://avex.lnk.to/aipriVERSEIN_SONG_03" target="_blank">avex</a>
