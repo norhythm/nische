@@ -20,21 +20,6 @@ image: "/works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg"
 | 09           | プリティー×アクティビティ～アイカツ！ ver.～ | Mixing |
 | 10           | プリティー×アクティビティ（inst）            | Mixing |
 
-##### Tracklist
-
-| Track number | Title                                                                   | Credit |
-| ------------ | ----------------------------------------------------------------------- | ------ |
-| 01           | プリティー×アクティビティ                                               | Mixing |
-| 02           | ま～ぶるMake up a-ha-ha! ～みれぃ & ひなき ver.～                       |        |
-| 03           | コノウタトマレイヒ ～ふわり & のの & リサ ver.～                        |        |
-| 04           | 純・アモーレ・愛 ～ひびき & 珠璃 ver.～                                 |        |
-| 05           | でび&えん☆Reversible-Ring ～凛 & まどか ver.～                          |        |
-| 06           | Realize! ～あろま & みかん & ガァルル & みやび & ここね & ニーナ ver.～ |        |
-| 07           | Make it! ～らぁら & あかり ver.～                                       |        |
-| 08           | プリティー×アクティビティ～プリパラ ver.～                              | Mixing |
-| 09           | プリティー×アクティビティ～アイカツ！ ver.～                            | Mixing |
-| 10           | プリティー×アクティビティ（inst）                                       | Mixing |
-
 ##### Links
 
 - <a data-type="button" href="https://aikatsu-pripara-10movie.jp/" target="_blank">Official Site</a>
