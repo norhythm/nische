@@ -24,7 +24,4 @@ image: /works/media/ixis-debut-mini-album-roots-of.jpg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://kiramune.jp/product/LACA-35259.html" target="_blank">Lantis</a>
