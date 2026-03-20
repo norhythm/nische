@@ -15,7 +15,7 @@ image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed.jpg
 
 | Track number | Title                                                 | Credit    |
 | ------------ | ----------------------------------------------------- | --------- |
-| 01           | いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～ | Rec / Mix |
+| 01           | いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～ | Recording / Mixing |
 
 ##### Video
 
