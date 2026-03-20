@@ -13,17 +13,14 @@ image: "/works/media/idol-land-pripara-song-collection-open-dream-land.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | OPEN DREAM LAND! | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qh3TRRPdadQ?si=SNj34DaK2NBT-25t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://www.takaratomy-arts.co.jp/specials/pripara-game/idolland/" target="_blank">Official Site</a>
