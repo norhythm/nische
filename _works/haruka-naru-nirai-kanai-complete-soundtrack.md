@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-10-25"
-holder: "遥かなるニライカナイ"
+holder: "Navel"
 artist: ""
-title: "「遥かなるニライカナイ-Complete Soundtrack-」"
+title: "遥かなるニライカナイ-Complete Soundtrack-"
 url: "haruka-naru-nirai-kanai-complete-soundtrack"
 tag:
   - mix
@@ -13,17 +13,29 @@ image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                            | Credit |
+| ------------ | -------------------------------- | ------ |
+| 01           | Shangri-La...                    | Mixing |
+| 02           | 朝釣りの時間                     | Mixing |
+| 03           | 美ら海（チュラウミ）が広がる町   | Mixing |
+| 04           | 龍宮のおとぎ話                   | Mixing |
+| 05           | 海カフェ「キジムナー」           | Mixing |
+| 06           | メンソーレ！                     | Mixing |
+| 07           | なんとかなるなるナンクルナイサー | Mixing |
+| 08           | 龍恋の鐘                         | Mixing |
+| 09           | 愛を唄う天女                     | Mixing |
+| 10           | 呪いと祝い                       | Mixing |
+| 11           | 大与座（オオクミザ）の会合       | Mixing |
+| 12           | 琉球の四大神（シノオオカミ）     | Mixing |
+| 13           | 龍穴より生まれし力               | Mixing |
+| 14           | 目指した理想郷                   | Mixing |
+| 15           | ニライカナイはもう探さない       | Mixing |
+| 16           | 遥かなる想い出                   | Mixing |
+| 17           | Lost and found                   | Mixing |
+| 18           | Shangri-La...-Instrumental-      | Mixing |
+| 19           | Lost and found-Instrumental-     | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://project-navel.com/niraikanai/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://navel-store.com/items/67135945df856738c12b13d5" target="_blank">Stream & Buy</a>
