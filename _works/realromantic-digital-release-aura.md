@@ -18,17 +18,11 @@ mixing.
 
 ##### Tracklist
 
-| Track number | Title      | Credit |
-| ------------ | ---------- | ------ |
-| 01           | トラック名 | Mixing |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title | Credit |
+| ------------ | ----- | ------ |
+| 01           | AURA  | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://realromantic-official.com/discography/digital-release-aura/" target="_blank">Official Page</a>
