@@ -13,17 +13,26 @@ image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-al
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                              | Credit |
+| ------------ | ---------------------------------- | ------ |
+| 01           | 君に恋を結んで                     | Mixing |
+| 02           | 桜のかくしごと                     | Mixing |
+| 03           | 夜空に引いた線                     | Mixing |
+| 04           | 夕色のねがいみち                   | Mixing |
+| 05           | 朝姫は朝だけ姫気分♡                | Mixing |
+| 06           | 君に恋を結んで (Instrumental)      | Mixing |
+| 07           | 桜のかくしごと (Instrumental)      | Mixing |
+| 08           | 夜空に引いた線 (Instrumental)      | Mixing |
+| 09           | 夕色のねがいみち (Instrumental)    | Mixing |
+| 10           | 朝姫は朝だけ姫気分♡ (Instrumental) | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TC0cyKYyeJ4?si=57UC8oZOFlJZsXpR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://amagami-anime.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://amagami-anime.com/music/album.html" target="_blank">Official Page</a>
+- <a data-type="button" href="https://amagami.lnk.to/Ending_Pre" target="_blank">Stream</a>
+- <a data-type="button" href="https://amagami.lnk.to/mini-album" target="_blank">Buy</a>
