@@ -3,7 +3,7 @@ published: true
 date: "2024-09-27"
 holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "HELIOS Rising HeroesGoldenXXsection VS LILIAN"
+title: "GoldenXXsection VS LILIAN"
 url: "helios-rising-heroes-goldenxxsection-vs-lilian"
 tag:
   - mix
@@ -13,17 +13,17 @@ image: "/works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                                                     | Credit |
+| ------------ | ------------------------------------------------------------------------- | ------ |
+| 01           | Homecoming                                                                | Mixing |
+| 02           | Trust fake                                                                | Mixing |
+| 03           | Original Drama Track 「ゴールデン・セクションのゴールデンナイト　第一回」 | Mixing |
+| 04           | Original Drama Track 「ゴールデン・セクションのゴールデンナイト　第七回」 | Mixing |
+| 05           | Homecoming (Instrumental)                                                 | Mixing |
+| 06           | Trust fake (Instrumental)                                                 | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://helios-r.jp/discography/cd19" target="_blank">Official Page</a>
+- <a data-type="button" href="https://fwinc.lnk.to/P8ZoT3" target="_blank">Stream & Buy</a>

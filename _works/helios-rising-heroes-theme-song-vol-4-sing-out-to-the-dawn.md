@@ -2,7 +2,7 @@
 published: true
 date: 2025-07-23
 holder: "エリオスライジングヒーローズ"
-artist: ""
+artist: "主題歌 Vol.4"
 title: Sing out to the Dawn
 url: helios-rising-heroes-sing-out-to-the-dawn
 tag:
@@ -18,21 +18,21 @@ image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.j
 HELIOS Rising Heroes THEME Song Vol.4
 [https://www.fwinc.co.jp/cd/100638/](https://www.fwinc.co.jp/cd/100638/)
 
-Vocal recording and music track mixing.
-
 ##### Tracklist
 
-| Track number | Title      | Credit    |
-| ------------ | ---------- | --------- |
-| 01           | トラック名 | Rec / Mix |
+| Track number | Title                                                    | Credit             |
+| ------------ | -------------------------------------------------------- | ------------------ |
+| 01           | Sing out to the Dawn                                     | Recording / Mixing |
+| 02           | Original Drama Track 「３人目のルーキー」                | Recording / Mixing |
+| 03           | Original Drama Track 「とある日のロストガーデン Part２」 | Recording / Mixing |
+| 04           | Sing out to the Dawn (Instrumental）                     | Recording / Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKLBJ82Dbrk?si=TB51P539z5TLikgB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://helios-r.jp/discography/jjrxcknc6_c" target="_blank">Official Page</a>
+- <a data-type="button" href="https://fwinc.lnk.to/WVVK0F" target="_blank">Stream & Buy</a>

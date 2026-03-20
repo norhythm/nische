@@ -21,21 +21,21 @@ HELIOS Rising Heroes THIRD SEASON 「Overflow」
 ENDING THEME
 [https://www.fwinc.co.jp/cd/100634/](https://www.fwinc.co.jp/cd/100634/)
 
-Vocal recording and mixing.
-
 ##### Tracklist
 
-| Track number | Title      | Credit      |
-| ------------ | ---------- | ----------- |
-| 01           | トラック名 | Rec /Matser |
+| Track number | Title                                        | Credit             |
+| ------------ | -------------------------------------------- | ------------------ |
+| 01           | Signs of Dawn                                | Recording / Mixing |
+| 02           | Original Drama Track「頼れるノースセクター」 | Recording / Mixing |
+| 03           | Original Drama Track「ガールズトーーク！」   | Recording / Mixing |
+| 04           | Signs of Dawn (Instrumental）                | Recording / Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nPl2Xm6sD68?si=7Y5iOZxYaNsA9hBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://helios-r.jp/discography/27v1o8g8gu" target="_blank">Official Page</a>
+- <a data-type="button" href="https://fwinc.lnk.to/LSMV89" target="_blank">Stream & Buy</a>
