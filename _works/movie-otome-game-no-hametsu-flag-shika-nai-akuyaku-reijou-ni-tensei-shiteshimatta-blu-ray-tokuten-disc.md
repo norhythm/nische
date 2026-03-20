@@ -13,17 +13,23 @@ image: "/works/media/movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-n
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                                            | Credit |
+| ------------ | ------------------------------------------------ | ------ |
+| 01           | 乙女のルートはひとつじゃない！                   | Mixing |
+| 02           | アンダンテに恋をして！                           | Mixing |
+| 03           | Change the days!                                 | Mixing |
+| 04           | Flowering Sapphire                               | Mixing |
+| 05           | Humming moon                                     | Mixing |
+| 06           | The Caravan Night’s Entertainment                | Mixing |
+| 07           | Change the days! (Instrumental)                  | Mixing |
+| 08           | Flowering Sapphire (Instrumental)                | Mixing |
+| 09           | Humming moon (Instrumental)                      | Mixing |
+| 10           | The Caravan Night’s Entertainment (Instrumental) | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VhmeoSOoAc?si=V1ZkvwC75VWCYXGL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://king-cr.jp/hamehura-movie/bluray/" target="_blank">Official Page</a>
