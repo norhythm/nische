@@ -22,7 +22,4 @@ image: /works/media/vspo-tosaki-mimi-aoi-mama.jpg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://linkco.re/0EQmFt68" target="_blank">Linkco.re</a>
