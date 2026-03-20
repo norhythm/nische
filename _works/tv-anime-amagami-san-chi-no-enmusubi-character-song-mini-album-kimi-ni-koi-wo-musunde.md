@@ -35,4 +35,4 @@ image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-al
 - <a data-type="button" href="https://amagami-anime.com/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://amagami-anime.com/music/album.html" target="_blank">Official Page</a>
 - <a data-type="button" href="https://amagami.lnk.to/Ending_Pre" target="_blank">Stream</a>
-- <a data-type="button" href="https://amagami.lnk.to/mini-album" target="_blank">Buy</a>
+- <a data-type="button" href="https://amagami.lnk.to/mini-album" target="_blank">CD</a>
