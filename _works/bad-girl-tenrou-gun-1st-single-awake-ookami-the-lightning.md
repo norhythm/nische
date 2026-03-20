@@ -3,27 +3,24 @@ published: true
 date: 2026-02-11
 holder: ばっどがーる
 artist: 天狼群
-title: AWAKE／オオカミ・ザ・ライトニング
+title: AWAKE/オオカミ・ザ・ライトニング
 url: bad-girl-tenrou-gun-1st-single-awake-ookami-the-lightning
 tag:
   - mix
 layout: square
 image: /works/media/bad-girl-tenrou-gun-1st-single-awake-ookami-the-lightning.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| 01           | AWAKE | Mixing |
+| 03           | Melty Love | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQZwCNTjLA4?si=yggmElEyWhTkUX4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://tenrogun.lnk.to/AWAKE_OKAMI-THE-LIGHTNING" target="_blank">link.to</a>

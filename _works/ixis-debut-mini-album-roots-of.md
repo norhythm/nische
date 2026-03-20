@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2026-03-05
-holder:
+holder: kiramune
 artist: IXIS
 title: Roots of
 url: ixis-debut-mini-album-roots-of
@@ -10,14 +10,13 @@ tag:
 layout: square
 image: /works/media/ixis-debut-mini-album-roots-of.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | STARTLINE! | Mix    |
-| 03           | Colors     | Mix    |
-| 05           | Trigger    | Mix    |
+| 01           | STARTLINE! | Mixing    |
+| 03           | Colors     | Mixing    |
+| 05           | Trigger    | Mixing    |
 
 ##### Video
 
@@ -25,7 +24,4 @@ image: /works/media/ixis-debut-mini-album-roots-of.jpg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://kiramune.jp/product/LACA-35259.html" target="_blank">Lantis</a>

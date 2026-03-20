@@ -12,12 +12,11 @@ tag:
 layout: square
 image: /images/placeholder.svg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| 01           | トラック名 | Recording / Mixing / Mastering |
 
 ##### Video
 
