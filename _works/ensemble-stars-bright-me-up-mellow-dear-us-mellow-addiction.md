@@ -1,21 +1,20 @@
 ---
 published: true
-date: "2026-03-11"
-holder: "あんさんぶるスターズ！！Bright me up!!"
-artist: "MELLOW DEAR US"
-title: "Mellow Addiction"
-url: "ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction"
+date: 2026-03-11
+holder: あんさんぶるスターズ！！Bright me up!!
+artist: MELLOW DEAR US
+title: Mellow Addiction
+url: ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction
 tag:
   - mix
-layout: "square"
-image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction.jpg"
+layout: square
+image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| 01           | Mellow Addiction | Mixing |
 
 ##### Video
 
@@ -23,7 +22,4 @@ image: "/works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://mellowdearus.lnk.to/MellowAddiction" target="_blank">Linkfire</a>
