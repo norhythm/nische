@@ -30,7 +30,7 @@ export default function ArticleBody({
         <header className="text-center">
           <h1 className="tracking-wide">
             {(post.holder || post.artist) && (
-              <div className="flex gap-1 justify-center">
+              <div className="flex flex-col md:flex-row md:gap-1 justify-center">
                 {post.holder && (
                   <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[15px] leading-[1.5]">
                     {post.holder}
@@ -54,7 +54,7 @@ export default function ArticleBody({
                 <span key={i}>
                   <Tag
                     tag={tag}
-                    classNames={"text-[11px] md:text-[13px] leading-[1.5]"}
+                    classNames={"text-[12px] md:text-[13px] leading-[1.5]"}
                   />
                   {i < post.tag.length - 1 && " "}
                 </span>
@@ -77,6 +77,7 @@ export default function ArticleBody({
         >
           <TiltImage
             single={false}
+            article={false}
             clip={false}
             src={`${post.image}`}
             alt={post.title}
@@ -86,7 +87,6 @@ export default function ArticleBody({
             // parentClassName="z-10 mt-4 mb-2 md:mb-3 p-2 bg-plate"
             parentClassName={`inline-flex md:w-full h-full z-10 ${layoutImageStyle(
               post,
-              modal,
             )}`}
             // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
             childClassName={`post-${post.layout} drop-shadow-lg`}

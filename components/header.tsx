@@ -15,13 +15,22 @@ export default function Header() {
             className={`md:text-xl font-medium text-base flex justify-content items-center tracking-wider`}
           >
             <Link
-              href="/"
-              className={`font-base hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
+              href={"/"}
+              className={`hover:text-gray-500 cursor-pointer transition-colors uppercase pointer-events-auto`}
               onClick={() => {
                 setSelectedTag(null);
               }}
             >
               Tsukasa Kikuchi
+            </Link>
+            <Link
+              href="/append/"
+              className={`text-xs hover:text-gray-500 cursor-pointer transition-colors pointer-events-auto ml-4`}
+              onClick={() => {
+                setSelectedTag(null);
+              }}
+            >
+              Append用リンク
             </Link>
           </h1>
           <nav>

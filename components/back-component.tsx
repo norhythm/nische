@@ -22,12 +22,16 @@ function getNavHistory(): string[] {
 export default function BackComponent({
   className = "",
   style = "layer",
+  append = false,
 }: {
   className?: string;
   style?: StyleType;
+  append?: boolean;
 }) {
   const router = useRouter();
   const { selectedTag } = useSelectedTagContext();
+
+  const path = append ? "/append" : "";
 
   const handleBack = () => {
     const navHistory = getNavHistory();
@@ -39,9 +43,9 @@ export default function BackComponent({
     } else {
       // 外部からの直接アクセスまたは履歴がない場合はトップページへ
       if (selectedTag) {
-        router.push(`/?tag=${selectedTag}`);
+        router.push(`${path}/?tag=${selectedTag}`);
       } else {
-        router.push("/");
+        router.push(`${path}/`);
       }
     }
   };

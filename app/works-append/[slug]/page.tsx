@@ -39,7 +39,7 @@ export default async function Post(props: Params, modal: false) {
         prevUrl={prevPost ? `/works-append/${prevPost.url}` : undefined}
         nextUrl={nextPost ? `/works-append/${nextPost.url}` : undefined}
       />
-      <BackComponent style="layer" />
+      <BackComponent style="layer" append={true} />
       <BackComponent style="mobile-cursor" />
       <div className="work-detail relative w-full mx-auto flex flex-col items-stretch">
         <div className="md:flex-1 px-4 md:px-0">
@@ -57,6 +57,7 @@ export default async function Post(props: Params, modal: false) {
                   >
                     <TiltImage
                       single={false}
+                      article={true}
                       clip={false}
                       src={`${post.image}`}
                       alt={post.title}
@@ -68,10 +69,10 @@ export default async function Post(props: Params, modal: false) {
                       // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
                       childClassName={`post-${post.layout} drop-shadow-lg`}
                     />
-                    <div
+                    {/* <div
                       className={`absolute top-0 left-1/2 -translate-x-1/2 w-full h-full rotate-[2.8deg] drop-shadow-lg`}
                       style={{ backgroundColor: fillRectColor() }}
-                    ></div>
+                    ></div> */}
 
                     {/* <Image
                       src={`${post.image}`}
@@ -135,15 +136,15 @@ export default async function Post(props: Params, modal: false) {
               <div
                 className={`order-2 w-full flex-auto mx-auto pb-2 md:pt-4 md:pb-12`}
               >
-                <header className="block md:hidden pt-4">
+                <header className="block md:hidden pt-4 text-center">
                   <h1 className="tracking-wide">
                     {post.holder && (
-                      <span className="text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
+                      <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[13px] leading-[1.5]">
                         {post.holder}
                       </span>
                     )}
                     {post.artist && (
-                      <span className="pb-1 md:pb-2 block text-[#888] text-[12px] md:text-[13px] leading-[1.5]">
+                      <span className="pb-1 md:pb-2 block text-[#888] text-[13px] md:text-[13px] leading-[1.5]">
                         {post.artist}
                       </span>
                     )}
@@ -151,14 +152,14 @@ export default async function Post(props: Params, modal: false) {
                       {post.title}
                     </span>
                   </h1>
-                  <div className="flex gap-2 md:pt-1">
+                  <div className="flex justify-center gap-2 md:pt-1">
                     {post.tag.map((tag, i) => {
                       return (
                         <span key={i}>
                           <Tag
                             tag={tag}
                             classNames={
-                              "text-[11px] md:text-[13px] leading-[1.5]"
+                              "text-[12px] md:text-[13px] leading-[1.5]"
                             }
                           />
                           {i < post.tag.length - 1 && " "}
@@ -166,6 +167,7 @@ export default async function Post(props: Params, modal: false) {
                       );
                     })}
                   </div>
+                  <hr className="w-[40px] h-[1px] mt-6 md:mt-8 mx-auto bg-[#ddd]" />
                 </header>
                 <div className="pt-4 md:mb-8 text-[13px] md:text-[14px] leading-[1.5]">
                   <div

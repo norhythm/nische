@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import Image from "next/image";
 
 interface FullScreenTiltImageProps {
   single?: boolean;
+  article?: boolean;
   clip?: boolean;
   src: string;
   alt: string;
@@ -16,8 +17,72 @@ interface FullScreenTiltImageProps {
   tilt: number;
 }
 
+function rgbToHsl(r: number, g: number, b: number): [number, number, number] {
+  r /= 255;
+  g /= 255;
+  b /= 255;
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const l = (max + min) / 2;
+  if (max === min) return [0, 0, l];
+  const d = max - min;
+  const s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+  let h = 0;
+  if (max === r) h = ((g - b) / d + (g < b ? 6 : 0)) / 6;
+  else if (max === g) h = ((b - r) / d + 2) / 6;
+  else h = ((r - g) / d + 4) / 6;
+  return [h * 360, s, l];
+}
+
+function extractAccentColor(
+  ctx: CanvasRenderingContext2D,
+  w: number,
+  h: number,
+): string {
+  const data = ctx.getImageData(0, 0, w, h).data;
+
+  // hueを30度ごとに12バケットに分類
+  const buckets: { hue: number; sat: number; light: number; count: number }[] =
+    Array.from({ length: 12 }, () => ({ hue: 0, sat: 0, light: 0, count: 0 }));
+
+  for (let i = 0; i < data.length; i += 16) {
+    // 4pxおきにサンプリング
+    const [h, s, l] = rgbToHsl(data[i], data[i + 1], data[i + 2]);
+    // 暗すぎ・明るすぎ・彩度なしを除外
+    if (s < 0.12 || l < 0.08 || l > 0.92) continue;
+    const idx = Math.floor(h / 30) % 12;
+    buckets[idx].hue += h;
+    buckets[idx].sat += s;
+    buckets[idx].light += l;
+    buckets[idx].count += 1;
+  }
+
+  // 彩度の加重スコアが最も高いバケットをアクセントカラーとして採用
+  let best = buckets[0];
+  let bestScore = 0;
+  for (const b of buckets) {
+    if (b.count === 0) continue;
+    const avgSat = b.sat / b.count;
+    // 彩度 × ピクセル数のルート（少数でも鮮やかなら差し色として採用）
+    const score = avgSat * Math.sqrt(b.count);
+    if (score > bestScore) {
+      bestScore = score;
+      best = b;
+    }
+  }
+
+  if (best.count === 0) return "hsl(0, 0%, 30%)";
+
+  const avgH = Math.round(best.hue / best.count);
+  const avgS = Math.round((best.sat / best.count) * 100);
+  const avgL = Math.round((best.light / best.count) * 100);
+  // 彩度を強め、明度をやや暗めに調整して色面として映えるようにする
+  return `hsl(${avgH}, ${Math.min(avgS + 15, 100)}%, ${Math.min(Math.max(avgL - 5, 20), 45)}%)`;
+}
+
 export default function FullScreenTiltImage({
   single,
+  article,
   clip,
   src,
   alt,
@@ -30,8 +95,87 @@ export default function FullScreenTiltImage({
 }: FullScreenTiltImageProps) {
   const [transform, setTransform] = useState("");
   const [loaded, setLoaded] = useState(false);
+  const [imageRatio, setImageRatio] = useState(`${width} / ${height}`);
+  const [blendMode, setBlendMode] =
+    useState<GlobalCompositeOperation>("multiply");
   const imageRef = useRef<HTMLDivElement>(null);
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const tintImgRef = useRef<HTMLImageElement | null>(null);
+  const accentColorRef = useRef<string>("hsl(0, 0%, 30%)");
   const maskId = `clip-mask`;
+
+  const blendOptions: { value: GlobalCompositeOperation; label: string }[] = [
+    { value: "multiply", label: "Multiply（乗算）" },
+    { value: "screen", label: "Screen（スクリーン）" },
+    { value: "overlay", label: "Overlay（オーバーレイ）" },
+    { value: "darken", label: "Darken（暗く）" },
+    { value: "lighten", label: "Lighten（明るく）" },
+    { value: "color-dodge", label: "Color Dodge（覆い焼き）" },
+    { value: "color-burn", label: "Color Burn（焼き込み）" },
+    { value: "hard-light", label: "Hard Light（ハードライト）" },
+    { value: "soft-light", label: "Soft Light（ソフトライト）" },
+    { value: "difference", label: "Difference（差の絶対値）" },
+    { value: "exclusion", label: "Exclusion（除外）" },
+    { value: "hue", label: "Hue（色相）" },
+    { value: "saturation", label: "Saturation（彩度）" },
+    { value: "color", label: "Color（カラー）" },
+    { value: "luminosity", label: "Luminosity（輝度）" },
+    { value: "source-over", label: "Source Over（単色塗り）" },
+  ];
+
+  const drawTintedImage = useCallback(
+    (img: HTMLImageElement, mode: GlobalCompositeOperation) => {
+      if (!article) return;
+      const canvas = canvasRef.current;
+      if (!canvas) return;
+      const ctx = canvas.getContext("2d");
+      if (!ctx) return;
+
+      // 初回のみ色抽出
+      if (!tintImgRef.current) {
+        const sampleSize = 64;
+        const sampleCanvas = document.createElement("canvas");
+        sampleCanvas.width = sampleSize;
+        sampleCanvas.height = sampleSize;
+        const sampleCtx = sampleCanvas.getContext("2d")!;
+        sampleCtx.drawImage(img, 0, 0, sampleSize, sampleSize);
+        accentColorRef.current = extractAccentColor(
+          sampleCtx,
+          sampleSize,
+          sampleSize,
+        );
+        tintImgRef.current = img;
+      }
+
+      canvas.width = img.naturalWidth;
+      canvas.height = img.naturalHeight;
+
+      ctx.drawImage(img, 0, 0);
+
+      // アクセントカラーで塗りつぶし（画像の不透明部分のみ）
+      ctx.globalCompositeOperation = "source-in";
+      ctx.fillStyle = accentColorRef.current;
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // 選択したブレンドモードで元画像を重ねる
+      ctx.globalCompositeOperation = mode;
+      ctx.drawImage(img, 0, 0);
+    },
+    [article],
+  );
+
+  // article時のみ画像ロード＆描画
+  useEffect(() => {
+    if (!article) return;
+    if (tintImgRef.current) {
+      drawTintedImage(tintImgRef.current, blendMode);
+      return;
+    }
+    const img = new window.Image();
+    img.crossOrigin = "anonymous";
+    img.onload = () => drawTintedImage(img, blendMode);
+    img.src = src;
+  }, [article, src, blendMode, drawTintedImage]);
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
@@ -116,9 +260,35 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        onLoad={() => setLoaded(true)}
+        onLoad={(e) => {
+          const img = e.currentTarget;
+          setImageRatio(`${img.clientWidth} / ${img.clientHeight}`);
+          setLoaded(true);
+        }}
         className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
       />
+      {article && (
+        <>
+          <canvas
+            ref={canvasRef}
+            className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[200ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
+          />
+          {/* ブレンドモード切替 */}
+          {/* <select
+            value={blendMode}
+            onChange={(e) =>
+              setBlendMode(e.target.value as GlobalCompositeOperation)
+            }
+            className="absolute bottom-2 right-2 z-10 text-xs bg-white/80 border border-gray-300 rounded px-1 py-0.5 cursor-pointer"
+          >
+            {blendOptions.map((opt) => (
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
+            ))}
+          </select> */}
+        </>
+      )}
     </div>
   );
 }

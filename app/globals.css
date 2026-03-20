@@ -1,6 +1,10 @@
 @import "tailwindcss";
 @config "../tailwind.config.ts";
 
+html {
+  scrollbar-gutter: stable;
+}
+
 :root {
   --foreground-rgb: 60, 55, 50;
   --background-rgb: 255, 255, 255;
@@ -316,7 +320,7 @@ html:not(.scroll-restoring) body {
 }
 
 .page-works-append div[class^="markdown"] h5 {
-  @apply w-full text-left;
+  @apply md:w-full md:text-left;
 }
 
 .page-works-append div[class^="markdown"] ul {
@@ -324,5 +328,5 @@ html:not(.scroll-restoring) body {
 }
 
 .page-works-append div[class^="markdown"] ul a {
-  min-width: 160px;
+  min-width: 128px;
 }

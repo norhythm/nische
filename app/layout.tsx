@@ -9,7 +9,7 @@ import GoogleAnalytics from "@/components/google-analytics";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nische.com"),
+  metadataBase: new URL("https://nische.jp"),
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
   robots: {

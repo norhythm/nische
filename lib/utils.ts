@@ -22,12 +22,12 @@ export function layoutImageStyle(post: Post) {
 export function layoutImageStyleAppend(post: Post) {
   switch (post.layout) {
     case "rect-h":
-      return "w-[90%] md:h-[356px] md:w-auto";
+      return "w-[90%] md:w-[456px]";
     case "rect-v":
-      return "w-[70%] md:h-[512px] md:w-auto";
+      return "w-[70%] md:w-[512px]";
     case "square":
-      return "w-[80%] md:h-[412px] md:w-auto";
+      return "w-[80%] md:w-[412px]";
     default:
-      return "w-[80%] md:h-[412px] md:w-auto";
+      return "w-[80%] md:w-[412px]";
   }
 }

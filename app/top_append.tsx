@@ -6,7 +6,6 @@ import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
 
 import TiltImage from "@/components/tiltImage";
-import ArticleModal from "@/components/article-modal";
 
 interface PostWithHtml extends Post {
   htmlContent?: string;
@@ -92,39 +91,6 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
     setSelectedTag(tag);
   };
 
-  const handleWorkClick = (e: React.MouseEvent, slug: string) => {
-    e.preventDefault();
-    setSelectedSlug(slug);
-    const url = buildUrl(`/works/${slug}/`, selectedTag);
-    window.history.pushState({}, "", url);
-  };
-
-  const handleCloseModal = () => {
-    setSelectedSlug(null);
-    const url = buildUrl("/", selectedTag);
-    window.history.pushState({}, "", url);
-  };
-
-  const handleNavigateWork = (slug: string) => {
-    setSelectedSlug(slug);
-    const url = buildUrl(`/works/${slug}/`, selectedTag);
-    window.history.pushState({}, "", url);
-  };
-
-  const selectedPost = useMemo(() => {
-    if (!selectedSlug) return null;
-    return posts.find((p) => p.url === selectedSlug) || null;
-  }, [posts, selectedSlug]);
-
-  const adjacentPosts = useMemo(() => {
-    if (!selectedSlug) return { prev: null, next: null };
-    const currentIndex = posts.findIndex((p) => p.url === selectedSlug);
-    return {
-      prev: currentIndex > 0 ? posts[currentIndex - 1] : null,
-      next: currentIndex < posts.length - 1 ? posts[currentIndex + 1] : null,
-    };
-  }, [posts, selectedSlug]);
-
   const tagName = (tag: string) => {
     switch (tag) {
       case "rec":
@@ -204,6 +170,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                   <div className="relative flex justify-center items-center">
                     <TiltImage
                       single={true}
+                      article={false}
                       clip={true}
                       src={`${work.image}`}
                       alt={work.title}
