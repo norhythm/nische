@@ -13,9 +13,9 @@ image: /works/media/gre4n-boyz-akaki-gunjou.jpg
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | アカキ群青 | Mixing |
 
 ##### Video
 

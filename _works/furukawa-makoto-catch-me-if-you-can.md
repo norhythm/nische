@@ -16,11 +16,11 @@ image: /works/media/furukawa-makoto-catch-me-if-you-can.jpg
 
 | Track number | Title                 | Credit                         |
 | ------------ | --------------------- | ------------------------------ |
-| 01           | 口づけは Signed piece | Recording / Mixing / Matsering |
-| 02           | Catch Me If You Can   | Mixing / Matsering             |
-| 03           | Hightail it           | Recording / Mixing / Matsering |
-| 04           | 嘘と月光              | Recording / Mixing / Matsering |
-| 05           | 白夜のLullaby         | Recording / Mixing / Matsering |
+| 01           | 口づけは Signed piece | Recording / Mixing / Mastering |
+| 02           | Catch Me If You Can   | Mixing / Mastering             |
+| 03           | Hightail it           | Recording / Mixing / Mastering |
+| 04           | 嘘と月光              | Recording / Mixing / Mastering |
+| 05           | 白夜のLullaby         | Recording / Mixing / Mastering |
 
 ##### Links
 

@@ -16,7 +16,7 @@ image: /works/media/ixis-startline.jpg
 
 | Track number | Title       | Credit             |
 | ------------ | ----------- | ------------------ |
-| 01           | STARTLINE！ | Mixing / Matsering |
+| 01           | STARTLINE！ | Mixing / Mastering |
 
 ##### Video
 
