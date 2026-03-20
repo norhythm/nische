@@ -13,17 +13,22 @@ image: "/works/media/hatano-wataru-concept-mini-album-dawn.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                                      | Credit |
+| ------------ | ------------------------------------------ | ------ |
+| 01           | 歩 ～をりふしの唄～                        | Mixing |
+| 02           | をりふしの唄                               | Mixing |
+| 03           | まどろみ ～夢幻の待ち合わせ～              | Mixing |
+| 04           | 夢幻の待ち合わせ                           | Mixing |
+| 05           | ミチシルベ ～星と旅人～（with 西山宏太朗） | Mixing |
+| 06           | 星と旅人（with 西山宏太朗）                | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9viBcKe83Y?si=51ejU1Bn2bTdZ54i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3p9AtglGysk?si=EU8zuUxHFjVOWbMr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hatanowataru.dive2ent.com/discography/detail.php?id=1019897" target="_blank">Official Page</a>
