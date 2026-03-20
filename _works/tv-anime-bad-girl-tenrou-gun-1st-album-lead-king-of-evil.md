@@ -13,17 +13,21 @@ image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil.jpg
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                            | Credit |
+| ------------ | ------------------------------------------------ | ------ |
+| 01           | ツッパリHigh School Rock'n Roll(登校編)／天狼群  | Mixing |
+| 02           | 彼女の“Modern…”／天狼群                          | Mixing |
+| 03           | すーぱーびっぐらぶ！／天狼群                     | Mixing |
+| 04           | 超らぶふぉーえばーもあ／優谷 優(CV.橘 杏咲)  | Mixing |
+| 05           | My Sweetie Dog／水鳥亜鳥(CV.花宮初奈)            | Mixing |
+| 06           | きみのとなり／涼風 涼(CV.松岡美里)               | Mixing |
+| 07           | はーと掻き回してアゲル♡／瑠璃葉るら(CV.花井美春) | Mixing |
+| 08           | BAD SURPRISE／天狼群                             | Mixing |
+| 09           | GO! GO! MANIAC／天狼群                           | Mixing |
+| 10           | KING OF EVIL／天狼群                             | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://badgirl-anime.com/music/single/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://tenrogun.lnk.to/KING_OF_EVIL" target="_blank">Stream & Buy</a>
