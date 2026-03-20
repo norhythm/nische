@@ -14,7 +14,7 @@ image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg
 
 | Track number | Title      | Credit             |
 | ------------ | ---------- | ------------------ |
-| 01           | Dear World | Mix |
+| 01           | Dear World | Mixing |
 
 ##### Video
 
