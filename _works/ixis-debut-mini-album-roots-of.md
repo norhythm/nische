@@ -10,13 +10,14 @@ tag:
 layout: square
 image: /works/media/ixis-debut-mini-album-roots-of.jpg
 ---
+
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | STARTLINE! | Mixing    |
-| 03           | Colors     | Mixing    |
-| 05           | Trigger    | Mixing    |
+| 01           | STARTLINE! | Mixing |
+| 03           | Colors     | Mixing |
+| 05           | Trigger    | Mixing |
 
 ##### Video
 
@@ -24,4 +25,6 @@ image: /works/media/ixis-debut-mini-album-roots-of.jpg
 
 ##### Links
 
+- <a data-type="button" href="https://kiramune.jp/artist/IXIS/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://kiramune.jp/product/LACA-35259.html" target="_blank">Lantis</a>
+- <a data-type="button" href="https://lnk.to/LACA-35259" target="_blank">Stream & Buy</a>
