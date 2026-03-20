@@ -13,17 +13,14 @@ image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                           | Credit |
+| ------------ | ------------------------------- | ------ |
+| 01           | カレイドスコープ                | Mixing |
+| 02           | incomplete                      | Mixing |
+| 03           | カレイドスコープ -Instrumental- | Mixing |
+| 04           | incomplete -Instrumental-       | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e3%82%ab%e3%83%ac%e3%82%a4%e3%83%89%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%97%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4b/" target="_blank">Official Page</a>

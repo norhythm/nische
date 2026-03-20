@@ -13,17 +13,14 @@ image: "/works/media/furukawa-makoto-artist-debut-5th-anniversary-6th-single-pla
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                            | Credit |
+| ------------ | -------------------------------- | ------ |
+| 1            | “Place your bets”                | Mixing |
+| 2            | rainy day                        | Mixing |
+| 3            | “Place your bets” -Instrumental- | Mixing |
+| 4            | rainy day -Instrumental-         | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/placeyourbets%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>
