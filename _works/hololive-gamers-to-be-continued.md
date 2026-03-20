@@ -16,8 +16,8 @@ image: /works/media/hololive-gamers-to-be-continued.jpg
 
 | Track number | Title                              | Credit |
 | ------------ | ---------------------------------- | ------ |
-| 01           | To Be Continued....                | Mix    |
-| 02           | To Be Continued.... (Instrumental) | Mix    |
+| 01           | To Be Continued....                | Mixing |
+| 02           | To Be Continued.... (Instrumental) | Mixing |
 
 ##### Video
 

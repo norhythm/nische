@@ -15,23 +15,23 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 | Track number | Title                          | Credit |
 | ------------ | ------------------------------ | ------ |
-| 01           | ヒカリノコトバ                 | Mix    |
-| 02           | GIRA GIRA STAR                 | Mix    |
-| 03           | ニュースタージョーカー         | Mix    |
-| 04           | アイプリバースイン！           | Mix    |
-| 05           | ヒカリノコトバ -inst.-         | Mix    |
-| 06           | GIRA GIRA STAR -inst.-         | Mix    |
-| 07           | ニュースタージョーカー -inst.- | Mix    |
-| 08           | アイプリバースイン！ -inst.-   | Mix    |
+| 01           | ヒカリノコトバ                 | Mixing |
+| 02           | GIRA GIRA STAR                 | Mixing |
+| 03           | ニュースタージョーカー         | Mixing |
+| 04           | アイプリバースイン！           | Mixing |
+| 05           | ヒカリノコトバ -inst.-         | Mixing |
+| 06           | GIRA GIRA STAR -inst.-         | Mixing |
+| 07           | ニュースタージョーカー -inst.- | Mixing |
+| 08           | アイプリバースイン！ -inst.-   | Mixing |
 
 ##### CG Live
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | ヒカリノコトバ         | Mix    |
-| 02           | GIRA GIRA STAR         | Mix    |
-| 03           | ニュースタージョーカー | Mix    |
-| 04           | アイプリバースイン！   | Mix    |
+| 01           | ヒカリノコトバ         | Mixing |
+| 02           | GIRA GIRA STAR         | Mixing |
+| 03           | ニュースタージョーカー | Mixing |
+| 04           | アイプリバースイン！   | Mixing |
 
 ##### Links
 

@@ -15,8 +15,8 @@ image: "/works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg"
 
 | Track number | Title                                       | Credit |
 | ------------ | ------------------------------------------- | ------ |
-| 01           | パイパイ仮面でどうかしらん？                | Mix    |
-| 02           | パイパイ仮面でどうかしらん？ (Instrumental) | Mix    |
+| 01           | パイパイ仮面でどうかしらん？                | Mixing |
+| 02           | パイパイ仮面でどうかしらん？ (Instrumental) | Mixing |
 
 ##### Video
 

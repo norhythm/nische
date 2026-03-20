@@ -17,17 +17,17 @@ image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 
 | Track number | Title                          | Credit |
 | ------------ | ------------------------------ | ------ |
-| 01           | 先駆者                         | Mix    |
-| 02           | ビビデバ                       | Mix    |
-| 03           | AWAKE                          | Mix    |
-| 04           | ビーナスバグ                   | Mix    |
-| 05           | Caramel Pain                   | Mix    |
-| 06           | ムーンライト                   | Mix    |
-| 07           | DEADPOOL feat. 花譜            | Mix    |
-| 08           | レクイエム (星街すいせい ver.) | Mix    |
-| 09           | ザイオン                       | Mix    |
-| 10           | 繭と心                         | Mix    |
-| 11           | 綺麗事                         | Mix    |
+| 01           | 先駆者                         | Mixing |
+| 02           | ビビデバ                       | Mixing |
+| 03           | AWAKE                          | Mixing |
+| 04           | ビーナスバグ                   | Mixing |
+| 05           | Caramel Pain                   | Mixing |
+| 06           | ムーンライト                   | Mixing |
+| 07           | DEADPOOL feat. 花譜            | Mixing |
+| 08           | レクイエム (星街すいせい ver.) | Mixing |
+| 09           | ザイオン                       | Mixing |
+| 10           | 繭と心                         | Mixing |
+| 11           | 綺麗事                         | Mixing |
 
 ##### Video
 

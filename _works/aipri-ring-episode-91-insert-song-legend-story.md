@@ -15,7 +15,7 @@ image: /works/media/aipri-ring-episode-91-insert-song-legend-story.jpg
 
 | Track number | Title                      | Credit |
 | ------------ | -------------------------- | ------ |
-| 01           | レジェンド・ストーリー!!!! | Mix    |
+| 01           | レジェンド・ストーリー!!!! | Mixing |
 
 ##### Video
 

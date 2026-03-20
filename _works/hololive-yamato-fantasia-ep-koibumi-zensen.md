@@ -22,7 +22,7 @@ image: "/works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg"
 | 05           | サクラカゼ (ヤマトファンタジアver.)        |        |
 | 06           | Sparklers (ヤマトファンタジアver.)         |        |
 | 07           | Shiny Smily Story (ヤマトファンタジアver.) |        |
-| 08           | 恋文前線                                   | Mix    |
+| 08           | 恋文前線                                   | Mixing |
 
 ##### Video
 

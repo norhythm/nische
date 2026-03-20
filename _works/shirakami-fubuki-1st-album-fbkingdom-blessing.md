@@ -15,20 +15,20 @@ image: "/works/media/shirakami-fubuki-1st-album-fbkingdom-blessing.jpg"
 
 | Track number | Title                                                       | Credit |
 | ------------ | ----------------------------------------------------------- | ------ |
-| 01           | SUPERNOVA                                                   | Mix    |
-| 02           | Hi Fine FOX!!                                               | Mix    |
-| 03           | 閃光のように                                                | Mix    |
-| 04           | キミノスキピ                                                | Mix    |
-| 05           | Say!ファンファーレ!                                         | Mix    |
-| 06           | ストーリーテラー                                            | Mix    |
-| 07           | 星空コンフェッティ                                          | Mix    |
-| 08           | ワンダーフューチャー！ feat. 大神ミオ,猫又おかゆ,戌神ころね | Mix    |
-| 09           | KINGWORLD                                                   | Mix    |
-| 10           | 僕らの星座                                                  | Mix    |
-| 11           | HAPPY BANG!                                                 | Mix    |
-| 12           | KONKON Beats                                                | Mix    |
-| 13           | LETTER☆彡                                                   | Mix    |
-| 14           | グローエンブレイス                                      | Mix    |
+| 01           | SUPERNOVA                                                   | Mixing |
+| 02           | Hi Fine FOX!!                                               | Mixing |
+| 03           | 閃光のように                                                | Mixing |
+| 04           | キミノスキピ                                                | Mixing |
+| 05           | Say!ファンファーレ!                                         | Mixing |
+| 06           | ストーリーテラー                                            | Mixing |
+| 07           | 星空コンフェッティ                                          | Mixing |
+| 08           | ワンダーフューチャー！ feat. 大神ミオ,猫又おかゆ,戌神ころね | Mixing |
+| 09           | KINGWORLD                                                   | Mixing |
+| 10           | 僕らの星座                                                  | Mixing |
+| 11           | HAPPY BANG!                                                 | Mixing |
+| 12           | KONKON Beats                                                | Mixing |
+| 13           | LETTER☆彡                                                   | Mixing |
+| 14           | グローエンブレイス                                      | Mixing |
 
 ##### Video
 

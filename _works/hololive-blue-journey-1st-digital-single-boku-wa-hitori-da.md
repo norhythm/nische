@@ -15,7 +15,7 @@ image: "/works/media/hololive-blue-journey-1st-digital-single-boku-wa-hitori-da.
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | 僕は独りだ | Mix    |
+| 01           | 僕は独りだ | Mixing |
 
 ##### Links
 

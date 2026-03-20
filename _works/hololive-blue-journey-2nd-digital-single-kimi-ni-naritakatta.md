@@ -15,7 +15,7 @@ image: "/works/media/hololive-blue-journey-2nd-digital-single-kimi-ni-naritakatt
 
 | Track number | Title            | Credit |
 | ------------ | ---------------- | ------ |
-| 01           | 君になりたかった | Mix    |
+| 01           | 君になりたかった | Mixing |
 
 ##### Links
 

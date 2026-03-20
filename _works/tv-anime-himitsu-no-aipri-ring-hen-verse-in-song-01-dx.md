@@ -15,23 +15,23 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 
 | Track number | Title                            | Credit |
 | ------------ | -------------------------------- | ------ |
-| 01           | キズナ×リンク                    | Mix    |
-| 02           | 超Easy Drive☆                    | Mix    |
-| 03           | わたしの大切にしてたこと         | Mix    |
-| 04           | ときめきグラビティ               | Mix    |
-| 05           | キズナ×リンク -inst.-            | Mix    |
-| 06           | 超Easy Drive☆ -inst.-            | Mix    |
-| 07           | わたしの大切にしてたこと -inst.- | Mix    |
-| 08           | ときめきグラビティ -inst.-       | Mix    |
+| 01           | キズナ×リンク                    | Mixing |
+| 02           | 超Easy Drive☆                    | Mixing |
+| 03           | わたしの大切にしてたこと         | Mixing |
+| 04           | ときめきグラビティ               | Mixing |
+| 05           | キズナ×リンク -inst.-            | Mixing |
+| 06           | 超Easy Drive☆ -inst.-            | Mixing |
+| 07           | わたしの大切にしてたこと -inst.- | Mixing |
+| 08           | ときめきグラビティ -inst.-       | Mixing |
 
 ##### CG Live
 
 | Track number | Title                    | Credit |
 | ------------ | ------------------------ | ------ |
-| 01           | キズナ×リンク            | Mix    |
-| 02           | 超Easy Drive☆            | Mix    |
-| 03           | わたしの大切にしてたこと | Mix    |
-| 04           | ときめきグラビティ       | Mix    |
+| 01           | キズナ×リンク            | Mixing |
+| 02           | 超Easy Drive☆            | Mixing |
+| 03           | わたしの大切にしてたこと | Mixing |
+| 04           | ときめきグラビティ       | Mixing |
 
 ##### Links
 

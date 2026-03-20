@@ -20,15 +20,15 @@ All Track mixing.
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | トラック名 | Mix    |
-| 02           | トラック名 | Mix    |
-| 03           | トラック名 | Mix    |
-| 04           | トラック名 | Mix    |
-| 05           | トラック名 | Mix    |
-| 06           | トラック名 | Mix    |
-| 07           | トラック名 | Mix    |
-| 08           | トラック名 | Mix    |
-| 09           | トラック名 | Mix    |
+| 01           | トラック名 | Mixing |
+| 02           | トラック名 | Mixing |
+| 03           | トラック名 | Mixing |
+| 04           | トラック名 | Mixing |
+| 05           | トラック名 | Mixing |
+| 06           | トラック名 | Mixing |
+| 07           | トラック名 | Mixing |
+| 08           | トラック名 | Mixing |
+| 09           | トラック名 | Mixing |
 
 ##### Video
 

@@ -15,21 +15,21 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx.jpg"
 
 | Track number | Title                                | Credit |
 | ------------ | ------------------------------------ | ------ |
-| 01           | Piece Of Dream                       | Mix    |
-| 02           | ココロ・アストロノーツ               | Mix    |
-| 03           | わいるど☆すたー (ビビソロver.)       | Mix    |
-| 04           | わいるど☆すたー (ビビチィデュオver.) | Mix    |
-| 05           | Piece Of Dream -inst.-               | Mix    |
-| 06           | ココロ・アストロノーツ -inst.-       | Mix    |
-| 07           | わいるど☆すたー -inst.-              | Mix    |
+| 01           | Piece Of Dream                       | Mixing |
+| 02           | ココロ・アストロノーツ               | Mixing |
+| 03           | わいるど☆すたー (ビビソロver.)       | Mixing |
+| 04           | わいるど☆すたー (ビビチィデュオver.) | Mixing |
+| 05           | Piece Of Dream -inst.-               | Mixing |
+| 06           | ココロ・アストロノーツ -inst.-       | Mixing |
+| 07           | わいるど☆すたー -inst.-              | Mixing |
 
 ##### CG Live
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | Piece Of Dream         | Mix    |
-| 02           | ココロ・アストロノーツ | Mix    |
-| 03           | わいるど☆すたー        | Mix    |
+| 01           | Piece Of Dream         | Mixing |
+| 02           | ココロ・アストロノーツ | Mixing |
+| 03           | わいるど☆すたー        | Mixing |
 
 ##### Links
 

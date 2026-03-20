@@ -15,7 +15,7 @@ image: "/works/media/shirakami-fubuki-storyteller.jpg"
 
 | Track number | Title            | Credit |
 | ------------ | ---------------- | ------ |
-| 01           | ストーリーテラー | Mix    |
+| 01           | ストーリーテラー | Mixing |
 
 ##### Video
 

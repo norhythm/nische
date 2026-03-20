@@ -15,8 +15,8 @@ image: "/works/media/ookami-mio-new-song-camellia.jpg"
 
 | Track number | Title                   | Credit |
 | ------------ | ----------------------- | ------ |
-| 01           | カメリア                | Mix    |
-| 01           | カメリア (Instrumental) | Mix    |
+| 01           | カメリア                | Mixing |
+| 01           | カメリア (Instrumental) | Mixing |
 
 ##### Links
 

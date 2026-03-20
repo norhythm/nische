@@ -15,7 +15,7 @@ image: "/works/media/hololive-blue-journey-3rd-digital-single-ano-hi-no-bokura-e
 
 | Track number | Title          | Credit |
 | ------------ | -------------- | ------ |
-| 01           | あの日の僕らへ | Mix    |
+| 01           | あの日の僕らへ | Mixing |
 
 ##### Links
 

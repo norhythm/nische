@@ -15,18 +15,18 @@ image: "/works/media/sakura-miko-1st-album-flower-rhapsody.jpg"
 
 | Track number | Title                         | Credit |
 | ------------ | ----------------------------- | ------ |
-| 01           | SUNAO                         | Mix    |
-| 02           | DAI DAI DAI ファンタジスタ    | Mix    |
-| 03           | さくらんぼメッセージ          | Mix    |
-| 04           | にゃっはろーわーるど!!!       | Mix    |
-| 05           | Sakura Day’s                  | Mix    |
-| 06           | 1135                          | Mix    |
-| 07           | きゅんきゅんみこきゅんきゅん♡ | Mix    |
-| 08           | あーゆーれでぃ                | Mix    |
-| 09           | イケ贄                        | Mix    |
-| 10           | ライクとヘイト                | Mix    |
-| 11           | Re:flection                   | Mix    |
-| 12           | flower rhapsody               | Mix    |
+| 01           | SUNAO                         | Mixing |
+| 02           | DAI DAI DAI ファンタジスタ    | Mixing |
+| 03           | さくらんぼメッセージ          | Mixing |
+| 04           | にゃっはろーわーるど!!!       | Mixing |
+| 05           | Sakura Day’s                  | Mixing |
+| 06           | 1135                          | Mixing |
+| 07           | きゅんきゅんみこきゅんきゅん♡ | Mixing |
+| 08           | あーゆーれでぃ                | Mixing |
+| 09           | イケ贄                        | Mixing |
+| 10           | ライクとヘイト                | Mixing |
+| 11           | Re:flection                   | Mixing |
+| 12           | flower rhapsody               | Mixing |
 
 ##### Video
 

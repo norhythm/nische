@@ -20,7 +20,7 @@ mixing.
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | トラック名 | Mix    |
+| 01           | トラック名 | Mixing |
 
 ##### Video
 

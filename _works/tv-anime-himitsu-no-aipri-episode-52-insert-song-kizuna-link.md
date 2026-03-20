@@ -15,7 +15,7 @@ image: "/works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-lin
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
-| 01           | キズナ×リンク | Mix    |
+| 01           | キズナ×リンク | Mixing |
 
 ##### Video
 

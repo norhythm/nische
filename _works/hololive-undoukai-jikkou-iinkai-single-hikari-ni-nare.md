@@ -15,8 +15,8 @@ image: "/works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg"
 
 | Track number | Title                     | Credit |
 | ------------ | ------------------------- | ------ |
-| 01           | 光になれ！                | Mix    |
-| 02           | 光になれ！ (Instrumental) | Mix    |
+| 01           | 光になれ！                | Mixing |
+| 02           | 光になれ！ (Instrumental) | Mixing |
 
 ##### Links
 

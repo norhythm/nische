@@ -19,7 +19,7 @@ mixing.
 
 | Track number | Title        | Credit |
 | ------------ | ------------ | ------ |
-| 01           | アイノカタチ | Mix    |
+| 01           | アイノカタチ | Mixing |
 
 ##### Video
 

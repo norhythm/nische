@@ -15,8 +15,8 @@ image: "/works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg"
 
 | Track number | Title                               | Credit |
 | ------------ | ----------------------------------- | ------ |
-| 01           | LOVE受信、ヒクツ発信                | Mix    |
-| 02           | LOVE受信、ヒクツ発信 (Instrumental) | Mix    |
+| 01           | LOVE受信、ヒクツ発信                | Mixing |
+| 02           | LOVE受信、ヒクツ発信 (Instrumental) | Mixing |
 
 ##### Video
 

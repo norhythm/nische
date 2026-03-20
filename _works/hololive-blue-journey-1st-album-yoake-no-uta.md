@@ -15,19 +15,19 @@ image: "/works/media/hololive-blue-journey-1st-album-yoake-no-uta.jpg"
 
 | Track number | Title                          | Credit |
 | ------------ | ------------------------------ | ------ |
-| 01           | ツキノナミダ                   | Mix    |
-| 02           | また傷に触れる                 | Mix    |
-| 03           | 不純矛盾                       | Mix    |
-| 04           | 君になりたかった               | Mix    |
-| 05           | astro                          | Mix    |
-| 06           | ラブソングはいらない           | Mix    |
-| 07           | あの日の僕らへ                 | Mix    |
-| 08           | 夏を許せない                   | Mix    |
-| 09           | 泡沫                           | Mix    |
-| 10           | 僕は独りだ                     | Mix    |
-| 11           | 光の軌跡                       | Mix    |
-| 12           | サザンクロス                   | Mix    |
-| 13           | The Bonus Track (Instrumental) | Mix    |
+| 01           | ツキノナミダ                   | Mixing |
+| 02           | また傷に触れる                 | Mixing |
+| 03           | 不純矛盾                       | Mixing |
+| 04           | 君になりたかった               | Mixing |
+| 05           | astro                          | Mixing |
+| 06           | ラブソングはいらない           | Mixing |
+| 07           | あの日の僕らへ                 | Mixing |
+| 08           | 夏を許せない                   | Mixing |
+| 09           | 泡沫                           | Mixing |
+| 10           | 僕は独りだ                     | Mixing |
+| 11           | 光の軌跡                       | Mixing |
+| 12           | サザンクロス                   | Mixing |
+| 13           | The Bonus Track (Instrumental) | Mixing |
 
 ##### Links
 

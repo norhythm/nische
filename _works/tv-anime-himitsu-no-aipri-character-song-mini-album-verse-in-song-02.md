@@ -15,23 +15,23 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 | Track number | Title                   | Credit |
 | ------------ | ----------------------- | ------ |
-| 01           | Stand Get Up            | Mix    |
-| 02           | ネバギバラバー          | Mix    |
-| 03           | Perfect☆STARs           | Mix    |
-| 04           | We're The World         | Mix    |
-| 05           | Stand Get Up -inst.-    | Mix    |
-| 06           | ネバギバラバー -inst.-  | Mix    |
-| 07           | Perfect☆STARs -inst.-   | Mix    |
-| 08           | We're The World -inst.- | Mix    |
+| 01           | Stand Get Up            | Mixing |
+| 02           | ネバギバラバー          | Mixing |
+| 03           | Perfect☆STARs           | Mixing |
+| 04           | We're The World         | Mixing |
+| 05           | Stand Get Up -inst.-    | Mixing |
+| 06           | ネバギバラバー -inst.-  | Mixing |
+| 07           | Perfect☆STARs -inst.-   | Mixing |
+| 08           | We're The World -inst.- | Mixing |
 
 ##### CG Live
 
 | Track number | Title           | Credit |
 | ------------ | --------------- | ------ |
-| 01           | Stand Get Up    | Mix    |
-| 02           | ネバギバラバー  | Mix    |
-| 03           | Perfect☆STARs   | Mix    |
-| 04           | We're The World | Mix    |
+| 01           | Stand Get Up    | Mixing |
+| 02           | ネバギバラバー  | Mixing |
+| 03           | Perfect☆STARs   | Mixing |
+| 04           | We're The World | Mixing |
 
 ##### Links
 

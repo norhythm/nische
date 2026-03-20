@@ -15,8 +15,8 @@ image: "/works/media/ookami-mio-colorful-universe.jpg"
 
 | Track number | Title                            | Credit |
 | ------------ | -------------------------------- | ------ |
-| 01           | Colorful Universe                | Mix    |
-| 01           | Colorful Universe (Instrumental) | Mix    |
+| 01           | Colorful Universe                | Mixing |
+| 01           | Colorful Universe (Instrumental) | Mixing |
 
 ##### Links
 

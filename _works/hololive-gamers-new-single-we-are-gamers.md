@@ -15,8 +15,8 @@ image: "/works/media/hololive-gamers-new-single-we-are-gamers.jpg"
 
 | Track number | Title                            | Credit |
 | ------------ | -------------------------------- | ------ |
-| 01           | We are GAMERS!!!!                | Mix    |
-| 02           | We are GAMERS!!!! (Instrumental) | Mix    |
+| 01           | We are GAMERS!!!!                | Mixing |
+| 02           | We are GAMERS!!!! (Instrumental) | Mixing |
 
 ##### Video
 

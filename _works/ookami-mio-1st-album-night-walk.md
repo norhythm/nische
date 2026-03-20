@@ -15,16 +15,16 @@ image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
 
 | Track number | Title                      | Credit |
 | ------------ | -------------------------- | ------ |
-| 01           | 夜光通信                   | Mix    |
-| 02           | 深く紺になる               | Mix    |
-| 03           | ナイトループ               | Mix    |
-| 04           | サヨナラは、まだ           | Mix    |
-| 05           | カメリア                   | Mix    |
-| 06           | 夜と雨（feat. 百鬼あやめ） | Mix    |
-| 07           | 君と星の夜に               | Mix    |
-| 08           | 夜明けのメロウ             | Mix    |
-| 09           | Sirius                     | Mix    |
-| 10           | 溶けない結晶               | Mix    |
+| 01           | 夜光通信                   | Mixing |
+| 02           | 深く紺になる               | Mixing |
+| 03           | ナイトループ               | Mixing |
+| 04           | サヨナラは、まだ           | Mixing |
+| 05           | カメリア                   | Mixing |
+| 06           | 夜と雨（feat. 百鬼あやめ） | Mixing |
+| 07           | 君と星の夜に               | Mixing |
+| 08           | 夜明けのメロウ             | Mixing |
+| 09           | Sirius                     | Mixing |
+| 10           | 溶けない結晶               | Mixing |
 
 ##### Video
 

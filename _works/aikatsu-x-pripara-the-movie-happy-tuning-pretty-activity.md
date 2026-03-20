@@ -15,8 +15,8 @@ image: "/works/media/aikatsu-x-pripara-the-movie-happy-tuning-pretty-activity.jp
 
 | Track number | Title                     | Credit |
 | ------------ | ------------------------- | ------ |
-| 01           | ハッピーチューニング      | Mix    |
-| 02           | プリティー×アクティビティ | Mix    |
+| 01           | ハッピーチューニング      | Mixing |
+| 02           | プリティー×アクティビティ | Mixing |
 
 ##### Links
 

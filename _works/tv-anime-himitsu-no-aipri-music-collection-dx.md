@@ -15,21 +15,21 @@ image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
 
 | Track number | Title                                        | Credit |
 | ------------ | -------------------------------------------- | ------ |
-| 01           | P.O.P.P.Y                                    | Mix    |
-| 02           | シークレット・ドリーム                       | Mix    |
-| 03           | ムテキDUOエナジー                            | Mix    |
-| 04           | Stand Get Up                                 | Mix    |
-| 05           | ネバギバラバー                               | Mix    |
-| 06           | Perfect☆STARs                                | Mix    |
-| 07           | We're The World                              | Mix    |
-| 08           | ヒカリノコトバ                               | Mix    |
-| 09           | GIRA GIRA STAR                               | Mix    |
-| 10           | ニュースタージョーカー                       | Mix    |
-| 11           | パステルステップデイズ                       | Mix    |
-| 12           | きらめきのうた（つむぎ Ver.）                | Mix    |
-| 13           | きらめきのうた（シークレットフレンズ∞ Ver.） | Mix    |
-| 14           | ひみつだけどね                               | Mix    |
-| 15           | アイプリバースイン！                         | Mix    |
+| 01           | P.O.P.P.Y                                    | Mixing |
+| 02           | シークレット・ドリーム                       | Mixing |
+| 03           | ムテキDUOエナジー                            | Mixing |
+| 04           | Stand Get Up                                 | Mixing |
+| 05           | ネバギバラバー                               | Mixing |
+| 06           | Perfect☆STARs                                | Mixing |
+| 07           | We're The World                              | Mixing |
+| 08           | ヒカリノコトバ                               | Mixing |
+| 09           | GIRA GIRA STAR                               | Mixing |
+| 10           | ニュースタージョーカー                       | Mixing |
+| 11           | パステルステップデイズ                       | Mixing |
+| 12           | きらめきのうた（つむぎ Ver.）                | Mixing |
+| 13           | きらめきのうた（シークレットフレンズ∞ Ver.） | Mixing |
+| 14           | ひみつだけどね                               | Mixing |
+| 15           | アイプリバースイン！                         | Mixing |
 
 ##### Links
 

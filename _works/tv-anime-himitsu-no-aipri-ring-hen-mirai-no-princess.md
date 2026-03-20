@@ -15,7 +15,7 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess.jpg"
 
 | Track number | Title              | Credit |
 | ------------ | ------------------ | ------ |
-| 01           | ミライのプリンセス | Mix    |
+| 01           | ミライのプリンセス | Mixing |
 
 ##### Video
 

@@ -15,8 +15,8 @@ image: /works/media/amane-kanata-self-service.jpg
 
 | Track number | Title                         | Credit |
 | ------------ | ----------------------------- | ------ |
-| 01           | セルフサービス                | Mix    |
-| 02           | セルフサービス (Instrumental) | Mix    |
+| 01           | セルフサービス                | Mixing |
+| 02           | セルフサービス (Instrumental) | Mixing |
 
 ##### Video
 

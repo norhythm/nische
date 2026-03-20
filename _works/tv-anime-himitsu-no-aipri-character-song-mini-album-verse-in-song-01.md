@@ -15,23 +15,23 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 | Track number | Title                                | Credit |
 | ------------ | ------------------------------------ | ------ |
-| 01           | P.O.P.P.Y                            | Mix    |
-| 02           | シークレット・ドリーム               | Mix    |
-| 03           | ムテキDUOエナジー                    | Mix    |
-| 04           | ひみつだけどね（エンディングテーマ） | Mix    |
-| 05           | P.O.P.P.Y -inst.-                    | Mix    |
-| 06           | シークレット・ドリーム -inst.-       | Mix    |
-| 07           | ムテキDUOエナジー -inst.-            | Mix    |
-| 08           | ひみつだけどね -inst.-               | Mix    |
+| 01           | P.O.P.P.Y                            | Mixing |
+| 02           | シークレット・ドリーム               | Mixing |
+| 03           | ムテキDUOエナジー                    | Mixing |
+| 04           | ひみつだけどね（エンディングテーマ） | Mixing |
+| 05           | P.O.P.P.Y -inst.-                    | Mixing |
+| 06           | シークレット・ドリーム -inst.-       | Mixing |
+| 07           | ムテキDUOエナジー -inst.-            | Mixing |
+| 08           | ひみつだけどね -inst.-               | Mixing |
 
 ##### CG Live
 
 | Track number | Title                            | Credit |
 | ------------ | -------------------------------- | ------ |
-| 01           | .P.O.P.P.Y                       | Mix    |
-| 02           | シークレット・ドリーム           | Mix    |
-| 03           | ムテキDUOエナジー                | Mix    |
-| 04           | ひみつだけどね（ノンテロップED） | Mix    |
+| 01           | .P.O.P.P.Y                       | Mixing |
+| 02           | シークレット・ドリーム           | Mixing |
+| 03           | ムテキDUOエナジー                | Mixing |
+| 04           | ひみつだけどね（ノンテロップED） | Mixing |
 
 ##### Links
 

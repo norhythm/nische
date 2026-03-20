@@ -20,7 +20,7 @@ image: "/works/media/sakura-miko-ep-heart-connect-our-tree.jpg"
 | 03           | 乙女のススメ♡！        |        |
 | 04           | ハートオンライン       |        |
 | 05           | 僕らと君のうた。       |        |
-| 06           | アワーツリー           | Mix    |
+| 06           | アワーツリー           | Mixing |
 
 ##### Video
 
