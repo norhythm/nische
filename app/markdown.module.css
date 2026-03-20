@@ -52,6 +52,14 @@
   @apply w-full;
 }
 
+.markdown > #tracklist {
+  @apply mt-1;
+}
+
+.markdown table + table {
+  @apply mt-6;
+}
+
 .markdown table thead {
   display: none;
 }
