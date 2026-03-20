@@ -13,17 +13,30 @@ image: "/works/media/okada-nana-2nd-album-contrast.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                              | Credit |
+| ------------ | ---------------------------------- | ------ |
+| 01           | 残響Alive                          | Mixing |
+| 02           | 5月にふたりは嘘をつく              | Mixing |
+| 03           | moratorism                         | Mixing |
+| 04           | 共犯カメラ                         | Mixing |
+| 05           | 神様はまだ僕を死なせてくれないから | Mixing |
+| 06           | 空白と高鳴り                       | Mixing |
+| 07           | 好きの魔法                         | Mixing |
+| 08           | UNMEI                              | Mixing |
+| 09           | 赤い夜が満ちるまで                 | Mixing |
+| 10           | 12.24                              | Mixing |
+| 11           | 桜色の君を想う                     | Mixing |
 
-##### Video
+##### MV/Live
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                | Credit |
+| ------------ | ------------------------------------ | ------ |
+| 01           | 残響Alive Music Video                | Mixing |
+| 02           | 赤い夜が満ちるまで Studio Live Video | Mixing |
+| 03           | TAKOYAKI ROCK Studio Live Video      | Mixing |
+| 04           | 声を失った人魚姫 Studio Live Video   | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://okadanana-fc.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://okadanana.lnk.to/Contrust" target="_blank">Stream & Buy</a>
