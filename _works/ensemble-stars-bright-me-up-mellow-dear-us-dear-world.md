@@ -10,10 +10,11 @@ tag:
 layout: square
 image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
 | 01           | Dear World | Mixing |
 
 ##### Video
@@ -22,7 +23,6 @@ image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://ensemble-stars.jp/discography/musicdetails/68o59p1gni/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://spri.lnk.to/Melancholywokakenukero" target="_blank">Stream & Buy</a>
