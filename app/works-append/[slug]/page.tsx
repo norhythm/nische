@@ -103,7 +103,7 @@ export default async function Post(props: Params, modal: false) {
                           </span>
                         )}
                       </div>
-                      <div className="w-[30px] h-[2px] md:mt-4 bg-[#222]" />
+                      <div className="w-[30px] h-[2px] md:mt-3 bg-[#222]" />
                     </div>
                   )}
                   <span
