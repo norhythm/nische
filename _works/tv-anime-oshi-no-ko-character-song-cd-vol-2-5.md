@@ -13,17 +13,19 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2-5.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                             | Credit |
+| ------------ | --------------------------------- | ------ |
+| 01           | STAR☆T☆RAIN -ルビー Solo Ver.-    | Mixing |
+| 02           | STAR☆T☆RAIN -有馬かな Solo Ver.-  | Mixing |
+| 03           | STAR☆T☆RAIN -MEMちょ Solo Ver.-   | Mixing |
+| 04           | サインはB -ルビー Solo Ver.-      | Mixing |
+| 05           | サインはB -有馬かな Solo Ver.-    | Mixing |
+| 06           | サインはB -MEMちょ Solo Ver.-     | Mixing |
+| 07           | HEART's♡KISS -ルビー Solo Ver.-   | Mixing |
+| 08           | HEART's♡KISS -有馬かな Solo Ver.- | Mixing |
+| 09           | HEART's♡KISS -MEMcho Solo Ver.-   | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://ichigoproduction.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://ichigoproduction.com/Season1/music/" target="_blank">Official Page</a>
