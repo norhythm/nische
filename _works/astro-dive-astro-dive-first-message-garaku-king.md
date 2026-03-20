@@ -1,8 +1,8 @@
 ---
 published: true
 date: "2025-02-26"
-holder: ""
-artist: "Astro Dive"
+holder: "Astro Dive"
+artist: ""
 title: "Astro Dive First Message -我楽多KING-"
 url: "astro-dive-astro-dive-first-message-garaku-king"
 tag:

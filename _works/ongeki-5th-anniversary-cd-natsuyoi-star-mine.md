@@ -3,7 +3,7 @@ published: true
 date: "2023-08-30"
 holder: "ONGEKI"
 artist: ""
-title: "5th Anniversary CD『夏宵スターマイン』"
+title: "夏宵スターマイン"
 url: "ongeki-5th-anniversary-cd-natsuyoi-star-mine"
 tag:
   - mix

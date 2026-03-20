@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2025-08-27"
-holder: "TVアニメ『ひみつのアイプリ』"
+holder: "ひみつのアイプリ"
 artist: ""
 title: "ミュージックコレクション DX"
 url: "tv-anime-himitsu-no-aipri-music-collection-dx"

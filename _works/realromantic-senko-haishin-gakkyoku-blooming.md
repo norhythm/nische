@@ -3,7 +3,7 @@ published: true
 date: "2024-12-09"
 holder: ""
 artist: "RealRomantic"
-title: "先行配信楽曲「BLOOMING」"
+title: "BLOOMING"
 url: "realromantic-senko-haishin-gakkyoku-blooming"
 tag:
   - mix

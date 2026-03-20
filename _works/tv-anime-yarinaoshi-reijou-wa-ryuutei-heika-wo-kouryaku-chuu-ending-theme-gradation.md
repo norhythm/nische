@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-10-09"
-holder: "TVアニメ『やり直し令嬢は竜帝陛下を攻略中』"
+holder: "やり直し令嬢は竜帝陛下を攻略中"
 artist: ""
-title: "エンディング主題歌「gradation」"
+title: "gradation"
 url: "tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chuu-ending-theme-gradation"
 tag:
   - mix

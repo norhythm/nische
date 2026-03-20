@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2023-07-07"
-holder: "ドラマCD『幕が下りたら僕らは番』"
+holder: "幕が下りたら僕らは番"
 artist: "Limtity"
 title: "EDGE"
 url: "drama-cd-maku-ga-oritara-bokura-wa-ban-limtity-debut-song-edge"

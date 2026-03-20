@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-11-20"
-holder: "TVアニメ『甘神さんちの縁結び』"
+holder: "甘神さんちの縁結び"
 artist: ""
-title: "キャラクターソングミニアルバム「君に恋を結んで」"
+title: "君に恋を結んで"
 url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde"
 tag:
   - mix

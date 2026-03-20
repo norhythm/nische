@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-02-27"
-holder: ""
+holder: "Pokémon"
 artist: ""
-title: "Pokémon Day記念動画「POKÉDANCE」"
+title: "POKÉDANCE"
 url: "pokemon-day-commemoration-video-pokedance"
 tag:
   - mix

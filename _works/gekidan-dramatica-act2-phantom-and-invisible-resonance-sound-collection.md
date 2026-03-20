@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2023-05-31"
-holder: "劇団『ドラマティカ』ACT2"
+holder: "劇団ドラマティカACT2"
 artist: ""
 title: "Phantom and Invisible Resonance Sound Collection"
 url: "gekidan-dramatica-act2-phantom-and-invisible-resonance-sound-collection"

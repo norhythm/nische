@@ -3,7 +3,7 @@ published: true
 date: "2025-10-27"
 holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "4周年記念楽曲「WELCOME TO OUR SPECIAL PARADE!」"
+title: "WELCOME TO OUR SPECIAL PARADE!"
 url: "helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade"
 tag:
   - mix

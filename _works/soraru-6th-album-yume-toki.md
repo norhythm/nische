@@ -3,7 +3,7 @@ published: true
 date: "2025-02-12"
 holder: ""
 artist: "そらる"
-title: "6thアルバム『ユメトキ』"
+title: "ユメトキ"
 url: "soraru-6th-album-yume-toki"
 tag:
   - mix

@@ -3,7 +3,7 @@ published: true
 date: "2023-05-10"
 holder: ""
 artist: "江口拓也"
-title: "1stシングル『PIZZA SUSHI planet walking』【カーニバル盤（初回生産限定）】"
+title: "PIZZA SUSHI planet walking"
 url: "eguchi-takuya-1st-single-pizza-sushi-planet-walking"
 tag:
   - mix

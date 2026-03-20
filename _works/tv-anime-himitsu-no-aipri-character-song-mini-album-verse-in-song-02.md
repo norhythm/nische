@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-12-25"
-holder: "TVアニメ『ひみつのアイプリ』"
+holder: "ひみつのアイプリ"
 artist: ""
-title: "キャラクターソングミニアルバム VERSE IN SONG 02"
+title: "VERSE IN SONG 02"
 url: "tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-02"
 tag:
   - mix

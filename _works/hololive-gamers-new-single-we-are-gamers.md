@@ -2,8 +2,8 @@
 published: true
 date: "2024-05-22"
 holder: "Hololive"
-artist: ""
-title: "ホロライブゲーマーズのNew Single「We are GAMERS!!!!」"
+artist: "ホロライブゲーマーズ"
+title: "We are GAMERS!!!!"
 url: "hololive-gamers-new-single-we-are-gamers"
 tag:
   - mix

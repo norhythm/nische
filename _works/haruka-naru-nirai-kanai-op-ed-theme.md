@@ -3,7 +3,7 @@ published: true
 date: "2024-10-25"
 holder: ""
 artist: ""
-title: "『遥かなるニライカナイ』"
+title: "遥かなるニライカナイ"
 url: "haruka-naru-nirai-kanai-op-ed-theme"
 tag:
   - mix

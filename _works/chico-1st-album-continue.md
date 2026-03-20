@@ -3,7 +3,7 @@ published: true
 date: "2024-07-31"
 holder: ""
 artist: "CHiCO"
-title: "1st Album 『CONTiNUE』"
+title: "CONTiNUE"
 url: "chico-1st-album-continue"
 tag:
   - mix

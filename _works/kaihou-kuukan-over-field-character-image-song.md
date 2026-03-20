@@ -3,7 +3,7 @@ published: true
 date: "2024-10-23"
 holder: ""
 artist: ""
-title: "『開放空間：Over Field』"
+title: "開放空間：Over Field"
 url: "kaihou-kuukan-over-field-character-image-song"
 tag:
   - mix

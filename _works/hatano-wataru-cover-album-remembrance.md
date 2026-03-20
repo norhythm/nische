@@ -3,7 +3,7 @@ published: true
 date: "2025-03-07"
 holder: ""
 artist: "羽多野渉"
-title: "カヴァーアルバム『Remembrance』"
+title: "Remembrance"
 url: "hatano-wataru-cover-album-remembrance"
 tag:
   - mix

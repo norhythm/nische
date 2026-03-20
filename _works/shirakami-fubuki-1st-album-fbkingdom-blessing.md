@@ -3,7 +3,7 @@ published: true
 date: "2025-01-15"
 holder: "Hololive"
 artist: "白上フブキ"
-title: '1stアルバム 『FBKINGDOM "Blessing"』'
+title: 'FBKINGDOM "Blessing"'
 url: "shirakami-fubuki-1st-album-fbkingdom-blessing"
 tag:
   - mix

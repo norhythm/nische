@@ -3,7 +3,7 @@ published: true
 date: "2025-01-22"
 holder: "Hololive"
 artist: "星街すいせい"
-title: "3rd Album『新星目録』"
+title: "3rd Album新星目録"
 url: "hoshimachi-suisei-3rd-album-shinsei-mokuroku"
 tag:
   - mix
@@ -11,7 +11,7 @@ layout: "square"
 image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 ---
 
-星街すいせいの3rdアルバム『新星目録』のレコーディング、ミキシング、マスタリングを担当しました。彼女の多彩な表現力を最大限に引き出すため、繊細なボーカル処理と力強いサウンドメイクの両立を追求しました。
+星街すいせいの3rdアルバム新星目録のレコーディング、ミキシング、マスタリングを担当しました。彼女の多彩な表現力を最大限に引き出すため、繊細なボーカル処理と力強いサウンドメイクの両立を追求しました。
 
 ##### Tracklist
 

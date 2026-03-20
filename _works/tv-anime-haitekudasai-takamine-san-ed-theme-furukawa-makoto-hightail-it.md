@@ -11,7 +11,7 @@ layout: rect-v
 image: /works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-hightail-it.jpg
 ---
 
-TVアニメ『履いてください、鷹峰さん』EDテーマ
+履いてください、鷹峰さんEDテーマ
 [https://takaminesan.com/](https://takaminesan.com/)
 
 ##### Tracklist

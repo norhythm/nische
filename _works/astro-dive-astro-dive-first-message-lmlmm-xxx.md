@@ -1,8 +1,8 @@
 ---
 published: true
 date: "2025-01-29"
-holder: ""
-artist: "Astro Dive"
+holder: "Astro Dive"
+artist: ""
 title: Astro Dive First Message -LMLMM×××♡-"
 url: "astro-dive-astro-dive-first-message-lmlmm-xxx"
 tag:

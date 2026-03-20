@@ -3,7 +3,7 @@ published: true
 date: "2025-11-26"
 holder: ""
 artist: "古川慎"
-title: "8th Single「そこに有る灯り」"
+title: "そこに有る灯り"
 url: "furukawa-makoto-8th-single-soko-ni-aru-akari"
 tag:
   - mix

@@ -3,7 +3,7 @@ published: true
 date: "2025-08-06"
 holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "第4部3章EDテーマ「STARGAZING」"
+title: "STARGAZING"
 url: "helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing"
 tag:
   - mix

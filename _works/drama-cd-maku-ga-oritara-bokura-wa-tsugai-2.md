@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2025-07-23
-holder: "ドラマCD『幕が下りたら僕らは番 2 』"
+holder: "幕が下りたら僕らは番2"
 artist: "Limtity"
 title: Inner Wolf
 url: drama-cd-maku-ga-oritara-bokura-wa-tsugai-2

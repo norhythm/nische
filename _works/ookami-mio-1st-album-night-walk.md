@@ -3,7 +3,7 @@ published: true
 date: "2023-12-07"
 holder: "Hololive"
 artist: "大神ミオ"
-title: "1stアルバム『Night walk』"
+title: "Night walk"
 url: "ookami-mio-1st-album-night-walk"
 tag:
   - mix

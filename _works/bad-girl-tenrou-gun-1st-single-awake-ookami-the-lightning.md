@@ -1,9 +1,9 @@
 ---
 published: true
 date: 2026-02-11
-holder: TVアニメばっどがーる
+holder: ばっどがーる
 artist: 天狼群
-title: 1st Single「AWAKE／オオカミ・ザ・ライトニング」
+title: AWAKE／オオカミ・ザ・ライトニング
 url: bad-girl-tenrou-gun-1st-single-awake-ookami-the-lightning
 tag:
   - mix

@@ -3,7 +3,7 @@ published: true
 date: "2025-02-26"
 holder: ""
 artist: "TRUE"
-title: "ベストアルバム「TRUE the BEST」"
+title: "TRUE the BEST"
 url: "true-best-album-true-the-best"
 tag:
   - mix

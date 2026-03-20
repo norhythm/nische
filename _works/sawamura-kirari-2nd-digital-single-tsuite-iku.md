@@ -3,7 +3,7 @@ published: true
 date: "2024-08-18"
 holder: ""
 artist: "澤村 光彩"
-title: "2ndデジタルシングル『憑いていく』"
+title: "憑いていく"
 url: "sawamura-kirari-2nd-digital-single-tsuite-iku"
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: 2026-01-11
-holder: "TVアニメ『ひみつのアイプリ リング編』"
+holder: "ひみつのアイプリ リング編"
 artist: ""
-title: "第91話挿入歌「レジェンド・ストーリー!!!!」"
+title: "レジェンド・ストーリー!!!!"
 url: aipri-ring-episode-91-insert-song-legend-story
 tag:
   - mix

@@ -2,8 +2,8 @@
 published: true
 date: "2023-05-15"
 holder: "Hololive"
-artist: ""
-title: "ホロライブ Blue Journey 2ndデジタルシングル「君になりたかった」"
+artist: "Blue Journey"
+title: "君になりたかった"
 url: "hololive-blue-journey-2nd-digital-single-kimi-ni-naritakatta"
 tag:
   - mix

@@ -3,7 +3,7 @@ published: true
 date: "2024-09-27"
 holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "『HELIOS Rising Heroes』GoldenXXsection VS LILIAN"
+title: "HELIOS Rising HeroesGoldenXXsection VS LILIAN"
 url: "helios-rising-heroes-goldenxxsection-vs-lilian"
 tag:
   - mix

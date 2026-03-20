@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2023-07-05"
-holder: "TVアニメ『東京ミュウミュウ にゅ～♡』"
+holder: "東京ミュウミュウ にゅ～♡"
 artist: ""
-title: "挿入歌アルバムCD 『東京ミュウミュウ にゅ〜♡』そうにゅ〜か！"
+title: "そうにゅ〜か！"
 url: "tv-anime-tokyo-mew-mew-new-insert-song-album-cd"
 tag:
   - mix

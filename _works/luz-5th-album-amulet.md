@@ -3,7 +3,7 @@ published: true
 date: "2023-12-06"
 holder: ""
 artist: "luz"
-title: "5thアルバム『AMULET』"
+title: "AMULET"
 url: "luz-5th-album-amulet"
 tag:
   - mix

@@ -2,8 +2,8 @@
 published: true
 date: "2023-06-29"
 holder: "Hololive"
-artist: ""
-title: "ホロライブ5期生（雪花ラミィ / 桃鈴ねね / 獅白ぼたん / 尾丸ポルカ）New Single「Cosmic Wonderful Tour!」"
+artist: "hololive 5th Generation"
+title: "Cosmic Wonderful Tour!"
 url: "hololive-5th-gen-new-single-cosmic-wonderful-tour"
 tag:
   - mix

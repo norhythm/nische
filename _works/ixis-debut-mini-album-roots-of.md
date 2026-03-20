@@ -1,6 +1,7 @@
 ---
 published: true
 date: 2026-03-05
+holder:
 artist: IXIS
 title: Roots of
 url: ixis-debut-mini-album-roots-of
@@ -9,13 +10,14 @@ tag:
 layout: square
 image: /works/media/ixis-debut-mini-album-roots-of.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | STARTLINE! | Mix |
-| 03           | Colors | Mix |
-| 05           | Trigger | Mix |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | STARTLINE! | Mix    |
+| 03           | Colors     | Mix    |
+| 05           | Trigger    | Mix    |
 
 ##### Video
 

@@ -2,8 +2,8 @@
 published: true
 date: "2023-06-19"
 holder: "Hololive"
-artist: ""
-title: "ホロライブ Blue Journey 3rdデジタルシングル「あの日の僕らへ」"
+artist: "Blue Journey"
+title: "あの日の僕らへ"
 url: "hololive-blue-journey-3rd-digital-single-ano-hi-no-bokura-e"
 tag:
   - mix

@@ -12,10 +12,11 @@ tag:
 layout: rect-v
 image: /works/media/kv01.webp
 ---
+
 リリー・ベイカー(CV：天城サリー)
 草壁葵衣(CV：小山内怜央)
 
-TV アニメ『ゲーセン少女と異世界交流』
+TV アニメゲーセン少女と異世界交流
 オープニングテーマ
 
 [https://gacen-girl-anime.com/](https://gacen-girl-anime.com/)

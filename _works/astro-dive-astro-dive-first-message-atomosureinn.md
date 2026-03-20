@@ -1,8 +1,8 @@
 ---
 published: true
 date: "2024-11-27"
-holder: ""
-artist: "Astro Dive"
+holder: "Astro Dive"
+artist: ""
 title: "Astro Dive First Message -ATOMOSUREINN-"
 url: "astro-dive-astro-dive-first-message-atomosureinn"
 tag:

@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2023-09-27"
-holder: "TVアニメ『スパイ教室』"
+holder: "スパイ教室"
 artist: ""
-title: "スペシャルエンディングテーマCD File.03"
+title: "File.03"
 url: "tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-03"
 tag:
   - mix

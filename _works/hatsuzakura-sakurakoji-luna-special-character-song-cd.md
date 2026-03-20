@@ -3,7 +3,7 @@ published: true
 date: "2025-09-26"
 holder: ""
 artist: "桜小路ルナ"
-title: "『初桜』 Special Character Song CD&Music Video Collection"
+title: "初桜"
 url: "hatsuzakura-sakurakoji-luna-special-character-song-cd"
 tag:
   - mix

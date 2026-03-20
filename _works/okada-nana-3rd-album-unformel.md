@@ -3,7 +3,7 @@ published: true
 date: "2025-11-12"
 holder: ""
 artist: "岡田奈々"
-title: "3rd Album「Unformel」"
+title: "Unformel"
 url: "okada-nana-3rd-album-unformel"
 tag:
   - mix

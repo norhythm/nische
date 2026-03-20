@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2025-04-09"
-holder: "マンガ『ガールクラッシュ』"
+holder: "ガールクラッシュ"
 artist: ""
 title: "スペシャルPV"
 url: "manga-girl-crush-special-pv"

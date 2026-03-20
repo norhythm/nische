@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2023-05-31"
-holder: ""
+holder: "あんさんぶるスターズ！THE STAGE"
 artist: ""
-title: "舞台『あんさんぶるスターズ！THE STAGE』-Witness of Miracle- [Blu-ray & DVD]"
+title: "Witness of Miracle"
 url: "stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd"
 tag:
   - mix

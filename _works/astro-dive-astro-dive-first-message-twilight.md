@@ -1,8 +1,8 @@
 ---
 published: true
 date: "2024-12-25"
-holder: ""
-artist: "Astro Dive"
+holder: "Astro Dive"
+artist: ""
 title: "Astro Dive First Message – Twi■■light -"
 url: "astro-dive-astro-dive-first-message-twilight"
 tag:

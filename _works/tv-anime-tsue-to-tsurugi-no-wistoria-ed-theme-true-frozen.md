@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-08-28"
-holder: "TVアニメ『杖と剣のウィストリア』"
+holder: "杖と剣のウィストリア"
 artist: "TRUE"
 title: "フローズン"
 url: "tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen"

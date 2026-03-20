@@ -3,7 +3,7 @@ published: true
 date: "2023-10-11"
 holder: ""
 artist: "鬼頭明里"
-title: "5thシングル『Magie×Magie』"
+title: "Magie×Magie"
 url: "kitou-akari-5th-single-magie-x-magie"
 tag:
   - mix

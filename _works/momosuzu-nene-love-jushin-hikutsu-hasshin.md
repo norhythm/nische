@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2025-03-02"
-holder: ""
+holder: "Hololive"
 artist: "桃鈴ねね"
 title: "LOVE受信、ヒクツ発信"
 url: "momosuzu-nene-love-jushin-hikutsu-hasshin"

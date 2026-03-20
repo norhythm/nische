@@ -3,7 +3,7 @@ published: true
 date: "2025-10-15"
 holder: ""
 artist: "鬼頭明里"
-title: "3rd Album「Journey」"
+title: "Journey"
 url: "kitou-akari-3rd-album-journey"
 tag:
   - mix

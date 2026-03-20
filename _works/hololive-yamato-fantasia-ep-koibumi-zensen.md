@@ -3,7 +3,7 @@ published: true
 date: "2023-07-16"
 holder: "Hololive"
 artist: ""
-title: "ホロライブ『ヤマトファンタジア(EP)』収録曲「恋文前線」"
+title: "恋文前線"
 url: "hololive-yamato-fantasia-ep-koibumi-zensen"
 tag:
   - mix

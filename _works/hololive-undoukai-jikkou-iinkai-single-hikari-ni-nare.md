@@ -3,7 +3,7 @@ published: true
 date: "2023-11-05"
 holder: "Hololive"
 artist: ""
-title: "『ホロライブ運動会実行委員』 Single「光になれ！」"
+title: "光になれ！"
 url: "hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare"
 tag:
   - mix

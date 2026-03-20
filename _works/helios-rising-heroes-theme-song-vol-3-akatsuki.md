@@ -3,7 +3,7 @@ published: true
 date: "2024-01-12"
 holder: "エリオスライジングヒーローズ"
 artist: ""
-title: "『HELIOS Rising Heroes』主題歌 Vol.3 「アカツキ」"
+title: "アカツキ"
 url: "helios-rising-heroes-theme-song-vol-3-akatsuki"
 tag:
   - mix

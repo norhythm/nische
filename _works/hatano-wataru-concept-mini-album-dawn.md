@@ -3,7 +3,7 @@ published: true
 date: "2023-11-15"
 holder: ""
 artist: "羽多野渉"
-title: "コンセプトミニアルバム「Dawn」"
+title: "Dawn"
 url: "hatano-wataru-concept-mini-album-dawn"
 tag:
   - mix

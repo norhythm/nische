@@ -2,8 +2,8 @@
 published: true
 date: "2023-09-06"
 holder: "Hololive"
-artist: ""
-title: "ホロライブ Blue Journey 1st Album『夜明けのうた』"
+artist: "Blue Journey"
+title: "夜明けのうた"
 url: "hololive-blue-journey-1st-album-yoake-no-uta"
 tag:
   - mix

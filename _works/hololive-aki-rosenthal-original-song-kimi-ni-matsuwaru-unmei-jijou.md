@@ -2,8 +2,8 @@
 published: true
 date: "2024-09-03"
 holder: "Hololive"
-artist: ""
-title: "『ホロライブ』所属Vtuber アキ・ローゼンタール オリジナル曲「キミにまつわる運命事情」"
+artist: "アキ・ローゼンタール"
+title: "キミにまつわる運命事情"
 url: "hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou"
 tag:
   - mix

@@ -2,8 +2,8 @@
 published: true
 date: "2025-08-17"
 holder: "ソニックレーシング クロスワールド"
-artist: ""
-title: "Crazy Raccoon コラボ楽曲「No.1」"
+artist: "Crazy Raccoon Collaboration"
+title: "No.1"
 url: "sonic-racing-crossworld-crazy-raccoon-no-1"
 tag:
   - mix

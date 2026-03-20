@@ -3,7 +3,7 @@ published: true
 date: "2024-08-25"
 holder: ""
 artist: "澤村 光彩"
-title: "3rdデジタルシングル『限界ロストワールド』"
+title: "限界ロストワールド"
 url: "sawamura-kirari-3rd-digital-single-genkai-lost-world"
 tag:
   - mix

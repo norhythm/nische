@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-09-21"
-holder: "TVアニメ『ひみつのアイプリ リング編』"
+holder: "ひみつのアイプリ リング編"
 artist: ""
-title: "第76話挿入歌「ミライのプリンセス」"
+title: "ミライのプリンセス"
 url: "tv-anime-himitsu-no-aipri-ring-hen-mirai-no-princess"
 tag:
   - mix

@@ -3,7 +3,7 @@ published: true
 date: "2024-01-10"
 holder: "Hololive"
 artist: "角巻わため"
-title: "3rdアルバム『Hop Step Sheep』"
+title: "Hop Step Sheep"
 url: "tsunomaki-watame-3rd-album-hop-step-sheep"
 tag:
   - mix

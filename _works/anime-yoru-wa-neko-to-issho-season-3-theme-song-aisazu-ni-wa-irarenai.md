@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-12-04"
-holder: "アニメ『夜は猫といっしょ』"
+holder: "アニメ夜は猫といっしょ"
 artist: ""
-title: "第3期　主題歌「愛さずにはいられない」"
+title: "愛さずにはいられない"
 url: "anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai"
 tag:
   - mix

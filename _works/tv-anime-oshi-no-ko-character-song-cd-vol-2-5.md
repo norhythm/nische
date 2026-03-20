@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2023-07-05"
-holder: "TVアニメ『推しの子』"
+holder: "推しの子"
 artist: ""
 title: "キャラクターソングCD Vol.2.5"
 url: "tv-anime-oshi-no-ko-character-song-cd-vol-2-5"

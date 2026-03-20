@@ -3,7 +3,7 @@ published: true
 date: "2025-07-30"
 holder: "メメントモリ"
 artist: "天音かなた"
-title: '"ルミカ"ラメント「lumière」'
+title: "lumière"
 url: "memento-mori-rumika-lament-lumiere"
 tag:
   - mix

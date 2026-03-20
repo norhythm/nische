@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2025-04-06"
-holder: "TVアニメ『ひみつのアイプリ』"
+holder: "ひみつのアイプリ"
 artist: ""
-title: "第52話挿入歌「キズナ×リンク」"
+title: "キズナ×リンク"
 url: "tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link"
 tag:
   - mix

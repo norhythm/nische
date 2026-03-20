@@ -3,7 +3,7 @@ published: true
 date: "2023-09-29"
 holder: ""
 artist: ""
-title: "『それは舞い散る桜のように-Re:BIRTH-』"
+title: "それは舞い散る桜のように-Re:BIRTH-"
 url: "sore-wa-maichiru-sakura-no-you-ni-re-birth"
 tag:
   - mix

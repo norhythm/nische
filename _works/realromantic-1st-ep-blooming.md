@@ -3,7 +3,7 @@ published: true
 date: "2025-04-16"
 holder: ""
 artist: "RealRomantic"
-title: "1st EP ＜BLOOMING＞"
+title: "BLOOMING"
 url: "realromantic-1st-ep-blooming"
 tag:
   - mix

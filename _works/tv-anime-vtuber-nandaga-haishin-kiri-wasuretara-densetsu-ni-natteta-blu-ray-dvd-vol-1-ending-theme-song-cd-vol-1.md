@@ -1,9 +1,9 @@
 ---
 published: true
 date: "2024-11-27"
-holder: "TVアニメ『VTuberなんだが配信切り忘れたら伝説になってた』"
+holder: "VTuberなんだが配信切り忘れたら伝説になってた"
 artist: ""
-title: "Blu-ray&DVD Vol.1 封入特典「エンディングテーマソングCD Vol.1」"
+title: "エンディングテーマソングCD Vol.1"
 url: "tv-anime-vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-blu-ray-dvd-vol-1-ending-theme-song-cd-vol-1"
 tag:
   - mix

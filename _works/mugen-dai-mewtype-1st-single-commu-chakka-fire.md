@@ -3,7 +3,7 @@ published: true
 date: "2024-12-25"
 holder: ""
 artist: "夢限大みゅーたいぷ"
-title: "1st Single「コミュ着火Fire!」"
+title: "コミュ着火Fire!"
 url: "mugen-dai-mewtype-1st-single-commu-chakka-fire"
 tag:
   - mix

@@ -1,9 +1,9 @@
 ---
 published: true
 date: 2026-02-11
-holder: "TVアニメ『ひみつのアイプリ リング編』"
+holder: "ひみつのアイプリ リング編"
 artist: ""
-title: "キャラクターソングミニアルバム VERSE IN SONG 03 DX"
+title: "VERSE IN SONG 03 DX"
 url: aipri-ring-character-song-mini-album-verse-in-song-03-dx
 tag:
   - mix

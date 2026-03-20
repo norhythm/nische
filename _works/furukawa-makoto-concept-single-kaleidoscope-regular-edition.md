@@ -3,7 +3,7 @@ published: true
 date: "2024-06-12"
 holder: ""
 artist: "古川慎"
-title: "『カレイドスコープ』【通常盤】"
+title: "カレイドスコープ"
 url: "furukawa-makoto-concept-single-kaleidoscope-regular-edition"
 tag:
   - mix

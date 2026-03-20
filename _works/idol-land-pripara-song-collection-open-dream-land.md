@@ -3,7 +3,7 @@ published: true
 date: "2024-11-13"
 holder: "アイドルランドプリパラ"
 artist: ""
-title: "ソング♪コレクション OPEN DREAM LAND!"
+title: "OPEN DREAM LAND!"
 url: "idol-land-pripara-song-collection-open-dream-land"
 tag:
   - mix

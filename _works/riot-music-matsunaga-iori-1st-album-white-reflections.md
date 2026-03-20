@@ -3,7 +3,7 @@ published: true
 date: "2024-09-22"
 holder: "RIOT MUSIC"
 artist: "松永依織"
-title: "1stアルバム『White Reflections』"
+title: "White Reflections"
 url: "riot-music-matsunaga-iori-1st-album-white-reflections"
 tag:
   - mix

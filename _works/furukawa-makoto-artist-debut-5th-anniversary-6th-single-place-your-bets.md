@@ -3,7 +3,7 @@ published: true
 date: "2023-07-05"
 holder: ""
 artist: "古川慎"
-title: 6thシングル「"Place your bets"」'
+title: Place your bets
 url: "furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets"
 tag:
   - mix

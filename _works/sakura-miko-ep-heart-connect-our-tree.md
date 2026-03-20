@@ -3,7 +3,7 @@ published: true
 date: "2023-08-02"
 holder: "Hololive"
 artist: "さくらみこ"
-title: "EP「heart♡connect」に収録の新曲「アワーツリー」"
+title: "アワーツリー"
 url: "sakura-miko-ep-heart-connect-our-tree"
 tag:
   - mix
