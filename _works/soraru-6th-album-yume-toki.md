@@ -13,17 +13,24 @@ image: "/works/media/soraru-6th-album-yume-toki.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                | Credit |
+| ------------ | -------------------- | ------ |
+| 01           | 逃避郷               | Mixing |
+| 02           | ツギハギの翼         | Mixing |
+| 03           | 不完全ワンダーランド | Mixing |
+| 04           | レヴェノイド         | Mixing |
+| 05           | 滂沱に咲く           | Mixing |
+| 06           | 虹の三叉路           | Mixing |
+| 07           | 泡沫の備忘録         | Mixing |
+| 08           | ユメマドイ           | Mixing |
+| 09           | アンチポップドール   | Mixing |
+| 10           | 空腹の怪物           | Mixing |
+| 11           | オーロラ             | Mixing |
+| 12           | ユメトキ             | Mixing |
 
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1K3VLq2ZwUg?si=shVlgQ_BtoMQL5BM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://soraruru.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://soraruru.jp/discography/yumetoki" target="_blank">Official Page</a>
