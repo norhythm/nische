@@ -13,17 +13,23 @@ image: "/works/media/kitou-akari-3rd-album-journey.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title           | Credit |
+| ------------ | --------------- | ------ |
+| 01           | Nonfiction Nook | Mixing |
+| 02           | 夢の糸          | Mixing |
+| 03           | Magie×Magie     | Mixing |
+| 04           | any if          | Mixing |
+| 05           | Fleeting Time   | Mixing |
+| 06           | With a Wish     | Mixing |
+| 07           | アフターグロウ  | Mixing |
+| 08           | From Fate       | Mixing |
+| 09           | Fringed Iris    | Mixing |
+| 10           | Dear Doze Days  | Mixing |
+| 11           | Eternally       | Mixing |
+| 12           | mo∞ent          | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://kitoakari.com/journey" target="_blank">Official Page</a>
+- <a data-type="button" href="https://lnk.to/PCCG02463" target="_blank">Stream & Buy</a>
