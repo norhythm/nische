@@ -3,7 +3,7 @@ published: true
 date: "2024-09-18"
 holder: "時々ボソッとロシア語でデレる隣のアーリャさん"
 artist: ""
-title: "時々ボソッとロシア語でデレる隣のアーリャさん"
+title: "時々ボソッとロシア語でデレる隣のアーリャさん ED"
 url: "tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed"
 tag:
   - mix
@@ -11,19 +11,23 @@ layout: "square"
 image: "/works/media/tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-ed.jpg"
 ---
 
-##### Tracklist
+##### Episode ED
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                    | Credit |
+| ------------ | ------------------------ | ------ |
+| 01           | 学園天国                 | Mixing |
+| 02           | 可愛くてごめん           | Mixing |
+| 03           | 想い出がいっぱい         | Mixing |
+| 04           | ハレ晴レユカイ           | Mixing |
+| 05           | 小さな恋のうた           | Mixing |
+| 06           | 秘密の言葉               | Mixing |
+| 07           | ラブ・ストーリーは突然に | Mixing |
+| 08           | CHE.R.RY                 | Mixing |
+| 09           | ワールドイズマイン       | Mixing |
+| 10           | こいのうた               | Mixing |
+| 11           | 気まぐれロマンティック   | Mixing |
+| 12           | ハナモヨイ               | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://roshidere.com/" target="_blank">Official Site</a>
