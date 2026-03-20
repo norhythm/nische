@@ -3,7 +3,7 @@ published: true
 date: "2025-10-10"
 holder: "アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-"
 artist: ""
-title: "ハッピーチューニング/プリティー×アクティビティ"
+title: "ハッピーチューニング / プリティー×アクティビティ"
 url: "aikatsu-x-pripara-the-movie-happy-tuning-pretty-activity"
 tag:
   - mix
