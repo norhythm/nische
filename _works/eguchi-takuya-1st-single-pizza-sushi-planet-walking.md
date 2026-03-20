@@ -13,17 +13,13 @@ image: "/works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
-
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+| Track number | Title                                                                                                 | Credit |
+| ------------ | ----------------------------------------------------------------------------------------------------- | ------ |
+| 0 1          | PIZZA SUSHI planet walking　作詞：江口拓也　作曲・編曲：きなみうみ                                    | Mixing |
+| 0 2          | Life is Sauna ～明日は明日のロウリュが吹く～　作詞：前山田健一　作曲・編曲：Nhato（Otographic Music） | Mixing |
+| 0 3          | Carnival　作詞・作曲・編曲：本多友紀（Arte Refact）                                                   | Mixing |
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://kiramune.jp/artist/eguchi/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://kiramune.jp/product/LACM-24375.html" target="_blank">Official Page</a>
