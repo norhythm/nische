@@ -1,6 +1,7 @@
 ---
 published: true
 date: 2026-03-05
+holder: kiramune
 artist: IXIS
 title: Roots of
 url: ixis-debut-mini-album-roots-of
