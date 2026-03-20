@@ -13,17 +13,16 @@ image: "/works/media/girls-und-panzer-final-chapter-yusai-concerto-check-make-ma
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | 有彩コンチェルト | Mixing |
+| 02           | Check Make Mate  | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AD7BcZesnAY?si=iHNdEN3LqsCViNNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://www.heiwanet.co.jp/products/pachinko/e-gp3/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://lnk.to/LZC-3332" target="_blank">Stream & Buy</a>
