@@ -3,7 +3,7 @@ published: true
 date: "2025-01-22"
 holder: "Hololive"
 artist: "星街すいせい"
-title: "3rd Album新星目録"
+title: "新星目録"
 url: "hoshimachi-suisei-3rd-album-shinsei-mokuroku"
 tag:
   - mix
@@ -15,13 +15,19 @@ image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 
 ##### Tracklist
 
-| Track number | Title                    | Credit             |
-| ------------ | ------------------------ | ------------------ |
-| 01           | Overture                 | Rec / Mix / Matser |
-| 02           | Stellar Stellar          | Rec / Mix / Matser |
-| 03           | NEXT COLOR PLANET        | Mix / Matser       |
-| 04           | Midnight Grand Orchestra | Matser             |
-| 05           | 灼熱にて純情             | Rec / Mix / Matser |
+| Track number | Title                          | Credit |
+| ------------ | ------------------------------ | ------ |
+| 01           | 先駆者                         | Mix    |
+| 02           | ビビデバ                       | Mix    |
+| 03           | AWAKE                          | Mix    |
+| 04           | ビーナスバグ                   | Mix    |
+| 05           | Caramel Pain                   | Mix    |
+| 06           | ムーンライト                   | Mix    |
+| 07           | DEADPOOL feat. 花譜            | Mix    |
+| 08           | レクイエム (星街すいせい ver.) | Mix    |
+| 09           | ザイオン                       | Mix    |
+| 10           | 繭と心                         | Mix    |
+| 11           | 綺麗事                         | Mix    |
 
 ##### Video
 
@@ -29,7 +35,6 @@ image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/10010/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/SHINSEIMOKUROKU" target="_blank">Stream & Buy</a>

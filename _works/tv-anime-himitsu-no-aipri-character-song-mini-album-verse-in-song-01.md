@@ -37,4 +37,4 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 - <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-2/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://avex.lnk.to/aipriVERSEIN_SONG_01" target="_blank">avex</a>
+- <a data-type="button" href="https://avex.lnk.to/aipriVERSEIN_SONG_01" target="_blank">Stream & Buy</a>

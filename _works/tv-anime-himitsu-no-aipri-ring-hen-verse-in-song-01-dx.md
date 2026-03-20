@@ -37,4 +37,4 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 
 - <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-14/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://avex.lnk.to/aipri2VERSEIN_SONG_01_DX" target="_blank">avex</a>
+- <a data-type="button" href="https://avex.lnk.to/aipri2VERSEIN_SONG_01_DX" target="_blank">Stream & Buy</a>

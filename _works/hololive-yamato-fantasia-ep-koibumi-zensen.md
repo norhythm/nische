@@ -2,7 +2,7 @@
 published: true
 date: "2023-07-16"
 holder: "Hololive"
-artist: ""
+artist: "ヤマトファンタジア"
 title: "恋文前線"
 url: "hololive-yamato-fantasia-ep-koibumi-zensen"
 tag:
@@ -13,17 +13,23 @@ image: "/works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                                      | Credit |
+| ------------ | ------------------------------------------ | ------ |
+| 01           | KONKON Beats (ヤマトファンタジアver.)      |        |
+| 02           | 乙女のススメ♡！                            |        |
+| 03           | 夢花火                                     |        |
+| 04           | Howling (ヤマトファンタジアver.)           |        |
+| 05           | サクラカゼ (ヤマトファンタジアver.)        |        |
+| 06           | Sparklers (ヤマトファンタジアver.)         |        |
+| 07           | Shiny Smily Story (ヤマトファンタジアver.) |        |
+| 08           | 恋文前線                                   | Mix    |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bgk478yayJM?si=vWHwOwmMl5BEgY7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/306/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/yamatophantasia" target="_blank">Stream & Buy</a>

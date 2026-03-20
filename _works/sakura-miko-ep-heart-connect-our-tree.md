@@ -3,7 +3,7 @@ published: true
 date: "2023-08-02"
 holder: "Hololive"
 artist: "さくらみこ"
-title: "アワーツリー"
+title: "heart♡connect"
 url: "sakura-miko-ep-heart-connect-our-tree"
 tag:
   - mix
@@ -13,17 +13,21 @@ image: "/works/media/sakura-miko-ep-heart-connect-our-tree.jpg"
 
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | トラック名 | Rec / Mix / Matser |
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | あてんしょんぷりーず！ |        |
+| 02           | ベイビーダンス         |        |
+| 03           | 乙女のススメ♡！        |        |
+| 04           | ハートオンライン       |        |
+| 05           | 僕らと君のうた。       |        |
+| 06           | アワーツリー           | Mix    |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7_DqIBHtxzo?si=ZeAzMg_sbLKi_bUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/313/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/heartconnect" target="_blank">Stream & Buy</a>

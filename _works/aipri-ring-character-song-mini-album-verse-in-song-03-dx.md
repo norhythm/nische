@@ -33,5 +33,6 @@ image: /works/media/aipri-ring-character-song-mini-album-verse-in-song-03-dx.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-22/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://avex.lnk.to/aipri2VERSEIN_SONG_03_DX" target="_blank">avex</a>
+- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-22/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://avex.lnk.to/aipri2VERSEIN_SONG_03_DX" target="_blank">Stream & Buy</a>
