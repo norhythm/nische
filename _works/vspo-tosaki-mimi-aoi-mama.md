@@ -10,11 +10,12 @@ tag:
 layout: square
 image: /works/media/vspo-tosaki-mimi-aoi-mama.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
-| 01           | 青いまま | mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 01           | 青いまま | Mixing |
 
 ##### Video
 
