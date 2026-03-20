@@ -23,5 +23,5 @@ image: "/works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg"
 ##### Links
 
 - <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%E3%81%9D%E3%81%93%E3%81%AB%E6%9C%89%E3%82%8B%E7%81%AF%E3%82%8A%E9%80%9A%E5%B8%B8/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e3%81%9d%e3%81%93%e3%81%ab%e6%9c%89%e3%82%8b%e7%81%af%e3%82%8a%e5%88%9d%e5%9b%9e/" target="_blank">Official Page</a>
 - <a data-type="button" href="https://lnk.to/LZC-3293" target="_blank">Stream & Buy</a>
