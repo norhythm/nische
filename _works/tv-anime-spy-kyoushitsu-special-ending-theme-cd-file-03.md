@@ -13,10 +13,10 @@ image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-03.jpg
 
 ##### Tracklist
 
-| Track number | Title                    | Credit |
-| ------------ | ------------------------ | ------ |
-| 01           | Pausing Shutter          | Mixing |
-| 02           | ドレス・ハート・ルージュ | Mixing |
+| Track number | Title                    | Credit             |
+| ------------ | ------------------------ | ------------------ |
+| 01           | Pausing Shutter          | Recording / Mixing |
+| 02           | ドレス・ハート・ルージュ | Recording / Mixing |
 
 ##### Video
 

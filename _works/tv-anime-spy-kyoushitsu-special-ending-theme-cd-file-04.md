@@ -13,10 +13,10 @@ image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04.jpg
 
 ##### Tracklist
 
-| Track number | Title             | Credit |
-| ------------ | ----------------- | ------ |
-| 01           | Pureness×Careless | Mixing |
-| 02           | 花の日            | Mixing |
+| Track number | Title             | Credit             |
+| ------------ | ----------------- | ------------------ |
+| 01           | Pureness×Careless | Recording / Mixing |
+| 02           | 花の日            | Recording / Mixing |
 
 ##### Video
 
