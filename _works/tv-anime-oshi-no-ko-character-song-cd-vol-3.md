@@ -13,14 +13,18 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
 
 ##### Tracklist
 
-| Track number | Title                               | Credit |
-| ------------ | ----------------------------------- | ------ |
-| 01           | ぴえヨンブートダンス                | Mixing |
-| 02           | 「ピーマン体操」                    | Mixing |
-| 03           | 「Full moon…!」                     | Mixing |
-| 04           | ぴえヨンブートダンス (Instrumental) | Mixing |
-| 05           | 「ピーマン体操」 (Instrumental)     | Mixing |
-| 06           | 「Full moon…!」 (Instrumental)      | Mixing |
+| Track number | Title                           | Credit |
+| ------------ | ------------------------------- | ------ |
+| 02           | 「ピーマン体操」                | Mixing |
+| 03           | 「Full moon…!」                 | Mixing |
+| 05           | 「ピーマン体操」 (Instrumental) | Mixing |
+| 06           | 「Full moon…!」 (Instrumental)  | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BPvD-dfIiEs?si=IL78OsNnqd4zgOJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shEwhe3sDpo?si=pO3Cj6J_Xq_SyAd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
