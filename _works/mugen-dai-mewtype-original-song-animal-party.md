@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-08-03"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "✞animaるパーティ✞開催中✞"
 url: "mugen-dai-mewtype-original-song-animal-party"

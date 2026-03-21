@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-08-26"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "コハク"
 url: "mugen-dai-mewtype-original-song-kohaku"

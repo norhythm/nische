@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-02-24"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "ビッグマウス"
 url: "mugen-dai-mewtype-original-song-big-mouth"

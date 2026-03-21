@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-12-25"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "コミュ着火Fire!"
 url: "mugen-dai-mewtype-1st-single-commu-chakka-fire"

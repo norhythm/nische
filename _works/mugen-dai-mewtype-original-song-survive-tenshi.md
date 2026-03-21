@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-04-13"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "限界現実サバイブ天使"
 url: "mugen-dai-mewtype-original-song-survive-tenshi"

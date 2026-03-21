@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2025-02-07"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "TRASH LIFE"
 url: "mugen-dai-mewtype-digital-single-trash-life"

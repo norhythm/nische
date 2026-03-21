@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-10-27"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "新人類は仮想世界の夢を見るか？"
 url: "mugen-dai-mewtype-original-song-shinjinrui-wa-kasou-sekai-no-yume-wo-miru-ka"

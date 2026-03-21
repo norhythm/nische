@@ -1,7 +1,7 @@
 ---
 published: true
 date: "2024-06-01"
-holder: ""
+holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"
 title: "エンプティパペット"
 url: "mugen-dai-mewtype-original-song-empty-puppet"

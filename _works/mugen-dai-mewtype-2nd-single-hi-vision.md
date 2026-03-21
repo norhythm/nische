@@ -1,7 +1,8 @@
 ---
 published: true
 date: 2025-04-30
-artist: 夢限大みゅーたいぷ
+holder: "BanG Dream!"
+artist: "夢限大みゅーたいぷ"
 title: Hi-Vision
 url: mugen-dai-mewtype-2nd-single-hi-vision
 tag:

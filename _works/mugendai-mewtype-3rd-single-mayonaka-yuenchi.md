@@ -1,7 +1,8 @@
 ---
 published: true
 date: 2025-09-03
-artist: 夢限大みゅーたいぷ
+holder: "BanG Dream!"
+artist: "夢限大みゅーたいぷ"
 title: 真夜中遊園地
 url: mugendai-mewtype-3rd-single-mayonaka-yuenchi
 tag:
