@@ -19,8 +19,6 @@ image: "/works/media/tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chu
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lZupPsZ2TiU?si=kaCshQucV6exQyBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7JpsvUqc_E?si=S5ccOGRc3hp0rjFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
