@@ -6,6 +6,7 @@
 - React 19
 - TypeScript
 - Tailwind CSS
+- PagesCMS
 
 ## Getting Started
 
