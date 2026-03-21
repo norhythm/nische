@@ -1,21 +1,21 @@
 ---
 published: true
-date: "2024-12-04"
-holder: "アニメ夜は猫といっしょ"
-artist: ""
-title: "愛さずにはいられない"
-url: "anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai"
+date: 2024-12-04
+holder: 夜は猫といっしょ
+artist: 伊東歌詞太郎
+title: 愛さずにはいられない
+url: anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai
 tag:
   - mix
-layout: "square"
-image: "/works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai.jpg"
+  - rec
+layout: square
+image: /works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa-irarenai.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                | Credit |
 | ------------ | -------------------- | ------ |
-| 01           | 愛さずにはいられない | Mixing |
+| 01           | 愛さずにはいられない | Recording / Mixing |
 
 ##### Video
 
