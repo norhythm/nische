@@ -6,18 +6,21 @@ artist: 第5部主題歌
 title: LIGHT IN YOUR EYES
 url: helios-rising-heroes-season-5-theme-light-in-your-eyes
 tag:
+  - rec
   - mix
 layout: square
 image: /works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                             | Credit |
 | ------------ | --------------------------------- | ------ |
-| 01           | LIGHT IN YOUR EYES                | Mixing |
-| 02           | LIGHT IN YOUR EYES (Game Size)    | Mixing |
+| 01           | LIGHT IN YOUR EYES                | Recoding / Mixing |
+| 02           | LIGHT IN YOUR EYES (Game Size)    | Recoding / Mixing |
 | 03           | LIGHT IN YOUR EYES (Instrumental) | Mixing |
+
+##### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LxrtJTUyLA?si=xbbnImvGwZun7CQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 

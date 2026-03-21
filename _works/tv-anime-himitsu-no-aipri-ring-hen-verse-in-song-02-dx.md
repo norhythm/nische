@@ -1,35 +1,26 @@
 ---
 published: true
-date: "2025-11-26"
-holder: "ひみつのアイプリ リング編"
-artist: ""
-title: "VERSE IN SONG 02 DX"
-url: "tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx"
+date: 2025-11-26
+holder: ひみつのアイプリ リング編
+title: VERSE IN SONG 02 DX
+url: tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx
 tag:
+  - rec
   - mix
-layout: "square"
-image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx.jpg"
+layout: square
+image: /works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                | Credit |
 | ------------ | ------------------------------------ | ------ |
-| 01           | Piece Of Dream                       | Mixing |
-| 02           | ココロ・アストロノーツ               | Mixing |
-| 03           | わいるど☆すたー (ビビソロver.)       | Mixing |
-| 04           | わいるど☆すたー (ビビチィデュオver.) | Mixing |
-| 05           | Piece Of Dream -inst.-               | Mixing |
-| 06           | ココロ・アストロノーツ -inst.-       | Mixing |
+| 03           | わいるど☆すたー (ビビソロver.)       | Recording / Mixing |
+| 04           | わいるど☆すたー (ビビチィデュオver.) | Recording / Mixing |
 | 07           | わいるど☆すたー -inst.-              | Mixing |
 
-##### CG Live
+##### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW33q0JJ5cE?si=dWL4rLfn2NIDujII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-| Track number | Title                  | Credit |
-| ------------ | ---------------------- | ------ |
-| 01           | Piece Of Dream         | Mixing |
-| 02           | ココロ・アストロノーツ | Mixing |
-| 03           | わいるど☆すたー        | Mixing |
 
 ##### Links
 
