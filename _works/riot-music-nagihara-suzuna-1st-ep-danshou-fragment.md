@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-05-28"
 holder: "RIOT MUSIC"
 artist: "凪原涼菜"

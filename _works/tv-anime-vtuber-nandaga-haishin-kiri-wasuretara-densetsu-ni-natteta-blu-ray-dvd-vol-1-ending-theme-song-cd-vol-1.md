@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-11-27"
 holder: "VTuberなんだが配信切り忘れたら伝説になってた"
 artist: ""

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-11-05"
 holder: "Hololive"
 artist: "ホロライブ運動会実行委員"

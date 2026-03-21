@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-10-16"
 holder: "Hololive"
 artist: "宝鐘マリン"

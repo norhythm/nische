@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-07-08"
 holder: "Hololive"
 artist: "hololive 5th Generation"

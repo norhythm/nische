@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-11-01"
 holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
 artist: ""

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-08-23"
 holder: "エリオスライジングヒーローズ"
 artist: ""

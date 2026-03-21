@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-12-04
 holder: 夜は猫といっしょ
 artist: 伊東歌詞太郎

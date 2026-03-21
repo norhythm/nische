@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-10-09"
 holder: "推しの子"
 artist: ""

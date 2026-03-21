@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-12-07"
 holder: "Hololive"
 artist: "大神ミオ"

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-01-12"
 holder: "エリオスライジングヒーローズ"
 artist: ""

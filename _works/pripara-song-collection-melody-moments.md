@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-11-13"
 holder: "プリパラ"
 artist: ""

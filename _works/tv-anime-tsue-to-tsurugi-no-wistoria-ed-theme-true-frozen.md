@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-08-28"
 holder: "杖と剣のウィストリア"
 artist: "TRUE"

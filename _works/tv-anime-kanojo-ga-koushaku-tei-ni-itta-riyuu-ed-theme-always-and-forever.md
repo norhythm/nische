@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-04-26"
 holder: "彼女が公爵邸に行った理由"
 artist: "SERRA"

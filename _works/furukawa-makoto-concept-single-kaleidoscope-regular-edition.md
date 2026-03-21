@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-06-12"
 holder: ""
 artist: "古川慎"

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-05-22"
 holder: "Hololive"
 artist: "ホロライブゲーマーズ"

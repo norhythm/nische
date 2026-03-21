@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-06-07"
 holder: "Hololive"
 artist: "不知火建設"

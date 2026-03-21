@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-12-24
 holder: Hololive
 artist: 白上フブキ

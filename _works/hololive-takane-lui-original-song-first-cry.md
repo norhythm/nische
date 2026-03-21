@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-06-12"
 holder: "Hololive"
 artist: "鷹嶺ルイ"

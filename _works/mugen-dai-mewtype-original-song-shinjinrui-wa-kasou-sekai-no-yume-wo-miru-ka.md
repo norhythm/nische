@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-10-27"
 holder: "BanG Dream!"
 artist: "夢限大みゅーたいぷ"

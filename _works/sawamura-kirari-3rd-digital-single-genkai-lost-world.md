@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-08-25"
 holder: ""
 artist: "澤村 光彩"

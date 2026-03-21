@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-10-09"
 holder: "やり直し令嬢は竜帝陛下を攻略中"
 artist: "花たん"

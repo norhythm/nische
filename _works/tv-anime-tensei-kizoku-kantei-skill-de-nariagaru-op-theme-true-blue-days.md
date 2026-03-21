@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-04-24"
 holder: "転生貴族、鑑定スキルで成り上がる"
 artist: "TRUE"

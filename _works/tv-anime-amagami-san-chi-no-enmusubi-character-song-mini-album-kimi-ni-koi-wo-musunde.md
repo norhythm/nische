@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-11-20"
 holder: "甘神さんちの縁結び"
 artist: ""

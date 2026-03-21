@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-06-07"
 holder: "吸血鬼すぐ死ぬ"
 artist: ""

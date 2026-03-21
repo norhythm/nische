@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-09-27"
 holder: "スパイ教室"
 artist: ""

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2024-09-03"
 holder: "Hololive"
 artist: "アキ・ローゼンタール"

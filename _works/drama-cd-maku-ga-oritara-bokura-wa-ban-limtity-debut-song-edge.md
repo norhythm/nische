@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-07-07"
 holder: "幕が下りたら僕らは番"
 artist: "Limtity"

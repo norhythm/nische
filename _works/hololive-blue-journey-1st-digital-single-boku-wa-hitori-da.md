@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "2023-04-17"
 holder: "Hololive"
 artist: "Blue Journey"
