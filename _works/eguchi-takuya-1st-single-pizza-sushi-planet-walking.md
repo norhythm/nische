@@ -13,11 +13,11 @@ image: "/works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                                                                                 | Credit |
-| ------------ | ----------------------------------------------------------------------------------------------------- | ------ |
-| 01           | PIZZA SUSHI planet walking　作詞：江口拓也　作曲・編曲：きなみうみ                                    | Mixing |
-| 02           | Life is Sauna ～明日は明日のロウリュが吹く～　作詞：前山田健一　作曲・編曲：Nhato（Otographic Music） | Mixing |
-| 03           | Carnival　作詞・作曲・編曲：本多友紀（Arte Refact）                                                   | Mixing |
+| Track number | Title                                        | Credit |
+| ------------ | -------------------------------------------- | ------ |
+| 01           | PIZZA SUSHI planet walking                   | Mixing |
+| 02           | Life is Sauna ～明日は明日のロウリュが吹く～ | Mixing |
+| 03           | Carnival                                     | Mixing |
 
 ##### Video
 
