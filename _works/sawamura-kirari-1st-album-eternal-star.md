@@ -6,6 +6,7 @@ title: Eternal Star
 url: sawamura-kirari-1st-album-eternal-star
 tag:
   - mix
+  - rec
 layout: square
 image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 ---
@@ -13,8 +14,8 @@ image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 
 | Track number | Title                        | Credit |
 | ------------ | ---------------------------- | ------ |
-| 01           | 致死量ダーリン               | Mixing |
-| 03           | 憑いていく                   | Mixing |
+| 01           | 致死量ダーリン               | Recording / Mixing |
+| 03           | 憑いていく                   | Recording / Mixing |
 | 04           | 限界ロストワールド           | Mixing |
 
 ##### Video
