@@ -13,9 +13,9 @@ image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                           | Credit |
-| ------------ | ----------------------------------------------- | ------ |
-| 01           | SHOUT ALIVE／作詞・作曲：ZAQ　編曲：園田 健太郎 | Mixing |
+| Track number | Title       | Credit |
+| ------------ | ----------- | ------ |
+| 01           | SHOUT ALIVE | Mixing |
 
 ##### Video
 
