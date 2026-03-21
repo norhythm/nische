@@ -4,11 +4,11 @@ date: "2024-11-27"
 holder: ""
 artist: "岡田奈々"
 title: "Contrust"
-url: "okada-nana-2nd-album-contrast"
+url: "okada-nana-2nd-album-contrust"
 tag:
   - mix
 layout: "square"
-image: "/works/media/okada-nana-2nd-album-contrast.jpg"
+image: "/works/media/okada-nana-2nd-album-contrust.jpg"
 ---
 
 ##### Tracklist
@@ -35,6 +35,10 @@ image: "/works/media/okada-nana-2nd-album-contrast.jpg"
 | 02           | 赤い夜が満ちるまで Studio Live Video | Mixing |
 | 03           | TAKOYAKI ROCK Studio Live Video      | Mixing |
 | 04           | 声を失った人魚姫 Studio Live Video   | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YsLRpQIiBjI?si=30zaeO19I22hTtgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
