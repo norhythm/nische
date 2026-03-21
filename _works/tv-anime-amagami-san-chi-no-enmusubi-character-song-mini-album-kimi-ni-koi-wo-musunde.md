@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-11-20
 holder: 甘神さんちの縁結び
 title: 君に恋を結んで
