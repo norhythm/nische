@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2024-10-09
-holder: 推しの子
+holder: 【推しの子】
 title: キャラクターソングCD Vol.04
 url: tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04
 tag:
