@@ -11,11 +11,6 @@ layout: square
 image: /works/media/realromantic-digital-release-aura.jpg
 ---
 
-[https://realromantic-official.com/discography/digital-release-aura/](https://realromantic-official.com/discography/digital-release-aura/)
-Digital Release.
-
-mixing.
-
 ##### Tracklist
 
 | Track number | Title | Credit |
