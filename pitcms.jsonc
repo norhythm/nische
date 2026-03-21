@@ -1,0 +1,87 @@
+{
+  "$schema": "https://pitcms.net/schema/pitcms.schema.json",
+  "schemaVersion": 1,
+  "media": {
+    "storagePath": "public/works/media",
+    "publicPath": "/works/media",
+  },
+  "collections": [
+    {
+      "name": "posts",
+      "label": "Posts",
+      "path": "_works",
+      "extension": "md",
+      "fields": [
+        {
+          "name": "published",
+          "label": "Published",
+          "type": "boolean",
+        },
+        {
+          "name": "date",
+          "label": "Date",
+          "type": "date",
+          "required": true,
+        },
+        {
+          "name": "artist",
+          "label": "Artist",
+          "type": "text",
+        },
+        {
+          "name": "title",
+          "label": "Title",
+          "type": "text",
+          "required": true,
+        },
+        {
+          "name": "url",
+          "label": "URL",
+          "type": "text",
+          "required": true,
+        },
+        {
+          "name": "tag",
+          "label": "Tag",
+          "type": "checkbox",
+          "options": [
+            { "value": "master" },
+            { "value": "mix" },
+            { "value": "rec" },
+          ],
+          "required": true,
+        },
+        {
+          "name": "image",
+          "label": "Image",
+          "type": "image",
+        },
+        {
+          "name": "layout",
+          "label": "画像の縦横比",
+          "type": "select",
+          "default": "square",
+          "options": [
+            { "value": "square", "label": "正方形" },
+            { "value": "rect-h", "label": "縦長" },
+            { "value": "rect-v", "label": "横長" },
+          ],
+          "required": true,
+        },
+        {
+          "name": "content",
+          "type": "richtext",
+          "label": "本文",
+        },
+      ],
+      "pit": {
+        "title": "title",
+        "body": "content",
+        "draft": "published",
+        "createdAt": "date",
+        "defaultSortField": "_createdAt",
+        "defaultSortOrder": "desc",
+      },
+    },
+  ],
+}

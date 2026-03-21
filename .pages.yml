@@ -1,0 +1,139 @@
+media:
+  input: public/works/media
+  output: /works/media
+content:
+  - name: posts
+    label: Posts
+    filename: "{fields.url}.md"
+    type: collection
+    path: "_works"
+    view:
+      fields: [published, date, holder, artist, title, image]
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: holder
+        label: ContentsHolder
+        type: string
+      - name: artist
+        label: Artist
+        type: string
+      - name: title
+        label: Title
+        type: string
+      - name: url
+        label: URL
+        type: string
+      - name: tag
+        label: Tag
+        type: select
+        options:
+          multiple: true
+          values: [rec, mix, master]
+      - name: layout
+        label: Image layout
+        type: select
+        options:
+          values:
+            - name: square
+              label: 正方形
+            - name: rect-h
+              label: 縦長
+            - name: rect-v
+              label: 横長
+      - name: image
+        label: Image
+        type: image
+      - name: body
+        label: Body
+        type: code
+        options:
+          language: html
+  - name: biography
+    label: Biography
+    type: file
+    path: data/biography.json
+    fields:
+      - name: name_ja
+        label: 名前
+        type: string
+      - name: title
+        label: 肩書き
+        type: string
+      - name: bio_ja
+        label: 経歴（日本語）
+        type: rich-text
+      - name: bio_en
+        label: 経歴（英語）
+        type: rich-text
+      - name: profile_image
+        label: プロフィール画像パス
+        type: string
+      - name: links
+        label: リンク
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: ラベル
+            type: string
+          - name: text
+            label: 表示テキスト
+            type: string
+            description: 単一リンクの場合に使用
+          - name: url
+            label: URL
+            type: string
+            description: 単一リンクの場合に使用
+          - name: lists
+            label: 複数リンク
+            type: object
+            list: true
+            description: 1行に複数リンクを並べる場合に使用
+            fields:
+              - name: text
+                label: 表示テキスト
+                type: string
+              - name: url
+                label: URL
+                type: string
+      - name: equipment_note
+        label: 機材セクション注釈
+        type: rich-text
+  - name: equipments
+    label: Equipments
+    type: file
+    path: data/equipments.json
+    fields:
+      - name: groups
+        label: 機材グループ
+        type: object
+        list: true
+        fields:
+          - name: group
+            label: グループ名
+            type: string
+          - name: items
+            label: 機材
+            type: object
+            list: true
+            fields:
+              - name: production
+                label: メーカー
+                type: string
+              - name: name
+                label: 機材名
+                type: string
+  - name: contact
+    label: Contact
+    type: file
+    path: data/contact.json
+    fields:
+      - name: information
+        label: Information（案内文）
+        type: rich-text
