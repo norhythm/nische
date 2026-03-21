@@ -6,12 +6,11 @@ artist: 第三幕 第7話エンディングテーマ
 title: いいえ！もっとLOVEでしょう？ ～Can't Stop Tank Love～
 url: girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed
 tag:
-  - mix
   - rec
+  - mix
 layout: square
 image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                                 | Credit             |
