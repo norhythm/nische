@@ -18,7 +18,10 @@ image: "/works/media/tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2
 | 01           | 床の下から夜明けの町へ　ヒナイチ（CV：日岡なつみ）    | Mixing |
 | 02           | ライムライト・ワイナリー　Y談おじさん（CV：井上和彦） | Mixing |
 | 03           | 名状しがたい可愛いもの　フクマ（CV：土岐隼一）        | Mixing |
-| 04           | わかってたよ(フルバージョン)　ロナルド（CV：古川 慎） | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DlDkbSC5c0U?si=G3fdSiLukfZSPD_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
