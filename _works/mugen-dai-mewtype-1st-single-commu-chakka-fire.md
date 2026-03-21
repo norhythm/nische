@@ -24,6 +24,8 @@ image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
 
 ##### Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1bVUxIY5AY?si=5iIi5kdIvcat4Gkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfA_P10FGQQ?si=YK0iJXrrXQNkyy18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
