@@ -1,21 +1,21 @@
 ---
 published: true
-date: "2025-01-11"
-holder: ""
-artist: "凪原涼菜"
-title: "Albus"
-url: "nagihara-suzuna-albus"
+date: 2025-01-11
+holder: RIOT MUSIC / Meteopolis
+artist: 凪原涼菜
+title: Albus
+url: nagihara-suzuna-albus
 tag:
   - mix
-layout: "rect-h"
-image: "/works/media/nagihara-suzuna-albus.jpg"
+  - rec
+layout: rect-h
+image: /works/media/nagihara-suzuna-albus.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title | Credit |
 | ------------ | ----- | ------ |
-| 01           | Albus | Mixing |
+| 01           | Albus | Recording / Mixing |
 
 ##### Video
 

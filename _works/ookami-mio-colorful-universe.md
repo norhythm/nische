@@ -1,14 +1,15 @@
 ---
 published: true
-date: "2025-01-26"
-holder: "Hololive"
-artist: "大神ミオ"
-title: "Colorful Universe"
-url: "ookami-mio-colorful-universe"
+date: 2025-01-26
+holder: Hololive
+artist: 大神ミオ
+title: Colorful Universe
+url: ookami-mio-colorful-universe
 tag:
   - mix
-layout: "square"
-image: "/works/media/ookami-mio-colorful-universe.jpg"
+  - rec
+layout: square
+image: /works/media/ookami-mio-colorful-universe.jpg
 ---
 
 ##### Tracklist
@@ -19,7 +20,7 @@ image: "/works/media/ookami-mio-colorful-universe.jpg"
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pg4TfYUHWoA?si=YuueRcLknlLMQurt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXIDznszQhA?si=zugB6Io0XWVCwe0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 

@@ -1,34 +1,21 @@
 ---
 published: true
-date: "2025-01-15"
-holder: "Hololive"
-artist: "白上フブキ"
-title: 'FBKINGDOM "Blessing"'
-url: "shirakami-fubuki-1st-album-fbkingdom-blessing"
+date: 2025-01-15
+holder: Hololive
+artist: 白上フブキ
+title: FBKINGDOM "Blessing"
+url: shirakami-fubuki-1st-album-fbkingdom-blessing
 tag:
   - mix
-layout: "square"
-image: "/works/media/shirakami-fubuki-1st-album-fbkingdom-blessing.jpg"
+  - rec
+layout: square
+image: /works/media/shirakami-fubuki-1st-album-fbkingdom-blessing.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                                       | Credit |
 | ------------ | ----------------------------------------------------------- | ------ |
-| 01           | SUPERNOVA                                                   | Mixing |
-| 02           | Hi Fine FOX!!                                               | Mixing |
-| 03           | 閃光のように                                                | Mixing |
-| 04           | キミノスキピ                                                | Mixing |
-| 05           | Say!ファンファーレ!                                         | Mixing |
-| 06           | ストーリーテラー                                            | Mixing |
-| 07           | 星空コンフェッティ                                          | Mixing |
-| 08           | ワンダーフューチャー！ feat. 大神ミオ,猫又おかゆ,戌神ころね | Mixing |
-| 09           | KINGWORLD                                                   | Mixing |
-| 10           | 僕らの星座                                                  | Mixing |
-| 11           | HAPPY BANG!                                                 | Mixing |
-| 12           | KONKON Beats                                                | Mixing |
-| 13           | LETTER☆彡                                                   | Mixing |
-| 14           | グローエンブレイス                                      | Mixing |
+| 06           | ストーリーテラー                                            | Recording / Mixing |
 
 ##### Video
 
