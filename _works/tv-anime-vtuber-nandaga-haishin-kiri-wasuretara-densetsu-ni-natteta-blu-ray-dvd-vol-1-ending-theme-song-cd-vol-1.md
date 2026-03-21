@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-11-27
 holder: VTuberなんだが配信切り忘れたら伝説になってた
 title: エンディングテーマソングCD Vol.1
