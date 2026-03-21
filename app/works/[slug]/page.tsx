@@ -67,21 +67,6 @@ export default async function Post(props: Params, modal: false) {
                       // childClassName={`w-full post-${post.layout} block drop-shadow-md`}
                       childClassName={`post-${post.layout} drop-shadow-lg`}
                     />
-                    {/* <div
-                      className={`absolute top-0 left-1/2 -translate-x-1/2 w-full h-full rotate-[2.8deg] drop-shadow-lg`}
-                      style={{ backgroundColor: fillRectColor() }}
-                    ></div> */}
-
-                    {/* <Image
-                      src={`${post.image}`}
-                      alt={post.title}
-                      width={512}
-                      height={512}
-                      preload
-                      loading="eager"
-                      fetchPriority="high"
-                      className={`absolute top-0 left-1/2 -translate-x-1/2 object-contain w-full h-full rotate-[2.8deg] drop-shadow-lg`}
-                    /> */}
                   </div>
                 </div>
               </div>
