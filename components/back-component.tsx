@@ -54,7 +54,7 @@ export default function BackComponent({
         {style == "layer" && (
           <div
             onClick={handleBack}
-            className={`hidden md:block absolute top-0 left-0 z-20 w-full h-full cursor-close select-none`}
+            className={`hidden md:block absolute top-0 left-1/2 -translate-x-1/2 z-20 w-screen h-full cursor-close select-none`}
           ></div>
         )}
         {style == "button" && (
