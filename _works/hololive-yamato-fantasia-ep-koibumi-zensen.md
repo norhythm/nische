@@ -13,16 +13,9 @@ image: "/works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                      | Credit |
-| ------------ | ------------------------------------------ | ------ |
-| 01           | KONKON Beats (ヤマトファンタジアver.)      |        |
-| 02           | 乙女のススメ♡！                            |        |
-| 03           | 夢花火                                     |        |
-| 04           | Howling (ヤマトファンタジアver.)           |        |
-| 05           | サクラカゼ (ヤマトファンタジアver.)        |        |
-| 06           | Sparklers (ヤマトファンタジアver.)         |        |
-| 07           | Shiny Smily Story (ヤマトファンタジアver.) |        |
-| 08           | 恋文前線                                   | Mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 08           | 恋文前線 | Mixing |
 
 ##### Video
 
