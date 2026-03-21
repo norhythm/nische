@@ -10,12 +10,12 @@ tag:
 layout: square
 image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                                | Credit             |
-| ------------ | ------------------------------------ | ------------------ |
-| 01           | Sing out to the Dawn                 | Recording / Mixing |
-| 04           | Sing out to the Dawn (Instrumental） | Mixing |
+| Track number | Title                | Credit             |
+| ------------ | -------------------- | ------------------ |
+| 01           | Sing out to the Dawn | Recording / Mixing |
 
 ##### Video
 

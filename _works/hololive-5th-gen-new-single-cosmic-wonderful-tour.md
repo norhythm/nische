@@ -13,10 +13,9 @@ image: "/works/media/hololive-5th-gen-new-single-cosmic-wonderful-tour.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                 | Credit |
-| ------------ | ------------------------------------- | ------ |
-| 01           | Cosmic Wonderful Tour!                | Mixing |
-| 02           | Cosmic Wonderful Tour! (Instrumental) | Mixing |
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | Cosmic Wonderful Tour! | Mixing |
 
 ##### Video
 

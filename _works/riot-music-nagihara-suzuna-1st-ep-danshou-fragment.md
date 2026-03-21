@@ -13,16 +13,12 @@ image: "/works/media/riot-music-nagihara-suzuna-1st-ep-danshou-fragment.jpg"
 
 ##### Tracklist
 
-| Track number | Title                     | Credit |
-| ------------ | ------------------------- | ------ |
-| 01           | 雪透きの詩                | Mixing |
-| 02           | Okeanos                   | Mixing |
-| 03           | PANDORA                   | Mixing |
-| 04           | 断章                      | Mixing |
-| 05           | 雪透きの詩 (Instrumental) | Mixing |
-| 06           | Okeanos (Instrumental)    | Mixing |
-| 07           | PANDORA (Instrumental)    | Mixing |
-| 08           | 断章 (Instrumental)       | Mixing |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | 雪透きの詩 | Mixing |
+| 02           | Okeanos    | Mixing |
+| 03           | PANDORA    | Mixing |
+| 04           | 断章       | Mixing |
 
 ##### Video
 

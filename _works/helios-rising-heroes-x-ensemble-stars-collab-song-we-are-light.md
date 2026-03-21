@@ -13,11 +13,9 @@ image: "/works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-li
 
 ##### Tracklist
 
-| Track number | Title                       | Credit |
-| ------------ | --------------------------- | ------ |
-| 01           | We Are Light                | Mixing |
-| 02           | We Are Light (Short Size)   | Mixing |
-| 03           | We Are Light (Instrumental) | Mixing |
+| Track number | Title        | Credit |
+| ------------ | ------------ | ------ |
+| 01           | We Are Light | Mixing |
 
 ##### Video
 

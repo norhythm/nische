@@ -9,16 +9,14 @@ tag:
 layout: square
 image: /works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                                      | Credit |
-| ------------ | ------------------------------------------ | ------ |
-| 01           | 真夜中遊園地                               | Mixing |
-| 02           | グラディエント                             | Mixing |
-| 03           | LET'Sあちあちトレーニング！                | Mixing |
-| 04           | 真夜中遊園地 -instrumental-                | Mixing |
-| 05           | グラディエント -instrumental-              | Mixing |
-| 06           | LET'Sあちあちトレーニング！ -instrumental- | Mixing |
+| Track number | Title                       | Credit |
+| ------------ | --------------------------- | ------ |
+| 01           | 真夜中遊園地                | Mixing |
+| 02           | グラディエント              | Mixing |
+| 03           | LET'Sあちあちトレーニング！ | Mixing |
 
 ##### Video
 

@@ -13,10 +13,9 @@ image: "/works/media/tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chu
 
 ##### Tracklist
 
-| Track number | Title                    | Credit |
-| ------------ | ------------------------ | ------ |
-| 01           | gradation                | Mixing |
-| 01           | gradation (Instrumental) | Mixing |
+| Track number | Title     | Credit |
+| ------------ | --------- | ------ |
+| 01           | gradation | Mixing |
 
 ##### Video
 

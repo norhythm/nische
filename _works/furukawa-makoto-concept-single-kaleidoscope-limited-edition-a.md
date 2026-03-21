@@ -13,12 +13,10 @@ image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition
 
 ##### Tracklist
 
-| Track number | Title                           | Credit |
-| ------------ | ------------------------------- | ------ |
-| 01           | カレイドスコープ                | Mixing |
-| 02           | Like a sunflower                | Mixing |
-| 03           | カレイドスコープ -Instrumental- | Mixing |
-| 04           | Like a sunflower -Instrumental- | Mixing |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | カレイドスコープ | Mixing |
+| 02           | Like a sunflower | Mixing |
 
 ##### Video
 

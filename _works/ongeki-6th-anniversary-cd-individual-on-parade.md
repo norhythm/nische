@@ -27,8 +27,6 @@ image: "/works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg"
 | 10           | Tricky Treat!!! -逢坂 茜ソロver.-          | Mixing |
 | 11           | Tricky Treat!!! -高瀬梨緒ソロver.-         | Mixing |
 | 12           | Tricky Treat!!! -柏木咲姫ソロver.-         | Mixing |
-| 13           | Individual on parade!（instrumental）      | Mixing |
-| 14           | Tricky Treat!!!（instrumental）            | Mixing |
 
 ##### Video
 

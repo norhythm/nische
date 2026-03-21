@@ -13,10 +13,9 @@ image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 
 ##### Tracklist
 
-| Track number | Title                    | Credit |
-| ------------ | ------------------------ | ------ |
-| 01           | FIRST CRY                | Mixing |
-| 02           | FIRST CRY (Instrumental) | Mixing |
+| Track number | Title     | Credit |
+| ------------ | --------- | ------ |
+| 01           | FIRST CRY | Mixing |
 
 ##### Video
 

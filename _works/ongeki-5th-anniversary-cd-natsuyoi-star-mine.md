@@ -28,8 +28,6 @@ image: "/works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg"
 | 11           | いちげき！のテーマ -結城莉玖ソロver.-   | Mixing |
 | 12           | いちげき！のテーマ -珠洲島有栖ソロver.- | Mixing |
 | 13           | いちげき！のテーマ -日向千夏ソロver.-   | Mixing |
-| 14           | 夏宵スターマイン（instrumental）        | Mixing |
-| 15           | いちげき！のテーマ（instrumental）      | Mixing |
 
 ##### Video
 

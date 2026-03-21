@@ -13,12 +13,10 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-1.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                        | Credit |
-| ------------ | -------------------------------------------- | ------ |
-| 01           | STAR☆T☆RAIN -アイ Solo Ver.-                 | Mixing |
-| 03           | HEART's♡KISS -アイ Solo Ver.-                | Mixing |
-| 04           | STAR☆T☆RAIN -アイ Solo Ver.- (Instrumental)  | Mixing |
-| 06           | HEART's♡KISS -アイ Solo Ver.- (Instrumental) | Mixing |
+| Track number | Title                         | Credit |
+| ------------ | ----------------------------- | ------ |
+| 01           | STAR☆T☆RAIN -アイ Solo Ver.-  | Mixing |
+| 03           | HEART's♡KISS -アイ Solo Ver.- | Mixing |
 
 ##### Video
 

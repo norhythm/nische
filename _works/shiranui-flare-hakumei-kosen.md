@@ -11,12 +11,12 @@ tag:
 layout: square
 image: /works/media/shiranui-flare-hakumei-kosen.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                   | Credit |
-| ------------ | ----------------------- | ------ |
-| 01           | 薄明光線                | Recording / Mixing |
-| 02           | 薄明光線 (Instrumental) | Mixing |
+| Track number | Title    | Credit             |
+| ------------ | -------- | ------------------ |
+| 01           | 薄明光線 | Recording / Mixing |
 
 ##### Video
 

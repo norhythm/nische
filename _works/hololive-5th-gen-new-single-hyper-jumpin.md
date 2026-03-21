@@ -13,10 +13,9 @@ image: "/works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg"
 
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 01           | Hyper Jumpin'                | Mixing |
-| 02           | Hyper Jumpin' (Instrumental) | Mixing |
+| Track number | Title         | Credit |
+| ------------ | ------------- | ------ |
+| 01           | Hyper Jumpin' | Mixing |
 
 ##### Video
 

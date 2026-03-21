@@ -13,12 +13,9 @@ image: "/works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-alwa
 
 ##### Tracklist
 
-| Track number | Title                                   | Credit |
-| ------------ | --------------------------------------- | ------ |
-| 01           | Always and Forever                      | Mixing |
-| 02           | 恍惚のメメント                          | Mixing |
-| 03           | Always and Forever -Piano arrange ver.- | Mixing |
-| 04           | Always and Forever (Instrumental)       | Mixing |
+| Track number | Title              | Credit |
+| ------------ | ------------------ | ------ |
+| 01           | Always and Forever | Mixing |
 
 ##### Video
 

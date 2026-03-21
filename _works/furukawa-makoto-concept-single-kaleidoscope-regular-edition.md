@@ -13,12 +13,10 @@ image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-regular-edition
 
 ##### Tracklist
 
-| Track number | Title                             | Credit |
-| ------------ | --------------------------------- | ------ |
-| 01           | カレイドスコープ                  | Mixing |
-| 02           | マーガレットの沈黙                | Mixing |
-| 03           | カレイドスコープ -Instrumental-   | Mixing |
-| 04           | マーガレットの沈黙 -Instrumental- | Mixing |
+| Track number | Title              | Credit |
+| ------------ | ------------------ | ------ |
+| 01           | カレイドスコープ   | Mixing |
+| 02           | マーガレットの沈黙 | Mixing |
 
 ##### Video
 

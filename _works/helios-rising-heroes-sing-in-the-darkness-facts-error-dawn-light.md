@@ -13,14 +13,10 @@ image: "/works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-
 
 ##### Tracklist
 
-| Track number | Title                                           | Credit |
-| ------------ | ----------------------------------------------- | ------ |
-| 01           | FACTS ERROR                                     | Mixing |
-| 02           | dawn light                                      | Mixing |
-| 03           | Original Drama Track 「Burger in the darkness」 | Mixing |
-| 04           | Original Drama Track 「攻めろ！　パロディ会議」 | Mixing |
-| 05           | FACTS ERROR（Instrumental）                     | Mixing |
-| 06           | dawn light（Instrumental）                      | Mixing |
+| Track number | Title       | Credit |
+| ------------ | ----------- | ------ |
+| 01           | FACTS ERROR | Mixing |
+| 02           | dawn light  | Mixing |
 
 ##### Video
 

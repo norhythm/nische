@@ -13,10 +13,9 @@ image: "/works/media/helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing
 
 ##### Tracklist
 
-| Track number | Title                     | Credit |
-| ------------ | ------------------------- | ------ |
-| 01           | STARGAZING                | Mixing |
-| 02           | STARGAZING (Instrumental) | Mixing |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | STARGAZING | Mixing |
 
 ##### Links
 

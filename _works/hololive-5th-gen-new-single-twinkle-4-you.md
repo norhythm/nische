@@ -13,10 +13,9 @@ image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
 
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 01           | Twinkle 4 You                | Mixing |
-| 02           | Twinkle 4 You (Instrumental) | Mixing |
+| Track number | Title         | Credit |
+| ------------ | ------------- | ------ |
+| 01           | Twinkle 4 You | Mixing |
 
 ##### Video
 

@@ -13,12 +13,10 @@ image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-02.jpg
 
 ##### Tracklist
 
-| Track number | Title                         | Credit |
-| ------------ | ----------------------------- | ------ |
-| 01           | SPARKLEscape                  | Mixing |
-| 02           | 偽りない幸福を                | Mixing |
-| 03           | SPARKLEscape (Instrumental)   | Mixing |
-| 04           | 偽りない幸福を (Instrumental) | Mixing |
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 01           | SPARKLEscape   | Mixing |
+| 02           | 偽りない幸福を | Mixing |
 
 ##### Video
 

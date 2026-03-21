@@ -13,12 +13,10 @@ image: "/works/media/furukawa-makoto-artist-debut-5th-anniversary-6th-single-pla
 
 ##### Tracklist
 
-| Track number | Title                            | Credit |
-| ------------ | -------------------------------- | ------ |
-| 01           | “Place your bets”                | Mixing |
-| 02           | rainy day                        | Mixing |
-| 03           | “Place your bets” -Instrumental- | Mixing |
-| 04           | rainy day -Instrumental-         | Mixing |
+| Track number | Title             | Credit |
+| ------------ | ----------------- | ------ |
+| 01           | “Place your bets” | Mixing |
+| 02           | rainy day         | Mixing |
 
 ##### Video
 

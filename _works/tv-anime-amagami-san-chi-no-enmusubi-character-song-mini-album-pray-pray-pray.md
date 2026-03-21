@@ -9,14 +9,13 @@ tag:
 layout: square
 image: /works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 02           | 夢見る日和                   | Mixing |
-| 04           | 見つけた願い、君との未来                | Mixing |
-| 07           | 夢見る日和 (Instrumental)    | Mixing |
-| 09           | 見つけた願い、君との未来 (Instrumental) | Mixing |
+| Track number | Title                    | Credit |
+| ------------ | ------------------------ | ------ |
+| 02           | 夢見る日和               | Mixing |
+| 04           | 見つけた願い、君との未来 | Mixing |
 
 ##### Video
 

@@ -11,15 +11,15 @@ tag:
 layout: square
 image: /works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                             | Credit |
-| ------------ | --------------------------------- | ------ |
-| 01           | LIGHT IN YOUR EYES                | Recoding / Mixing |
-| 02           | LIGHT IN YOUR EYES (Game Size)    | Recoding / Mixing |
-| 03           | LIGHT IN YOUR EYES (Instrumental) | Mixing |
+| Track number | Title              | Credit            |
+| ------------ | ------------------ | ----------------- |
+| 01           | LIGHT IN YOUR EYES | Recoding / Mixing |
 
 ##### Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LxrtJTUyLA?si=xbbnImvGwZun7CQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links

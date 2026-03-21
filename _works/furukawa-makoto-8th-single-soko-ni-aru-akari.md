@@ -11,14 +11,13 @@ tag:
 layout: square
 image: /works/media/furukawa-makoto-8th-single-soko-ni-aru-akari.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                                                          | Credit |
-| ------------ | ---------------------------------------------------- | ------ |
+| Track number | Title          | Credit             |
+| ------------ | -------------- | ------------------ |
 | 1            | そこに有る灯り | Recording / Mixing |
-| 2            | encounter                       | Recording / Mixing |
-| 3            | そこに有る灯り -Instrumental-                       | Mixing |
-| 4            | encounter -Instrumental-                                       | Mixing |
+| 2            | encounter      | Recording / Mixing |
 
 ##### video
 

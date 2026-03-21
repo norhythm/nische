@@ -13,13 +13,10 @@ image: "/works/media/kitou-akari-5th-single-magie-x-magie.jpg"
 
 ##### Tracklist
 
-| Track number | Title                         | Credit |
-| ------------ | ----------------------------- | ------ |
-| 01           | Magie×Magie                   | Mixing |
-| 02           | アフターグロウ                | Mixing |
-| 03           | Magie×Magie (instrumental)    | Mixing |
-| 04           | アフターグロウ (instrumental) | Mixing |
-| 05           | アフターグロウ (TV Size Ver.) | Mixing |
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 01           | Magie×Magie    | Mixing |
+| 02           | アフターグロウ | Mixing |
 
 ##### Video
 

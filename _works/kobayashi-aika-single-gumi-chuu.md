@@ -13,12 +13,9 @@ image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
 
 ##### Tracklist
 
-| Track number | Title                           | Credit |
-| ------------ | ------------------------------- | ------ |
-| 01           | グミチュウ                      | Mixing |
-| 02           | Original My Life                | Mixing |
-| 03           | グミチュウ (Instrumental)       | Mixing |
-| 04           | Original My Life (Instrumental) | Mixing |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | グミチュウ | Mixing |
 
 ##### Video
 

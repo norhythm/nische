@@ -13,12 +13,9 @@ image: "/works/media/helios-rising-heroes-third-season-first-storm-theme-song.jp
 
 ##### Tracklist
 
-| Track number | Title                                     | Credit |
-| ------------ | ----------------------------------------- | ------ |
-| 01           | NIGHTHAWK                                 | Mixing |
-| 02           | Original Drama Track 「GAST -Code Red-」  | Mixing |
-| 03           | Original Drama Track 「愉快なアドラー家」 | Mixing |
-| 04           | NIGHTHAWK (Instrumental）                 | Mixing |
+| Track number | Title     | Credit |
+| ------------ | --------- | ------ |
+| 01           | NIGHTHAWK | Mixing |
 
 ##### Video
 

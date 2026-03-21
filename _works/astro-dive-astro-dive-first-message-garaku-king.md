@@ -10,15 +10,13 @@ tag:
 layout: square
 image: /works/media/astro-dive-astro-dive-first-message-garaku-king.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                                          | Credit |
-| ------------ | ---------------------------------------------- | ------ |
+| Track number | Title                                          | Credit             |
+| ------------ | ---------------------------------------------- | ------------------ |
 | 01           | ハイパー☆ダイバー☆我楽多伝説パーリナイ | Recording / Mixing |
-| 04           | ASTRONOTE（我楽多KING Ver.） | Recording / Mixing |
-| 05           | ハイパー☆ダイバー☆我楽多伝説パーリナイ（Instrumental） | Mixing |
-
-
+| 04           | ASTRONOTE（我楽多KING Ver.）                   | Recording / Mixing |
 
 ##### Video
 

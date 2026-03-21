@@ -11,12 +11,12 @@ tag:
 layout: square
 image: /works/media/hololive-gamers-to-be-continued.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                              | Credit |
-| ------------ | ---------------------------------- | ------ |
-| 01           | To Be Continued....                | Recording / Mixing |
-| 02           | To Be Continued.... (Instrumental) | Mixing |
+| Track number | Title               | Credit             |
+| ------------ | ------------------- | ------------------ |
+| 01           | To Be Continued.... | Recording / Mixing |
 
 ##### Video
 

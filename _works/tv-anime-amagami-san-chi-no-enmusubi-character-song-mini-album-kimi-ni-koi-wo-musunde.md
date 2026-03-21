@@ -13,18 +13,13 @@ image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-al
 
 ##### Tracklist
 
-| Track number | Title                              | Credit |
-| ------------ | ---------------------------------- | ------ |
-| 01           | 君に恋を結んで                     | Mixing |
-| 02           | 桜のかくしごと                     | Mixing |
-| 03           | 夜空に引いた線                     | Mixing |
-| 04           | 夕色のねがいみち                   | Mixing |
-| 05           | 朝姫は朝だけ姫気分♡                | Mixing |
-| 06           | 君に恋を結んで (Instrumental)      | Mixing |
-| 07           | 桜のかくしごと (Instrumental)      | Mixing |
-| 08           | 夜空に引いた線 (Instrumental)      | Mixing |
-| 09           | 夕色のねがいみち (Instrumental)    | Mixing |
-| 10           | 朝姫は朝だけ姫気分♡ (Instrumental) | Mixing |
+| Track number | Title               | Credit |
+| ------------ | ------------------- | ------ |
+| 01           | 君に恋を結んで      | Mixing |
+| 02           | 桜のかくしごと      | Mixing |
+| 03           | 夜空に引いた線      | Mixing |
+| 04           | 夕色のねがいみち    | Mixing |
+| 05           | 朝姫は朝だけ姫気分♡ | Mixing |
 
 ##### Video
 

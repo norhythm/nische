@@ -13,12 +13,10 @@ image: "/works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg"
 
 ##### Tracklist
 
-| Track number | Title                    | Credit |
-| ------------ | ------------------------ | ------ |
-| 02           | Say What?                | Mixing |
-| 03           | 深海52Hz                 | Mixing |
-| 05           | Say What? (Instrumental) | Mixing |
-| 06           | 深海52Hz (Instrumental)  | Mixing |
+| Track number | Title     | Credit |
+| ------------ | --------- | ------ |
+| 02           | Say What? | Mixing |
+| 03           | 深海52Hz  | Mixing |
 
 ##### Video
 

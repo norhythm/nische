@@ -13,14 +13,11 @@ image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                        | Credit |
-| ------------ | -------------------------------------------- | ------ |
-| 01           | コミュ着火Fire!                              | Mixing |
-| 02           | 新人類は仮想世界の夢を見るか?                | Mixing |
-| 03           | コハク                                       | Mixing |
-| 04           | コミュ着火Fire! -instrumental-               | Mixing |
-| 05           | 新人類は仮想世界の夢を見るか? -instrumental- | Mixing |
-| 06           | コハク -instrumental-                        | Mixing |
+| Track number | Title                         | Credit |
+| ------------ | ----------------------------- | ------ |
+| 01           | コミュ着火Fire!               | Mixing |
+| 02           | 新人類は仮想世界の夢を見るか? | Mixing |
+| 03           | コハク                        | Mixing |
 
 ##### Video
 

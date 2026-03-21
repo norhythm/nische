@@ -13,12 +13,9 @@ image: "/works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                                             | Credit |
-| ------------ | ----------------------------------------------------------------- | ------ |
-| 01           | アカツキ                                                          | Mixing |
-| 02           | Original Drama Track 「押忍！　エリオス！　～12期編～」           | Mixing |
-| 03           | Original Drama Track 「押忍！　エリオス！　～【イクリプス】編～」 | Mixing |
-| 04           | アカツキ (Instrumental）                                          | Mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 01           | アカツキ | Mixing |
 
 ##### Video
 

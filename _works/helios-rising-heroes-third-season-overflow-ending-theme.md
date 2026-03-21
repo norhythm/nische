@@ -14,10 +14,9 @@ image: /works/media/helios-rising-heroes-third-season-overflow-ending-theme.jpg
 
 ##### Tracklist
 
-| Track number | Title                        | Credit             |
-| ------------ | ---------------------------- | ------------------ |
-| 01           | Signs of Dawn                | Recording / Mixing |
-| 04           | Signs of Dawn (Instrumental) | Recording / Mixing |
+| Track number | Title         | Credit             |
+| ------------ | ------------- | ------------------ |
+| 01           | Signs of Dawn | Recording / Mixing |
 
 ##### Video
 

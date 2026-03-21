@@ -13,14 +13,10 @@ image: "/works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                                                     | Credit |
-| ------------ | ------------------------------------------------------------------------- | ------ |
-| 01           | Homecoming                                                                | Mixing |
-| 02           | Trust fake                                                                | Mixing |
-| 03           | Original Drama Track 「ゴールデン・セクションのゴールデンナイト　第一回」 | Mixing |
-| 04           | Original Drama Track 「ゴールデン・セクションのゴールデンナイト　第七回」 | Mixing |
-| 05           | Homecoming (Instrumental)                                                 | Mixing |
-| 06           | Trust fake (Instrumental)                                                 | Mixing |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | Homecoming | Mixing |
+| 02           | Trust fake | Mixing |
 
 ##### Video
 

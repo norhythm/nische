@@ -13,18 +13,14 @@ image: "/works/media/movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-n
 
 ##### Tracklist
 
-| Track number | Title                                            | Credit |
-| ------------ | ------------------------------------------------ | ------ |
-| 01           | 乙女のルートはひとつじゃない！                   | Mixing |
-| 02           | アンダンテに恋をして！                           | Mixing |
-| 03           | Change the days!                                 | Mixing |
-| 04           | Flowering Sapphire                               | Mixing |
-| 05           | Humming moon                                     | Mixing |
-| 06           | The Caravan Night’s Entertainment                | Mixing |
-| 07           | Change the days! (Instrumental)                  | Mixing |
-| 08           | Flowering Sapphire (Instrumental)                | Mixing |
-| 09           | Humming moon (Instrumental)                      | Mixing |
-| 10           | The Caravan Night’s Entertainment (Instrumental) | Mixing |
+| Track number | Title                             | Credit |
+| ------------ | --------------------------------- | ------ |
+| 01           | 乙女のルートはひとつじゃない！    | Mixing |
+| 02           | アンダンテに恋をして！            | Mixing |
+| 03           | Change the days!                  | Mixing |
+| 04           | Flowering Sapphire                | Mixing |
+| 05           | Humming moon                      | Mixing |
+| 06           | The Caravan Night’s Entertainment | Mixing |
 
 ##### Video
 

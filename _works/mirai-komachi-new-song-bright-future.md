@@ -13,10 +13,9 @@ image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
 
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 01           | Bright Future                | Mixing |
-| 02           | Bright Future (Instrumental) | Mixing |
+| Track number | Title         | Credit |
+| ------------ | ------------- | ------ |
+| 01           | Bright Future | Mixing |
 
 ##### Video
 

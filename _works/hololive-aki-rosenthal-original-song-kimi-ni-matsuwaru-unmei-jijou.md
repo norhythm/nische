@@ -13,10 +13,9 @@ image: "/works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unme
 
 ##### Tracklist
 
-| Track number | Title                                 | Credit |
-| ------------ | ------------------------------------- | ------ |
-| 01           | キミにまつわる運命事情                | Mixing |
-| 02           | キミにまつわる運命事情 (Instrumental) | Mixing |
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | キミにまつわる運命事情 | Mixing |
 
 ##### Video
 

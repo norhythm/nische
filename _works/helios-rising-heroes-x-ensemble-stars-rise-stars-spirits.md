@@ -10,13 +10,12 @@ tag:
 layout: square
 image: /works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                       | Credit |
-| ------------ | --------------------------- | ------ |
-| 01           | We Are Light                | Recording / Mixing |
-| 02           | We Are Light (Short Size)   | Recording / Mixing |
-| 03           | We Are Light (Instrumental) | Mixing |
+| Track number | Title        | Credit             |
+| ------------ | ------------ | ------------------ |
+| 01           | We Are Light | Recording / Mixing |
 
 ##### Video
 

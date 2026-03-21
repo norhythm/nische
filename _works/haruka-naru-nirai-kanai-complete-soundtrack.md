@@ -32,8 +32,6 @@ image: "/works/media/haruka-naru-nirai-kanai-complete-soundtrack.jpg"
 | 15           | ニライカナイはもう探さない       | Mixing |
 | 16           | 遥かなる想い出                   | Mixing |
 | 17           | Lost and found                   | Mixing |
-| 18           | Shangri-La...-Instrumental-      | Mixing |
-| 19           | Lost and found-Instrumental-     | Mixing |
 
 ##### Links
 

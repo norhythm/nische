@@ -10,12 +10,12 @@ tag:
 layout: square
 image: /works/media/memento-mori-rumika-lament-lumiere.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                  | Credit |
-| ------------ | ---------------------- | ------ |
-| 01           | lumière                | Mixing |
-| 02           | lumière (Instrumental) | Mixing |
+| Track number | Title   | Credit |
+| ------------ | ------- | ------ |
+| 01           | lumière | Mixing |
 
 ##### Video
 
