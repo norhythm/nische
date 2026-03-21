@@ -37,17 +37,21 @@ export function getPostBySlug(slug: string) {
     
     // frontmatterのurlがslugと一致する場合
     if (data.url === slug) {
+      // published: falseの場合はnullを返す
+      if (data.published === false) {
+        return null;
+      }
+
       // 日付がDateオブジェクトの場合は文字列に変換
       if (data.date instanceof Date) {
         data.date = data.date.toISOString().split('T')[0];
       }
-      
+
       return { ...data, slug: data.url, tag: sortTags(data.tag || []), content } as Post;
     }
   }
 
-  // 見つからない場合はnullを返す
-  throw new Error(`Post with slug "${slug}" not found`);
+  return null;
 }
 
 export function getAllPosts(): Post[] {
