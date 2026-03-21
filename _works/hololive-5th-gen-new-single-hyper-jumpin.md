@@ -18,6 +18,10 @@ image: "/works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg"
 | 01           | Hyper Jumpin'                | Mixing |
 | 02           | Hyper Jumpin' (Instrumental) | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UwB4ZeoeGtI?si=l0sAIBJ-qFw8D4Qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
