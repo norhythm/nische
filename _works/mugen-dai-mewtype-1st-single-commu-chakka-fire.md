@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-12-25"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "コミュ着火Fire!"
-url: "mugen-dai-mewtype-1st-single-commu-chakka-fire"
+published: true
+date: 2024-12-25
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: コミュ着火Fire!
+url: mugen-dai-mewtype-1st-single-commu-chakka-fire
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                         | Credit |
