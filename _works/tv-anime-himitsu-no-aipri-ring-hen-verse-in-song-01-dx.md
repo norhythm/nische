@@ -13,25 +13,13 @@ image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
 
 ##### Tracklist
 
-| Track number | Title                            | Credit |
-| ------------ | -------------------------------- | ------ |
-| 01           | キズナ×リンク                    | Mixing |
-| 02           | 超Easy Drive☆                    | Mixing |
-| 03           | わたしの大切にしてたこと         | Mixing |
-| 04           | ときめきグラビティ               | Mixing |
-| 05           | キズナ×リンク -inst.-            | Mixing |
-| 06           | 超Easy Drive☆ -inst.-            | Mixing |
-| 07           | わたしの大切にしてたこと -inst.- | Mixing |
-| 08           | ときめきグラビティ -inst.-       | Mixing |
+| Track number | Title         | Credit |
+| ------------ | ------------- | ------ |
+| 01           | キズナ×リンク | Mixing |
 
-##### CG Live
+##### Video
 
-| Track number | Title                    | Credit |
-| ------------ | ------------------------ | ------ |
-| 01           | キズナ×リンク            | Mixing |
-| 02           | 超Easy Drive☆            | Mixing |
-| 03           | わたしの大切にしてたこと | Mixing |
-| 04           | ときめきグラビティ       | Mixing |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rJjmBNs-n58?si=Ez1_Vn2BoYlOXZoN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
