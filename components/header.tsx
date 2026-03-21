@@ -23,15 +23,6 @@ export default function Header() {
             >
               Tsukasa Kikuchi
             </Link>
-            <Link
-              href="/append/"
-              className={`text-xs hover:text-gray-500 cursor-pointer transition-colors pointer-events-auto ml-4`}
-              onClick={() => {
-                setSelectedTag(null);
-              }}
-            >
-              Append用リンク
-            </Link>
           </h1>
           <nav>
             <ul className="flex space-x-4 md:space-x-8 pb-[2px] text-sm md:text-[18px] tracking-wider">

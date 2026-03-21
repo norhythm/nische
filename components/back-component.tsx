@@ -22,20 +22,18 @@ function getNavHistory(): string[] {
 export default function BackComponent({
   className = "",
   style = "layer",
-  append = false,
 }: {
   className?: string;
   style?: StyleType;
-  append?: boolean;
 }) {
   const router = useRouter();
   const { selectedTag } = useSelectedTagContext();
 
-  const path = append ? "/append" : "";
-
   const handleBack = () => {
     const navHistory = getNavHistory();
     const hasPreviousPage = navHistory.length > 1;
+
+    const path = "";
 
     if (hasPreviousPage) {
       // サイト内ナビゲーション履歴がある場合はhistory.back()

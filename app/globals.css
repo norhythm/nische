@@ -319,14 +319,14 @@ html:not(.scroll-restoring) body {
   animation: opacity 0.15s ease-out;
 }
 
-.page-works-append div[class^="markdown"] h5 {
+.page-works div[class^="markdown"] h5 {
   @apply md:w-full md:text-left;
 }
 
-.page-works-append div[class^="markdown"] ul {
+.page-works div[class^="markdown"] ul {
   @apply w-full justify-start flex-wrap;
 }
 
-.page-works-append div[class^="markdown"] ul a {
+.page-works div[class^="markdown"] ul a {
   min-width: 128px;
 }
