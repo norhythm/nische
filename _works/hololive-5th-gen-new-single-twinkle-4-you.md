@@ -18,6 +18,10 @@ image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
 | 01           | Twinkle 4 You                | Mixing |
 | 02           | Twinkle 4 You (Instrumental) | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l8ekZ6RKQMg?si=qLdl-MUBKwpaWmeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
