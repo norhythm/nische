@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2222-01-01
 holder: ダミーコンテンツ1
 artist: ダミーアーティスト1
