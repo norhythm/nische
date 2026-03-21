@@ -6,6 +6,7 @@ artist: ""
 title: "キャラクターソングCD Vol.3"
 url: "tv-anime-oshi-no-ko-character-song-cd-vol-3"
 tag:
+  - rec
   - mix
 layout: "square"
 image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
@@ -13,10 +14,10 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg"
 
 ##### Tracklist
 
-| Track number | Title            | Credit |
-| ------------ | ---------------- | ------ |
-| 02           | 「ピーマン体操」 | Mixing |
-| 03           | 「Full moon…!」  | Mixing |
+| Track number | Title            | Credit             |
+| ------------ | ---------------- | ------------------ |
+| 02           | 「ピーマン体操」 | Recording / Mixing |
+| 03           | 「Full moon…!」  | Recording / Mixing |
 
 ##### Links
 
