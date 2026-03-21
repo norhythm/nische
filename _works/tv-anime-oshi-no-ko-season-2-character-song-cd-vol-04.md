@@ -15,12 +15,14 @@ image: "/works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg"
 
 | Track number | Title                    | Credit |
 | ------------ | ------------------------ | ------ |
-| 01           | POP IN 2                 | Mixing |
 | 02           | Say What?                | Mixing |
 | 03           | 深海52Hz                 | Mixing |
-| 04           | POP IN 2 (Instrumental)  | Mixing |
 | 05           | Say What? (Instrumental) | Mixing |
 | 06           | 深海52Hz (Instrumental)  | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtkEBn1iKc8?si=UnPg3oNLzBEk3Tz_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
