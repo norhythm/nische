@@ -1,16 +1,15 @@
 ---
 published: true
-date: "2025-07-30"
-holder: "メメントモリ"
-artist: "天音かなた"
-title: "lumière"
-url: "memento-mori-rumika-lament-lumiere"
+date: 2025-07-30
+holder: メメントモリ
+artist: 天音かなた
+title: lumière
+url: memento-mori-rumika-lament-lumiere
 tag:
   - mix
-layout: "square"
-image: "/works/media/memento-mori-rumika-lament-lumiere.jpg"
+layout: square
+image: /works/media/memento-mori-rumika-lament-lumiere.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
@@ -25,6 +24,5 @@ image: "/works/media/memento-mori-rumika-lament-lumiere.jpg"
 ##### Links
 
 - <a data-type="button" href="https://mememori-game.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://hololive.hololivepro.com/music/602/" target="_blank">Official Page</a>
 - <a data-type="button" href="https://cover.lnk.to/DKOWZ9" target="_blank">Stream & Buy</a>
