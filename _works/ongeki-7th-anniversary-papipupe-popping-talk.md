@@ -1,21 +1,25 @@
 ---
 published: true
-date: "2025-07-28"
-holder: "ONGEKI"
-artist: ""
-title: "パピプペ Popping! Talk!"
-url: "ongeki-7th-anniversary-papipupe-popping-talk"
+date: 2025-07-28
+holder: オンゲキ
+artist: オンゲキシューターズ
+title: パピプペ Popping! Talk!
+url: ongeki-7th-anniversary-papipupe-popping-talk
 tag:
   - mix
-layout: "square"
-image: "/works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg"
+  - rec
+layout: square
+image: /works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                   | Credit |
 | ------------ | ----------------------- | ------ |
-| 01           | パピプペ Popping! Talk! | Mixing |
+| 01           | パピプペ Popping! Talk! | Recording / Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51fU-ePZdiM?si=RbY93gwv-QIHE7mR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
