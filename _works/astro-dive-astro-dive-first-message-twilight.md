@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-12-25
 holder: Astro Dive
 title: Astro Dive First Message – Twi■■light -
