@@ -1,7 +1,6 @@
 ---
 published: true
 date: 2025-04-30
-holder: ""
 artist: 夢限大みゅーたいぷ
 title: Hi-Vision
 url: mugen-dai-mewtype-2nd-single-hi-vision
@@ -10,7 +9,6 @@ tag:
 layout: square
 image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 ---
-
 ##### Tracklist
 
 |     |                           |        |
@@ -21,8 +19,6 @@ image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 | 06  | テレパシー -instrumental- | Mixing |
 
 ##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ecjo9jpoPM?si=XYDVhg0suhgWCV3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49huUnynCPQ?si=Aca5Cpv4v0Q_vv40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
