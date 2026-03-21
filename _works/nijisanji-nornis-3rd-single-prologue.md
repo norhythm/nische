@@ -1,23 +1,21 @@
 ---
 published: true
-date: "2025-10-29"
-holder: "にじさんじ"
-artist: "Nornis"
-title: "Prologue"
-url: "nijisanji-nornis-3rd-single-prologue"
+date: 2025-10-29
+holder: にじさんじ
+artist: Nornis
+title: Prologue
+url: nijisanji-nornis-3rd-single-prologue
 tag:
   - mix
-layout: "square"
-image: "/works/media/nijisanji-nornis-3rd-single-prologue.jpg"
+layout: square
+image: /works/media/nijisanji-nornis-3rd-single-prologue.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                            | Credit |
 | ------------ | -------------------------------- | ------ |
-| 01           | Prologue                         | Mixing |
-| 02           | 優しい君へ                       | Mixing |
-| 03           | 優しい君へ (Chamber Arrangement) | Mixing |
+| ex01           | Abyssal Zone (Duet ver.)                        | Mixing |
+| ex02           | Transparent Blue (Duet ver.)                       | Mixing |
 
 ##### Video
 
