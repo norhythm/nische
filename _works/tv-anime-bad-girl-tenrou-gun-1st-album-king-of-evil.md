@@ -15,7 +15,7 @@ image: "/works/media/tv-anime-bad-girl-tenrou-gun-1st-album-king-of-evil.jpg"
 
 | Track number | Title                                            | Credit |
 | ------------ | ------------------------------------------------ | ------ |
-| 01           | ツッパリHigh School Rock'n Roll(登校編)／天狼群  | Mixing |
+| 01           | ツッパリHigh School Rock'n Roll (登校編)／天狼群 | Mixing |
 | 02           | 彼女の“Modern…”／天狼群                          | Mixing |
 | 03           | すーぱーびっぐらぶ！／天狼群                     | Mixing |
 | 04           | 超らぶふぉーえばーもあ／優谷 優(CV.橘 杏咲)  | Mixing |
