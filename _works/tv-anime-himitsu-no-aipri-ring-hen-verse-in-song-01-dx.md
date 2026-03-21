@@ -1,21 +1,22 @@
 ---
 published: true
-date: "2025-09-24"
-holder: "ひみつのアイプリ リング編"
-artist: ""
-title: "VERSE IN SONG 01 DX"
-url: "tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx"
+date: 2025-09-24
+holder: ひみつのアイプリ リング編
+title: VERSE IN SONG 01 DX
+url: tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg"
+  - rec
+layout: square
+image: /works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-01-dx.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
-| 01           | キズナ×リンク | Mixing |
+| 01           | キズナ×リンク | Recording / Mixing |
+| 05           | キズナ×リンク (Inst ver.) | Mixing |
+
 
 ##### Video
 
