@@ -17,6 +17,10 @@ image: "/works/media/hololive-blue-journey-3rd-digital-single-ano-hi-no-bokura-e
 | ------------ | -------------- | ------ |
 | 01           | あの日の僕らへ | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p30XdSlkWOc?si=8qmUYS6cHZwWkyHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
