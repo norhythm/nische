@@ -30,3 +30,6 @@ next-env.d.ts
 .DS_Store
 .env*.local
 node_modules
+
+.temp/
+public/temp/*
