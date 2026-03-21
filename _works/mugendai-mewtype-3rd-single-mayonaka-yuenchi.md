@@ -1,16 +1,14 @@
 ---
 published: true
-date: "2025-09-03"
-holder: ""
-artist: "夢限大みゅーたいぷ"
-title: "真夜中遊園地"
-url: "mugendai-mewtype-3rd-single-mayonaka-yuenchi"
+date: 2025-09-03
+artist: 夢限大みゅーたいぷ
+title: 真夜中遊園地
+url: mugendai-mewtype-3rd-single-mayonaka-yuenchi
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
+layout: square
+image: /works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                      | Credit |
@@ -24,11 +22,11 @@ image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WR71oFEELWI?si=AQuYZDCsE-F6WXBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QmrVn2ckUr8?si=5Zrae084eVm_2Kun" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYkNrdsjK0k?si=f__JOizXyQ5FwnVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZcKt-aAmKfA?si=UdPIneknxFjQkuxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
