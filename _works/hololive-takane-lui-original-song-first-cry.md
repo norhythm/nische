@@ -20,7 +20,7 @@ image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pspx9xOgZf4?si=-XKbnrjByNADClaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7yOl46164Y?si=FmwlynaNNmClnmJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
