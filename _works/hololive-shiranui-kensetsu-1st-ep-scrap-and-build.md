@@ -15,11 +15,7 @@ image: "/works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg"
 
 | Track number | Title                              | Credit |
 | ------------ | ---------------------------------- | ------ |
-| 01           | スクラップ&ビルド！                | Mixing |
-| 02           | なかま歌                           | Mixing |
-| 03           | ワクワクトレジャーワールド         | Mixing |
 | 04           | ひかえめわんだーらん               | Mixing |
-| 05           | Run or Run                         | Mixing |
 | 06           | しらないファンタスティックワールド | Mixing |
 
 ##### Video
