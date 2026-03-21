@@ -6,6 +6,7 @@ artist: ""
 title: "キャラクターソングCD Vol.1"
 url: "tv-anime-oshi-no-ko-character-song-cd-vol-1"
 tag:
+  - rec
   - mix
 layout: "square"
 image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-1.jpg"
@@ -13,10 +14,10 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-1.jpg"
 
 ##### Tracklist
 
-| Track number | Title                         | Credit |
-| ------------ | ----------------------------- | ------ |
-| 01           | STAR☆T☆RAIN -アイ Solo Ver.-  | Mixing |
-| 03           | HEART's♡KISS -アイ Solo Ver.- | Mixing |
+| Track number | Title                         | Credit             |
+| ------------ | ----------------------------- | ------------------ |
+| 01           | STAR☆T☆RAIN -アイ Solo Ver.-  | Recording / Mixing |
+| 03           | HEART's♡KISS -アイ Solo Ver.- | Recording / Mixing |
 
 ##### Video
 
