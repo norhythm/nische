@@ -13,18 +13,10 @@ image: "/works/media/tsunomaki-watame-3rd-album-hop-step-sheep.jpg"
 
 ##### Tracklist
 
-| Track number | Title                 | Credit |
-| ------------ | --------------------- | ------ |
-| 01           | Beautiful Circle      | Mixing |
-| 02           | きっと                | Mixing |
-| 03           | Fins                  | Mixing |
-| 04           | Go my way             | Mixing |
-| 05           | Now on step           | Mixing |
-| 06           | What an amazing swing | Mixing |
-| 07           | WataMeister           | Mixing |
-| 08           | 君色ハナミズキ        | Mixing |
-| 09           | 夢見る羊              | Mixing |
-| 10           | Happy day to you!     | Mixing |
+| Track number | Title             | Credit |
+| ------------ | ----------------- | ------ |
+| 09           | 夢見る羊          | Mixing |
+| 10           | Happy day to you! | Mixing |
 
 ##### Video
 
