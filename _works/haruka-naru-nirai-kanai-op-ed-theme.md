@@ -18,6 +18,10 @@ image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
 | 01           | Shangri-La...  | Mixing |
 | 02           | Lost and found | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jaGq889QTaQ?si=ncvaWRglxuunQ8Y-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://project-navel.com/niraikanai/" target="_blank">Official Site</a>
