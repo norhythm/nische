@@ -29,6 +29,12 @@ image: "/works/media/hololive-blue-journey-1st-album-yoake-no-uta.jpg"
 | 12           | サザンクロス                   | Mixing |
 | 13           | The Bonus Track (Instrumental) | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPTz7xfVqMk?si=F2j6QpdpycuNfPce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBQEK-D_IeQ?si=QVdmwvP1FaQ-YjW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://sp.universal-music.co.jp/bluejourney/yoakenouta/" target="_blank">Official Site</a>
