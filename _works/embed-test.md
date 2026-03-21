@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2222-01-01
-holder: ダミーコンテンツ
-artist: ダミーアーティスト
-title: ダミータイトル
+holder: ダミーコンテンツ1
+artist: ダミーアーティスト1
+title: ダミータイトル1
 url: embed-test
 tag:
-  - rec
   - mix
   - master
+  - rec
 layout: square
 image: /images/placeholder.svg
 ---
