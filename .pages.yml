@@ -40,12 +40,11 @@ content:
         type: select
         options:
           values:
-            - value: square
+            - name: square
               label: 正方形
-              selected: true
-            - value: rect-h
+            - name: rect-h
               label: 縦長
-            - value: rect-v
+            - name: rect-v
               label: 横長
       - name: image
         label: Image
