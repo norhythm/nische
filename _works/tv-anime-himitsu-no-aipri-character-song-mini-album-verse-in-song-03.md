@@ -1,21 +1,20 @@
 ---
 published: true
-date: "2025-03-26"
-holder: "ひみつのアイプリ"
-artist: ""
-title: "VERSE IN SONG 03"
-url: "tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03"
+date: 2025-03-26
+holder: ひみつのアイプリ
+title: VERSE IN SONG 03
+url: tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03.jpg"
+  - rec
+layout: square
+image: /works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-03.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 03           | ニュースタージョーカー | Mixing |
+| 03           | ニュースタージョーカー | Recording / Mixing |
 
 ##### Video
 
