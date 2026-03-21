@@ -13,14 +13,9 @@ image: "/works/media/astro-dive-astro-dive-first-message-twilight.jpg"
 
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 01           | Meteor-light                 | Mixing |
-| 02           | Drama Track -Twi■■light- 1   | Mixing |
-| 03           | Drama Track -Twi■■light- 2   | Mixing |
-| 04           | Drama Track -Twi■■light- 3   | Mixing |
-| 05           | ASTRONOTE（Twi■■light Ver.） | Mixing |
-| 06           | Meteor-light（Instrumental） | Mixing |
+| Track number | Title        | Credit |
+| ------------ | ------------ | ------ |
+| 01           | Meteor-light | Mixing |
 
 ##### Video
 

@@ -16,11 +16,6 @@ image: "/works/media/astro-dive-astro-dive-first-message-atomosureinn.jpg"
 | Track number | Title                                           | Credit |
 | ------------ | ----------------------------------------------- | ------ |
 | 01           | SHOUT ALIVE／作詞・作曲：ZAQ　編曲：園田 健太郎 | Mixing |
-| 02           | Drama Track -ATOMOSUREINN- 1                    | Mixing |
-| 03           | Drama Track -ATOMOSUREINN- 2                    | Mixing |
-| 04           | Drama Track -ATOMOSUREINN- 3                    | Mixing |
-| 05           | ASTRONOTE（ATOMOSUREINN Ver.）                  | Mixing |
-| 06           | SHOUT ALIVE（Instrumental）                     | Mixing |
 
 ##### Video
 
