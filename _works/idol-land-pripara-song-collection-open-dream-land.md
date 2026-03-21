@@ -1,23 +1,22 @@
 ---
-published: false
-date: "2024-11-13"
-holder: "アイドルランドプリパラ"
-artist: ""
-title: "OPEN DREAM LAND!"
-url: "idol-land-pripara-song-collection-open-dream-land"
+published: true
+date: 2024-11-13
+holder: アイドルランドプリパラ
+title: OPEN DREAM LAND!
+url: idol-land-pripara-song-collection-open-dream-land
 tag:
   - mix
-layout: "square"
-image: "/works/media/idol-land-pripara-song-collection-open-dream-land.jpg"
+  - rec
+layout: square
+image: /works/media/idol-land-pripara-song-collection-open-dream-land.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                      | Credit |
 | ------------ | ------------------------------------------ | ------ |
-| 01           | OPEN DREAM LAND!                           | Mixing |
-| 04           | My Way Star☆                               | Mixing |
-| 05           | リープ・トゥ・ザ・ゴールデン・イヤー！！！ | Mixing |
+| 01           | OPEN DREAM LAND!                           | Recording / Mixing |
+| 04           | My Way Star☆                               | Recording / Mixing |
+| 05           | リープ・トゥ・ザ・ゴールデン・イヤー！！！ | Recording / Mixing |
 
 ##### Video
 
