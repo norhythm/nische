@@ -15,9 +15,6 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-4-5.jpg"
 
 | Track number | Title                          | Credit |
 | ------------ | ------------------------------ | ------ |
-| 01           | POP IN 2 -ルビー Solo Ver.-    | Mixing |
-| 02           | POP IN 2 -有馬かな Solo Ver.-  | Mixing |
-| 03           | POP IN 2 -MEMちょ Solo Ver.-   | Mixing |
 | 04           | Say What? -ルビー Solo Ver.-   | Mixing |
 | 05           | Say What? -有馬かな Solo Ver.- | Mixing |
 | 06           | Say What? -MEMちょ Solo Ver.-  | Mixing |
