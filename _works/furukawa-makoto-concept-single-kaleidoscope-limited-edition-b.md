@@ -20,6 +20,10 @@ image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition
 | 03           | カレイドスコープ -Instrumental- | Mixing |
 | 04           | incomplete -Instrumental-       | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnIGDy7OJ9E?si=ZAKp2ygvY0SWte30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
