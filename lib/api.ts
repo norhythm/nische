@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { join } from "path";
 
 const postsDirectory = join(process.cwd(), "_works");
+const showUnpublished = process.env.SHOW_UNPUBLISHED === "true";
 
 const tagOrder: Record<string, number> = {
   recording: 0,
@@ -37,8 +38,8 @@ export function getPostBySlug(slug: string) {
     
     // frontmatterのurlがslugと一致する場合
     if (data.url === slug) {
-      // published: falseの場合はnullを返す
-      if (data.published === false) {
+      // published: falseの場合はnullを返す（SHOW_UNPUBLISHED時は除く）
+      if (data.published === false && !showUnpublished) {
         return null;
       }
 
@@ -70,8 +71,8 @@ export function getAllPosts(): Post[] {
       
       return { ...data, slug: data.url, tag: sortTags(data.tag || []), content } as Post;
     })
-    // published: trueのみをフィルタリング
-    .filter((post) => post.published === true)
+    // published: trueのみをフィルタリング（SHOW_UNPUBLISHED時は全件表示）
+    .filter((post) => showUnpublished || post.published === true)
     // sort posts by date in descending order
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
   return posts;

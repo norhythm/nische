@@ -26,7 +26,7 @@ export default async function Post(props: Params, modal: false) {
   const params = await props.params;
   const post = getPostBySlug(params.slug);
 
-  if (!post || post.published === false) {
+  if (!post) {
     return notFound();
   }
 
