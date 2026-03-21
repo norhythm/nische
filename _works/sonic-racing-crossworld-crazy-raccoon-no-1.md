@@ -24,4 +24,5 @@ image: "/works/media/sonic-racing-crossworld-crazy-raccoon-no-1.jpg"
 ##### Links
 
 - <a data-type="button" href="https://sonic.sega.jp/SonicRacingCrossWorlds/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://crazyraccoon.jp/" target="_blank">Crazy Raccoon</a>
 - <a data-type="button" href="https://segajp.lnk.to/srcwcr" target="_blank">Stream & Buy</a>
