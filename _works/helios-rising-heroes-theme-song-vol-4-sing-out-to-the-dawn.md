@@ -2,7 +2,6 @@
 published: true
 date: 2025-07-23
 holder: エリオスライジングヒーローズ
-artist: 主題歌 Vol.4
 title: Sing out to the Dawn
 url: helios-rising-heroes-sing-out-to-the-dawn
 tag:
