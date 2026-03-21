@@ -13,8 +13,8 @@ image: /works/media/aipri-ring-character-song-mini-album-verse-in-song-03-dx.jpg
 
 | Track number | Title                                         | Credit |
 | ------------ | --------------------------------------------- | ------ |
-| 03           | ミライのプリンセス（リングソロVer.）          | Recording | Mixing |
-| 04           | ミライのプリンセス（リング&つむぎデュオVer.） | Recording | Mixing |
+| 03           | ミライのプリンセス（リングソロVer.）          | Recording / Mixing |
+| 04           | ミライのプリンセス（リング&つむぎデュオVer.） | Recording / Mixing |
 | 07           | ミライのプリンセス -inst.-                    | Mixing |
 
 ##### Video
