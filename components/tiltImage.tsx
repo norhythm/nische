@@ -239,7 +239,7 @@ export default function FullScreenTiltImage({
       className={`relative ${parentClassName}`}
       style={{
         transform,
-        aspectRatio: `${width} / ${height}`,
+        ...(article && { aspectRatio: `${width} / ${height}` }),
         ...(clip && { clipPath: `url(#${maskId})` }),
       }}
     >
