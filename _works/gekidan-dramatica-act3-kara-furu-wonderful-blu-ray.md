@@ -40,12 +40,6 @@ image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-blu-ray.jpg"
 | 23           | [ACT3] BGM 16                  | Mixing |
 | 24           | カラ降るワンダフル！           | Mixing |
 
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Igz5VceNwM?si=MmTUBM8-KpxlOC4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h909HcFsZc0?si=TNPopbEfmDXfrrpe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ##### Links
 
 - <a data-type="button" href="https://www.fwinc.co.jp/dramatica-stage/act3/" target="_blank">Official Site</a>
