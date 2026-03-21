@@ -12,23 +12,12 @@ layout: square
 image: /works/media/helios-rising-heroes-third-season-overflow-ending-theme.jpg
 ---
 
-如月 レン（CV：石谷 春貴）
-ガスト・アドラー（CV：日野 聡）
-ヴィクター・ヴァレンタイン（CV：諏訪部 順一）
-マリオン・ブライス（CV：小野 賢章）
-
-HELIOS Rising Heroes THIRD SEASON 「Overflow」
-ENDING THEME
-[https://www.fwinc.co.jp/cd/100634/](https://www.fwinc.co.jp/cd/100634/)
-
 ##### Tracklist
 
-| Track number | Title                                        | Credit             |
-| ------------ | -------------------------------------------- | ------------------ |
-| 01           | Signs of Dawn                                | Recording / Mixing |
-| 02           | Original Drama Track「頼れるノースセクター」 | Recording / Mixing |
-| 03           | Original Drama Track「ガールズトーーク！」   | Recording / Mixing |
-| 04           | Signs of Dawn (Instrumental）                | Recording / Mixing |
+| Track number | Title                        | Credit             |
+| ------------ | ---------------------------- | ------------------ |
+| 01           | Signs of Dawn                | Recording / Mixing |
+| 04           | Signs of Dawn (Instrumental) | Recording / Mixing |
 
 ##### Video
 
