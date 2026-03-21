@@ -12,14 +12,6 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://nische.jp"),
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
-  robots: {
-    index: false,
-    follow: false,
-    nocache: true,
-    noarchive: true,
-    noimageindex: true,
-    nosnippet: true,
-  },
   openGraph: {
     title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
     description: "Professional audio engineering services by Tsukasa Kikuchi",
