@@ -1,22 +1,21 @@
 ---
 published: false
-date: "2024-10-09"
-holder: "推しの子"
-artist: ""
-title: "キャラクターソングCD Vol.04"
-url: "tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04"
+date: 2024-10-09
+holder: 推しの子
+title: キャラクターソングCD Vol.04
+url: tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg"
+  - rec
+layout: square
+image: /works/media/tv-anime-oshi-no-ko-season-2-character-song-cd-vol-04.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title     | Credit |
 | ------------ | --------- | ------ |
-| 02           | Say What? | Mixing |
-| 03           | 深海52Hz  | Mixing |
+| 02           | Say What? | Recording / Mixing |
+| 03           | 深海52Hz  | Recording / Mixing |
 
 ##### Video
 
