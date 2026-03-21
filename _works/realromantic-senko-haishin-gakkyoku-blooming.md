@@ -17,6 +17,10 @@ image: "/works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg"
 | ------------ | -------- | ------ |
 | 01           | BLOOMING | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2XZ5OVmdPg?si=Ki8I5NzALOgP_2fn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
