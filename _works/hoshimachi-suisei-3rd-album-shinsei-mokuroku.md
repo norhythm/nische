@@ -11,23 +11,11 @@ layout: "square"
 image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 ---
 
-星街すいせいの3rdアルバム新星目録のレコーディング、ミキシング、マスタリングを担当しました。彼女の多彩な表現力を最大限に引き出すため、繊細なボーカル処理と力強いサウンドメイクの両立を追求しました。
-
 ##### Tracklist
 
-| Track number | Title                          | Credit |
-| ------------ | ------------------------------ | ------ |
-| 01           | 先駆者                         | Mixing |
-| 02           | ビビデバ                       | Mixing |
-| 03           | AWAKE                          | Mixing |
-| 04           | ビーナスバグ                   | Mixing |
-| 05           | Caramel Pain                   | Mixing |
-| 06           | ムーンライト                   | Mixing |
-| 07           | DEADPOOL feat. 花譜            | Mixing |
-| 08           | レクイエム (星街すいせい ver.) | Mixing |
-| 09           | ザイオン                       | Mixing |
-| 10           | 繭と心                         | Mixing |
-| 11           | 綺麗事                         | Mixing |
+| Track number | Title  | Credit |
+| ------------ | ------ | ------ |
+| 10           | 繭と心 | Mixing |
 
 ##### Video
 
