@@ -1,8 +1,8 @@
 ---
 published: true
 date: 2025-07-23
-holder: "エリオスライジングヒーローズ"
-artist: "主題歌 Vol.4"
+holder: エリオスライジングヒーローズ
+artist: 主題歌 Vol.4
 title: Sing out to the Dawn
 url: helios-rising-heroes-sing-out-to-the-dawn
 tag:
@@ -11,13 +11,12 @@ tag:
 layout: square
 image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                | Credit             |
 | ------------ | ------------------------------------ | ------------------ |
 | 01           | Sing out to the Dawn                 | Recording / Mixing |
-| 04           | Sing out to the Dawn (Instrumental） | Recording / Mixing |
+| 04           | Sing out to the Dawn (Instrumental） | Mixing |
 
 ##### Video
 
