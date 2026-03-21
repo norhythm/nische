@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-11-01"
-holder: "あんさんぶるスターズ！！"
-artist: "CAFE CINNAMON"
-title: "ES idol songs Cinnamon arrange selection Vol.5"
-url: "cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5"
+published: true
+date: 2024-11-01
+holder: あんさんぶるスターズ！！
+artist: CAFE CINNAMON
+title: ES idol songs Cinnamon arrange selection Vol.5
+url: cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5
 tag:
   - mix
-layout: "square"
-image: "/works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg"
+layout: square
+image: /works/media/cafe-cinnamon-arrange-cd-es-idol-songs-cinnamon-arrange-selection-vol-5.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                     | Credit |
