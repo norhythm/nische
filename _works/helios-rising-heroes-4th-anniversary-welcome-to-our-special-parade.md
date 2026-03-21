@@ -1,21 +1,20 @@
 ---
 published: true
-date: "2025-10-27"
-holder: "エリオスライジングヒーローズ"
-artist: ""
-title: "WELCOME TO OUR SPECIAL PARADE!"
-url: "helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade"
+date: 2025-10-27
+holder: エリオスライジングヒーローズ
+title: WELCOME TO OUR SPECIAL PARADE!
+url: helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade.jpg"
+  - rec
+layout: square
+image: /works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-parade.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                          | Credit |
 | ------------ | ------------------------------ | ------ |
-| 01           | WELCOME TO OUR SPECIAL PARADE! | Mixing |
+| 01           | WELCOME TO OUR SPECIAL PARADE! | Recording / Mixing |
 
 ##### Video
 
