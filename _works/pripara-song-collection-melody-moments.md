@@ -13,21 +13,18 @@ image: "/works/media/pripara-song-collection-melody-moments.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                                           | Credit |
-| ------------ | --------------------------------------------------------------- | ------ |
-| 01           | ウィー・ラブ・プリパラ！ SoLaMi♡SMILE                           | Mixing |
-| 02           | Breaking Bloom!!! DressingPafé                                  | Mixing |
-| 03           | ストロベリー・バレット・ナイト マリオ                           | Mixing |
-| 04           | DARKNESS SOUL DARK NIGHTMARE                                    | Mixing |
-| 05           | オレーザービーム WITH                                           | Mixing |
-| 06           | Burn! Cosmic Liberty コスモ                                     | Mixing |
-| 07           | NonSugar × Age NonSugar                                         | Mixing |
-| 08           | 以心伝心パンチライン シオン、にの                               | Mixing |
-| 09           | L'amour en Tricolore ～ラムール・アン・トリコロール～ Tricolore | Mixing |
-| 10           | パルプス・ノンフィクション♪ ふわり                              | Mixing |
-| 11           | ぽわぽわ♡NURSE？ そふぃ、レオナ、ふわり                         | Mixing |
-| 12           | シリアル・ドリーマー!!! MY☆DREAM                                | Mixing |
-| 13           | Stay Tuned DressingPafé                                         | Mixing |
+| Track number | Title                                                 | Credit |
+| ------------ | ----------------------------------------------------- | ------ |
+| 01           | ウィー・ラブ・プリパラ！                              | Mixing |
+| 02           | Breaking Bloom!!!                                     | Mixing |
+| 03           | ストロベリー・バレット・ナイト                        | Mixing |
+| 06           | Burn! Cosmic Liberty                                  | Mixing |
+| 07           | NonSugar × Age                                        | Mixing |
+| 08           | 以心伝心パンチライン                                  | Mixing |
+| 09           | L'amour en Tricolore ～ラムール・アン・トリコロール～ | Mixing |
+| 10           | パルプス・ノンフィクション♪                           | Mixing |
+| 12           | シリアル・ドリーマー!!!                               | Mixing |
+| 13           | Stay Tuned                                            | Mixing |
 
 ##### Video
 
