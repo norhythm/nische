@@ -30,6 +30,8 @@ image: "/works/media/riot-music-matsunaga-iori-1st-album-white-reflections.jpg"
 
 ##### Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBMuorVo6yg?si=OV7BQ7nuf-qnlRpr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJTLbpnS204?si=HlCeYvtcd6doRYMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
