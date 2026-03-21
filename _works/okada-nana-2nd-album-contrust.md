@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-11-27"
-holder: ""
-artist: "岡田奈々"
-title: "Contrust"
-url: "okada-nana-2nd-album-contrust"
+published: true
+date: 2024-11-27
+artist: 岡田奈々
+title: Contrust
+url: okada-nana-2nd-album-contrust
 tag:
   - mix
-layout: "square"
-image: "/works/media/okada-nana-2nd-album-contrust.jpg"
+layout: square
+image: /works/media/okada-nana-2nd-album-contrust.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
