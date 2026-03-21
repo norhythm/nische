@@ -38,7 +38,7 @@ export default function KeyboardNavigation({
       if (touchStartX.current === null || touchEndX.current === null) return;
 
       const diff = touchStartX.current - touchEndX.current;
-      const threshold = 50;
+      const threshold = 100;
 
       if (Math.abs(diff) > threshold) {
         if (diff > 0 && nextUrl) {
