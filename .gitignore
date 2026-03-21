@@ -31,5 +31,3 @@ next-env.d.ts
 .env*.local
 node_modules
 
-temp/
-public/temp/*
