@@ -49,6 +49,10 @@ image: "/works/media/true-best-album-true-the-best.jpg"
 | 14           | Unsung ballad                   | Mixing |
 | 15           | DelighT                         | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6fUsfL8UKw?si=E-t6XI_xWz5WJaaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://true-singer.com/" target="_blank">Official Site</a>
