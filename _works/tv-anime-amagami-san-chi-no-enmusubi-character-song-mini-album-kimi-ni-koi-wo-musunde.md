@@ -1,22 +1,24 @@
 ---
 published: false
-date: "2024-11-20"
-holder: "甘神さんちの縁結び"
-artist: ""
-title: "君に恋を結んで"
-url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde"
+date: 2024-11-20
+holder: 甘神さんちの縁結び
+title: 君に恋を結んで
+url: tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde.jpg"
+layout: square
+image: /works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-kimi-ni-koi-wo-musunde.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title          | Credit |
 | ------------ | -------------- | ------ |
 | 01           | 君に恋を結んで | Mixing |
 | 02           | 桜のかくしごと | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TC0cyKYyeJ4?si=QsywZGansxXPoPiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
