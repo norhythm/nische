@@ -13,14 +13,14 @@ image: "/works/media/hatano-wataru-concept-mini-album-dawn.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                      | Credit |
-| ------------ | ------------------------------------------ | ------ |
-| 01           | 歩 ～をりふしの唄～                        | Mixing |
-| 02           | をりふしの唄                               | Mixing |
-| 03           | まどろみ ～夢幻の待ち合わせ～              | Mixing |
-| 04           | 夢幻の待ち合わせ                           | Mixing |
-| 05           | ミチシルベ ～星と旅人～（with 西山宏太朗） | Mixing |
-| 06           | 星と旅人（with 西山宏太朗）                | Mixing |
+| Track number | Title                                            | Credit |
+| ------------ | ------------------------------------------------ | ------ |
+| 01           | 歩 ～をりふしの唄～ (朗読)                       | Mixing |
+| 02           | をりふしの唄                                     | Mixing |
+| 03           | まどろみ ～夢幻の待ち合わせ～ (朗読)             | Mixing |
+| 04           | 夢幻の待ち合わせ                                 | Mixing |
+| 05           | ミチシルベ ～星と旅人～（with 西山宏太朗）(朗読) | Mixing |
+| 06           | 星と旅人（with 西山宏太朗）                      | Mixing |
 
 ##### Video
 
