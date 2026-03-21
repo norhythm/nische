@@ -1,21 +1,21 @@
 ---
 published: true
-date: "2025-03-02"
-holder: "Hololive"
-artist: "桃鈴ねね"
-title: "LOVE受信、ヒクツ発信"
-url: "momosuzu-nene-love-jushin-hikutsu-hasshin"
+date: 2025-03-02
+holder: Hololive
+artist: 桃鈴ねね
+title: LOVE受信、ヒクツ発信
+url: momosuzu-nene-love-jushin-hikutsu-hasshin
 tag:
   - mix
-layout: "square"
-image: "/works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg"
+  - rec
+layout: square
+image: /works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                               | Credit |
 | ------------ | ----------------------------------- | ------ |
-| 01           | LOVE受信、ヒクツ発信                | Mixing |
+| 01           | LOVE受信、ヒクツ発信                | Recording / Mixing |
 | 02           | LOVE受信、ヒクツ発信 (Instrumental) | Mixing |
 
 ##### Video
