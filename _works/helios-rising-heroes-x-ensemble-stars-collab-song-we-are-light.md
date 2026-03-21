@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-11-01"
-holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
-artist: ""
-title: "We Are Light"
-url: "helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light"
+published: true
+date: 2024-11-01
+holder: エリオスライジングヒーローズ × あんさんぶるスターズ！！
+title: We Are Light
+url: helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light.jpg"
+layout: square
+image: /works/media/helios-rising-heroes-x-ensemble-stars-collab-song-we-are-light.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
