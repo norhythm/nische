@@ -1,21 +1,20 @@
 ---
 published: true
-date: "2025-04-06"
-holder: "ひみつのアイプリ"
-artist: ""
-title: "キズナ×リンク"
-url: "tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link"
+date: 2025-04-06
+holder: ひみつのアイプリ
+title: キズナ×リンク
+url: tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link
 tag:
   - mix
-layout: "rect-v"
-image: "/works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link.jpg"
+  - rec
+layout: rect-v
+image: /works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
-| 01           | キズナ×リンク | Mixing |
+| 01           | キズナ×リンク | Recording / Mixing |
 
 ##### Video
 
