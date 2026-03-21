@@ -19,7 +19,7 @@ image: "/works/media/sawamura-kirari-3rd-digital-single-genkai-lost-world.jpg"
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxlonNnYMDY?si=nYVylm4CbHXVky1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xYFA50sglio?si=UwQeo-tofdAUl_Nj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
