@@ -1,16 +1,16 @@
 ---
 published: true
-date: "2024-12-24"
-holder: "Hololive"
-artist: "白上フブキ"
-title: "ストーリーテラー"
-url: "shirakami-fubuki-storyteller"
+date: 2024-12-24
+holder: Hololive
+artist: 白上フブキ
+title: ストーリーテラー
+url: shirakami-fubuki-storyteller
 tag:
   - mix
-layout: "rect-h"
-image: "/works/media/shirakami-fubuki-storyteller.jpg"
+  - rec
+layout: rect-h
+image: /works/media/shirakami-fubuki-storyteller.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title            | Credit |
