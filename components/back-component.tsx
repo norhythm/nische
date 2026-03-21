@@ -7,15 +7,14 @@ import MobileTouchCursor from "./mobile-touch-cursor";
 
 type StyleType = "layer" | "button" | "mobile-cursor";
 
-const NAV_HISTORY_KEY = "navHistory";
+const PREV_PATH_KEY = "prevPath";
 
-function getNavHistory(): string[] {
-  if (typeof window === "undefined") return [];
+function getPrevPath(): string | null {
+  if (typeof window === "undefined") return null;
   try {
-    const stored = sessionStorage.getItem(NAV_HISTORY_KEY);
-    return stored ? JSON.parse(stored) : [];
+    return sessionStorage.getItem(PREV_PATH_KEY);
   } catch {
-    return [];
+    return null;
   }
 }
 
@@ -30,20 +29,15 @@ export default function BackComponent({
   const { selectedTag } = useSelectedTagContext();
 
   const handleBack = () => {
-    const navHistory = getNavHistory();
-    const hasPreviousPage = navHistory.length > 1;
+    const prevPath = getPrevPath();
 
-    const path = "";
-
-    if (hasPreviousPage) {
-      // サイト内ナビゲーション履歴がある場合はhistory.back()
+    if (prevPath === "/") {
       window.history.back();
     } else {
-      // 外部からの直接アクセスまたは履歴がない場合はトップページへ
       if (selectedTag) {
-        router.push(`${path}/?tag=${selectedTag}`);
+        router.push(`/?tag=${selectedTag}`);
       } else {
-        router.push(`${path}/`);
+        router.push("/");
       }
     }
   };

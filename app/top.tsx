@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo, useRef } from "react";
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
 
@@ -163,7 +164,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                 work.layout === "rect-v" ? "px-[10%]" : ""
               } relative flex justify-center items-center animate-slide-in-up`}
               >
-                <a
+                <Link
                   href={buildUrl(`/works/${work.url}/`, selectedTag)}
                   className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-35 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
                 >
@@ -181,7 +182,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                       childClassName="drop-shadow-md group-hover/item:scale-105 transition-transform"
                     />
                   </div>
-                </a>
+                </Link>
               </div>
             ))}
           </div>
