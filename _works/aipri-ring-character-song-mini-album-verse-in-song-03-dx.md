@@ -5,6 +5,7 @@ holder: ひみつのアイプリ リング編
 title: VERSE IN SONG 03 DX
 url: aipri-ring-character-song-mini-album-verse-in-song-03-dx
 tag:
+  - rec
   - mix
 layout: square
 image: /works/media/aipri-ring-character-song-mini-album-verse-in-song-03-dx.jpg
