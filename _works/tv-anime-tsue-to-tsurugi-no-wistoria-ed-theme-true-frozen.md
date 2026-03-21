@@ -13,19 +13,15 @@ image: "/works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.j
 
 ##### Tracklist
 
-| Track number | Title                | Credit |
-| ------------ | -------------------- | ------ |
-| 01           | フローズン           | Mixing |
-| 02           | フローズン (TV size) | Mixing |
+| Track number | Title      | Credit |
+| ------------ | ---------- | ------ |
+| 01           | フローズン | Mixing |
 
 ##### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJJSdQldxtM?si=YRuasvL2-C38EZuX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/luke9AYCN7g?si=Z9cfILFbysv2RZ8v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ##### Links
 
-- <a data-type="button" href="https://wistoria-anime.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://wistoria-anime.com/1st/music/ending/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://true-singer.com/musics/15175" target="_blank">Official Page</a>
 - <a data-type="button" href="https://lnk.to/LZC-2836" target="_blank">Stream & Buy</a>
