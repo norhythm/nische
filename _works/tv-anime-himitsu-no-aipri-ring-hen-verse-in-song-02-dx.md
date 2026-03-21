@@ -16,7 +16,6 @@ image: /works/media/tv-anime-himitsu-no-aipri-ring-hen-verse-in-song-02-dx.jpg
 | ------------ | ------------------------------------ | ------ |
 | 03           | わいるど☆すたー (ビビソロver.)       | Recording / Mixing |
 | 04           | わいるど☆すたー (ビビチィデュオver.) | Recording / Mixing |
-| 06           | ココロ・アストロノーツ -inst.-       | Mixing |
 | 07           | わいるど☆すたー -inst.-              | Mixing |
 
 ##### Video
