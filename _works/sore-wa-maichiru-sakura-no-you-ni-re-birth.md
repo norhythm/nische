@@ -16,8 +16,8 @@ image: "/works/media/sore-wa-maichiru-sakura-no-you-ni-re-birth.jpg"
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
 | 01           | days                   | Mixing |
-| 01           | be loved～桜の彼方へ～ | Mixing |
-| 01           | Reflection             | Mixing |
+| 02           | be loved～桜の彼方へ～ | Mixing |
+| 03           | Reflection             | Mixing |
 
 ##### Video
 
