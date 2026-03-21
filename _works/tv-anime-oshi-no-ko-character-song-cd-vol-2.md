@@ -6,6 +6,7 @@ artist: ""
 title: "キャラクターソングCD Vol.2"
 url: "tv-anime-oshi-no-ko-character-song-cd-vol-2"
 tag:
+  - rec
   - mix
 layout: "square"
 image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg"
@@ -13,10 +14,10 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg"
 
 ##### Tracklist
 
-| Track number | Title                          | Credit |
-| ------------ | ------------------------------ | ------ |
-| 01           | STAR☆T☆RAIN -New Arrange Ver.- | Mixing |
-| 03           | EART's♡KISS -New Arrange Ver.- | Mixing |
+| Track number | Title                          | Credit             |
+| ------------ | ------------------------------ | ------------------ |
+| 01           | STAR☆T☆RAIN -New Arrange Ver.- | Recording / Mixing |
+| 03           | EART's♡KISS -New Arrange Ver.- | Recording / Mixing |
 
 ##### Video
 
