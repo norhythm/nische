@@ -1,32 +1,25 @@
 ---
 published: true
-date: "2025-10-15"
-holder: ""
-artist: "鬼頭明里"
-title: "Journey"
-url: "kitou-akari-3rd-album-journey"
+date: 2025-10-15
+artist: 鬼頭明里
+title: Journey
+url: kitou-akari-3rd-album-journey
 tag:
   - mix
-layout: "square"
-image: "/works/media/kitou-akari-3rd-album-journey.jpg"
+layout: square
+image: /works/media/kitou-akari-3rd-album-journey.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title           | Credit |
 | ------------ | --------------- | ------ |
-| 01           | Nonfiction Nook | Mixing |
-| 02           | 夢の糸          | Mixing |
 | 03           | Magie×Magie     | Mixing |
-| 04           | any if          | Mixing |
-| 05           | Fleeting Time   | Mixing |
-| 06           | With a Wish     | Mixing |
 | 07           | アフターグロウ  | Mixing |
-| 08           | From Fate       | Mixing |
-| 09           | Fringed Iris    | Mixing |
 | 10           | Dear Doze Days  | Mixing |
-| 11           | Eternally       | Mixing |
-| 12           | mo∞ent          | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uh1bCtneq54?si=eaZ5k_FDr9TkrxKV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
