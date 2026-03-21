@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-11-13
 holder: プリパラ
 title: Melody Moments!
