@@ -16,11 +16,13 @@ image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg"
 | Track number | Title                                         | Credit |
 | ------------ | --------------------------------------------- | ------ |
 | 01           | STAR☆T☆RAIN -New Arrange Ver.-                | Mixing |
-| 02           | サインはB -New Arrange Ver.-                  | Mixing |
 | 03           | EART's♡KISS -New Arrange Ver.-                | Mixing |
-| 01           | STAR☆T☆RAIN -New Arrange Ver.- (Instrumental) | Mixing |
-| 02           | サインはB -New Arrange Ver.- (Instrumental)   | Mixing |
-| 03           | EART's♡KISS -New Arrange Ver.- (Instrumental) | Mixing |
+| 04           | STAR☆T☆RAIN -New Arrange Ver.- (Instrumental) | Mixing |
+| 06           | EART's♡KISS -New Arrange Ver.- (Instrumental) | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJyMOYPIvdE?si=j4kgRwmDF61isdyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
