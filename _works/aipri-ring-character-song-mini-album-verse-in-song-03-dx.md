@@ -1,35 +1,33 @@
 ---
 published: true
 date: 2026-02-11
-holder: "ひみつのアイプリ リング編"
-artist: ""
-title: "VERSE IN SONG 03 DX"
+holder: ひみつのアイプリ リング編
+title: VERSE IN SONG 03 DX
 url: aipri-ring-character-song-mini-album-verse-in-song-03-dx
 tag:
   - mix
 layout: square
 image: /works/media/aipri-ring-character-song-mini-album-verse-in-song-03-dx.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                         | Credit |
 | ------------ | --------------------------------------------- | ------ |
-| 01           | ぴかぴかマイストーリー                        | Mixing |
-| 02           | ミラクル☆ツインスマイル                       | Mixing |
 | 03           | ミライのプリンセス（リングソロVer.）          | Mixing |
 | 04           | ミライのプリンセス（リング&つむぎデュオVer.） | Mixing |
-| 05           | ぴかぴかマイストーリー -inst.-                | Mixing |
-| 06           | ミラクル☆ツインスマイル -inst.-               | Mixing |
 | 07           | ミライのプリンセス -inst.-                    | Mixing |
 
-##### CG Live
+
 
 | Track number | Title                   | Credit |
 | ------------ | ----------------------- | ------ |
 | 01           | ぴかぴかマイストーリー  | Mixing |
 | 02           | ミラクル☆ツインスマイル | Mixing |
 | 03           | ミライのプリンセス      | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/or-H6YRCDJM?si=g5779MLhDDx1Y4Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
