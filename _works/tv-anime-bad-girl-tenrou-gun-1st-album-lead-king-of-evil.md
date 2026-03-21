@@ -1,24 +1,23 @@
 ---
 published: true
 date: 2025-07-18
-holder: "ばっどがーる"
+holder: ばっどがーる
 artist: 天狼群
-title: "KING OF EVIL"
+title: KING OF EVIL
 url: tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil
 tag:
   - mix
 layout: square
 image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                            | Credit |
 | ------------ | ------------------------------------------------ | ------ |
-| 01           | ツッパリHigh School Rock'n Roll (登校編)／天狼群 | Mixing |
-| 02           | 彼女の“Modern…”／天狼群                          | Mixing |
-| 09           | GO! GO! MANIAC／天狼群                           | Mixing |
-| 10           | KING OF EVIL／天狼群                             | Mixing |
+| 01           | ツッパリHigh School Rock'n Roll (登校編) | Mixing |
+| 02           | 彼女の“Modern…”                          | Mixing |
+| 09           | GO! GO! MANIAC                           | Mixing |
+| 10           | KING OF EVIL                             | Mixing |
 
 ##### Video
 
