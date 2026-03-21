@@ -1,22 +1,22 @@
 ---
 published: true
-date: "2025-01-29"
-holder: "Astro Dive"
-artist: ""
+date: 2025-01-29
+holder: Astro Dive
 title: Astro Dive First Message -LMLMM×××♡-"
-url: "astro-dive-astro-dive-first-message-lmlmm-xxx"
+url: astro-dive-astro-dive-first-message-lmlmm-xxx
 tag:
   - mix
-layout: "square"
-image: "/works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg"
+  - rec
+layout: square
+image: /works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title              | Credit |
 | ------------ | ------------------ | ------ |
-| 01           | 厄介上等ラブヘルツ | Mixing |
-
+| 01           | 厄介上等ラブヘルツ | Recording  / Recording / Mixing |
+| 04           | ASTRONOTE（LMLMM×××♡ Ver.） | Recording  / Mixing |
+| 01           | 厄介上等ラブヘルツ（Instrumental） | Recording  / Mixing |
 ##### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oXJifuatEnA?si=ngE0LA6OQGLFhALf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
