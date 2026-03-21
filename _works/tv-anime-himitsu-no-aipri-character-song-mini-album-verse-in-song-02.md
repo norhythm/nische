@@ -25,12 +25,6 @@ image: /works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW33q0JJ5cE?si=L1nV346w0PrabsnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BWyYn2SXkLc?si=rjYgYY7sGsG35aj3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3leuKxKSDo?si=AaI76gR9S_GfyeB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-iIG4VX9yog?si=hZB1_P1QKFHUiQco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ##### Links
 
 - <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
