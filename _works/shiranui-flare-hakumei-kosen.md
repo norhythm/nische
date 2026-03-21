@@ -1,21 +1,21 @@
 ---
 published: true
-date: "2025-04-02"
-holder: "Hololive"
-artist: "不知火フレア"
-title: "薄明光線"
-url: "shiranui-flare-hakumei-kosen"
+date: 2025-04-02
+holder: Hololive
+artist: 不知火フレア
+title: 薄明光線
+url: shiranui-flare-hakumei-kosen
 tag:
   - mix
-layout: "square"
-image: "/works/media/shiranui-flare-hakumei-kosen.jpg"
+  - rec
+layout: square
+image: /works/media/shiranui-flare-hakumei-kosen.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                   | Credit |
 | ------------ | ----------------------- | ------ |
-| 01           | 薄明光線                | Mixing |
+| 01           | 薄明光線                | Recording / Mixing |
 | 02           | 薄明光線 (Instrumental) | Mixing |
 
 ##### Video
