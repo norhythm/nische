@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-12-09"
-holder: ""
-artist: "RealRomantic"
-title: "BLOOMING"
-url: "realromantic-senko-haishin-gakkyoku-blooming"
+published: true
+date: 2024-12-09
+artist: RealRomantic
+title: BLOOMING
+url: realromantic-senko-haishin-gakkyoku-blooming
 tag:
   - mix
-layout: "rect-h"
-image: "/works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg"
+layout: rect-h
+image: /works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title    | Credit |
