@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2025-01-11
-holder: RIOT MUSIC
+holder: RIOT MUSIC / Meteopolis
 artist: 凪原涼菜
 title: Albus
 url: nagihara-suzuna-albus
