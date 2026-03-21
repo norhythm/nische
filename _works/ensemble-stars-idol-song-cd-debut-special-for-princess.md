@@ -1,22 +1,23 @@
 ---
 published: true
-date: "2025-02-26"
-holder: "あんさんぶるスターズ！！"
-artist: "Special for Princess!"
-title: "IDOL SONG CD Debut"
-url: "ensemble-stars-idol-song-cd-debut-special-for-princess"
+date: 2025-02-26
+holder: あんさんぶるスターズ！！
+artist: Special for Princess!
+title: Debut
+url: ensemble-stars-idol-song-cd-debut-special-for-princess
 tag:
   - mix
-layout: "square"
-image: "/works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg"
+layout: square
+image: /works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                       | Credit |
 | ------------ | --------------------------- | ------ |
 | 01           | MAGNETIC LOVE(エス Solo)    | Mixing |
 | 02           | ミエナイミタイ(カンナ Solo) | Mixing |
+| 05           | MAGNETIC LOVE(Instrumental)    | Mixing |
+| 06           | ミエナイミタイ(カンナ(Instrumental)| Mixing |
 
 ##### Video
 
