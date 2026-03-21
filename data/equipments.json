@@ -60,10 +60,6 @@
         {
           "production": "Bettermaker",
           "name": "Mastering Limiter 2.0"
-        },
-        {
-          "production": "Cranborne Audio",
-          "name": "Brick Lane MC4"
         }
       ]
     },
@@ -129,7 +125,7 @@
           "production": "Leapwing"
         },
         {
-          "production": "iZotope"
+          "production": "etc."
         }
       ]
     }
