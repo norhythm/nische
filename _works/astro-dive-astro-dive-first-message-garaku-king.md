@@ -13,18 +13,13 @@ image: "/works/media/astro-dive-astro-dive-first-message-garaku-king.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                                          | Credit |
-| ------------ | -------------------------------------------------------------- | ------ |
-| 01           | ハイパー☆ダイバー☆我楽多伝説パーリナイ                 | Mixing |
-| 02           | Drama Track -我楽多KING- 1                                     | Mixing |
-| 03           | Drama Track -我楽多KING- 2                                     | Mixing |
-| 04           | Drama Track -我楽多KING- 3                                     | Mixing |
-| 05           | ASTRONOTE（我楽多KING Ver.）                                   | Mixing |
-| 06           | ハイパー☆ダイバー☆我楽多伝説パーリナイ（Instrumental） | Mixing |
+| Track number | Title                                          | Credit |
+| ------------ | ---------------------------------------------- | ------ |
+| 01           | ハイパー☆ダイバー☆我楽多伝説パーリナイ | Mixing |
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWTCDWtjlvk?si=qUNrcxT7xkXue9qJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/23wH87bbl-A?si=X5Uftrt4RBmEctJa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
