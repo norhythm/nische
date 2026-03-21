@@ -13,20 +13,9 @@ image: "/works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg"
 
 ##### Tracklist
 
-| Track number | Title                                      | Credit |
-| ------------ | ------------------------------------------ | ------ |
-| 01           | Individual on parade!                      | Mixing |
-| 02           | Tricky Treat!!!                            | Mixing |
-| 03           | Individual on parade!（Game Size）         | Mixing |
-| 04           | Tricky Treat!!!（Game Size）               | Mixing |
-| 05           | Individual on parade! -珠洲島有栖ソロver.- | Mixing |
-| 06           | Individual on parade! -皇城セツナソロver.- | Mixing |
-| 07           | Individual on parade! -柏木咲姫ソロver.-   | Mixing |
-| 08           | Individual on parade! -日向千夏ソロver.-   | Mixing |
-| 09           | Individual on parade! -井之原小星ソロver.- | Mixing |
-| 10           | Tricky Treat!!! -逢坂 茜ソロver.-          | Mixing |
-| 11           | Tricky Treat!!! -高瀬梨緒ソロver.-         | Mixing |
-| 12           | Tricky Treat!!! -柏木咲姫ソロver.-         | Mixing |
+| Track number | Title                 | Credit |
+| ------------ | --------------------- | ------ |
+| 01           | Individual on parade! | Mixing |
 
 ##### Video
 
