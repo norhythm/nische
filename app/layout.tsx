@@ -6,6 +6,7 @@ import PathAwareContainer from "@/components/path-aware-container";
 import { SelectedTagProvider } from "@/lib/selected-tag-context";
 import ScrollRestoration from "@/lib/scroll-restoration";
 import GoogleAnalytics from "@/components/google-analytics";
+import AnalyticsPageview from "@/components/analytics-pageview";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -49,6 +50,7 @@ export default function RootLayout({
           rel="stylesheet"
         ></link>
         <GoogleAnalytics gaId="G-7L0R4ZXV6S" />
+        <AnalyticsPageview />
       </head>
       <body>
         <SelectedTagProvider>
