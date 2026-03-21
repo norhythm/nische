@@ -1,16 +1,14 @@
 ---
-published: true
-date: "2025-09-26"
-holder: ""
-artist: "桜小路ルナ"
-title: "初桜"
-url: "hatsuzakura-sakurakoji-luna-special-character-song-cd"
+published: false
+date: 2025-09-26
+artist: 桜小路ルナ
+title: 初桜
+url: hatsuzakura-sakurakoji-luna-special-character-song-cd
 tag:
   - mix
-layout: "rect-v"
-image: "/works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpg"
+layout: rect-v
+image: /works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
