@@ -17,12 +17,6 @@ image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil.jpg
 | ------------ | ------------------------------------------------ | ------ |
 | 01           | ツッパリHigh School Rock'n Roll (登校編)／天狼群 | Mixing |
 | 02           | 彼女の“Modern…”／天狼群                          | Mixing |
-| 03           | すーぱーびっぐらぶ！／天狼群                     | Mixing |
-| 04           | 超らぶふぉーえばーもあ／優谷 優(CV.橘 杏咲)  | Mixing |
-| 05           | My Sweetie Dog／水鳥亜鳥(CV.花宮初奈)            | Mixing |
-| 06           | きみのとなり／涼風 涼(CV.松岡美里)               | Mixing |
-| 07           | はーと掻き回してアゲル♡／瑠璃葉るら(CV.花井美春) | Mixing |
-| 08           | BAD SURPRISE／天狼群                             | Mixing |
 | 09           | GO! GO! MANIAC／天狼群                           | Mixing |
 | 10           | KING OF EVIL／天狼群                             | Mixing |
 
