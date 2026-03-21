@@ -24,7 +24,11 @@ image: "/works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg"
 
 ##### Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WR71oFEELWI?si=AQuYZDCsE-F6WXBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QmrVn2ckUr8?si=5Zrae084eVm_2Kun" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYkNrdsjK0k?si=f__JOizXyQ5FwnVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
