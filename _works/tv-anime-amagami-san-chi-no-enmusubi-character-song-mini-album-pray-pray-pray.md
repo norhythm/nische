@@ -1,24 +1,22 @@
 ---
 published: true
-date: "2025-03-19"
-holder: "甘神さんちの縁結び"
-artist: ""
-title: "Pray Pray Pray"
-url: "tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray"
+date: 2025-03-19
+holder: 甘神さんちの縁結び
+title: Pray Pray Pray
+url: tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray.jpg"
+layout: square
+image: /works/media/tv-anime-amagami-san-chi-no-enmusubi-character-song-mini-album-pray-pray-pray.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                        | Credit |
 | ------------ | ---------------------------- | ------ |
 | 02           | 夢見る日和                   | Mixing |
-| 05           | 7月のまぼろし                | Mixing |
+| 04           | 見つけた願い、君との未来                | Mixing |
 | 07           | 夢見る日和 (Instrumental)    | Mixing |
-| 10           | 7月のまぼろし (Instrumental) | Mixing |
+| 09           | 見つけた願い、君との未来 (Instrumental) | Mixing |
 
 ##### Video
 
