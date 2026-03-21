@@ -13,10 +13,10 @@ image: /works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg
 
 ##### Tracklist
 
-| Track number | Title                       | Credit                         |
-| ------------ | --------------------------- | ------------------------------ |
-| 01           | 厄介上等ラブヘルツ          | Recording / Recording / Mixing |
-| 04           | ASTRONOTE（LMLMM×××♡ Ver.） | Recording / Mixing             |
+| Track number | Title                       | Credit             |
+| ------------ | --------------------------- | ------------------ |
+| 01           | 厄介上等ラブヘルツ          | Recording / Mixing |
+| 04           | ASTRONOTE（LMLMM×××♡ Ver.） | Recording / Mixing |
 
 ##### Video
 
