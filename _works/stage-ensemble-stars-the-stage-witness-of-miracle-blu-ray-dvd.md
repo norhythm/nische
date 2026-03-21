@@ -18,12 +18,6 @@ image: "/works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-d
 | 01           | Track to Miracle ～For all witnesses～ | Mixing |
 | 02           | Sacred Stage                           | Mixing |
 
-##### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/655UJMxph3M?si=yQq4M3wy9sHaGO4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G7HaRIPcoMc?si=YUp65_DggwYPGrCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ##### Links
 
 - <a data-type="button" href="https://ensemble-stage.jp/" target="_blank">Official Site</a>
