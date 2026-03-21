@@ -13,25 +13,15 @@ image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-i
 
 ##### Tracklist
 
-| Track number | Title                          | Credit |
-| ------------ | ------------------------------ | ------ |
-| 01           | ヒカリノコトバ                 | Mixing |
-| 02           | GIRA GIRA STAR                 | Mixing |
-| 03           | ニュースタージョーカー         | Mixing |
-| 04           | アイプリバースイン！           | Mixing |
-| 05           | ヒカリノコトバ -inst.-         | Mixing |
-| 06           | GIRA GIRA STAR -inst.-         | Mixing |
-| 07           | ニュースタージョーカー -inst.- | Mixing |
-| 08           | アイプリバースイン！ -inst.-   | Mixing |
-
-##### CG Live
-
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | ヒカリノコトバ         | Mixing |
-| 02           | GIRA GIRA STAR         | Mixing |
 | 03           | ニュースタージョーカー | Mixing |
-| 04           | アイプリバースイン！   | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9vJFRUJtEWY?si=lw3CgCPJy64qT8S8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kd0q-eyWww?si=G3rPxsl778zDoIkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
