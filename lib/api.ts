@@ -5,6 +5,21 @@ import { join } from "path";
 
 const postsDirectory = join(process.cwd(), "_works");
 
+const tagOrder: Record<string, number> = {
+  recording: 0,
+  rec: 0,
+  mixing: 1,
+  mix: 1,
+  mastering: 2,
+  master: 2,
+};
+
+function sortTags(tags: string[]): string[] {
+  return [...tags].sort(
+    (a, b) => (tagOrder[a] ?? 99) - (tagOrder[b] ?? 99),
+  );
+}
+
 export function getPostSlugs() {
   return fs.readdirSync(postsDirectory);
 }
@@ -27,10 +42,10 @@ export function getPostBySlug(slug: string) {
         data.date = data.date.toISOString().split('T')[0];
       }
       
-      return { ...data, slug: data.url, content } as Post;
+      return { ...data, slug: data.url, tag: sortTags(data.tag || []), content } as Post;
     }
   }
-  
+
   // 見つからない場合はnullを返す
   throw new Error(`Post with slug "${slug}" not found`);
 }
@@ -49,7 +64,7 @@ export function getAllPosts(): Post[] {
         data.date = data.date.toISOString().split('T')[0];
       }
       
-      return { ...data, slug: data.url, content } as Post;
+      return { ...data, slug: data.url, tag: sortTags(data.tag || []), content } as Post;
     })
     // published: trueのみをフィルタリング
     .filter((post) => post.published === true)
