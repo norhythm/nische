@@ -26,7 +26,7 @@ image: "/works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg"
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bgk478yayJM?si=vWHwOwmMl5BEgY7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xP9AQmjqVGc?si=PBnqoNyRAiIHRRwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
