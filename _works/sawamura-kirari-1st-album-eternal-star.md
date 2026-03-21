@@ -1,7 +1,6 @@
 ---
 published: true
 date: 2026-01-21
-holder: ""
 artist: 澤村 光彩
 title: Eternal Star
 url: sawamura-kirari-1st-album-eternal-star
@@ -10,27 +9,16 @@ tag:
 layout: square
 image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                        | Credit |
 | ------------ | ---------------------------- | ------ |
 | 01           | 致死量ダーリン               | Mixing |
-| 02           | 愛憎クリスマス               | Mixing |
 | 03           | 憑いていく                   | Mixing |
 | 04           | 限界ロストワールド           | Mixing |
-| 05           | 触れて痛い                   | Mixing |
-| 06           | 瘡蓋                         | Mixing |
-| 07           | トランジスタ・駄・デカダンス | Mixing |
-| 08           | スキャットキャットノイローゼ | Mixing |
-| 09           | つんつん8割きみ2割           | Mixing |
-| 10           | カナリア                     | Mixing |
-| 11           | Simulated                    | Mixing |
-| 12           | 詰んドラ                     | Mixing |
-| 13           | ブルーライトヴィーナス       | Mixing |
-| 14           | 女疾女石                     | Mixing |
-| 15           | デジタルマーメイド           | Mixing |
-| 16           | ほしに誓う                   | Mixing |
+
+##### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZD6Ev1MpXE?si=680JCfFCA0U-8wcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
