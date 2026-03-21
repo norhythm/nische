@@ -1,22 +1,21 @@
 ---
 published: true
-date: "2025-11-01"
-holder: "エリオスライジングヒーローズ × あんさんぶるスターズ！！"
-artist: ""
-title: "RISE STAR'S SPIRITS"
-url: "helios-rising-heroes-x-ensemble-stars-rise-stars-spirits"
+date: 2025-11-01
+holder: エリオスライジングヒーローズ × あんさんぶるスターズ！！
+title: RISE STAR'S SPIRITS
+url: helios-rising-heroes-x-ensemble-stars-rise-stars-spirits
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg"
+  - rec
+layout: square
+image: /works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                       | Credit |
 | ------------ | --------------------------- | ------ |
-| 01           | We Are Light                | Mixing |
-| 02           | We Are Light (Short Size)   | Mixing |
+| 01           | We Are Light                | Recording / Mixing |
+| 02           | We Are Light (Short Size)   | Recording / Mixing |
 | 03           | We Are Light (Instrumental) | Mixing |
 
 ##### Video
