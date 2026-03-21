@@ -26,6 +26,10 @@ image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-lead-king-of-evil.jpg
 | 09           | GO! GO! MANIAC／天狼群                           | Mixing |
 | 10           | KING OF EVIL／天狼群                             | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kXwWcPoppk?si=EgxSYeaXTmyTttTy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
