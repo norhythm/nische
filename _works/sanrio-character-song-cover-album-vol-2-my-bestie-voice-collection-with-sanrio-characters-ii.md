@@ -11,11 +11,6 @@ layout: rect-v
 image: /works/media/sanrio-character-song-cover-album-vol-2-my-bestie-voice-collection-with-sanrio-characters-ii.jpg
 ---
 
-[https://www.sanrio.co.jp/news/goods/mx-my-bestie-voice-collection-20250404/](https://www.sanrio.co.jp/news/goods/mx-my-bestie-voice-collection-20250404/)
-[https://avex.jp/sanriovoice/discography/detail/?id=1020893](https://avex.jp/sanriovoice/discography/detail/?id=1020893)
-
-All Track mixing.
-
 ##### Tracklist
 
 | Track number | Title                                                                                                      | Credit |
@@ -33,6 +28,10 @@ All Track mixing.
 | 11           | ストーリーテリング『胸いっぱいの愛』（ハローキティ）/ 小野賢章                                             | Mixing |
 | 12           | 『ILLUMINANT』/ みんななかよく（全員歌唱）                                                                 | Mixing |
 | 13           | 『KAWAII FESTIVAL』/ みんななかよく（全員歌唱）                                                            | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLgrFdkncvs?si=lTQVXw-K6Nfr-9w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
