@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-10-09
 holder: 推しの子
 title: キャラクターソングCD Vol.04
