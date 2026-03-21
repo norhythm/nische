@@ -1,17 +1,15 @@
 ---
-published: false
-date: "2023-07-05"
-holder: "推しの子"
-artist: ""
-title: "キャラクターソングCD Vol.2"
-url: "tv-anime-oshi-no-ko-character-song-cd-vol-2"
+published: true
+date: 2023-07-05
+holder: 推しの子
+title: キャラクターソングCD Vol.2
+url: tv-anime-oshi-no-ko-character-song-cd-vol-2
 tag:
   - rec
   - mix
-layout: "square"
-image: "/works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg"
+layout: square
+image: /works/media/tv-anime-oshi-no-ko-character-song-cd-vol-2.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                          | Credit             |
