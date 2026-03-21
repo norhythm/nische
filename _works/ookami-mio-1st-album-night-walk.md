@@ -17,7 +17,6 @@ image: "/works/media/ookami-mio-1st-album-night-walk.jpg"
 | ------------ | -------------------------- | ------ |
 | 01           | 夜光通信                   | Mixing |
 | 02           | 深く紺になる               | Mixing |
-| 03           | ナイトループ               | Mixing |
 | 04           | サヨナラは、まだ           | Mixing |
 | 05           | カメリア                   | Mixing |
 | 06           | 夜と雨（feat. 百鬼あやめ） | Mixing |
