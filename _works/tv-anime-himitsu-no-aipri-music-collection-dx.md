@@ -1,28 +1,27 @@
 ---
 published: true
-date: "2025-08-27"
-holder: "ひみつのアイプリ"
-artist: ""
-title: "ミュージックコレクション DX"
-url: "tv-anime-himitsu-no-aipri-music-collection-dx"
+date: 2025-08-27
+holder: ひみつのアイプリ
+title: ミュージックコレクション DX
+url: tv-anime-himitsu-no-aipri-music-collection-dx
 tag:
   - mix
-layout: "rect-h"
-image: "/works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg"
+  - rec
+layout: rect-h
+image: /works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | P.O.P.P.Y              | Mixing |
-| 02           | シークレット・ドリーム | Mixing |
-| 03           | ムテキDUOエナジー      | Mixing |
-| 04           | Stand Get Up           | Mixing |
-| 05           | ネバギバラバー         | Mixing |
-| 07           | We're The World        | Mixing |
-| 10           | ニュースタージョーカー | Mixing |
-| 11           | パステルステップデイズ | Mixing |
+| 01           | P.O.P.P.Y              | Recording / Mixing |
+| 02           | シークレット・ドリーム | Recording / Mixing |
+| 03           | ムテキDUOエナジー      | Recording / Mixing |
+| 04           | Stand Get Up           | Recording / Mixing |
+| 05           | ネバギバラバー         | Recording / Mixing |
+| 07           | We're The World        | Recording / Mixing |
+| 10           | ニュースタージョーカー | Recording / Mixing |
+| 11           | パステルステップデイズ | Recording / Mixing |
 
 ##### Video
 
