@@ -22,6 +22,10 @@ image: "/works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg"
 | 05           | Homecoming (Instrumental)                                                 | Mixing |
 | 06           | Trust fake (Instrumental)                                                 | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UVqCUrqXSng?si=QWBBuLiyzgg5B_C1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
