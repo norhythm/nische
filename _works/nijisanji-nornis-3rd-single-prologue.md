@@ -19,7 +19,9 @@ image: /works/media/nijisanji-nornis-3rd-single-prologue.jpg
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qyg4RWAIhCs?si=mIxBcIXs5ZG5FXjx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkyWz949wi4?si=2fjnVS0hN_byaNka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAs3OfwxLLc?si=toYMEuHRAEWlLyl1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 

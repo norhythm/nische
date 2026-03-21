@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2024-12-25"
-holder: "Astro Dive"
-artist: ""
-title: "Astro Dive First Message – Twi■■light -"
-url: "astro-dive-astro-dive-first-message-twilight"
+published: true
+date: 2024-12-25
+holder: Astro Dive
+title: Astro Dive First Message – Twi■■light -
+url: astro-dive-astro-dive-first-message-twilight
 tag:
   - mix
-layout: "square"
-image: "/works/media/astro-dive-astro-dive-first-message-twilight.jpg"
+  - rec
+layout: square
+image: /works/media/astro-dive-astro-dive-first-message-twilight.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
 | ------------ | ------------ | ------ |
-| 01           | Meteor-light | Mixing |
+| 01           | Meteor-light | Recording / Mixing |
+| 04           | ASTRO NOTE(Twi■■light Ver.) | Recording / Mixing |
 
 ##### Video
 

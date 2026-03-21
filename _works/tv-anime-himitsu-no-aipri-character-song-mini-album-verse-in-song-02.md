@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-12-25
 holder: ひみつのアイプリ
 title: VERSE IN SONG 02
