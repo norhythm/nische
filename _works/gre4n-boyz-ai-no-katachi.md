@@ -11,10 +11,6 @@ layout: square
 image: /works/media/gre4n-boyz-ai-no-katachi.jpg
 ---
 
-[https://www.universal-music.co.jp/gre4nboyz/products/up1as-02706/](https://www.universal-music.co.jp/gre4nboyz/products/up1as-02706/)
-
-mixing.
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
