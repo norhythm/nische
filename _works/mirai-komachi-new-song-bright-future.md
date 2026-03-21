@@ -18,6 +18,10 @@ image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
 | 01           | Bright Future                | Mixing |
 | 02           | Bright Future (Instrumental) | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EdmOhXosRs?si=FBLMntRuEc36DxJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://www.miraikomachi.com/" target="_blank">Official Site</a>
