@@ -13,21 +13,11 @@ image: "/works/media/luz-5th-album-amulet.jpg"
 
 ##### Tracklist
 
-| Track number | Title              | Credit |
-| ------------ | ------------------ | ------ |
-| 01           | MONSTER’S CRY      | Mixing |
-| 02           | CARNIVAL           | Mixing |
-| 03           | Ghost in the danse | Mixing |
-| 04           | 幽世               | Mixing |
-| 05           | ABYSS              | Mixing |
-| 06           | イプシロン         | Mixing |
-| 07           | Trick Treat Trust  | Mixing |
-| 08           | Ruthless           | Mixing |
-| 09           | shall we!!?!?      | Mixing |
-| 10           | Pandora            | Mixing |
-| 11           | Scissors           | Mixing |
-| 12           | 贈花               | Mixing |
-| 13           | AMULET             | Mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 05           | ABYSS    | Mixing |
+| 11           | Scissors | Mixing |
+| 13           | AMULET   | Mixing |
 
 ##### Video
 
