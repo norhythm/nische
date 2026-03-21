@@ -18,6 +18,10 @@ image: "/works/media/hololive-5th-gen-new-single-cosmic-wonderful-tour.jpg"
 | 01           | Cosmic Wonderful Tour!                | Mixing |
 | 02           | Cosmic Wonderful Tour! (Instrumental) | Mixing |
 
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNt1m0ttNxk?si=zL1xVLb4VpONZUS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
