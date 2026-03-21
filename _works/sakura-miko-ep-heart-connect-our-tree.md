@@ -13,14 +13,10 @@ image: "/works/media/sakura-miko-ep-heart-connect-our-tree.jpg"
 
 ##### Tracklist
 
-| Track number | Title                  | Credit |
-| ------------ | ---------------------- | ------ |
-| 01           | あてんしょんぷりーず！ |        |
-| 02           | ベイビーダンス         |        |
-| 03           | 乙女のススメ♡！        |        |
-| 04           | ハートオンライン       |        |
-| 05           | 僕らと君のうた。       |        |
-| 06           | アワーツリー           | Mixing |
+| Track number | Title           | Credit |
+| ------------ | --------------- | ------ |
+| 03           | 乙女のススメ♡！ | Mixing |
+| 06           | アワーツリー    | Mixing |
 
 ##### Video
 
