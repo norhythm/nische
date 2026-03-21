@@ -26,6 +26,12 @@ image: /works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tREaqJGPbds?si=O6ifQofKl3HC_y9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBte-jvzOTw?si=vtdrH_BTfihnshb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQABbjkXMB4?si=1f1i3CrQ1Z_7X-fD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Links
 
 - <a data-type="button" href="https://takaminesan.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://lnk.to/LZC-3076" target="_blank">Stream & Buy</a>
