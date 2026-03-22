@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-08-03"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "✞animaるパーティ✞開催中✞"
-url: "mugen-dai-mewtype-original-song-animal-party"
+published: true
+date: 2024-08-03
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: ✞animaるパーティ✞開催中✞
+url: mugen-dai-mewtype-original-song-animal-party
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-original-song-animal-party.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-original-song-animal-party.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                    | Credit |
