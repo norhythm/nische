@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2024-06-19"
-holder: ""
-artist: "澤村 光彩"
-title: "致死量ダーリン"
-url: "sawamura-kirari-1st-digital-single-chishiryou-darling"
+published: true
+date: 2024-06-19
+artist: 澤村 光彩
+title: 致死量ダーリン
+url: sawamura-kirari-1st-digital-single-chishiryou-darling
 tag:
   - mix
-layout: "square"
-image: "/works/media/sawamura-kirari-1st-digital-single-chishiryou-darling.jpg"
+  - rec
+layout: square
+image: /works/media/sawamura-kirari-1st-digital-single-chishiryou-darling.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title          | Credit |
 | ------------ | -------------- | ------ |
-| 01           | 致死量ダーリン | Mixing |
+| 01           | 致死量ダーリン | Recording / Mixing |
 
 ##### Video
 
