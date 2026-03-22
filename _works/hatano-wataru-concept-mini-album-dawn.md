@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2023-11-15
 artist: 羽多野渉
 title: Dawn
