@@ -7,7 +7,7 @@ title: "エンディングテーマ Vol.4"
 url: "helios-rising-heroes-ending-theme-vol-4"
 tag:
   - mix
-layout: "portrait"
+layout: "square"
 image: "/works/media/helios-rising-heroes-ending-theme-vol-4.jpg"
 ---
 
