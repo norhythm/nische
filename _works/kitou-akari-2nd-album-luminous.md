@@ -4,11 +4,11 @@ date: 2022-10-12
 holder: "Luminous"
 artist: "鬼頭明里"
 title: "Luminous"
-url: "kitou-akari-2nd-album-luminous"
+url: "kito-akari-2nd-album-luminous"
 tag:
   - mix
 layout: "square"
-image: "/works/media/kitou-akari-2nd-album-luminous.jpg"
+image: "/works/media/kito-akari-2nd-album-luminous.jpg"
 ---
 
 ##### Tracklist

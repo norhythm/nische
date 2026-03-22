@@ -3,19 +3,20 @@ published: true
 date: 2025-10-15
 artist: 鬼頭明里
 title: Journey
-url: kitou-akari-3rd-album-journey
+url: kito-akari-3rd-album-journey
 tag:
   - mix
 layout: square
-image: /works/media/kitou-akari-3rd-album-journey.jpg
+image: /works/media/kito-akari-3rd-album-journey.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title           | Credit |
-| ------------ | --------------- | ------ |
-| 03           | Magie×Magie     | Mixing |
-| 07           | アフターグロウ  | Mixing |
-| 10           | Dear Doze Days  | Mixing |
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 03           | Magie×Magie    | Mixing |
+| 07           | アフターグロウ | Mixing |
+| 10           | Dear Doze Days | Mixing |
 
 ##### Video
 
