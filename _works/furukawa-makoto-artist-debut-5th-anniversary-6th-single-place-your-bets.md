@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2023-07-05"
-holder: ""
-artist: "古川慎"
+published: true
+date: 2023-07-05
+artist: 古川慎
 title: Place your bets
-url: "furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets"
+url: furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets
 tag:
   - mix
-layout: "square"
-image: "/works/media/furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets.jpg"
+  - rec
+layout: square
+image: /works/media/furukawa-makoto-artist-debut-5th-anniversary-6th-single-place-your-bets.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title             | Credit |
 | ------------ | ----------------- | ------ |
-| 01           | “Place your bets” | Mixing |
+| 01           | “Place your bets” | Recording / Mixing |
 
 ##### Video
 
