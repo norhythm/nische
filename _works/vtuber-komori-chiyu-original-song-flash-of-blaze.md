@@ -2,7 +2,7 @@
 published: false
 date: 2022-02-03
 holder: ""
-artist: "Vtuber"
+artist: "古守ちゆ"
 title: "FLASH OF BLAZE"
 url: "vtuber-komori-chiyu-original-song-flash-of-blaze"
 tag:
