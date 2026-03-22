@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2023-12-06"
-holder: ""
-artist: "luz"
-title: "AMULET"
-url: "luz-5th-album-amulet"
+published: true
+date: 2023-12-06
+artist: luz
+title: AMULET
+url: luz-5th-album-amulet
 tag:
   - mix
-layout: "square"
-image: "/works/media/luz-5th-album-amulet.jpg"
+layout: square
+image: /works/media/luz-5th-album-amulet.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title    | Credit |
