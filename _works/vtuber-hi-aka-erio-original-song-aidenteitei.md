@@ -4,18 +4,22 @@ date: 2022-02-25
 holder: ""
 artist: "Vtuber"
 title: "アイデンティティ"
-url: "vtuber-hi-aka-erio-original-song-aidenteitei"
+url: "vtuber-hiseki-erio-original-song-identity"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/vtuber-hi-aka-erio-original-song-aidenteitei.jpeg"
+layout: "rect-h"
+image: "/works/media/vtuber-hiseki-erio-original-song-identity.jpeg"
 ---
 
 ##### Tracklist
 
-| Track number | Title            | Credit |
-| ------------ | ---------------- | ------ |
-| 01           | アイデンティティ | Mixing |
+| Track number | Title              | Credit |
+| ------------ | ------------------ | ------ |
+| 01           | アイデンティティ   | Mixing |
+| 02           | NO UDON NO LIFE    | Mixing |
+| 03           | イタズラSTREAM     | Mixing |
+| 04           | クロックブレイカー | Mixing |
+| 05           | モーニングコール   | Mixing |
 
 ##### Video
 

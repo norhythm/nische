@@ -13,10 +13,17 @@ image: "/works/media/touhou-danmaku-kagura-music-collection-maboroshi.jpg"
 
 ##### Tracklist
 
+###### Disc 1
+
 | Track number | Title                                     | Credit |
 | ------------ | ----------------------------------------- | ------ |
-| Disc1 19     | Resonance ～ 私たらしめるもの [Game size] | Mixing |
-| Disc2 01     | Resonance ～ 私たらしめるもの             | Mixing |
+| 19           | Resonance ～ 私たらしめるもの [Game size] | Mixing |
+
+###### Disc 2
+
+| Track number | Title                         | Credit |
+| ------------ | ----------------------------- | ------ |
+| 01           | Resonance ～ 私たらしめるもの | Mixing |
 
 ##### Video
 

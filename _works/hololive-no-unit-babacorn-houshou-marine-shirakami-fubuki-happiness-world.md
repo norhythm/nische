@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2022-02-25
-holder: "『ホロライブ』所属VTuberのユニット、BABACORN(宝鐘マリン"
-artist: "白上フブキ)"
+holder: "Hololive"
+artist: "BABACORN（宝鐘マリン、白上フブキ）"
 title: "Happiness World"
 url: "hololive-no-unit-babacorn-houshou-marine-shirakami-fubuki-happiness-world"
 tag:
@@ -23,4 +23,6 @@ image: "/works/media/hololive-vtuber-no-unit-babacorn-houshou-marine-shirakami-f
 
 ##### Links
 
-- <a data-type="button" href="https://cover.lnk.to/babacorn" target="_blank">楽曲配信リンク</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/happiness-world/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/babacorn" target="_blank">Stream & Buy</a>

@@ -27,7 +27,15 @@
 }
 
 .markdown h5 {
-  @apply mt-8 md:mt-10.5 mb-4 text-center text-[#999] text-xs font-medium uppercase tracking-[2px];
+  @apply mt-8 md:mt-10.5 mb-4 text-center md:text-left text-[#999] text-xs font-medium uppercase tracking-[2px];
+}
+
+.markdown h6 {
+  @apply mt-4 md:mt-6 mb-2 md:mb-1 text-center md:text-left text-[#888] text-xs font-normal uppercase tracking-[2px];
+}
+
+.markdown h5 + h6 {
+  @apply mt-2;
 }
 
 .markdown a {
