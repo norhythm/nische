@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-05-22"
-holder: "Hololive"
-artist: "ホロライブゲーマーズ"
-title: "We are GAMERS!!!!"
-url: "hololive-gamers-new-single-we-are-gamers"
+published: true
+date: 2024-05-22
+holder: Hololive
+artist: ホロライブゲーマーズ
+title: We are GAMERS!!!!
+url: hololive-gamers-new-single-we-are-gamers
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-gamers-new-single-we-are-gamers.jpg"
+layout: square
+image: /works/media/hololive-gamers-new-single-we-are-gamers.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title             | Credit |
