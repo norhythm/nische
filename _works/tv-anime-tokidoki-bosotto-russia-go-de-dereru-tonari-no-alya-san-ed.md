@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-09-18
 holder: 時々ボソッとロシア語でデレる隣のアーリャさん
 title: 時々ボソッとロシア語でデレる隣のアーリャさん ED
