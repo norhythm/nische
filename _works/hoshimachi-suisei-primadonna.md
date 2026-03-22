@@ -7,8 +7,8 @@ url: hoshimachi-suisei-primadonna
 tag:
   - rec
   - mix
-layout: rect-v
-image: /works/media/スクリーンショット 2026-03-22 18.12.27.png
+layout: square
+image: /works/media/スクリーンショット 2026-03-22 20.58.09.png
 ---
 ##### Tracklist
 
