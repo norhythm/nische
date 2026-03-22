@@ -1,26 +1,25 @@
 ---
 published: false
 date: 2021-11-03
-holder: "ペタルズ"
-artist: ""
+holder: ""
+artist: "岡咲美保"
 title: "ペタルズ"
-url: "oka-sakimi-ho-2nd-single-petaruzu"
+url: "okasaki-miho-2nd-single-petals"
 tag:
   - mix
 layout: "landscape"
-image: "/works/media/oka-sakimi-ho-2nd-single-petaruzu.jpeg"
+image: "/works/media/okasaki-miho-2nd-single-petals.jpeg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | ペタルズ | Mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 01           | ペタルズ | Mixing |
 
 ##### Video
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/fhN-sykLmZA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
