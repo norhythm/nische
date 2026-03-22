@@ -2,7 +2,7 @@
 published: false
 date: 2023-01-02
 holder: ""
-artist: "さくらみこさん"
+artist: "さくらみこ"
 title: "乙女のススメ♡！"
 url: "hololive-sakura-miko-original-song-otome-no-susume"
 tag:
