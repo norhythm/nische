@@ -1,21 +1,21 @@
 ---
-published: false
+published: true
 date: 2023-04-06
-holder: "RIOT MUSIC"
-artist: "凪原涼菜"
-title: "PANDORA"
-url: "riot-music-nagihara-suzuna-4th-original-song-pandora"
+holder: RIOT MUSIC
+artist: 凪原涼菜
+title: PANDORA
+url: riot-music-nagihara-suzuna-4th-original-song-pandora
 tag:
   - mix
-layout: "square"
-image: "/works/media/riot-music-nagihara-suzuna-4th-original-song-pandora.jpeg"
+  - rec
+layout: square
+image: /works/media/riot-music-nagihara-suzuna-4th-original-song-pandora.jpeg
 ---
-
 ##### Tracklist
 
 | Track number | Title   | Credit |
 | ------------ | ------- | ------ |
-| 01           | PANDORA | Mixing |
+| 01           | PANDORA | Recording / Mixing |
 
 ##### Video
 
