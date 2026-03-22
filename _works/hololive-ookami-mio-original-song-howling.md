@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2021-08-20
-holder: "ホロライブ"
-artist: "曲"
+holder: "Hololive"
+artist: "大神ミオ"
 title: "Howling"
 url: "hololive-ookami-mio-original-song-howling"
 tag:
@@ -23,4 +23,6 @@ image: "/works/media/hololive-vtuber-ookami-mio-original-song-howling.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://mio.streamlink.to/howling" target="_blank">楽曲配信リンク</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/howling/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://mio.streamlink.to/howling" target="_blank">Stream & Buy</a>
