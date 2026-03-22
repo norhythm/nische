@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-09-22
 holder: RIOT MUSIC
 artist: 松永依織
