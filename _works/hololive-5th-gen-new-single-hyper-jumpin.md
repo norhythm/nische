@@ -1,21 +1,21 @@
 ---
 published: false
-date: "2023-07-08"
-holder: "Hololive"
-artist: "hololive 5th Generation"
-title: "Hyper Jumpin'"
-url: "hololive-5th-gen-new-single-hyper-jumpin"
+date: 2023-07-08
+holder: Hololive
+artist: hololive 5th Generation
+title: Hyper Jumpin'
+url: hololive-5th-gen-new-single-hyper-jumpin
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-5th-gen-new-single-hyper-jumpin.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
-| 01           | Hyper Jumpin' | Mixing |
+| 01           | Hyper Jumpin' | Recording / Mixing |
 
 ##### Video
 
