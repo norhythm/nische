@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-09-07
 holder: "あんさんぶるスターズ！エクストラ・ステージ"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-ensemble-stars-extra-stage-judge-of-knights-original-song-no-sakuhen
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/stage-ensemble-stars-extra-stage-judge-of-knights-original-song-no-sakuhenkyoku-wo-tantou.jpg"
+image: "/works/media/stage-ensemble-stars-extra-stage-judge-of-knights-original-song-no-sakuhenkyoku-wo-tantou.jpg"
 ---
 
 ##### Video

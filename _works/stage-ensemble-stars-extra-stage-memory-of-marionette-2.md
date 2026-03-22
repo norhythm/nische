@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-12-28
 holder: "あんさんぶるスターズ！エクストラ・ステージ"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-ensemble-stars-extra-stage-memory-of-marionette-2"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/stage-ensemble-stars-extra-stage-memory-of-marionette-2.jpg"
+image: "/works/media/stage-ensemble-stars-extra-stage-memory-of-marionette-2.jpg"
 ---
 
 ##### Video

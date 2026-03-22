@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-08-25
 holder: ""
 artist: "“Non"
@@ -8,7 +8,7 @@ url: "non-sugar-hatsu-no-album-tasting-nonsugar"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/non-sugar-hatsu-no-album-tasting-nonsugar.jpeg"
+image: "/works/media/non-sugar-hatsu-no-album-tasting-nonsugar.jpeg"
 ---
 
 ##### Tracklist

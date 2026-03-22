@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-10-28
 holder: "あんさんぶるスターズ！"
 artist: "Vol.2"
@@ -8,7 +8,7 @@ url: "smartphone-game-ensemble-stars-unit-song-cd-vol-2-knights"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/smartphone-game-ensemble-stars-unit-song-cd-vol-2-knights.jpg"
+image: "/works/media/smartphone-game-ensemble-stars-unit-song-cd-vol-2-knights.jpg"
 ---
 
 ##### Tracklist

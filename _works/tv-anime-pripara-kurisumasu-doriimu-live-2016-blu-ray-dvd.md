@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-08-11
 holder: "プリパラ"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-pripara-kurisumasu-doriimu-live-2016-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-pripara-kurisumasu-doriimu-live-2016-blu-ray-dvd.jpg"
+image: "/works/media/tv-anime-pripara-kurisumasu-doriimu-live-2016-blu-ray-dvd.jpg"
 ---
 
 ##### Tracklist

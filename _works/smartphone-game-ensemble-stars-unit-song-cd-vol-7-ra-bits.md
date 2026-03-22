@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-01-27
 holder: "あんさんぶるスターズ！"
 artist: ""
@@ -8,7 +8,7 @@ url: "smartphone-game-ensemble-stars-unit-song-cd-vol-7-ra-bits"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/smartphone-game-ensemble-stars-unit-song-cd-vol-7-ra-bits.jpg"
+image: "/works/media/smartphone-game-ensemble-stars-unit-song-cd-vol-7-ra-bits.jpg"
 ---
 
 ##### Tracklist

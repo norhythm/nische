@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-03-02
 holder: "HIDE out"
 artist: ""
@@ -8,7 +8,7 @@ url: "sasaki-yoshihide-best-album-hide-out"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/sasaki-yoshihide-best-album-hide-out.jpg"
+image: "/works/media/sasaki-yoshihide-best-album-hide-out.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-09-02
 holder: "HELIOS Rising Heroes"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "helios-rising-heroes-theme-song-rise-sunshine"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/helios-rising-heroes-theme-song-rise-sunshine.png"
+image: "/works/media/helios-rising-heroes-theme-song-rise-sunshine.png"
 ---
 
 ##### Tracklist

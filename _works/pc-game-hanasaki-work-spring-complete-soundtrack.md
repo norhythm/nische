@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-06-26
 holder: "花咲ワークスプリング！"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-hanasaki-work-spring-complete-soundtrack"
 tag:
   - mastering
 layout: "square"
-image: "/temp/media/pc-game-hanasaki-work-spring-complete-soundtrack.jpg"
+image: "/works/media/pc-game-hanasaki-work-spring-complete-soundtrack.jpg"
 ---
 
 ##### Links

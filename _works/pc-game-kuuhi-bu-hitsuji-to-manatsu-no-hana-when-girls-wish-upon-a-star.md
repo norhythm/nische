@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2014-04-25
 holder: "空飛ぶ羊と真夏の花 -When girls wish upon a star.-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-kuuhi-bu-hitsuji-to-manatsu-no-hana-when-girls-wish-upon-a-star"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-kuuhi-bu-hitsuji-to-manatsu-no-hana-when-girls-wish-upon-a-star.jpg"
+image: "/works/media/pc-game-kuuhi-bu-hitsuji-to-manatsu-no-hana-when-girls-wish-upon-a-star.jpg"
 ---
 
 ##### Video

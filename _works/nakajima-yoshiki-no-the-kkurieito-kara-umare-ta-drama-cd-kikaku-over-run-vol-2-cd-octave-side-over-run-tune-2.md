@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-01-26
 holder: "中島ヨシキのザックリエイト"
 artist: "「OVER RUN!!」第2弾CD"
@@ -8,7 +8,7 @@ url: "nakajima-yoshiki-no-the-kkurieito-kara-umare-ta-drama-cd-kikaku-over-run-v
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/nakajima-yoshiki-no-the-kkurieito-kara-umare-ta-drama-cd-kikaku-over-run-vol-2-cd-octave-side-over-run-tune-2.jpg"
+image: "/works/media/nakajima-yoshiki-no-the-kkurieito-kara-umare-ta-drama-cd-kikaku-over-run-vol-2-cd-octave-side-over-run-tune-2.jpg"
 ---
 
 ##### Tracklist

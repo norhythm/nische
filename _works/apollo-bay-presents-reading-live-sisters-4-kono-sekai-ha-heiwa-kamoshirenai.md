@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-03-12
 holder: ""
 artist: "Apollo"
@@ -8,7 +8,7 @@ url: "apollo-bay-presents-reading-live-sisters-4-kono-sekai-ha-heiwa-kamoshirena
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/apollo-bay-presents-reading-live-sisters-4-kono-sekai-ha-heiwa-kamoshirenai.jpeg"
+image: "/works/media/apollo-bay-presents-reading-live-sisters-4-kono-sekai-ha-heiwa-kamoshirenai.jpeg"
 ---
 
 ##### Tracklist

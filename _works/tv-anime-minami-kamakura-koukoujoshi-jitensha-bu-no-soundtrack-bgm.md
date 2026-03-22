@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-01-06
 holder: "南鎌倉高校女子自転車部"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-minami-kamakura-koukoujoshi-jitensha-bu-no-soundtrack-bgm"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-minami-kamakura-koukoujoshi-jitensha-bu-no-soundtrack-bgm.jpg"
+image: "/works/media/tv-anime-minami-kamakura-koukoujoshi-jitensha-bu-no-soundtrack-bgm.jpg"
 ---
 
 ##### Video

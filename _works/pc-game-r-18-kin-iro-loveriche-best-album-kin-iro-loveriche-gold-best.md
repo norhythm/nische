@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-06-28
 holder: "金色ラブリッチェ"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "pc-game-r-18-kin-iro-loveriche-best-album-kin-iro-loveriche-gold-best"
 tag:
   - mastering
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-kin-iro-loveriche-best-album-kin-iro-loveriche-gold-best.jpg"
+image: "/works/media/pc-game-r-18-kin-iro-loveriche-best-album-kin-iro-loveriche-gold-best.jpg"
 ---
 
 ##### Tracklist

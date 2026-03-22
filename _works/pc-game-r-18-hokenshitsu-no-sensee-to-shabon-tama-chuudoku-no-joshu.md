@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-11-27
 holder: "保健室のセンセーとシャボン玉中毒の助手"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-hokenshitsu-no-sensee-to-shabon-tama-chuudoku-no-joshu"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-hokenshitsu-no-sensee-to-shabon-tama-chuudoku-no-joshu.jpeg"
+image: "/works/media/pc-game-r-18-hokenshitsu-no-sensee-to-shabon-tama-chuudoku-no-joshu.jpeg"
 ---
 
 ##### Video

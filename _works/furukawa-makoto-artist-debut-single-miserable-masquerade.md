@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-07-04
 holder: "miserable masquerade"
 artist: ""
@@ -8,7 +8,7 @@ url: "furukawa-makoto-artist-debut-single-miserable-masquerade"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/furukawa-makoto-artist-debut-single-miserable-masquerade.jpg"
+image: "/works/media/furukawa-makoto-artist-debut-single-miserable-masquerade.jpg"
 ---
 
 ##### Tracklist

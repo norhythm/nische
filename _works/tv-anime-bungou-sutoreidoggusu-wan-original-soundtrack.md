@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-03-24
 holder: "文豪ストレイドッグス わん！"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-bungou-sutoreidoggusu-wan-original-soundtrack"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-bungou-sutoreidoggusu-wan-original-soundtrack.jpg"
+image: "/works/media/tv-anime-bungou-sutoreidoggusu-wan-original-soundtrack.jpg"
 ---
 
 ##### Tracklist

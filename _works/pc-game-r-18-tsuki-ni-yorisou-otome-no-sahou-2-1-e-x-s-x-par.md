@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-05-26
 holder: "月に寄りそう乙女の作法2.1 E×S×PAR!!"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-1-e-x-s-x-par"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-1-e-x-s-x-par.jpg"
+image: "/works/media/pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-1-e-x-s-x-par.jpg"
 ---
 
 ##### Video

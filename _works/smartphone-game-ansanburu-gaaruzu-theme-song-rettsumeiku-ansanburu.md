@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-12-21
 holder: "あんさんぶるガールズ！！"
 artist: "グ"
@@ -8,7 +8,7 @@ url: "smartphone-game-ansanburu-gaaruzu-theme-song-rettsumeiku-ansanburu"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/smartphone-game-ansanburu-gaaruzu-theme-song-rettsumeiku-ansanburu.jpg"
+image: "/works/media/smartphone-game-ansanburu-gaaruzu-theme-song-rettsumeiku-ansanburu.jpg"
 ---
 
 ##### Tracklist

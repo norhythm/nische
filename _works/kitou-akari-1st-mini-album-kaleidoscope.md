@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-08-04
 holder: "Kaleidoscope"
 artist: ""
@@ -8,7 +8,7 @@ url: "kitou-akari-1st-mini-album-kaleidoscope"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kitou-akari-1st-mini-album-kaleidoscope.jpeg"
+image: "/works/media/kitou-akari-1st-mini-album-kaleidoscope.jpeg"
 ---
 
 ##### Tracklist

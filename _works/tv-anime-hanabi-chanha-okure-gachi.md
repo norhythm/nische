@@ -1,15 +1,27 @@
 ---
-published: true
+published: false
 date: 2022-07-10
 holder: "ハナビちゃんは遅れがち"
 artist: ""
-title: "ハナビちゃんは遅れがち"
+title: "ハナビちゃんは遅れがち 主題歌"
 url: "tv-anime-hanabi-chanha-okure-gachi"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-hanabi-chanha-okure-gachi.jpeg"
+image: "/works/media/tv-anime-hanabi-chanha-okure-gachi.jpeg"
 ---
+
+##### Tracklist
+
+| Track number | Title                      | Credit |
+| ------------ | -------------------------- | ------ |
+| 01           | パラレルラルラ             | Mixing |
+| 02           | カグヤ                     | Mixing |
+| 03           | 炎上アリス                 | Mixing |
+| 04           | 水曜日に御用心             | Mixing |
+| 05           | 枯れ木に花を               | Mixing |
+| 06           | ビタいちもんめ             | Mixing |
+| 07           | リビングデッド・フィーバー | Mixing |
 
 ##### Video
 
@@ -35,3 +47,7 @@ image: "/temp/media/tv-anime-hanabi-chanha-okure-gachi.jpeg"
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/nAVBubuGi3o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+##### Links
+
+- <a data-type="button" href="https://hanabichan.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hanabichan.com/product/music/" target="_blank">Stream & Buy</a>

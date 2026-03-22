@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-03-22
 holder: "東京ミュウミュウ にゅ〜♡"
 artist: "ル"
@@ -8,7 +8,7 @@ url: "tv-anime-toukyou-myuumyuu-nyu-kyasuto-unit-smewthie-no-sutaatoappu-single-
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-toukyou-myuumyuu-nyu-kyasuto-unit-smewthie-no-sutaatoappu-single-bitter-sweet-darling.jpeg"
+image: "/works/media/tv-anime-toukyou-myuumyuu-nyu-kyasuto-unit-smewthie-no-sutaatoappu-single-bitter-sweet-darling.jpeg"
 ---
 
 ##### Tracklist

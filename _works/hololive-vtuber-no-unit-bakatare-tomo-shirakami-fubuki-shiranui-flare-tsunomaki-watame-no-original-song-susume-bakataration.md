@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-06-27
 holder: "ホロライブ"
 artist: "曲"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-no-unit-bakatare-tomo-shirakami-fubuki-shiranui-flare-tsun
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hololive-vtuber-no-unit-bakatare-tomo-shirakami-fubuki-shiranui-flare-tsunomaki-watame-no-original-song-susume-bakataration.png"
+image: "/works/media/hololive-vtuber-no-unit-bakatare-tomo-shirakami-fubuki-shiranui-flare-tsunomaki-watame-no-original-song-susume-bakataration.png"
 ---
 
 ##### Tracklist

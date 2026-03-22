@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-10-12
 holder: "腐男子高校生活"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-fu-danshikoukou-seikatsu-fu-danshikoukou-seikatsu-character-song-
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-fu-danshikoukou-seikatsu-fu-danshikoukou-seikatsu-character-song-album.png"
+image: "/works/media/tv-anime-fu-danshikoukou-seikatsu-fu-danshikoukou-seikatsu-character-song-album.png"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-02-05
 holder: "予測不能Days／バレンタイン・ハンター"
 artist: ""
@@ -8,7 +8,7 @@ url: "fuchigami-mai-4th-single-yosokufunou-days-barentain-hantaa"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/fuchigami-mai-4th-single-yosokufunou-days-barentain-hantaa.jpeg"
+image: "/works/media/fuchigami-mai-4th-single-yosokufunou-days-barentain-hantaa.jpeg"
 ---
 
 ##### Tracklist

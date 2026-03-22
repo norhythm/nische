@@ -4,7 +4,7 @@ date: 2025-04-02
 holder: Hololive
 artist: 不知火フレア
 title: 薄明光線
-url: shiranui-flare-hakumei-kosen
+url: hololive-shiranui-flare-hakumei-kosen
 tag:
   - mix
   - rec

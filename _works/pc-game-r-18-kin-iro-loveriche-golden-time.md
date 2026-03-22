@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-02-22
 holder: "金色ラブリッチェ -Golden Time-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-kin-iro-loveriche-golden-time"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-kin-iro-loveriche-golden-time.jpg"
+image: "/works/media/pc-game-r-18-kin-iro-loveriche-golden-time.jpg"
 ---
 
 ##### Video

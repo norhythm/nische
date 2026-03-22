@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-11-25
 holder: "Cheer球部！"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "cheer-kyuubu-1st-ouenka-hit-cheer"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/cheer-kyuubu-1st-ouenka-hit-cheer.jpg"
+image: "/works/media/cheer-kyuubu-1st-ouenka-hit-cheer.jpg"
 ---
 
 ##### Tracklist

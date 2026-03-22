@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2014-05-30
 holder: "子作りしようよ ソーマくん"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "pc-game-ko-tsukuri-shiyouyo-sooma-kun-op-theme-song-ainoshirushi"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pc-game-ko-tsukuri-shiyouyo-sooma-kun-op-theme-song-ainoshirushi.jpg"
+image: "/works/media/pc-game-ko-tsukuri-shiyouyo-sooma-kun-op-theme-song-ainoshirushi.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-10-22
 holder: ""
 artist: "星街すいせいさんと戌亥とこさんのコラボ楽曲"
@@ -8,7 +8,7 @@ url: "hoshimachi-suisei-santo-inui-toko-collab-song-out-of-frame"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hoshimachi-suisei-santo-inui-toko-collab-song-out-of-frame.jpeg"
+image: "/works/media/hoshimachi-suisei-santo-inui-toko-collab-song-out-of-frame.jpeg"
 ---
 
 ##### Tracklist

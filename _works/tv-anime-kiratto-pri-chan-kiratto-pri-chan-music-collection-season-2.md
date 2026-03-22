@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-06-24
 holder: "キラッとプリ☆チャン"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-kiratto-pri-chan-kiratto-pri-chan-music-collection-season-2"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-kiratto-pri-chan-kiratto-pri-chan-music-collection-season-2.jpeg"
+image: "/works/media/tv-anime-kiratto-pri-chan-kiratto-pri-chan-music-collection-season-2.jpeg"
 ---
 
 ##### Tracklist

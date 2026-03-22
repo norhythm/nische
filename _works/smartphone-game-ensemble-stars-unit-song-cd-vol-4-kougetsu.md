@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-12-02
 holder: "あんさんぶるスターズ！"
 artist: "Vol.4"
@@ -8,7 +8,7 @@ url: "smartphone-game-ensemble-stars-unit-song-cd-vol-4-kougetsu"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/smartphone-game-ensemble-stars-unit-song-cd-vol-4-kougetsu.jpg"
+image: "/works/media/smartphone-game-ensemble-stars-unit-song-cd-vol-4-kougetsu.jpg"
 ---
 
 ##### Tracklist

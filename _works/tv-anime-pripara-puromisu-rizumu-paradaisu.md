@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-09-11
 holder: "プリパラ"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-pripara-puromisu-rizumu-paradaisu"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-pripara-puromisu-rizumu-paradaisu.jpg"
+image: "/works/media/tv-anime-pripara-puromisu-rizumu-paradaisu.jpg"
 ---
 
 ##### Tracklist

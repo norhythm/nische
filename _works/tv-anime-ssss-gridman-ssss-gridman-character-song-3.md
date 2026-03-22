@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-12-26
 holder: "SSSS.GRIDMAN"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-ssss-gridman-ssss-gridman-character-song-3"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-ssss-gridman-ssss-gridman-character-song-3.jpg"
+image: "/works/media/tv-anime-ssss-gridman-ssss-gridman-character-song-3.jpg"
 ---
 
 ##### Tracklist

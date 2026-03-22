@@ -1,23 +1,23 @@
 ---
-published: true
+published: false
 date: 2022-10-12
 holder: "Luminous"
-artist: ""
+artist: "鬼頭明里"
 title: "Luminous"
 url: "kitou-akari-2nd-album-luminous"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kitou-akari-2nd-album-luminous.jpg"
+image: "/works/media/kitou-akari-2nd-album-luminous.jpg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | BYERONY | Mixing |
-| 06 | Crescent Lullaby | Mixing |
-| 07 | グッドモーニング | Mixing |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | BYERONY          | Mixing |
+| 06           | Crescent Lullaby | Mixing |
+| 07           | グッドモーニング | Mixing |
 
 ##### Video
 
@@ -25,7 +25,9 @@ image: "/temp/media/kitou-akari-2nd-album-luminous.jpg"
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/EW9Xy0Mk918" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-
 ##### Links
 
-- <a data-type="button" href="https://canime.jp/product/PCCG000002185/" target="_blank">きゃにめ公式サイト</a>
+- <a data-type="button" href="https://canime.jp/product/PCCG000002185/" target="_blank">きゃにめ公式</a>
+- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://kitoakari.com/luminous" target="_blank">Official Page</a>
+- <a data-type="button" href="https://kitoakari.lnk.to/luminous" target="_blank">Stream & Buy</a>

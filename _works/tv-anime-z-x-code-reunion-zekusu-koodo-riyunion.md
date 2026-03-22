@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-10-08
 holder: "Z/X Code reunion（ゼクス コード リユニオン）"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-z-x-code-reunion-zekusu-koodo-riyunion"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-z-x-code-reunion-zekusu-koodo-riyunion.jpg"
+image: "/works/media/tv-anime-z-x-code-reunion-zekusu-koodo-riyunion.jpg"
 ---
 
 ##### Video

@@ -1,0 +1,27 @@
+---
+published: false
+date: 2020-10-07
+holder: "IDOL舞SHOW"
+artist: "2ndシングル"
+title: "Papier Mache IDOL"
+url: "idol-mai-show-x-uc-2nd-single-papier-mache-idol"
+tag:
+  - mix
+layout: "landscape"
+image: "/works/media/idol-mai-show-x-uc-2nd-single-papier-mache-idol.jpeg"
+---
+
+##### Tracklist
+
+| Track number | Title | Credit |
+| ------------ | ----- | ------ |
+| 01 | Papier Mache IDOL | Mixing |
+
+##### Video
+
+<iframe src="https://www.youtube.com/embed/kzawj1DuFiA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
+##### Links
+
+- <a data-type="button" href="http://idolbushow.com/2020/08/31/1007/" target="_blank">IDOL舞SHOW 公式サイト</a>

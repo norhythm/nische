@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-10-23
 holder: "アイドルタイムプリパラ"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "tv-anime-idol-time-pripara-with-hatsu-full-album-always-with-you"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-idol-time-pripara-with-hatsu-full-album-always-with-you.jpg"
+image: "/works/media/tv-anime-idol-time-pripara-with-hatsu-full-album-always-with-you.jpg"
 ---
 
 ##### Tracklist

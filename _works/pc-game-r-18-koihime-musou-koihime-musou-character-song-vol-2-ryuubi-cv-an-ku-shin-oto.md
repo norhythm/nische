@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-08-28
 holder: "恋姫†夢想"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-2-ryuubi-cv-an
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-2-ryuubi-cv-an-ku-shin-oto.jpg"
+image: "/works/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-2-ryuubi-cv-an-ku-shin-oto.jpg"
 ---
 
 ##### Tracklist

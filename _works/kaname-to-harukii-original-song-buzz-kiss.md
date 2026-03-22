@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-12-24
 holder: ""
 artist: "カナメとハルキー"
@@ -8,7 +8,7 @@ url: "kaname-to-harukii-original-song-buzz-kiss"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kaname-to-harukii-original-song-buzz-kiss.jpeg"
+image: "/works/media/kaname-to-harukii-original-song-buzz-kiss.jpeg"
 ---
 
 ##### Tracklist

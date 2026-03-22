@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-02-23
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-music-collection-season-3-dx"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kiratto-pri-chan-music-collection-season-3-dx.jpg"
+image: "/works/media/kiratto-pri-chan-music-collection-season-3-dx.jpg"
 ---
 
 ##### Video

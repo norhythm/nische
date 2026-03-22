@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-01-11
 holder: "血液型くん！４"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-ketsuekigata-kun-4-no-soundtrack-bgm"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-ketsuekigata-kun-4-no-soundtrack-bgm.jpg"
+image: "/works/media/tv-anime-ketsuekigata-kun-4-no-soundtrack-bgm.jpg"
 ---
 
 ##### Links

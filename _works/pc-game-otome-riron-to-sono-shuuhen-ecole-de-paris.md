@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-07-26
 holder: "乙女理論とその周辺-Ecole de Paris-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-otome-riron-to-sono-shuuhen-ecole-de-paris"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pc-game-otome-riron-to-sono-shuuhen-ecole-de-paris.jpg"
+image: "/works/media/pc-game-otome-riron-to-sono-shuuhen-ecole-de-paris.jpg"
 ---
 
 ##### Video

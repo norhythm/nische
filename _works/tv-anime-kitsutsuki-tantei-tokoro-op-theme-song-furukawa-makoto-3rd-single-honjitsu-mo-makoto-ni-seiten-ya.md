@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-07-29
 holder: "啄木鳥探偵處"
 artist: "ル"
@@ -8,7 +8,7 @@ url: "tv-anime-kitsutsuki-tantei-tokoro-op-theme-song-furukawa-makoto-3rd-single
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-kitsutsuki-tantei-tokoro-op-theme-song-furukawa-makoto-3rd-single-honjitsu-mo-makoto-ni-seiten-ya.jpg"
+image: "/works/media/tv-anime-kitsutsuki-tantei-tokoro-op-theme-song-furukawa-makoto-3rd-single-honjitsu-mo-makoto-ni-seiten-ya.jpg"
 ---
 
 ##### Tracklist

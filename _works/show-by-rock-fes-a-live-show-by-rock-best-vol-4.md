@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-04-21
 holder: "SHOW BY ROCK!!Fes A Live"
 artist: ""
@@ -8,7 +8,7 @@ url: "show-by-rock-fes-a-live-show-by-rock-best-vol-4"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/show-by-rock-fes-a-live-show-by-rock-best-vol-4.jpg"
+image: "/works/media/show-by-rock-fes-a-live-show-by-rock-best-vol-4.jpg"
 ---
 
 ##### Tracklist

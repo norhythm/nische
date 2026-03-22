@@ -4,7 +4,7 @@ date: "2023-12-07"
 holder: "Hololive"
 artist: "大神ミオ"
 title: "Night walk"
-url: "ookami-mio-1st-album-night-walk"
+url: "hololive-ookami-mio-1st-album-night-walk"
 tag:
   - mix
 layout: "square"

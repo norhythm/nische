@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-01-01
 holder: "ラブライブ！サンシャイン!!"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-rabu-live-sanshain-lovelive-sunshine-kurosawa-dia-first-solo-conc
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-rabu-live-sanshain-lovelive-sunshine-kurosawa-dia-first-solo-concert-album-white-first-love.jpeg"
+image: "/works/media/tv-anime-rabu-live-sanshain-lovelive-sunshine-kurosawa-dia-first-solo-concert-album-white-first-love.jpeg"
 ---
 
 ##### Video

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-01-26
 holder: "ラストアイドル"
 artist: "曲"
@@ -8,7 +8,7 @@ url: "rasuto-idol-momiyama-himeri-soro-song-to-the-top"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/rasuto-idol-momiyama-himeri-soro-song-to-the-top.png"
+image: "/works/media/rasuto-idol-momiyama-himeri-soro-song-to-the-top.png"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-05-26
 holder: "アイドルマスターミリオンライブ！シアターデイズ"
 artist: ""
@@ -8,7 +8,7 @@ url: "idol-masutaamirion-live-shiataadeizu-the-idolm-ster-million-the-ter-wave-1
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/idol-masutaamirion-live-shiataadeizu-the-idolm-ster-million-the-ter-wave-17-armooo.jpg"
+image: "/works/media/idol-masutaamirion-live-shiataadeizu-the-idolm-ster-million-the-ter-wave-17-armooo.jpg"
 ---
 
 ##### Tracklist

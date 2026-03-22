@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-06-28
 holder: "あんさんぶるスターズ！Starry Stage 2nd ～in 日本武道館～"
 artist: ""
@@ -8,7 +8,7 @@ url: "ensemble-stars-starry-stage-2nd-in-nipponbudoukan-box-ban-blu-ray"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/ensemble-stars-starry-stage-2nd-in-nipponbudoukan-box-ban-blu-ray.jpg"
+image: "/works/media/ensemble-stars-starry-stage-2nd-in-nipponbudoukan-box-ban-blu-ray.jpg"
 ---
 
 ##### Video

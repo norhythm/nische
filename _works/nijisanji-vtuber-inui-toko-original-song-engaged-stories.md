@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-09-10
 holder: ""
 artist: "にじさんじ所属Vtuber、戌亥とこさんのオリジナル楽曲"
@@ -8,7 +8,7 @@ url: "nijisanji-vtuber-inui-toko-original-song-engaged-stories"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/nijisanji-vtuber-inui-toko-original-song-engaged-stories.png"
+image: "/works/media/nijisanji-vtuber-inui-toko-original-song-engaged-stories.png"
 ---
 
 ##### Tracklist

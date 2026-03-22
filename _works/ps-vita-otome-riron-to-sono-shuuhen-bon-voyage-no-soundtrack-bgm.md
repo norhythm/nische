@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-11-22
 holder: "乙女理論とその周辺 -Bon Voyage-"
 artist: ""
@@ -8,7 +8,7 @@ url: "ps-vita-otome-riron-to-sono-shuuhen-bon-voyage-no-soundtrack-bgm"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/ps-vita-otome-riron-to-sono-shuuhen-bon-voyage-no-soundtrack-bgm.jpg"
+image: "/works/media/ps-vita-otome-riron-to-sono-shuuhen-bon-voyage-no-soundtrack-bgm.jpg"
 ---
 
 ##### Video

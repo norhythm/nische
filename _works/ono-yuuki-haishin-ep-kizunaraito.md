@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-06-10
 holder: "キズナライト"
 artist: ""
@@ -8,7 +8,7 @@ url: "ono-yuuki-haishin-ep-kizunaraito"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/ono-yuuki-haishin-ep-kizunaraito.jpeg"
+image: "/works/media/ono-yuuki-haishin-ep-kizunaraito.jpeg"
 ---
 
 ##### Tracklist

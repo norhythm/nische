@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-07-31
 holder: "恋姫†夢想"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-1-sonken-cv-ka
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-1-sonken-cv-kazaoto.jpg"
+image: "/works/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-1-sonken-cv-kazaoto.jpg"
 ---
 
 ##### Tracklist

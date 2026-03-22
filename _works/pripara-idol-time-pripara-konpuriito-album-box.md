@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-03-27
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "pripara-idol-time-pripara-konpuriito-album-box"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pripara-idol-time-pripara-konpuriito-album-box.jpg"
+image: "/works/media/pripara-idol-time-pripara-konpuriito-album-box.jpg"
 ---
 
 ##### Links

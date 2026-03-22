@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-12-25
 holder: "BLAZBLUE ALTER MEMORY"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-blazblue-alter-memory-blazblue-alter-memory-original-soundtrack"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-blazblue-alter-memory-blazblue-alter-memory-original-soundtrack.jpg"
+image: "/works/media/tv-anime-blazblue-alter-memory-blazblue-alter-memory-original-soundtrack.jpg"
 ---
 
 ##### Tracklist

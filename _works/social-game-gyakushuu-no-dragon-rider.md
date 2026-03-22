@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-07-18
 holder: "逆襲のドラゴンライダー"
 artist: ""
@@ -8,5 +8,5 @@ url: "social-game-gyakushuu-no-dragon-rider"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/social-game-gyakushuu-no-dragon-rider.jpg"
+image: "/works/media/social-game-gyakushuu-no-dragon-rider.jpg"
 ---

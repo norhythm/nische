@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-12-18
 holder: "Winter Voice Friends"
 artist: ""
@@ -8,7 +8,7 @@ url: "ono-yuuki-mini-album-winter-voice-friends"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/ono-yuuki-mini-album-winter-voice-friends.jpg"
+image: "/works/media/ono-yuuki-mini-album-winter-voice-friends.jpg"
 ---
 
 ##### Tracklist

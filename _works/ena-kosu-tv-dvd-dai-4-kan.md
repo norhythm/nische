@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-09-25
 holder: "えなコスTV"
 artist: ""
@@ -8,7 +8,7 @@ url: "ena-kosu-tv-dvd-dai-4-kan"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/ena-kosu-tv-dvd-dai-4-kan.jpg"
+image: "/works/media/ena-kosu-tv-dvd-dai-4-kan.jpg"
 ---
 
 ##### Video

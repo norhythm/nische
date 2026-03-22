@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-12-22
 holder: "月に寄りそう乙女の作法2.2 A×L+SA!!(アルプラザ)"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-a-x-l-sa-arupura-the"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-a-x-l-sa-arupura-the.jpg"
+image: "/works/media/pc-game-r-18-tsuki-ni-yorisou-otome-no-sahou-2-a-x-l-sa-arupura-the.jpg"
 ---
 
 ##### Video

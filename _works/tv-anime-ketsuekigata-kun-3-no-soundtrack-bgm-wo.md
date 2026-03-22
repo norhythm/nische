@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-10-12
 holder: "血液型くん！３"
 artist: ""
@@ -8,5 +8,5 @@ url: "tv-anime-ketsuekigata-kun-3-no-soundtrack-bgm-wo"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-ketsuekigata-kun-3-no-soundtrack-bgm-wo.jpg"
+image: "/works/media/tv-anime-ketsuekigata-kun-3-no-soundtrack-bgm-wo.jpg"
 ---

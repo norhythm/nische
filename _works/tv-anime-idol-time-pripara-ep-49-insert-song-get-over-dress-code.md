@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-03-18
 holder: "アイドルタイムプリパラ"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "tv-anime-idol-time-pripara-ep-49-insert-song-get-over-dress-code"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-idol-time-pripara-ep-49-insert-song-get-over-dress-code.jpg"
+image: "/works/media/tv-anime-idol-time-pripara-ep-49-insert-song-get-over-dress-code.jpg"
 ---
 
 ##### Tracklist

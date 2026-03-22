@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-23
 holder: "from fairytale"
 artist: ""
@@ -8,7 +8,7 @@ url: "furukawa-makoto-1st-album-from-fairytale"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/furukawa-makoto-1st-album-from-fairytale.jpeg"
+image: "/works/media/furukawa-makoto-1st-album-from-fairytale.jpeg"
 ---
 
 ##### Tracklist

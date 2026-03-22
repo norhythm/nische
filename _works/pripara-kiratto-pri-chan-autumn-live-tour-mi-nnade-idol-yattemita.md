@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-03-29
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "pripara-kiratto-pri-chan-autumn-live-tour-mi-nnade-idol-yattemita"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pripara-kiratto-pri-chan-autumn-live-tour-mi-nnade-idol-yattemita.png"
+image: "/works/media/pripara-kiratto-pri-chan-autumn-live-tour-mi-nnade-idol-yattemita.png"
 ---
 
 ##### Tracklist

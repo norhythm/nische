@@ -4,7 +4,7 @@ date: 2025-05-31
 holder: "Hololive"
 artist: 天音かなた
 title: セルフサービス
-url: amane-kanata-self-service
+url: hololive-amane-kanata-self-service
 tag:
   - mix
 layout: square

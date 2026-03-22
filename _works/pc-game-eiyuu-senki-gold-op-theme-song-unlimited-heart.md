@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2014-03-05
 holder: "英雄＊戦姫GOLD"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "pc-game-eiyuu-senki-gold-op-theme-song-unlimited-heart"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-eiyuu-senki-gold-op-theme-song-unlimited-heart.jpg"
+image: "/works/media/pc-game-eiyuu-senki-gold-op-theme-song-unlimited-heart.jpg"
 ---
 
 ##### Tracklist

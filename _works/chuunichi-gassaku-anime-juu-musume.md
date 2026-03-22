@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-08-19
 holder: "枪娘（銃娘）"
 artist: ""
@@ -8,7 +8,7 @@ url: "chuunichi-gassaku-anime-juu-musume"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/chuunichi-gassaku-anime-juu-musume.png"
+image: "/works/media/chuunichi-gassaku-anime-juu-musume.png"
 ---
 
 ##### Links

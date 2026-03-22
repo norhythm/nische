@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-11-17
 holder: ""
 artist: "古川慎さんのミニアルバム"
@@ -8,7 +8,7 @@ url: "furukawa-makoto-mini-album-room-of-no-name"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/furukawa-makoto-mini-album-room-of-no-name.jpeg"
+image: "/works/media/furukawa-makoto-mini-album-room-of-no-name.jpeg"
 ---
 
 ##### Tracklist

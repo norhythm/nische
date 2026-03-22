@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2012-10-26
 holder: "月に寄りそう乙女の作法"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-tsuki-ni-yorisou-otome-no-sahou"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-tsuki-ni-yorisou-otome-no-sahou.jpg"
+image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou.jpg"
 ---
 
 ##### Video

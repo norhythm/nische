@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-01-30
 holder: "Stellamaris（ステラマリス）"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "re-suteeji-stellamaris-suteramarisu-1st-album-q-e-d"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/re-suteeji-stellamaris-suteramarisu-1st-album-q-e-d.jpg"
+image: "/works/media/re-suteeji-stellamaris-suteramarisu-1st-album-q-e-d.jpg"
 ---
 
 ##### Tracklist

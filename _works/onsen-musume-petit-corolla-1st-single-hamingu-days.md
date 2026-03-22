@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-11-01
 holder: "温泉むすめ"
 artist: "corolla” 1stシングル"
@@ -8,7 +8,7 @@ url: "onsen-musume-petit-corolla-1st-single-hamingu-days"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/onsen-musume-petit-corolla-1st-single-hamingu-days.jpg"
+image: "/works/media/onsen-musume-petit-corolla-1st-single-hamingu-days.jpg"
 ---
 
 ##### Tracklist

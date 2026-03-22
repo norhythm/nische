@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-04-06
 holder: "Get set, Go !"
 artist: ""
@@ -8,7 +8,7 @@ url: "run-girls-run-hatsu-no-mini-album-get-set-go"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/run-girls-run-hatsu-no-mini-album-get-set-go.jpg"
+image: "/works/media/run-girls-run-hatsu-no-mini-album-get-set-go.jpg"
 ---
 
 ##### Tracklist

@@ -4,17 +4,18 @@ date: 2024-09-15
 holder: Hololive
 artist: 宝鐘マリン
 title: パイパイ仮面でどうかしらん？
-url: houshou-marine-new-song-paipai-kamen-de-doukashiran
+url: hololive-houshou-marine-new-song-paipai-kamen-de-doukashiran
 tag:
   - mix
   - rec
 layout: square
 image: /works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
+| Track number | Title                        | Credit             |
+| ------------ | ---------------------------- | ------------------ |
 | 01           | パイパイ仮面でどうかしらん？ | Recording / Mixing |
 
 ##### Video

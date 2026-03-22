@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-11-26
 holder: "月に寄りそう乙女の作法 ～ひだまりの日々～"
 artist: ""
@@ -8,7 +8,7 @@ url: "ps-vita-tsuki-ni-yorisou-otome-no-sahou-hidamarino-hibi-no-soundtrack-bgm"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/ps-vita-tsuki-ni-yorisou-otome-no-sahou-hidamarino-hibi-no-soundtrack-bgm.jpg"
+image: "/works/media/ps-vita-tsuki-ni-yorisou-otome-no-sahou-hidamarino-hibi-no-soundtrack-bgm.jpg"
 ---
 
 ##### Video

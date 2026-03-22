@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-01-01
 holder: "ホロライブ"
 artist: "あやふぶみ"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-no-unit-irohanihohetto-ayafubumi-onikemodansu"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hololive-vtuber-no-unit-irohanihohetto-ayafubumi-onikemodansu.png"
+image: "/works/media/hololive-vtuber-no-unit-irohanihohetto-ayafubumi-onikemodansu.png"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-11-30
 holder: "バドミントンガールズ"
 artist: "ル"
@@ -9,7 +9,7 @@ tag:
   - mastering
   - mix
 layout: "square"
-image: "/temp/media/dmm-games-hatsu-no-original-purojiekuto-badomintongaaruzu-no-debut-single-smash.jpg"
+image: "/works/media/dmm-games-hatsu-no-original-purojiekuto-badomintongaaruzu-no-debut-single-smash.jpg"
 ---
 
 ##### Tracklist

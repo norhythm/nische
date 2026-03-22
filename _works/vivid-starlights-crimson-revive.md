@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-28
 holder: "ViViD Starlights"
 artist: ""
@@ -8,7 +8,7 @@ url: "vivid-starlights-crimson-revive"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/vivid-starlights-crimson-revive.jpg"
+image: "/works/media/vivid-starlights-crimson-revive.jpg"
 ---
 
 ##### Tracklist

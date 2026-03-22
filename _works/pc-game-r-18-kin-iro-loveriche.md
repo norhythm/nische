@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-12-22
 holder: "金色ラブリッチェ"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-kin-iro-loveriche"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-kin-iro-loveriche.jpg"
+image: "/works/media/pc-game-r-18-kin-iro-loveriche.jpg"
 ---
 
 ##### Video

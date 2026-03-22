@@ -4,7 +4,7 @@ date: 2025-03-02
 holder: Hololive
 artist: 桃鈴ねね
 title: LOVE受信、ヒクツ発信
-url: momosuzu-nene-love-jushin-hikutsu-hasshin
+url: hololive-momosuzu-nene-love-jushin-hikutsu-hasshin
 tag:
   - mix
   - rec

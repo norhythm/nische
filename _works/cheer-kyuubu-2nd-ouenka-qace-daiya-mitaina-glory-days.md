@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-03-31
 holder: "Cheer球部！"
 artist: "Qace"
@@ -8,7 +8,7 @@ url: "cheer-kyuubu-2nd-ouenka-qace-daiya-mitaina-glory-days"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/cheer-kyuubu-2nd-ouenka-qace-daiya-mitaina-glory-days.jpg"
+image: "/works/media/cheer-kyuubu-2nd-ouenka-qace-daiya-mitaina-glory-days.jpg"
 ---
 
 ##### Tracklist

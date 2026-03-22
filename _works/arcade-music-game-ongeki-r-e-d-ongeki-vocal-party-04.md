@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-04-28
 holder: "オンゲキ R.E.D."
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-r-e-d-ongeki-vocal-party-04"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-r-e-d-ongeki-vocal-party-04.jpg"
+image: "/works/media/arcade-music-game-ongeki-r-e-d-ongeki-vocal-party-04.jpg"
 ---
 
 ##### Tracklist

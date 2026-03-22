@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-05-27
 holder: "乙女理論とその後の周辺 -Belle Epoque-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-otome-riron-tosono-nochino-shuuhen-belle-epoque-no-soundtrack
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-otome-riron-tosono-nochino-shuuhen-belle-epoque-no-soundtrack-bgm.jpg"
+image: "/works/media/pc-game-r-18-otome-riron-tosono-nochino-shuuhen-belle-epoque-no-soundtrack-bgm.jpg"
 ---
 
 ##### Video

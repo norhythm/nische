@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-04-10
 holder: "乙女ゲー世界はモブに厳しい世界です"
 artist: "「アルトリーベ」テーマソング"
@@ -8,7 +8,7 @@ url: "tv-anime-otome-gee-sekai-ha-mob-ni-ikameshii-sekai-desu-april-fools-kikaku
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-otome-gee-sekai-ha-mob-ni-ikameshii-sekai-desu-april-fools-kikaku-tsurugi-to-mahou-no-fantasy-adv-altliebe-theme-song-supreme-love-star.jpeg"
+image: "/works/media/tv-anime-otome-gee-sekai-ha-mob-ni-ikameshii-sekai-desu-april-fools-kikaku-tsurugi-to-mahou-no-fantasy-adv-altliebe-theme-song-supreme-love-star.jpeg"
 ---
 
 ##### Tracklist

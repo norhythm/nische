@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-02-28
 holder: "ガールズ・ブック・メイカー ～グリムと三人のお姫さま１～ "
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-girls-book-maker-gurimu-to-sannin-noo-hime-sama-1"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-girls-book-maker-gurimu-to-sannin-noo-hime-sama-1.jpg"
+image: "/works/media/pc-game-r-18-girls-book-maker-gurimu-to-sannin-noo-hime-sama-1.jpg"
 ---
 
 ##### Video

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-08-22
 holder: "ガチだん！"
 artist: "「スクランブルガム」のデビューシングル"
@@ -8,7 +8,7 @@ url: "terebi-toukyou-gachi-dan-de-kessei-sareta-unit-sukuranburugamu-no-debut-si
 tag:
   - mix
 layout: "square"
-image: "/temp/media/terebi-toukyou-gachi-dan-de-kessei-sareta-unit-sukuranburugamu-no-debut-single-yoake-no-1-peeji.png"
+image: "/works/media/terebi-toukyou-gachi-dan-de-kessei-sareta-unit-sukuranburugamu-no-debut-single-yoake-no-1-peeji.png"
 ---
 
 ##### Tracklist

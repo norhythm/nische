@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-23
 holder: "オンゲキ R.E.D."
 artist: "Sound Collection 04"
@@ -8,7 +8,7 @@ url: "ongeki-r-e-d-ongeki-sound-collection-04-no-limit-red-force"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/ongeki-r-e-d-ongeki-sound-collection-04-no-limit-red-force.jpg"
+image: "/works/media/ongeki-r-e-d-ongeki-sound-collection-04-no-limit-red-force.jpg"
 ---
 
 ##### Tracklist

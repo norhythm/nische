@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-10-16
 holder: "温泉むすめ"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "onsen-musume-konpuriito-album-onsen-musume-konpuriito-box-limited-edition"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/onsen-musume-konpuriito-album-onsen-musume-konpuriito-box-limited-edition.jpg"
+image: "/works/media/onsen-musume-konpuriito-album-onsen-musume-konpuriito-box-limited-edition.jpg"
 ---
 
 ##### Links

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-07-28
 holder: "HELIOS Rising Heroes"
 artist: ""
@@ -8,7 +8,7 @@ url: "helios-rising-heroes-ending-theme-vol-4"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/helios-rising-heroes-ending-theme-vol-4.jpg"
+image: "/works/media/helios-rising-heroes-ending-theme-vol-4.jpg"
 ---
 
 ##### Video

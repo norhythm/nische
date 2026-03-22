@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-09-11
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-music-collection-dx"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/kiratto-pri-chan-music-collection-dx.png"
+image: "/works/media/kiratto-pri-chan-music-collection-dx.png"
 ---
 
 ##### Tracklist

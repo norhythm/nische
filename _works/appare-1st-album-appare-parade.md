@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-03-10
 holder: "Appare!Parade"
 artist: ""
@@ -8,7 +8,7 @@ url: "appare-1st-album-appare-parade"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/appare-1st-album-appare-parade.jpg"
+image: "/works/media/appare-1st-album-appare-parade.jpg"
 ---
 
 ##### Tracklist

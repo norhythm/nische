@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-02-26
 holder: "キラッとプリ☆チャン"
 artist: "ブ"
@@ -8,7 +8,7 @@ url: "tv-anime-kiratto-pri-chan-nama-haishin-live-hello-puri-chanwaarudo-blu-ray
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-kiratto-pri-chan-nama-haishin-live-hello-puri-chanwaarudo-blu-ray.jpg"
+image: "/works/media/tv-anime-kiratto-pri-chan-nama-haishin-live-hello-puri-chanwaarudo-blu-ray.jpg"
 ---
 
 ##### Video

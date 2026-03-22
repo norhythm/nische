@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-06-27
 holder: "アイドルタイムプリパラ"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-idol-time-pripara-idol-time-pripara-music-collection-dx"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-idol-time-pripara-idol-time-pripara-music-collection-dx.jpg"
+image: "/works/media/tv-anime-idol-time-pripara-idol-time-pripara-music-collection-dx.jpg"
 ---
 
 ##### Video

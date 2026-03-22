@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-12-13
 holder: "YES or NOstalgic!!!"
 artist: ""
@@ -8,7 +8,7 @@ url: "mia-regina-mini-album-yes-or-nostalgic-tracks-no-sakuhenkyoku-wo-tantou"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/mia-regina-mini-album-yes-or-nostalgic-tracks-no-sakuhenkyoku-wo-tantou.jpg"
+image: "/works/media/mia-regina-mini-album-yes-or-nostalgic-tracks-no-sakuhenkyoku-wo-tantou.jpg"
 ---
 
 ##### Tracklist

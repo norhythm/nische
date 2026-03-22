@@ -4,7 +4,7 @@ date: "2023-11-24"
 holder: "Hololive"
 artist: "大神ミオ"
 title: "カメリア"
-url: "ookami-mio-new-song-camellia"
+url: "hololive-ookami-mio-new-song-camellia"
 tag:
   - mix
 layout: "square"

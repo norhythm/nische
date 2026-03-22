@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-06-12
 holder: "Fate/kaleid liner Prisma Illya プリズマ☆ファンタズム"
 artist: ""
@@ -8,7 +8,7 @@ url: "movie-ova-fate-kaleid-liner-prisma-illya-purizuma-fantazumu"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/movie-ova-fate-kaleid-liner-prisma-illya-purizuma-fantazumu.jpg"
+image: "/works/media/movie-ova-fate-kaleid-liner-prisma-illya-purizuma-fantazumu.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-10-25
 holder: "ガールズ・ブック・メイカー -幸せのリブレット-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-girls-book-maker-shiawase-no-libretto-original-soundtrack"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-girls-book-maker-shiawase-no-libretto-original-soundtrack.jpg"
+image: "/works/media/pc-game-r-18-girls-book-maker-shiawase-no-libretto-original-soundtrack.jpg"
 ---
 
 ##### Video

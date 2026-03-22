@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-05-29
 holder: "キラッとプリ☆チャン"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "tv-anime-kiratto-pri-chan-shiizun-2-theme-song-daiyamondosumairu"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-kiratto-pri-chan-shiizun-2-theme-song-daiyamondosumairu.png"
+image: "/works/media/tv-anime-kiratto-pri-chan-shiizun-2-theme-song-daiyamondosumairu.png"
 ---
 
 ##### Tracklist

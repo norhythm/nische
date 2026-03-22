@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-24
 holder: "hololive IDOL PROJECT"
 artist: "弾"
@@ -8,7 +8,7 @@ url: "vtuber-group-hololive-idol-project-9-shuu-consecutive-no-original-song-rel
 tag:
   - mix
 layout: "square"
-image: "/temp/media/vtuber-group-hololive-idol-project-9-shuu-consecutive-no-original-song-release-vol-1-blue-clapper.png"
+image: "/works/media/vtuber-group-hololive-idol-project-9-shuu-consecutive-no-original-song-release-vol-1-blue-clapper.png"
 ---
 
 ##### Tracklist

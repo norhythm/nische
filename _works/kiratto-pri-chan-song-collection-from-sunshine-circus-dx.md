@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-05-26
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-song-collection-from-sunshine-circus-dx"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kiratto-pri-chan-song-collection-from-sunshine-circus-dx.jpg"
+image: "/works/media/kiratto-pri-chan-song-collection-from-sunshine-circus-dx.jpg"
 ---
 
 ##### Tracklist

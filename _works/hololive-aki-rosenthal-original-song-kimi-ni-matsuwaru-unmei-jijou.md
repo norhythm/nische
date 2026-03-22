@@ -11,10 +11,11 @@ tag:
 layout: square
 image: /works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                  | Credit |
-| ------------ | ---------------------- | ------ |
+| Track number | Title                  | Credit             |
+| ------------ | ---------------------- | ------------------ |
 | 01           | キミにまつわる運命事情 | Recording / Mixing |
 
 ##### Video

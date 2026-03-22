@@ -1,15 +1,21 @@
 ---
-published: true
+published: false
 date: 2022-07-27
 holder: "あんさんぶるスターズ！THE STAGE"
 artist: ""
-title: "あんさんぶるスターズ！THE STAGE"
+title: "Track to Miracle"
 url: "stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd.jpg"
+image: "/works/media/stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd.jpg"
 ---
+
+##### Tracklist
+
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | Track to Miracle | Mixing |
 
 ##### Video
 
@@ -18,7 +24,6 @@ image: "/temp/media/stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd.
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/ovteq_xrRJw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/bztftoTHR9w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 

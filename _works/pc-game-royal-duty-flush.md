@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-02-22
 holder: "Royal Duty / Flush!!"
 artist: ""
@@ -8,5 +8,5 @@ url: "pc-game-royal-duty-flush"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-royal-duty-flush.jpg"
+image: "/works/media/pc-game-royal-duty-flush.jpg"
 ---

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-07-28
 holder: "腐男子高校生活"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "tv-anime-fu-danshikoukou-seikatsu-theme-song-sekai-ha-booimiitsubooi-no-he
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-fu-danshikoukou-seikatsu-theme-song-sekai-ha-booimiitsubooi-no-henkyoku-soundtrack-bgm.png"
+image: "/works/media/tv-anime-fu-danshikoukou-seikatsu-theme-song-sekai-ha-booimiitsubooi-no-henkyoku-soundtrack-bgm.png"
 ---
 
 ##### Tracklist

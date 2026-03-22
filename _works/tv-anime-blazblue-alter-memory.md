@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-10-08
 holder: "BLAZBLUE ALTER MEMORY"
 artist: ""
@@ -8,5 +8,5 @@ url: "tv-anime-blazblue-alter-memory"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-blazblue-alter-memory.jpg"
+image: "/works/media/tv-anime-blazblue-alter-memory.jpg"
 ---

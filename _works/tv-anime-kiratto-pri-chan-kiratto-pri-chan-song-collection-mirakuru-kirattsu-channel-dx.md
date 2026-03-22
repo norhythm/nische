@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-11-27
 holder: "キラッとプリ☆チャン"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-kiratto-pri-chan-kiratto-pri-chan-song-collection-mirakuru-kiratt
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-kiratto-pri-chan-kiratto-pri-chan-song-collection-mirakuru-kirattsu-channel-dx.jpg"
+image: "/works/media/tv-anime-kiratto-pri-chan-kiratto-pri-chan-song-collection-mirakuru-kirattsu-channel-dx.jpg"
 ---
 
 ##### Tracklist

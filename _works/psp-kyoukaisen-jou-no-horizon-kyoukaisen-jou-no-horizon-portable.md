@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-04-25
 holder: "境界線上のホライゾン"
 artist: ""
@@ -8,7 +8,7 @@ url: "psp-kyoukaisen-jou-no-horizon-kyoukaisen-jou-no-horizon-portable"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/psp-kyoukaisen-jou-no-horizon-kyoukaisen-jou-no-horizon-portable.jpg"
+image: "/works/media/psp-kyoukaisen-jou-no-horizon-kyoukaisen-jou-no-horizon-portable.jpg"
 ---
 
 ##### Tracklist

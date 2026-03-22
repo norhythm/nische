@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-05-29
 holder: "SHOW BY ROCK!! Fes A Live"
 artist: ""
@@ -8,7 +8,7 @@ url: "smartphone-game-show-by-rock-fes-a-live"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/smartphone-game-show-by-rock-fes-a-live.jpg"
+image: "/works/media/smartphone-game-show-by-rock-fes-a-live.jpg"
 ---
 
 ##### Links

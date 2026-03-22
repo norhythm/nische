@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-08-19
 holder: "CHUNITHM"
 artist: "い"
@@ -8,7 +8,7 @@ url: "arcade-music-game-chunithm-shinki-shuuroku-song-hoshimachi-suisei-jibunkat
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-chunithm-shinki-shuuroku-song-hoshimachi-suisei-jibunkatte-dazzling.jpg"
+image: "/works/media/arcade-music-game-chunithm-shinki-shuuroku-song-hoshimachi-suisei-jibunkatte-dazzling.jpg"
 ---
 
 ##### Tracklist

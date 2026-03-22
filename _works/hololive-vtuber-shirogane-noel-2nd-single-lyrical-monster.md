@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-06-25
 holder: "ホロライブ"
 artist: "白銀ノエルさんの2nd single"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-shirogane-noel-2nd-single-lyrical-monster"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hololive-vtuber-shirogane-noel-2nd-single-lyrical-monster.png"
+image: "/works/media/hololive-vtuber-shirogane-noel-2nd-single-lyrical-monster.png"
 ---
 
 ##### Tracklist

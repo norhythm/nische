@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-11-24
 holder: "あぶのーまるらば～ず"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-abunoomaruraba-zu"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-abunoomaruraba-zu.jpg"
+image: "/works/media/pc-game-r-18-abunoomaruraba-zu.jpg"
 ---
 
 ##### Video

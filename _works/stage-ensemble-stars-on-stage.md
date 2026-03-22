@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-10-25
 holder: "あんさんぶるスターズ！オン・ステージ"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-ensemble-stars-on-stage"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/stage-ensemble-stars-on-stage.jpg"
+image: "/works/media/stage-ensemble-stars-on-stage.jpg"
 ---
 
 ##### Video

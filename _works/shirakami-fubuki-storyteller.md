@@ -4,13 +4,14 @@ date: 2024-12-24
 holder: Hololive
 artist: 白上フブキ
 title: ストーリーテラー
-url: shirakami-fubuki-storyteller
+url: hololive-shirakami-fubuki-storyteller
 tag:
   - mix
   - rec
 layout: rect-h
 image: /works/media/shirakami-fubuki-storyteller.jpg
 ---
+
 ##### Tracklist
 
 | Track number | Title            | Credit |

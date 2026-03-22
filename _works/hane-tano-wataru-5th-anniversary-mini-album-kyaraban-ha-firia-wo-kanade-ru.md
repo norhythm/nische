@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-12-21
 holder: "キャラバンはフィリアを奏でる"
 artist: ""
@@ -8,7 +8,7 @@ url: "hane-tano-wataru-5th-anniversary-mini-album-kyaraban-ha-firia-wo-kanade-ru
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hane-tano-wataru-5th-anniversary-mini-album-kyaraban-ha-firia-wo-kanade-ru.jpg"
+image: "/works/media/hane-tano-wataru-5th-anniversary-mini-album-kyaraban-ha-firia-wo-kanade-ru.jpg"
 ---
 
 ##### Tracklist

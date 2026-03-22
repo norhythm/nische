@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-09-23
 holder: "フローラル・フローラブ"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-floral-flowlove-floral-flowlove-complete-soundtrack-ni-ed-mag
 tag:
   - mastering
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-floral-flowlove-floral-flowlove-complete-soundtrack-ni-ed-magato-bgm-ga-zenkyoku-shuuroku-dou-cd-no-masuta-ring-wo-tantou.jpg"
+image: "/works/media/pc-game-r-18-floral-flowlove-floral-flowlove-complete-soundtrack-ni-ed-magato-bgm-ga-zenkyoku-shuuroku-dou-cd-no-masuta-ring-wo-tantou.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-08-27
 holder: "Princess×Princess"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-princess-x-princess"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-princess-x-princess.jpg"
+image: "/works/media/pc-game-r-18-princess-x-princess.jpg"
 ---
 
 ##### Video

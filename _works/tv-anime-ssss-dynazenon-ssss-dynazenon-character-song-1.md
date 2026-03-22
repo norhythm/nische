@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-07-21
 holder: "SSSS.DYNAZENON"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-1"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-1.jpg"
+image: "/works/media/tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-1.jpg"
 ---
 
 ##### Tracklist

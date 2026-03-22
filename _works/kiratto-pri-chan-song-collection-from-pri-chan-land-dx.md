@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-06-23
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-song-collection-from-pri-chan-land-dx"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/kiratto-pri-chan-song-collection-from-pri-chan-land-dx.jpg"
+image: "/works/media/kiratto-pri-chan-song-collection-from-pri-chan-land-dx.jpg"
 ---
 
 ##### Tracklist

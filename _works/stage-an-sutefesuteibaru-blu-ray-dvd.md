@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-01-11
 holder: "あんステフェスティバル"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-an-sutefesuteibaru-blu-ray-dvd"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/stage-an-sutefesuteibaru-blu-ray-dvd.jpg"
+image: "/works/media/stage-an-sutefesuteibaru-blu-ray-dvd.jpg"
 ---
 
 ##### Video

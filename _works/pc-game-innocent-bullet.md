@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2013-08-23
 holder: "イノセント・バレット"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-innocent-bullet"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pc-game-innocent-bullet.jpg"
+image: "/works/media/pc-game-innocent-bullet.jpg"
 ---
 
 ##### Video

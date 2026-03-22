@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-06-07
 holder: "あはれ!名作くん"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-ahare-meisaku-kun-no-soundtrack-bgm"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-ahare-meisaku-kun-no-soundtrack-bgm.jpg"
+image: "/works/media/tv-anime-ahare-meisaku-kun-no-soundtrack-bgm.jpg"
 ---
 
 ##### Links

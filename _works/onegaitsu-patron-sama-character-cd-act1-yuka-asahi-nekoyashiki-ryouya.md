@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-16
 holder: "おねがいっパトロンさま！"
 artist: ""
@@ -8,7 +8,7 @@ url: "onegaitsu-patron-sama-character-cd-act1-yuka-asahi-nekoyashiki-ryouya"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/onegaitsu-patron-sama-character-cd-act1-yuka-asahi-nekoyashiki-ryouya.jpg"
+image: "/works/media/onegaitsu-patron-sama-character-cd-act1-yuka-asahi-nekoyashiki-ryouya.jpg"
 ---
 
 ##### Tracklist

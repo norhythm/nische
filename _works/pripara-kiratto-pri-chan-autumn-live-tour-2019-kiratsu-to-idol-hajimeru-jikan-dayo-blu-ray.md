@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-06-26
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "pripara-kiratto-pri-chan-autumn-live-tour-2019-kiratsu-to-idol-hajimeru-ji
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pripara-kiratto-pri-chan-autumn-live-tour-2019-kiratsu-to-idol-hajimeru-jikan-dayo-blu-ray.jpeg"
+image: "/works/media/pripara-kiratto-pri-chan-autumn-live-tour-2019-kiratsu-to-idol-hajimeru-jikan-dayo-blu-ray.jpeg"
 ---
 
 ##### Tracklist

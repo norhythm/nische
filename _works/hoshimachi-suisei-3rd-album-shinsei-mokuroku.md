@@ -4,7 +4,7 @@ date: "2025-01-22"
 holder: "Hololive"
 artist: "星街すいせい"
 title: "新星目録"
-url: "hoshimachi-suisei-3rd-album-shinsei-mokuroku"
+url: "hololive-hoshimachi-suisei-3rd-album-shinsei-mokuroku"
 tag:
   - mix
 layout: "square"

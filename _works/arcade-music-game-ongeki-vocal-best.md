@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-12-22
 holder: "オンゲキ"
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-vocal-best"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-vocal-best.jpg"
+image: "/works/media/arcade-music-game-ongeki-vocal-best.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-06-22
 holder: "オンゲキ bright MEMORY"
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-bright-memory-ongeki-vocal-party-08"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-bright-memory-ongeki-vocal-party-08.jpg"
+image: "/works/media/arcade-music-game-ongeki-bright-memory-ongeki-vocal-party-08.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-05-25
 holder: "ワッチャプリマジ！"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-watcha-primagi-character-song-mini-album-pumping-waccha-02-dx"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-watcha-primagi-character-song-mini-album-pumping-waccha-02-dx.jpeg"
+image: "/works/media/tv-anime-watcha-primagi-character-song-mini-album-pumping-waccha-02-dx.jpeg"
 ---
 
 ##### Tracklist

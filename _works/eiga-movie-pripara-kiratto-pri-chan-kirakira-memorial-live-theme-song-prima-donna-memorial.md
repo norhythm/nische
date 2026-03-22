@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-05-05
 holder: "劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "eiga-movie-pripara-kiratto-pri-chan-kirakira-memorial-live-theme-song-prim
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/eiga-movie-pripara-kiratto-pri-chan-kirakira-memorial-live-theme-song-prima-donna-memorial.jpg"
+image: "/works/media/eiga-movie-pripara-kiratto-pri-chan-kirakira-memorial-live-theme-song-prima-donna-memorial.jpg"
 ---
 
 ##### Video

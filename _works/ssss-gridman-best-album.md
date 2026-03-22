@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-12-18
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "ssss-gridman-best-album"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/ssss-gridman-best-album.jpg"
+image: "/works/media/ssss-gridman-best-album.jpg"
 ---
 
 ##### Tracklist

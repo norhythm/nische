@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-04-30
 holder: "あぶのーまるらば～ず"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-abunoomaruraba-zu-original-soundtrack"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pc-game-r-18-abunoomaruraba-zu-original-soundtrack.jpg"
+image: "/works/media/pc-game-r-18-abunoomaruraba-zu-original-soundtrack.jpg"
 ---
 
 ##### Tracklist

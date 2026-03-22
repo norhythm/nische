@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-09-11
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "mi-nnade-kiratsu-to-pretty-live-2018-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/mi-nnade-kiratsu-to-pretty-live-2018-blu-ray-dvd.png"
+image: "/works/media/mi-nnade-kiratsu-to-pretty-live-2018-blu-ray-dvd.png"
 ---
 
 ##### Links

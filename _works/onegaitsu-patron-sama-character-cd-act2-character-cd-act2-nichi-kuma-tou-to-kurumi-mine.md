@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-03-10
 holder: "おねがいっパトロンさま！"
 artist: ""
@@ -8,7 +8,7 @@ url: "onegaitsu-patron-sama-character-cd-act2-character-cd-act2-nichi-kuma-tou-t
 tag:
   - mix
 layout: "square"
-image: "/temp/media/onegaitsu-patron-sama-character-cd-act2-character-cd-act2-nichi-kuma-tou-to-kurumi-mine.jpg"
+image: "/works/media/onegaitsu-patron-sama-character-cd-act2-character-cd-act2-nichi-kuma-tou-to-kurumi-mine.jpg"
 ---
 
 ##### Tracklist

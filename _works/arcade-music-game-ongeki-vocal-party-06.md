@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-02-25
 holder: "オンゲキ"
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-vocal-party-06"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-vocal-party-06.jpg"
+image: "/works/media/arcade-music-game-ongeki-vocal-party-06.jpg"
 ---
 
 ##### Tracklist

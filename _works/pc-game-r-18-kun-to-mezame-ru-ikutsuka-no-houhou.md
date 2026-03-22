@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-05-25
 holder: "君と目覚める幾つかの方法"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-kun-to-mezame-ru-ikutsuka-no-houhou"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-kun-to-mezame-ru-ikutsuka-no-houhou.png"
+image: "/works/media/pc-game-r-18-kun-to-mezame-ru-ikutsuka-no-houhou.png"
 ---
 
 ##### Video

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-05-22
 holder: "ワンパンマン"
 artist: "ル"
@@ -8,7 +8,7 @@ url: "tv-anime-one-punch-man-season-2-ending-theme-song-furukawa-makoto-2nd-sing
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-one-punch-man-season-2-ending-theme-song-furukawa-makoto-2nd-single-chizu-ga-naku-temo-modoru-kara.jpg"
+image: "/works/media/tv-anime-one-punch-man-season-2-ending-theme-song-furukawa-makoto-2nd-single-chizu-ga-naku-temo-modoru-kara.jpg"
 ---
 
 ##### Tracklist

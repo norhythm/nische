@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-03-14
 holder: "あんさんぶるスターズ！DREAM LIVE – 2nd Tour “Bright Star!”-"
 artist: ""
@@ -8,7 +8,7 @@ url: "ensemble-stars-dream-live-2nd-tour-bright-star-bd-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/ensemble-stars-dream-live-2nd-tour-bright-star-bd-dvd.jpg"
+image: "/works/media/ensemble-stars-dream-live-2nd-tour-bright-star-bd-dvd.jpg"
 ---
 
 ##### Video

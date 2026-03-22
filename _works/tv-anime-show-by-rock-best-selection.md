@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-04-06
 holder: ""
 artist: "TVアニメ"
@@ -8,7 +8,7 @@ url: "tv-anime-show-by-rock-best-selection"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/tv-anime-show-by-rock-best-selection.jpg"
+image: "/works/media/tv-anime-show-by-rock-best-selection.jpg"
 ---
 
 ##### Tracklist

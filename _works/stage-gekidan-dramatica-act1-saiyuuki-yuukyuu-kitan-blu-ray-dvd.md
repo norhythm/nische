@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-04-27
 holder: "ドラマティカ"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray-dvd.jpeg"
+image: "/works/media/stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray-dvd.jpeg"
 ---
 
 ##### Video

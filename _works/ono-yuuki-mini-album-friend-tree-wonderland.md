@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-06-19
 holder: "Friend Tree Wonderland"
 artist: ""
@@ -8,7 +8,7 @@ url: "ono-yuuki-mini-album-friend-tree-wonderland"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/ono-yuuki-mini-album-friend-tree-wonderland.jpg"
+image: "/works/media/ono-yuuki-mini-album-friend-tree-wonderland.jpg"
 ---
 
 ##### Tracklist

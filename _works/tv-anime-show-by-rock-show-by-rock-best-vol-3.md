@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-12-18
 holder: "SHOW BY ROCK!!"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-show-by-rock-show-by-rock-best-vol-3"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-show-by-rock-show-by-rock-best-vol-3.jpg"
+image: "/works/media/tv-anime-show-by-rock-show-by-rock-best-vol-3.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-02-26
 holder: "オンゲキSUMMER"
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-summer-ongeki-vocal-collection-07"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-summer-ongeki-vocal-collection-07.jpg"
+image: "/works/media/arcade-music-game-ongeki-summer-ongeki-vocal-collection-07.jpg"
 ---
 
 ##### Tracklist

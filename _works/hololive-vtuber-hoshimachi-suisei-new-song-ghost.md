@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-04-14
 holder: "ホロライブ"
 artist: "曲"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-hoshimachi-suisei-new-song-ghost"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/hololive-vtuber-hoshimachi-suisei-new-song-ghost.png"
+image: "/works/media/hololive-vtuber-hoshimachi-suisei-new-song-ghost.png"
 ---
 
 ##### Tracklist

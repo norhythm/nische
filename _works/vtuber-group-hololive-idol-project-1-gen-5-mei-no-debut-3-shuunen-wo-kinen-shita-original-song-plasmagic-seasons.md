@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-05-15
 holder: "hololive IDOL PROJECT"
 artist: "曲"
@@ -8,7 +8,7 @@ url: "vtuber-group-hololive-idol-project-1-gen-5-mei-no-debut-3-shuunen-wo-kinen
 tag:
   - mix
 layout: "square"
-image: "/temp/media/vtuber-group-hololive-idol-project-1-gen-5-mei-no-debut-3-shuunen-wo-kinen-shita-original-song-plasmagic-seasons.jpg"
+image: "/works/media/vtuber-group-hololive-idol-project-1-gen-5-mei-no-debut-3-shuunen-wo-kinen-shita-original-song-plasmagic-seasons.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-12-23
 holder: "あんさんぶるスターズ！"
 artist: ""
@@ -8,7 +8,7 @@ url: "smartphone-game-ensemble-stars-unit-song-cd-vol-6-2wink"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/smartphone-game-ensemble-stars-unit-song-cd-vol-6-2wink.jpg"
+image: "/works/media/smartphone-game-ensemble-stars-unit-song-cd-vol-6-2wink.jpg"
 ---
 
 ##### Tracklist

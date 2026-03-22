@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-12-25
 holder: "Hop Step Sing!"
 artist: "オ"
@@ -8,7 +8,7 @@ url: "vr-idol-stars-project-hop-step-sing-new-song-vr-myuujikkubideo-asutoraru-p
 tag:
   - mix
 layout: "square"
-image: "/temp/media/vr-idol-stars-project-hop-step-sing-new-song-vr-myuujikkubideo-asutoraru-piisu.png"
+image: "/works/media/vr-idol-stars-project-hop-step-sing-new-song-vr-myuujikkubideo-asutoraru-piisu.png"
 ---
 
 ##### Tracklist

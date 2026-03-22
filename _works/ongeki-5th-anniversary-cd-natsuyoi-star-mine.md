@@ -1,7 +1,7 @@
 ---
 published: false
 date: "2023-08-30"
-holder: "ONGEKI"
+holder: "オンゲキ"
 artist: ""
 title: "夏宵スターマイン"
 url: "ongeki-5th-anniversary-cd-natsuyoi-star-mine"

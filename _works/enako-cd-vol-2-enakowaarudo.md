@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-08-28
 holder: "えなこわーるど"
 artist: ""
@@ -8,7 +8,7 @@ url: "enako-cd-vol-2-enakowaarudo"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/enako-cd-vol-2-enakowaarudo.jpg"
+image: "/works/media/enako-cd-vol-2-enakowaarudo.jpg"
 ---
 
 ##### Tracklist

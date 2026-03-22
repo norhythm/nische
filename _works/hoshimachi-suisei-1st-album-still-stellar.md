@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-09-29
 holder: ""
 artist: "星街すいせいさんの1stアルバム"
@@ -8,7 +8,7 @@ url: "hoshimachi-suisei-1st-album-still-stellar"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hoshimachi-suisei-1st-album-still-stellar.png"
+image: "/works/media/hoshimachi-suisei-1st-album-still-stellar.png"
 ---
 
 ##### Tracklist

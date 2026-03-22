@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-08-26
 holder: ""
 artist: "れるりり"
@@ -8,7 +8,7 @@ url: "reruriri-10th-anniversary-original-best-album-shuuchishin-ni-korosa-reru"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/reruriri-10th-anniversary-original-best-album-shuuchishin-ni-korosa-reru.jpeg"
+image: "/works/media/reruriri-10th-anniversary-original-best-album-shuuchishin-ni-korosa-reru.jpeg"
 ---
 
 ##### Tracklist

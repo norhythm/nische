@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-09-14
 holder: "アイドルタイムプリパラ Winter Live 2017"
 artist: ""
@@ -8,7 +8,7 @@ url: "idol-time-pripara-winter-live-2017-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/idol-time-pripara-winter-live-2017-blu-ray-dvd.png"
+image: "/works/media/idol-time-pripara-winter-live-2017-blu-ray-dvd.png"
 ---
 
 ##### Tracklist

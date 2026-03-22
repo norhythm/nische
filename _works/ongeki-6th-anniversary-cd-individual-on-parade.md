@@ -1,7 +1,7 @@
 ---
 published: false
 date: "2024-07-26"
-holder: "ONGEKI"
+holder: "オンゲキ"
 artist: ""
 title: "Individual on parade!"
 url: "ongeki-6th-anniversary-cd-individual-on-parade"

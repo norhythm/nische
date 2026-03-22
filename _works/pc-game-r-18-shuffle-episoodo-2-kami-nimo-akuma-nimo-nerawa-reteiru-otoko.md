@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-05-29
 holder: "SHUFFLE!エピソード2-神にも悪魔にも狙われている男-"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-shuffle-episoodo-2-kami-nimo-akuma-nimo-nerawa-reteiru-otoko"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-shuffle-episoodo-2-kami-nimo-akuma-nimo-nerawa-reteiru-otoko.jpg"
+image: "/works/media/pc-game-r-18-shuffle-episoodo-2-kami-nimo-akuma-nimo-nerawa-reteiru-otoko.jpg"
 ---
 
 ##### Video

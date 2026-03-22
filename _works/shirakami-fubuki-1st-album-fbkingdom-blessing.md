@@ -4,18 +4,19 @@ date: 2025-01-15
 holder: Hololive
 artist: 白上フブキ
 title: FBKINGDOM "Blessing"
-url: shirakami-fubuki-1st-album-fbkingdom-blessing
+url: hololive-shirakami-fubuki-1st-album-fbkingdom-blessing
 tag:
   - mix
   - rec
 layout: square
 image: /works/media/shirakami-fubuki-1st-album-fbkingdom-blessing.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                                                       | Credit |
-| ------------ | ----------------------------------------------------------- | ------ |
-| 06           | ストーリーテラー                                            | Recording / Mixing |
+| Track number | Title            | Credit             |
+| ------------ | ---------------- | ------------------ |
+| 06           | ストーリーテラー | Recording / Mixing |
 
 ##### Video
 

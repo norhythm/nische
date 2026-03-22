@@ -4,20 +4,21 @@ date: 2024-10-16
 holder: Hololive
 artist: 宝鐘マリン
 title: Ahoy!! キミたちみんなパイレーツ♡
-url: houshou-marine-1st-album-ahoy-kimitachi-minna-pirates
+url: hololive-houshou-marine-1st-album-ahoy-kimitachi-minna-pirates
 tag:
   - mix
   - rec
 layout: square
 image: /works/media/houshou-marine-1st-album-ahoy-kimitachi-minna-pirates.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title                        | Credit |
-| ------------ | ---------------------------- | ------ |
-| 06           | コンプレックス♡プリンセス    | Mixing |
+| Track number | Title                        | Credit            |
+| ------------ | ---------------------------- | ----------------- |
+| 06           | コンプレックス♡プリンセス    | Mixing            |
 | 10           | パイパイ仮面でどうかしらん？ | Recoding / Mixing |
-| 11           | Happiness World              | Mixing |
+| 11           | Happiness World              | Mixing            |
 
 ##### Video
 

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-03-30
 holder: "Cheer球部！"
 artist: ""
@@ -8,7 +8,7 @@ url: "cheer-kyuubu-top-of-diamond-2nd-battle-cd"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/cheer-kyuubu-top-of-diamond-2nd-battle-cd.jpg"
+image: "/works/media/cheer-kyuubu-top-of-diamond-2nd-battle-cd.jpg"
 ---
 
 ##### Tracklist

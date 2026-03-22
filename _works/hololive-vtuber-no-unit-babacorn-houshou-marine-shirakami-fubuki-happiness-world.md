@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-02-25
 holder: "『ホロライブ』所属VTuberのユニット、BABACORN(宝鐘マリン"
 artist: "白上フブキ)"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-no-unit-babacorn-houshou-marine-shirakami-fubuki-happiness
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hololive-vtuber-no-unit-babacorn-houshou-marine-shirakami-fubuki-happiness-world.png"
+image: "/works/media/hololive-vtuber-no-unit-babacorn-houshou-marine-shirakami-fubuki-happiness-world.png"
 ---
 
 ##### Tracklist

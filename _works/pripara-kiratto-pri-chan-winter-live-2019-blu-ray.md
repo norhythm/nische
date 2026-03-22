@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-04
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "pripara-kiratto-pri-chan-winter-live-2019-blu-ray"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pripara-kiratto-pri-chan-winter-live-2019-blu-ray.jpg"
+image: "/works/media/pripara-kiratto-pri-chan-winter-live-2019-blu-ray.jpg"
 ---
 
 ##### Tracklist

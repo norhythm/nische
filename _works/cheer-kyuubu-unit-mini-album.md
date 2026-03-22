@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-12-21
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "cheer-kyuubu-unit-mini-album"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/cheer-kyuubu-unit-mini-album.jpg"
+image: "/works/media/cheer-kyuubu-unit-mini-album.jpg"
 ---
 
 ##### Tracklist

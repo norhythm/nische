@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-03-30
 holder: "金色ラブリッチェ"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-kin-iro-loveriche-kin-iro-loveriche-complete-soundtrack"
 tag:
   - mastering
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-kin-iro-loveriche-kin-iro-loveriche-complete-soundtrack.jpg"
+image: "/works/media/pc-game-r-18-kin-iro-loveriche-kin-iro-loveriche-complete-soundtrack.jpg"
 ---
 
 ##### Tracklist

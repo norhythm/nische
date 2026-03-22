@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-16
 holder: "ルミナンスプリンセス"
 artist: ""
@@ -8,7 +8,7 @@ url: "run-girls-run-nyuu-single-ruminansupurinsesu"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/run-girls-run-nyuu-single-ruminansupurinsesu.jpg"
+image: "/works/media/run-girls-run-nyuu-single-ruminansupurinsesu.jpg"
 ---
 
 ##### Tracklist

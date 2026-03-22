@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2016-12-22
 holder: "テイルズ オブ ゼスティリア ザ クロス"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-teiruzu-obu-zesuteiria-the-kurosu-blu-ray-box-koushiki-saito-gent
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-teiruzu-obu-zesuteiria-the-kurosu-blu-ray-box-koushiki-saito-genteiban-tokuten-cd.jpg"
+image: "/works/media/tv-anime-teiruzu-obu-zesuteiria-the-kurosu-blu-ray-box-koushiki-saito-genteiban-tokuten-cd.jpg"
 ---
 
 ##### Tracklist

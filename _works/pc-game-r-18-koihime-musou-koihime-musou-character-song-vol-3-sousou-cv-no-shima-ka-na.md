@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-09-25
 holder: "恋姫†夢想"
 artist: ""
@@ -8,7 +8,7 @@ url: "pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-3-sousou-cv-no
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-3-sousou-cv-no-shima-ka-na.jpg"
+image: "/works/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-3-sousou-cv-no-shima-ka-na.jpg"
 ---
 
 ##### Tracklist

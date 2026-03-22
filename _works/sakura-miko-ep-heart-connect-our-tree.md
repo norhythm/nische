@@ -4,7 +4,7 @@ date: "2023-08-02"
 holder: "Hololive"
 artist: "さくらみこ"
 title: "heart♡connect"
-url: "sakura-miko-ep-heart-connect-our-tree"
+url: "hololive-sakura-miko-ep-heart-connect-our-tree"
 tag:
   - mix
 layout: "square"

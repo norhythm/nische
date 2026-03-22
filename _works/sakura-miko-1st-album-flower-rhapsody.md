@@ -4,17 +4,18 @@ date: 2024-09-25
 holder: Hololive
 artist: さくらみこ
 title: flower rhapsody
-url: sakura-miko-1st-album-flower-rhapsody
+url: hololive-sakura-miko-1st-album-flower-rhapsody
 tag:
   - mix
   - rec
 layout: rect-v
 image: /works/media/sakura-miko-1st-album-flower-rhapsody.jpg
 ---
+
 ##### Tracklist
 
-| Track number | Title           | Credit |
-| ------------ | --------------- | ------ |
+| Track number | Title           | Credit             |
+| ------------ | --------------- | ------------------ |
 | 12           | flower rhapsody | Recording / Mixing |
 
 ##### Video

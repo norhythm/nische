@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-10-19
 holder: ""
 artist: "こもろ観光局"
@@ -8,7 +8,7 @@ url: "komoro-kankoukyoku-taiappu-song-hatsukoi"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/komoro-kankoukyoku-taiappu-song-hatsukoi.jpeg"
+image: "/works/media/komoro-kankoukyoku-taiappu-song-hatsukoi.jpeg"
 ---
 
 ##### Tracklist

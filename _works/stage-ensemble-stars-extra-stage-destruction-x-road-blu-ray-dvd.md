@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-12-27
 holder: "あんさんぶるスターズ！エクストラ・ステージ"
 artist: ""
@@ -8,7 +8,7 @@ url: "stage-ensemble-stars-extra-stage-destruction-x-road-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/stage-ensemble-stars-extra-stage-destruction-x-road-blu-ray-dvd.jpg"
+image: "/works/media/stage-ensemble-stars-extra-stage-destruction-x-road-blu-ray-dvd.jpg"
 ---
 
 ##### Video

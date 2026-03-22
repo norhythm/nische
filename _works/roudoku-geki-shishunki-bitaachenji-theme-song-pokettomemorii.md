@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-10-17
 holder: ""
 artist: "朗読劇"
@@ -8,7 +8,7 @@ url: "roudoku-geki-shishunki-bitaachenji-theme-song-pokettomemorii"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/roudoku-geki-shishunki-bitaachenji-theme-song-pokettomemorii.jpg"
+image: "/works/media/roudoku-geki-shishunki-bitaachenji-theme-song-pokettomemorii.jpg"
 ---
 
 ##### Tracklist

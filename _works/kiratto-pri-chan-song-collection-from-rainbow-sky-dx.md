@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-12-02
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-song-collection-from-rainbow-sky-dx"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/kiratto-pri-chan-song-collection-from-rainbow-sky-dx.jpg"
+image: "/works/media/kiratto-pri-chan-song-collection-from-rainbow-sky-dx.jpg"
 ---
 
 ##### Tracklist

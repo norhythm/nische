@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-10-27
 holder: "HELIOS Rising Heroes"
 artist: "Vol.2"
@@ -8,7 +8,7 @@ url: "helios-rising-heroes-theme-song-vol-2-daybreak-horizon"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/helios-rising-heroes-theme-song-vol-2-daybreak-horizon.jpg"
+image: "/works/media/helios-rising-heroes-theme-song-vol-2-daybreak-horizon.jpg"
 ---
 
 ##### Tracklist

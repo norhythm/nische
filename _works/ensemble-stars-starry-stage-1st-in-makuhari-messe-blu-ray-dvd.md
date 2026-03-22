@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-10-05
 holder: "あんさんぶるスターズ！Starry Stage 1st ～in 幕張メッセ～"
 artist: ""
@@ -8,7 +8,7 @@ url: "ensemble-stars-starry-stage-1st-in-makuhari-messe-blu-ray-dvd"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/ensemble-stars-starry-stage-1st-in-makuhari-messe-blu-ray-dvd.jpg"
+image: "/works/media/ensemble-stars-starry-stage-1st-in-makuhari-messe-blu-ray-dvd.jpg"
 ---
 
 ##### Tracklist

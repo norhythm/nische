@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-07-07
 holder: "マジェスティック☆マジョリカル"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "windows-senyou-sofuto-majestic-majorical-op-theme-song-mystic-labyrinth"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/windows-senyou-sofuto-majestic-majorical-op-theme-song-mystic-labyrinth.jpg"
+image: "/works/media/windows-senyou-sofuto-majestic-majorical-op-theme-song-mystic-labyrinth.jpg"
 ---
 
 ##### Tracklist

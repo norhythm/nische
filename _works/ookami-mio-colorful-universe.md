@@ -4,7 +4,7 @@ date: 2025-01-26
 holder: Hololive
 artist: 大神ミオ
 title: Colorful Universe
-url: ookami-mio-colorful-universe
+url: hololive-ookami-mio-colorful-universe
 tag:
   - mix
   - rec

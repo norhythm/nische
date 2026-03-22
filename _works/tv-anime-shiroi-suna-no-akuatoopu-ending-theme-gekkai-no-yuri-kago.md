@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-07-28
 holder: "白い砂のアクアトープ"
 artist: "マ"
@@ -8,7 +8,7 @@ url: "tv-anime-shiroi-suna-no-akuatoopu-ending-theme-gekkai-no-yuri-kago"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-shiroi-suna-no-akuatoopu-ending-theme-gekkai-no-yuri-kago.jpg"
+image: "/works/media/tv-anime-shiroi-suna-no-akuatoopu-ending-theme-gekkai-no-yuri-kago.jpg"
 ---
 
 ##### Tracklist

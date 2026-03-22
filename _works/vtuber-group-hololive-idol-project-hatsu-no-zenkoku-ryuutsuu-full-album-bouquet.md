@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-04-21
 holder: "hololive IDOL PROJECT"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "vtuber-group-hololive-idol-project-hatsu-no-zenkoku-ryuutsuu-full-album-bo
 tag:
   - mix
 layout: "square"
-image: "/temp/media/vtuber-group-hololive-idol-project-hatsu-no-zenkoku-ryuutsuu-full-album-bouquet.jpeg"
+image: "/works/media/vtuber-group-hololive-idol-project-hatsu-no-zenkoku-ryuutsuu-full-album-bouquet.jpeg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-06-28
 holder: ""
 artist: "男性VTuberグループ"
@@ -8,7 +8,7 @@ url: "dansei-vtuber-group-horosutaazu-hatsu-no-koushiki-original-song-just-follo
 tag:
   - mix
 layout: "square"
-image: "/temp/media/dansei-vtuber-group-horosutaazu-hatsu-no-koushiki-original-song-just-follow-stars.png"
+image: "/works/media/dansei-vtuber-group-horosutaazu-hatsu-no-koushiki-original-song-just-follow-stars.png"
 ---
 
 ##### Tracklist

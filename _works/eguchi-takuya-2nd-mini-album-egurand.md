@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-04-27
 holder: "EGURand"
 artist: ""
@@ -8,7 +8,7 @@ url: "eguchi-takuya-2nd-mini-album-egurand"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/eguchi-takuya-2nd-mini-album-egurand.jpg"
+image: "/works/media/eguchi-takuya-2nd-mini-album-egurand.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2015-03-27
 holder: "月に寄りそう乙女の作法2"
 artist: ""
@@ -8,5 +8,5 @@ url: "pc-game-tsuki-ni-yorisou-otome-no-sahou-2-complete-soundtrack"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2-complete-soundtrack.png"
+image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2-complete-soundtrack.png"
 ---

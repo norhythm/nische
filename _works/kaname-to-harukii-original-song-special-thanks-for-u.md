@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-09-26
 holder: ""
 artist: "カナメとハルキー"
@@ -8,7 +8,7 @@ url: "kaname-to-harukii-original-song-special-thanks-for-u"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/kaname-to-harukii-original-song-special-thanks-for-u.jpeg"
+image: "/works/media/kaname-to-harukii-original-song-special-thanks-for-u.jpeg"
 ---
 
 ##### Tracklist

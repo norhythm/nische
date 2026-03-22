@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-01-08
 holder: "えなコスTV"
 artist: ""
@@ -8,7 +8,7 @@ url: "kosupureiyaa-enako-chijouha-kan-bangumi-ena-kosu-tv-bangumi-theme-song"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/kosupureiyaa-enako-chijouha-kan-bangumi-ena-kosu-tv-bangumi-theme-song.jpeg"
+image: "/works/media/kosupureiyaa-enako-chijouha-kan-bangumi-ena-kosu-tv-bangumi-theme-song.jpeg"
 ---
 
 ##### Links

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-07-21
 holder: ""
 artist: ""
@@ -8,7 +8,7 @@ url: "kiratto-pri-chan-song-collection-from-moonlight-magic-dx"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/kiratto-pri-chan-song-collection-from-moonlight-magic-dx.jpg"
+image: "/works/media/kiratto-pri-chan-song-collection-from-moonlight-magic-dx.jpg"
 ---
 
 ##### Tracklist

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-02-16
 holder: "ガールズ＆パンツァー 劇場版"
 artist: "ム"
@@ -8,7 +8,7 @@ url: "pachinko-pachisuro-girls-und-panzer-movie-bookaru-mini-album-music-michi-m
 tag:
   - mix
 layout: "square"
-image: "/temp/media/pachinko-pachisuro-girls-und-panzer-movie-bookaru-mini-album-music-michi-madamada-maishin-naka-desu.jpeg"
+image: "/works/media/pachinko-pachisuro-girls-und-panzer-movie-bookaru-mini-album-music-michi-madamada-maishin-naka-desu.jpeg"
 ---
 
 ##### Tracklist

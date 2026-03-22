@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-02-18
 holder: ""
 artist: "ホロライブ所属Vtuber、アキ・ローゼンタールさんの2ndオリジナル楽曲"
@@ -8,7 +8,7 @@ url: "hololive-vtuber-aki-rosenthal-2nd-original-song-hiroin-oodishon"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/hololive-vtuber-aki-rosenthal-2nd-original-song-hiroin-oodishon.png"
+image: "/works/media/hololive-vtuber-aki-rosenthal-2nd-original-song-hiroin-oodishon.png"
 ---
 
 ##### Tracklist

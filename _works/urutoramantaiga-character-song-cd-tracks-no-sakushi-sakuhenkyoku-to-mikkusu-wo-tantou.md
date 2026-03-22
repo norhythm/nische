@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2019-09-26
 holder: "ウルトラマンタイガ"
 artist: ""
@@ -8,7 +8,7 @@ url: "urutoramantaiga-character-song-cd-tracks-no-sakushi-sakuhenkyoku-to-mikkus
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/urutoramantaiga-character-song-cd-tracks-no-sakushi-sakuhenkyoku-to-mikkusu-wo-tantou.jpg"
+image: "/works/media/urutoramantaiga-character-song-cd-tracks-no-sakushi-sakuhenkyoku-to-mikkusu-wo-tantou.jpg"
 ---
 
 ##### Tracklist

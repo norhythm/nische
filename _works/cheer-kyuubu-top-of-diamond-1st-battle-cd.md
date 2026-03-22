@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-09-29
 holder: "Cheer球部！"
 artist: ""
@@ -8,7 +8,7 @@ url: "cheer-kyuubu-top-of-diamond-1st-battle-cd"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/cheer-kyuubu-top-of-diamond-1st-battle-cd.png"
+image: "/works/media/cheer-kyuubu-top-of-diamond-1st-battle-cd.png"
 ---
 
 ##### Tracklist

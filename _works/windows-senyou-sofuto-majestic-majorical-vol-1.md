@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-03-30
 holder: "マジェスティック☆マジョリカル vol.1"
 artist: ""
@@ -8,7 +8,7 @@ url: "windows-senyou-sofuto-majestic-majorical-vol-1"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/windows-senyou-sofuto-majestic-majorical-vol-1.jpg"
+image: "/works/media/windows-senyou-sofuto-majestic-majorical-vol-1.jpg"
 ---
 
 ##### Video

@@ -1,20 +1,26 @@
 ---
-published: true
+published: false
 date: 2022-10-24
-holder: "東方ダンマクカグラ ミュージックコレクション・幻 "
-artist: ""
-title: "東方ダンマクカグラ ミュージックコレクション・幻 "
+holder: "黄昏フロンティ"
+artist: "東方ダンマクカグラ"
+title: "ミュージックコレクション・幻"
 url: "touhou-danmaku-kagura-music-collection-maboroshi"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/touhou-danmaku-kagura-music-collection-maboroshi.jpg"
+image: "/works/media/touhou-danmaku-kagura-music-collection-maboroshi.jpg"
 ---
+
+##### Tracklist
+
+| Track number | Title                                     | Credit |
+| ------------ | ----------------------------------------- | ------ |
+| Disc1 19     | Resonance ～ 私たらしめるもの [Game size] | Mixing |
+| Disc2 01     | Resonance ～ 私たらしめるもの             | Mixing |
 
 ##### Video
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/4xr9Ec4E0Tk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 

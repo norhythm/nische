@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-02-26
 holder: "プリパラ"
 artist: "ブ"
@@ -8,7 +8,7 @@ url: "tv-anime-pripara-nama-haishin-live-pripara-friendship-2020-paradaisutorein
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-pripara-nama-haishin-live-pripara-friendship-2020-paradaisutorein-blu-ray.jpg"
+image: "/works/media/tv-anime-pripara-nama-haishin-live-pripara-friendship-2020-paradaisutorein-blu-ray.jpg"
 ---
 
 ##### Video

@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2018-12-07
 holder: "スペシャルイベント「朝も！夜も！どんなときも！always WITH you!!」by アイドルタイムプリパラ"
 artist: ""
@@ -8,7 +8,7 @@ url: "special-ibento-asa-mo-yoru-mo-donnatokimo-always-with-you-by-idol-time-pri
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/special-ibento-asa-mo-yoru-mo-donnatokimo-always-with-you-by-idol-time-pripara.png"
+image: "/works/media/special-ibento-asa-mo-yoru-mo-donnatokimo-always-with-you-by-idol-time-pripara.png"
 ---
 
 ##### Tracklist

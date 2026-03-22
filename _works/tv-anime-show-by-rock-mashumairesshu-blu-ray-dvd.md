@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2020-07-15
 holder: "SHOW BY ROCK!! ましゅまいれっしゅ!!"
 artist: ""
@@ -8,7 +8,7 @@ url: "tv-anime-show-by-rock-mashumairesshu-blu-ray-dvd"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/tv-anime-show-by-rock-mashumairesshu-blu-ray-dvd.jpeg"
+image: "/works/media/tv-anime-show-by-rock-mashumairesshu-blu-ray-dvd.jpeg"
 ---
 
 ##### Tracklist

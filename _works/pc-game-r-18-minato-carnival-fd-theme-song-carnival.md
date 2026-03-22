@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2017-08-25
 holder: "みなとカーニバルFD"
 artist: "歌"
@@ -8,7 +8,7 @@ url: "pc-game-r-18-minato-carnival-fd-theme-song-carnival"
 tag:
   - mix
 layout: "portrait"
-image: "/temp/media/pc-game-r-18-minato-carnival-fd-theme-song-carnival.jpg"
+image: "/works/media/pc-game-r-18-minato-carnival-fd-theme-song-carnival.jpg"
 ---
 
 ##### Tracklist

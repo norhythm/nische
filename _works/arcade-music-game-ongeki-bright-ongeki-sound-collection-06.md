@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-12-22
 holder: "オンゲキbright"
 artist: ""
@@ -8,7 +8,7 @@ url: "arcade-music-game-ongeki-bright-ongeki-sound-collection-06"
 tag:
   - mix
 layout: "square"
-image: "/temp/media/arcade-music-game-ongeki-bright-ongeki-sound-collection-06.jpg"
+image: "/works/media/arcade-music-game-ongeki-bright-ongeki-sound-collection-06.jpg"
 ---
 
 ##### Tracklist

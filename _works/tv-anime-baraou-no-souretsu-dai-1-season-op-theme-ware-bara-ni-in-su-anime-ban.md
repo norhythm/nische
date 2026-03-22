@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2022-02-16
 holder: "薔薇王の葬列"
 artist: "マ"
@@ -8,7 +8,7 @@ url: "tv-anime-baraou-no-souretsu-dai-1-season-op-theme-ware-bara-ni-in-su-anime
 tag:
   - mix
 layout: "square"
-image: "/temp/media/tv-anime-baraou-no-souretsu-dai-1-season-op-theme-ware-bara-ni-in-su-anime-ban.jpeg"
+image: "/works/media/tv-anime-baraou-no-souretsu-dai-1-season-op-theme-ware-bara-ni-in-su-anime-ban.jpeg"
 ---
 
 ##### Tracklist

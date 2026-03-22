@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2021-12-22
 holder: "あんさんぶるスターズ！！"
 artist: ""
@@ -8,7 +8,7 @@ url: "ensemble-stars-original-soundtrack"
 tag:
   - mix
 layout: "landscape"
-image: "/temp/media/ensemble-stars-original-soundtrack.jpeg"
+image: "/works/media/ensemble-stars-original-soundtrack.jpeg"
 ---
 
 ##### Tracklist
