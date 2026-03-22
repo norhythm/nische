@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-09-03
 holder: Hololive
 artist: アキ・ローゼンタール
@@ -11,7 +11,6 @@ tag:
 layout: square
 image: /works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit             |
