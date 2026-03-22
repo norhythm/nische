@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2024-01-12"
-holder: "エリオスライジングヒーローズ"
-artist: ""
-title: "アカツキ"
-url: "helios-rising-heroes-theme-song-vol-3-akatsuki"
+published: true
+date: 2024-01-12
+holder: エリオスライジングヒーローズ
+title: アカツキ
+url: helios-rising-heroes-theme-song-vol-3-akatsuki
 tag:
   - mix
-layout: "rect-v"
-image: "/works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg"
+  - rec
+layout: rect-v
+image: /works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title    | Credit |
 | ------------ | -------- | ------ |
-| 01           | アカツキ | Mixing |
+| 01           | アカツキ | Recording / Mixing |
 
 ##### Video
 
