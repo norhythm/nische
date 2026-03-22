@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2021-09-10
-holder: "ANYCOLOR にじさんじ"
+holder: "にじさんじ"
 artist: "戌亥とこ"
 title: "Engaged Stories"
 url: "nijisanji-inui-toko-original-song-engaged-stories"
