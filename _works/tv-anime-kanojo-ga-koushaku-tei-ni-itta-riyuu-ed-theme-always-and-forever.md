@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2023-04-26"
-holder: "彼女が公爵邸に行った理由"
-artist: "SERRA"
-title: "Always and Forever"
-url: "tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever"
+published: true
+date: 2023-04-26
+holder: 彼女が公爵邸に行った理由
+artist: SERRA
+title: Always and Forever
+url: tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever.jpg"
+layout: square
+image: /works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-always-and-forever.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title              | Credit |
