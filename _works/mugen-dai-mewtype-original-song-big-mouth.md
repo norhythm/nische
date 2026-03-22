@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-02-24"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "ビッグマウス"
-url: "mugen-dai-mewtype-original-song-big-mouth"
+published: true
+date: 2024-02-24
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: ビッグマウス
+url: mugen-dai-mewtype-original-song-big-mouth
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-original-song-big-mouth.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-original-song-big-mouth.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
