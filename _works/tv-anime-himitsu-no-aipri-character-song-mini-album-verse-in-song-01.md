@@ -1,17 +1,15 @@
 ---
-published: false
-date: "2024-08-21"
-holder: "ひみつのアイプリ"
-artist: ""
-title: "VERSE IN SONG 01"
-url: "tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-01"
+published: true
+date: 2024-08-21
+holder: ひみつのアイプリ
+title: VERSE IN SONG 01
+url: tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-01
 tag:
   - rec
   - mix
-layout: "square"
-image: "/works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-01.jpg"
+layout: square
+image: /works/media/tv-anime-himitsu-no-aipri-character-song-mini-album-verse-in-song-01.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit             |
