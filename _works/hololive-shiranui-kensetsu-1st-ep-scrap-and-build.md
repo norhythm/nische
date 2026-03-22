@@ -1,22 +1,22 @@
 ---
-published: false
-date: "2024-06-07"
-holder: "Hololive"
-artist: "不知火建設"
-title: "scrap ＆ build!"
-url: "hololive-shiranui-kensetsu-1st-ep-scrap-and-build"
+published: true
+date: 2024-06-07
+holder: Hololive
+artist: 不知火建設
+title: scrap ＆ build!
+url: hololive-shiranui-kensetsu-1st-ep-scrap-and-build
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-shiranui-kensetsu-1st-ep-scrap-and-build.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                              | Credit |
 | ------------ | ---------------------------------- | ------ |
-| 04           | ひかえめわんだーらん               | Mixing |
-| 06           | しらないファンタスティックワールド | Mixing |
+| 04           | ひかえめわんだーらん               | Recording / Mixing |
+| 06           | しらないファンタスティックワールド | Recording / Mixing |
 
 ##### Video
 
