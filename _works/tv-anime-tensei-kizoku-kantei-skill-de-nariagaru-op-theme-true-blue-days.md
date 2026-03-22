@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-04-24"
-holder: "転生貴族、鑑定スキルで成り上がる"
+published: true
+date: 2024-04-24
+holder: 転生貴族、鑑定スキルで成り上がる
 artist: "TRUE"
-title: "ブルーデイズ"
-url: "tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days"
+title: ブルーデイズ
+url: tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days.jpg"
+layout: square
+image: /works/media/tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-true-blue-days.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
