@@ -29,4 +29,3 @@ image: "/works/media/kitou-akari-5th-single-magie-x-magie.jpg"
 - <a data-type="button" href="https://canime.jp/product/PCCG000002277/" target="_blank">きゃにめ公式</a>
 - <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
 - <a data-type="button" href="https://kitoakari.com/magie-magie" target="_blank">Official Page</a>
-- <a data-type="button" href="" target="_blank">Stream & Buy</a>
