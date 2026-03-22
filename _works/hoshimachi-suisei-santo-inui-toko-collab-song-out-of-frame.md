@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2021-10-22
-holder: "Hololive / ANYCOLOR"
+holder: "Hololive / にじさんじ"
 artist: "星街すいせい＆戌亥とこ"
 title: "OUT OF FRAME"
 url: "hololive-nijisanji-collab-song-out-of-frame"
