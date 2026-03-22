@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2023-05-31"
-holder: "あんさんぶるスターズ！THE STAGE"
-artist: ""
-title: "Witness of Miracle"
-url: "stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd"
+published: true
+date: 2023-05-31
+holder: あんさんぶるスターズ！THE STAGE
+title: Witness of Miracle
+url: stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd
 tag:
   - mix
-layout: "square"
-image: "/works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd.jpg"
+layout: square
+image: /works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dvd.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                  | Credit |
