@@ -19,3 +19,7 @@ image: /works/media/スクリーンショット 2026-03-22 20.58.09.png
 ##### Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M1GYqy0tHV0?si=MZZPf26TuHJeNJ6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Links
+
+- <a data-type="button" href="https://cover.lnk.to/l27F8c" target="_blank">Streaming</a>
