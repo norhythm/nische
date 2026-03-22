@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2021-09-15
-holder: "ハピネス"
-artist: ""
+holder: ""
+artist: "岡咲美保"
 title: "ハピネス"
-url: "oka-sakimi-ho-debut-single-hapiness"
+url: "okasaki-miho-debut-single-happiness"
 tag:
   - mix
 layout: "square"
-image: "/works/media/oka-sakimi-ho-debut-single-hapiness.jpg"
+image: "/works/media/okasaki-miho-debut-single-happiness.jpg"
 ---
 
 ##### Tracklist
@@ -23,4 +23,5 @@ image: "/works/media/oka-sakimi-ho-debut-single-hapiness.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.kingrecords.co.jp/cs/g/gKIZM-695/" target="_blank">KING RECORDS公式サイト</a>
+- <a data-type="button" href="https://www.okasakimiho.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://okasakimiho.lnk.to/happiness" target="_blank">Stream & Buy</a>

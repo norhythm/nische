@@ -17,3 +17,8 @@ image: "/works/media/okasaki-miho-1st-album-blooming-song-bubbles.jpeg"
 | ------------ | -------- | ------ |
 | 02           | ペタルズ | Mixing |
 | 03           | バブルス | Mixing |
+
+##### Links
+
+- <a data-type="button" href="https://www.okasakimiho.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://okasakimiho.lnk.to/blooming" target="_blank">Stream & Buy</a>
