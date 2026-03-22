@@ -7,7 +7,7 @@ title: "西遊記悠久奇譚 Blu-ray&DVD"
 url: "stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray-dvd"
 tag:
   - mix
-layout: "portrait"
+layout: rect-v
 image: "/works/media/stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray-dvd.jpeg"
 ---
 

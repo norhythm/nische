@@ -7,7 +7,7 @@ title: "Get set, Go!"
 url: "run-girls-run-hatsu-no-mini-album-get-set-go"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/run-girls-run-hatsu-no-mini-album-get-set-go.jpg"
 ---
 

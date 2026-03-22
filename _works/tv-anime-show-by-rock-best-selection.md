@@ -7,7 +7,7 @@ title: "BEST Selection!!"
 url: "tv-anime-show-by-rock-best-selection"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/tv-anime-show-by-rock-best-selection.jpg"
 ---
 
