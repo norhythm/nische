@@ -1,21 +1,20 @@
 ---
 published: false
-date: "2024-07-26"
-holder: "オンゲキ"
-artist: ""
-title: "Individual on parade!"
-url: "ongeki-6th-anniversary-cd-individual-on-parade"
+date: 2024-07-26
+holder: オンゲキ
+title: Individual on parade!
+url: ongeki-6th-anniversary-cd-individual-on-parade
 tag:
   - mix
-layout: "square"
-image: "/works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg"
+  - rec
+layout: square
+image: /works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                 | Credit |
 | ------------ | --------------------- | ------ |
-| 01           | Individual on parade! | Mixing |
+| 01           | Individual on parade! | Recording / Mixing |
 
 ##### Video
 
