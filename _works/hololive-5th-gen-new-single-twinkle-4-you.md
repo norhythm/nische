@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2023-06-17"
-holder: "Hololive"
-artist: "hololive 5th Generation"
-title: "Twinkle 4 You"
-url: "hololive-5th-gen-new-single-twinkle-4-you"
+published: true
+date: 2023-06-17
+holder: Hololive
+artist: hololive 5th Generation
+title: Twinkle 4 You
+url: hololive-5th-gen-new-single-twinkle-4-you
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
-| 01           | Twinkle 4 You | Mixing |
+| 01           | Twinkle 4 You | Recording / Mixing |
 
 ##### Video
 
