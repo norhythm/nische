@@ -1,23 +1,22 @@
 ---
 published: false
-date: "2023-05-10"
-holder: ""
-artist: "江口拓也"
-title: "PIZZA SUSHI planet walking"
-url: "eguchi-takuya-1st-single-pizza-sushi-planet-walking"
+date: 2023-05-10
+artist: 江口拓也
+title: PIZZA SUSHI planet walking
+url: eguchi-takuya-1st-single-pizza-sushi-planet-walking
 tag:
   - mix
-layout: "square"
-image: "/works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg"
+  - rec
+layout: square
+image: /works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                        | Credit |
 | ------------ | -------------------------------------------- | ------ |
-| 01           | PIZZA SUSHI planet walking                   | Mixing |
-| 02           | Life is Sauna ～明日は明日のロウリュが吹く～ | Mixing |
-| 03           | Carnival                                     | Mixing |
+| 01           | PIZZA SUSHI planet walking                   | Recoding / Mixing |
+| 02           | Life is Sauna ～明日は明日のロウリュが吹く～ | Recording / Mixing |
+| 03           | Carnival                                     | Recording |
 
 ##### Video
 
