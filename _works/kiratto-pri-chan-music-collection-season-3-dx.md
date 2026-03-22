@@ -1,13 +1,13 @@
 ---
 published: false
 date: 2022-02-23
-holder: ""
+holder: "キラッとプリ☆チャン♪"
 artist: ""
-title: "キラッとプリ☆チャン♪ミュージックコレクション Season.3 DX"
+title: "ミュージックコレクション Season.3 DX"
 url: "kiratto-pri-chan-music-collection-season-3-dx"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/kiratto-pri-chan-music-collection-season-3-dx.jpg"
 ---
 
