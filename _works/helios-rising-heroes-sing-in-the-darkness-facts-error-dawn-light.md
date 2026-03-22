@@ -1,22 +1,21 @@
 ---
 published: false
-date: "2023-08-23"
-holder: "エリオスライジングヒーローズ"
-artist: ""
-title: "FACTS ERROR / dawn light"
-url: "helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light"
+date: 2023-08-23
+holder: エリオスライジングヒーローズ
+title: FACTS ERROR / dawn light
+url: helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light.jpg"
+  - rec
+layout: square
+image: /works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-light.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title       | Credit |
 | ------------ | ----------- | ------ |
-| 01           | FACTS ERROR | Mixing |
-| 02           | dawn light  | Mixing |
+| 01           | FACTS ERROR | Recording / Mixing |
+| 02           | dawn light  | Recording / Mixing |
 
 ##### Video
 
