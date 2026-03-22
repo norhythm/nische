@@ -2,12 +2,12 @@
 published: false
 date: 2021-12-19
 holder: ""
-artist: "Vtuber"
+artist: "椎名なのは"
 title: "夜更けの旋律"
 url: "vtuber-shiina-nanoha-original-song-yofuke-no-senritsu"
 tag:
   - mix
-layout: "landscape"
+layout: "rect-h"
 image: "/works/media/vtuber-shiina-nanoha-original-song-yofuke-no-senritsu.jpg"
 ---
 
