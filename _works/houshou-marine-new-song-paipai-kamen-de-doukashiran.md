@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-09-15
 holder: Hololive
 artist: 宝鐘マリン
@@ -11,7 +11,6 @@ tag:
 layout: square
 image: /works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                        | Credit             |
