@@ -1,21 +1,20 @@
 ---
 published: false
-date: "2024-08-18"
-holder: ""
-artist: "澤村 光彩"
-title: "憑いていく"
-url: "sawamura-kirari-2nd-digital-single-tsuite-iku"
+date: 2024-08-18
+artist: 澤村 光彩
+title: 憑いていく
+url: sawamura-kirari-2nd-digital-single-tsuite-iku
 tag:
   - mix
-layout: "rect-v"
-image: "/works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg"
+  - rec
+layout: rect-v
+image: /works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | 憑いていく | Mixing |
+| 01           | 憑いていく | Recording / Mixing |
 
 ##### Video
 
