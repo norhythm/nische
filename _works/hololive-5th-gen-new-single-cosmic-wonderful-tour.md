@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2023-06-29"
-holder: "Hololive"
-artist: "hololive 5th Generation"
-title: "Cosmic Wonderful Tour!"
-url: "hololive-5th-gen-new-single-cosmic-wonderful-tour"
+published: true
+date: 2023-06-29
+holder: Hololive
+artist: hololive 5th Generation
+title: Cosmic Wonderful Tour!
+url: hololive-5th-gen-new-single-cosmic-wonderful-tour
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-5th-gen-new-single-cosmic-wonderful-tour.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-5th-gen-new-single-cosmic-wonderful-tour.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | Cosmic Wonderful Tour! | Mixing |
+| 01           | Cosmic Wonderful Tour! | Recording / Mixing |
 
 ##### Video
 
