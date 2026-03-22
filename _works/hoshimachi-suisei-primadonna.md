@@ -8,6 +8,7 @@ tag:
   - rec
   - mix
 layout: rect-v
+image: /works/media/スクリーンショット 2026-03-22 18.12.27.png
 ---
 ##### Tracklist
 
@@ -17,7 +18,7 @@ layout: rect-v
 
 ##### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqb2j_RFTP0?si=7aLRhh_H356x7h-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1GYqy0tHV0?si=MZZPf26TuHJeNJ6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Links
 
