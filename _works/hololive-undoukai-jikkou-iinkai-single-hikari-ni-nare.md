@@ -1,21 +1,21 @@
 ---
 published: false
-date: "2023-11-05"
-holder: "Hololive"
-artist: "ホロライブ運動会実行委員"
-title: "光になれ！"
-url: "hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare"
+date: 2023-11-05
+holder: Hololive
+artist: ホロライブ運動会実行委員
+title: 光になれ！
+url: hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-undoukai-jikkou-iinkai-single-hikari-ni-nare.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | 光になれ！ | Mixing |
+| 01           | 光になれ！ | Recording / Mixing |
 
 ##### Video
 
