@@ -23,4 +23,5 @@ image: "/works/media/okasaki-miho-2nd-single-petals.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.kingrecords.co.jp/cs/g/gKIZM-703/" target="_blank">KING RECORDS公式サイト</a>
+- <a data-type="button" href="https://www.okasakimiho.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://okasakimiho.lnk.to/petals" target="_blank">Stream & Buy</a>
