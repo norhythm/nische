@@ -13,15 +13,14 @@ image: "/works/media/arcade-music-game-ongeki-r-e-d-ongeki-vocal-party-03.jpg"
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | 絆はずっとGrowing Up!!! | Mixing |
-| 02 | 反撃! 突撃! Back to Back! | Mixing |
+| Track number | Title                     | Credit |
+| ------------ | ------------------------- | ------ |
+| 01           | 絆はずっとGrowing Up!!!   | Mixing |
+| 02           | 反撃! 突撃! Back to Back! | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/FpIyr8s_-Ek" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
