@@ -7,7 +7,7 @@ title: "ハナビちゃんは遅れがち 主題歌"
 url: "tv-anime-hanabi-chanha-okure-gachi"
 tag:
   - mix
-layout: "portrait"
+layout: "rect-v"
 image: "/works/media/tv-anime-hanabi-chanha-okure-gachi.jpeg"
 ---
 

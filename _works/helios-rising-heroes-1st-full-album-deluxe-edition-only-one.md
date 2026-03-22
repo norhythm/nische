@@ -7,7 +7,7 @@ title: "Only One"
 url: "helios-rising-heroes-1st-full-album-deluxe-edition-only-one"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/helios-rising-heroes-1st-full-album-deluxe-edition-only-one.jpg"
 ---
 

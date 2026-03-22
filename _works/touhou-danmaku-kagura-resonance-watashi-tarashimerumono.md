@@ -7,8 +7,8 @@ title: "Resonance　～ 私たらしめるもの"
 url: "touhou-danmaku-kagura-resonance-watashi-tarashimerumono"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/touhou-danmaku-kagura-resonance-watashi-tarashimerumono.jpg"
+layout: "rect-h"
+image: "/works/media/touhou-danmaku-kagura-shinki-song-resonance-watashi-tarashimerumono.jpg"
 ---
 
 ##### Tracklist

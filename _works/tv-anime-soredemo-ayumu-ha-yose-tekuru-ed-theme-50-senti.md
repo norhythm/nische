@@ -2,7 +2,7 @@
 published: false
 date: 2022-07-20
 holder: "それでも歩は寄せてくる"
-artist: "マ"
+artist: ""
 title: "50センチ"
 url: "tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-senti"
 tag:

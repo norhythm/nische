@@ -7,7 +7,7 @@ title: "IDOL舞SHOW COMPLETE BEST"
 url: "idol-bu-show-complete-best"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/idol-bu-show-complete-best.png"
 ---
 

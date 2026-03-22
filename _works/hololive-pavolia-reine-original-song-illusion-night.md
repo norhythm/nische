@@ -8,7 +8,7 @@ url: "hololive-pavolia-reine-original-song-illusion-night"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-pavolia-reine-original-song-illusion-night.png"
+image: "/works/media/hololive-id-vtuber-pavolia-reine-original-song-illusion-night.png"
 ---
 
 ##### Tracklist

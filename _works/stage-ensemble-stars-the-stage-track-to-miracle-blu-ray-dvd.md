@@ -7,7 +7,7 @@ title: "Track to Miracle"
 url: "stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd"
 tag:
   - mix
-layout: "portrait"
+layout: "rect-v"
 image: "/works/media/stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd.jpg"
 ---
 

@@ -8,7 +8,7 @@ url: "hololive-takane-lui-original-song-tsubasa"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-takane-lui-original-song-tsubasa.png"
+image: "/works/media/hololive-vtuber-takane-lui-original-song-tsubasa.png"
 ---
 
 ##### Tracklist
