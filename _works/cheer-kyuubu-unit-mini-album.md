@@ -7,7 +7,7 @@ title: "ユニットミニアルバム"
 url: "cheer-kyuubu-unit-mini-album"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/cheer-kyuubu-unit-mini-album.jpg"
 ---
 
