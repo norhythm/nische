@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-09-15
 holder: Hololive
 artist: 宝鐘マリン
