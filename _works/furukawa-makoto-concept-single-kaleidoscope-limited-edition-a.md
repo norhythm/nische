@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-06-12"
-holder: ""
-artist: "古川慎"
-title: "カレイドスコープ"
-url: "furukawa-makoto-concept-single-kaleidoscope-limited-edition-a"
+published: true
+date: 2024-06-12
+artist: 古川慎
+title: カレイドスコープ
+url: furukawa-makoto-concept-single-kaleidoscope-limited-edition-a
 tag:
   - mix
-layout: "square"
-image: "/works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition-a.jpg"
+layout: square
+image: /works/media/furukawa-makoto-concept-single-kaleidoscope-limited-edition-a.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title            | Credit |
