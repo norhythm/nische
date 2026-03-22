@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2023-11-24"
-holder: "Hololive"
-artist: "大神ミオ"
-title: "カメリア"
-url: "hololive-ookami-mio-new-song-camellia"
+published: true
+date: 2023-11-24
+holder: Hololive
+artist: 大神ミオ
+title: カメリア
+url: hololive-ookami-mio-new-song-camellia
 tag:
   - mix
-layout: "square"
-image: "/works/media/ookami-mio-new-song-camellia.jpg"
+  - rec
+layout: square
+image: /works/media/ookami-mio-new-song-camellia.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title    | Credit |
 | ------------ | -------- | ------ |
-| 01           | カメリア | Mixing |
+| 01           | カメリア | Recording / Mixing |
 
 ##### Video
 
