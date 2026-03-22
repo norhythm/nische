@@ -4,11 +4,11 @@ date: 2022-07-20
 holder: "それでも歩は寄せてくる"
 artist: ""
 title: "50センチ"
-url: "tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-senti"
+url: "tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-cm"
 tag:
   - mix
 layout: "square"
-image: "/works/media/tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-senti.jpg"
+image: "/works/media/tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-cm.jpg"
 ---
 
 ##### Tracklist
