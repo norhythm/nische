@@ -7,7 +7,7 @@ title: "ペタルズ"
 url: "okasaki-miho-2nd-single-petals"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/okasaki-miho-2nd-single-petals.jpeg"
 ---
 
