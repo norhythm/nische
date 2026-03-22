@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-07-26
 holder: オンゲキ
 title: Individual on parade!
