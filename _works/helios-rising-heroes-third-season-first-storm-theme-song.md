@@ -1,21 +1,20 @@
 ---
 published: false
-date: "2024-08-23"
-holder: "エリオスライジングヒーローズ"
-artist: ""
-title: "First Storm"
-url: "helios-rising-heroes-third-season-first-storm-theme-song"
+date: 2024-08-23
+holder: エリオスライジングヒーローズ
+title: First Storm
+url: helios-rising-heroes-third-season-first-storm-theme-song
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg"
+  - rec
+layout: square
+image: /works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title     | Credit |
 | ------------ | --------- | ------ |
-| 01           | NIGHTHAWK | Mixing |
+| 01           | NIGHTHAWK | Recording / Mixing |
 
 ##### Video
 
