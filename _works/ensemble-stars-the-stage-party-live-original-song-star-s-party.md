@@ -1,16 +1,14 @@
 ---
-published: false
+published: true
 date: 2023-04-15
-holder: "あんさんぶるスターズ！THE STAGE -Party Live-"
-artist: ""
-title: "STAR’S PARTY!"
-url: "ensemble-stars-the-stage-party-live-original-song-star-s-party"
+holder: あんさんぶるスターズ！THE STAGE -Party Live-
+title: STAR’S PARTY!
+url: ensemble-stars-the-stage-party-live-original-song-star-s-party
 tag:
   - mix
-layout: "square"
-image: "/works/media/ensemble-stars-the-stage-party-live-original-song-star-s-party.jpeg"
+layout: square
+image: /works/media/ensemble-stars-the-stage-party-live-original-song-star-s-party.jpeg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
