@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2023-05-10
 artist: 江口拓也
 title: PIZZA SUSHI planet walking
