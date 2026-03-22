@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2023-10-25
 holder: スパイ教室
 title: File.04
