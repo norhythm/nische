@@ -22,7 +22,4 @@ image: /works/media/スクリーンショット 2026-03-22 18.12.27.png
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a data-type="button" href="" target="_blank">Streaming</a>
