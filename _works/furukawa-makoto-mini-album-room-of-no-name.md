@@ -2,7 +2,7 @@
 published: false
 date: 2021-11-17
 holder: ""
-artist: "古川慎さんのミニアルバム"
+artist: "古川慎"
 title: "ROOM Of No Name"
 url: "furukawa-makoto-mini-album-room-of-no-name"
 tag:
@@ -13,13 +13,13 @@ image: "/works/media/furukawa-makoto-mini-album-room-of-no-name.jpeg"
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | Forsaken kiss | Mixing |
-| 02 | 灰硝子 | Mixing |
-| 03 | 揺籠とクローバー | Mixing |
-| 04 | 夕凪を連れて | Mixing |
-| 05 | Craving | Mixing |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | Forsaken kiss    | Mixing |
+| 02           | 灰硝子           | Mixing |
+| 03           | 揺籠とクローバー | Mixing |
+| 04           | 夕凪を連れて     | Mixing |
+| 05           | Craving          | Mixing |
 
 ##### Video
 
@@ -29,3 +29,7 @@ image: "/works/media/furukawa-makoto-mini-album-room-of-no-name.jpeg"
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/y-BVf6_wwLk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+##### Links
+
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/roomofnoname%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>
