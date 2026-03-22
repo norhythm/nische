@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-07-31"
-holder: ""
-artist: "CHiCO"
-title: "CONTiNUE"
-url: "chico-1st-album-continue"
+published: true
+date: 2024-07-31
+artist: CHiCO
+title: CONTiNUE
+url: chico-1st-album-continue
 tag:
   - mix
-layout: "rect-v"
-image: "/works/media/chico-1st-album-continue.jpg"
+layout: rect-v
+image: /works/media/chico-1st-album-continue.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
