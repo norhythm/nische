@@ -1,26 +1,25 @@
 ---
 published: false
-date: "2023-11-15"
-holder: ""
-artist: "羽多野渉"
-title: "Dawn"
-url: "hatano-wataru-concept-mini-album-dawn"
+date: 2023-11-15
+artist: 羽多野渉
+title: Dawn
+url: hatano-wataru-concept-mini-album-dawn
 tag:
   - mix
-layout: "square"
-image: "/works/media/hatano-wataru-concept-mini-album-dawn.jpg"
+  - rec
+layout: square
+image: /works/media/hatano-wataru-concept-mini-album-dawn.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                                            | Credit |
 | ------------ | ------------------------------------------------ | ------ |
-| 01           | 歩 ～をりふしの唄～ (朗読)                       | Mixing |
-| 02           | をりふしの唄                                     | Mixing |
-| 03           | まどろみ ～夢幻の待ち合わせ～ (朗読)             | Mixing |
-| 04           | 夢幻の待ち合わせ                                 | Mixing |
-| 05           | ミチシルベ ～星と旅人～（with 西山宏太朗）(朗読) | Mixing |
-| 06           | 星と旅人（with 西山宏太朗）                      | Mixing |
+| 01           | 歩 ～をりふしの唄～ (朗読)                       | Recording / Mixing |
+| 02           | をりふしの唄                                     | Recording / Mixing |
+| 03           | まどろみ ～夢幻の待ち合わせ～ (朗読)             | Recording / Mixing |
+| 04           | 夢幻の待ち合わせ                                 | Recording / Mixing |
+| 05           | ミチシルベ ～星と旅人～（with 西山宏太朗）(朗読) | Recording / Mixing |
+| 06           | 星と旅人（with 西山宏太朗）                      | Recording / Mixing |
 
 ##### Video
 
