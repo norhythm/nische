@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2023-06-12"
-holder: "Hololive"
-artist: "鷹嶺ルイ"
-title: "FIRST CRY"
-url: "hololive-takane-lui-original-song-first-cry"
+published: true
+date: 2023-06-12
+holder: Hololive
+artist: 鷹嶺ルイ
+title: FIRST CRY
+url: hololive-takane-lui-original-song-first-cry
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-takane-lui-original-song-first-cry.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-takane-lui-original-song-first-cry.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title     | Credit |
 | ------------ | --------- | ------ |
-| 01           | FIRST CRY | Mixing |
+| 01           | FIRST CRY | Recording / Mixing |
 
 ##### Video
 
