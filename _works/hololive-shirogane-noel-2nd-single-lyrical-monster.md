@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2022-06-25
-holder: "ホロライブ"
-artist: "白銀ノエルさんの2nd single"
+holder: "Hololive"
+artist: "白銀ノエル"
 title: "リリカルMonster"
 url: "hololive-shirogane-noel-2nd-single-lyrical-monster"
 tag:
@@ -23,4 +23,6 @@ image: "/works/media/hololive-vtuber-shirogane-noel-2nd-single-lyrical-monster.p
 
 ##### Links
 
-- <a data-type="button" href="https://cover.lnk.to/LyricalMonster" target="_blank">楽曲配信リンク</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/LyricalMonster" target="\_blank">Stream & Buy</a>
