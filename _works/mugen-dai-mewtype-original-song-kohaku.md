@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-08-26"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "コハク"
-url: "mugen-dai-mewtype-original-song-kohaku"
+published: true
+date: 2024-08-26
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: コハク
+url: mugen-dai-mewtype-original-song-kohaku
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-original-song-kohaku.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-original-song-kohaku.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title  | Credit |
