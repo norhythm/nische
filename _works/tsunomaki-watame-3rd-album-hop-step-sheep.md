@@ -1,22 +1,22 @@
 ---
-published: false
-date: "2024-01-10"
-holder: "Hololive"
-artist: "角巻わため"
-title: "Hop Step Sheep"
-url: "hololive-tsunomaki-watame-3rd-album-hop-step-sheep"
+published: true
+date: 2024-01-10
+holder: Hololive
+artist: 角巻わため
+title: Hop Step Sheep
+url: hololive-tsunomaki-watame-3rd-album-hop-step-sheep
 tag:
   - mix
-layout: "square"
-image: "/works/media/tsunomaki-watame-3rd-album-hop-step-sheep.jpg"
+  - rec
+layout: square
+image: /works/media/tsunomaki-watame-3rd-album-hop-step-sheep.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title             | Credit |
 | ------------ | ----------------- | ------ |
-| 09           | 夢見る羊          | Mixing |
-| 10           | Happy day to you! | Mixing |
+| 09           | 夢見る羊          | Recording / Mixing |
+| 10           | Happy day to you! | Recording / Mixing |
 
 ##### Video
 
