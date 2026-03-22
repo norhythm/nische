@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-06-01"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "エンプティパペット"
-url: "mugen-dai-mewtype-original-song-empty-puppet"
+published: true
+date: 2024-06-01
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: エンプティパペット
+url: mugen-dai-mewtype-original-song-empty-puppet
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-original-song-empty-puppet.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-original-song-empty-puppet.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title              | Credit |
