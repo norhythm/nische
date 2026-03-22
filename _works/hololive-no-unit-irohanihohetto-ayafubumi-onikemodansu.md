@@ -4,7 +4,7 @@ date: 2022-01-01
 holder: "ホロライブ"
 artist: "あやふぶみ"
 title: "おにけもだんす"
-url: "hololive-vtuber-no-unit-irohanihohetto-ayafubumi-onikemodansu"
+url: "hololive-no-unit-irohanihohetto-ayafubumi-onikemodansu"
 tag:
   - mix
 layout: "square"
@@ -13,14 +13,13 @@ image: "/works/media/hololive-vtuber-no-unit-irohanihohetto-ayafubumi-onikemodan
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | おにけもだんす | Mixing |
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 01           | おにけもだんす | Mixing |
 
 ##### Video
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/4Hg0Nchl3HU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 

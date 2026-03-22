@@ -4,7 +4,7 @@ date: 2021-08-20
 holder: "ホロライブ"
 artist: "曲"
 title: "Howling"
-url: "hololive-vtuber-ookami-mio-original-song-howling"
+url: "hololive-ookami-mio-original-song-howling"
 tag:
   - mix
 layout: "square"

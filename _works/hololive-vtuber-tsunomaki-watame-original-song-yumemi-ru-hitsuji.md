@@ -4,7 +4,7 @@ date: 2022-06-06
 holder: "ホロライブ"
 artist: "曲"
 title: "夢見る羊"
-url: "hololive-vtuber-tsunomaki-watame-original-song-yumemi-ru-hitsuji"
+url: "hololive-tsunomaki-watame-original-song-yumemi-ru-hitsuji"
 tag:
   - mix
 layout: "square"

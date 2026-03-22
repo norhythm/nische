@@ -4,7 +4,7 @@ date: 2021-07-22
 holder: "ホロライブ"
 artist: "曲"
 title: "HiHiハイテンション!"
-url: "hololive-vtuber-natsuiro-matsuri-original-song-hihi-haitenshon"
+url: "hololive-natsuiro-matsuri-original-song-hihi-haitenshon"
 tag:
   - mix
 layout: "square"

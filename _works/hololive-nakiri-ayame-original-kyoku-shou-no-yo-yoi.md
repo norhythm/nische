@@ -4,7 +4,7 @@ date: 2021-10-03
 holder: "ホロライブ"
 artist: "曲"
 title: "宵の余、良い！"
-url: "hololive-vtuber-nakiri-ayame-original-song-shou-no-yo-yoi"
+url: "hololive-nakiri-ayame-original-song-shou-no-yo-yoi"
 tag:
   - mix
 layout: "square"

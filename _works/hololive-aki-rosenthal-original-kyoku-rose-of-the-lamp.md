@@ -4,7 +4,7 @@ date: 2022-06-02
 holder: "ホロライブ"
 artist: "曲"
 title: "ROSE of the LAMP"
-url: "hololive-vtuber-aki-rosenthal-original-song-rose-of-the-lamp"
+url: "hololive-aki-rosenthal-original-song-rose-of-the-lamp"
 tag:
   - mix
 layout: "square"

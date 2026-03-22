@@ -4,7 +4,7 @@ date: 2022-12-08
 holder: "Hololive"
 artist: "大神ミオ"
 title: "夜光通信"
-url: "hololive-vtuber-ookami-mio-original-song-yakou-tsuushin"
+url: "hololive-ookami-mio-original-song-yakou-tsuushin"
 tag:
   - mix
 layout: "square"

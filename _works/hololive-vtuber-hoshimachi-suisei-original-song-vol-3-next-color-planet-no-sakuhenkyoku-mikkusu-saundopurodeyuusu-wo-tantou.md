@@ -4,7 +4,7 @@ date: 2020-03-22
 holder: "ホロライブ"
 artist: "弾"
 title: "NEXT COLOR PLANET"
-url: "hololive-vtuber-hoshimachi-suisei-original-song-vol-3-next-color-planet-no-sakuhenkyoku-mikkusu-saundopurodeyuusu-wo-tantou"
+url: "hololive-hoshimachi-suisei-original-song-vol-3-next-color-planet-no-sakuhenkyoku-mikkusu-saundopurodeyuusu-wo-tantou"
 tag:
   - mix
 layout: "square"
@@ -13,14 +13,13 @@ image: "/works/media/hololive-vtuber-hoshimachi-suisei-original-song-vol-3-next-
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | NEXT COLOR PLANET | Mixing |
+| Track number | Title             | Credit |
+| ------------ | ----------------- | ------ |
+| 01           | NEXT COLOR PLANET | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/vQHVGXdcqEQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
