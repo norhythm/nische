@@ -7,7 +7,7 @@ title: "Character song & Sound track 1"
 url: "tv-anime-the-vampire-dies-in-no-time-character-song-soundtrack-1"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/tv-anime-the-vampire-dies-in-no-time-character-song-soundtrack-1.jpg"
 ---
 

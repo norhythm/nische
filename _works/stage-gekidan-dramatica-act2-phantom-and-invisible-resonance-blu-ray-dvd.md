@@ -7,7 +7,7 @@ title: "Phantom and Invisible Resonance Blu-ray&DVD"
 url: "stage-gekidan-dramatica-act2-phantom-and-invisible-resonance-blu-ray-dvd"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/stage-gekidan-dramatica-act2-phantom-and-invisible-resonance-blu-ray-dvd.jpeg"
 ---
 

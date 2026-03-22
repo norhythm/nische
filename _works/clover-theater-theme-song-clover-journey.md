@@ -7,8 +7,8 @@ title: "Clover Journey"
 url: "clover-theater-theme-song-clover-journey"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/clover-theater-theme-song-clover-journey.jpg"
+layout: "rect-h"
+image: "/works/media/smartphone-game-clover-theater-theme-song-clover-journey.jpg"
 ---
 
 ##### Tracklist

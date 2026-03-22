@@ -7,7 +7,7 @@ title: "Dear Doze Days"
 url: "tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kitou-akari-4th-single-dear-doze-days"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kitou-akari-4th-single-dear-doze-days.jpg"
 ---
 

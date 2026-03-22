@@ -7,7 +7,7 @@ title: "Luminous"
 url: "kitou-akari-2nd-album-luminous"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/kitou-akari-2nd-album-luminous.jpg"
 ---
 

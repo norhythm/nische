@@ -7,7 +7,7 @@ title: "FACTS ERROR"
 url: "smartphone-game-helios-rising-heroes-shinshou-main-story-sing-in-the-darkness-op-movie-song-facts-error"
 tag:
   - mix
-layout: "portrait"
+layout: "rect-v"
 image: "/works/media/smartphone-game-helios-rising-heroes-shinshou-main-story-sing-in-the-darkness-op-movie-song-facts-error.png"
 ---
 

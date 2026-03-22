@@ -8,7 +8,7 @@ url: "hololive-summer-2022-song-sparklers"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-summer-2022-song-sparklers.jpg"
+image: "/works/media/hololive-summer-2022-song-koukai-vol-3-sparklers.jpg"
 ---
 
 ##### Tracklist

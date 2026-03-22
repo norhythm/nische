@@ -7,7 +7,7 @@ title: "ワッチャプリマジ！ミュージックコレクション DX"
 url: "watcha-primagi-music-collection-dx"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/watcha-primagi-music-collection-dx.jpg"
 ---
 

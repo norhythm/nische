@@ -8,7 +8,7 @@ url: "hololive-ookami-mio-original-song-sayonara-ha-mada"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-ookami-mio-original-song-sayonara-ha-mada.jpg"
+image: "/works/media/hololive-vtuber-ookami-mio-original-song-sayonara-ha-mada.jpg"
 ---
 
 ##### Tracklist

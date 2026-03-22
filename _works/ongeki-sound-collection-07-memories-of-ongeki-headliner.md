@@ -8,7 +8,7 @@ url: "ongeki-sound-collection-07-memories-of-ongeki-headliner"
 tag:
   - mix
 layout: "square"
-image: "/works/media/ongeki-sound-collection-07-memories-of-ongeki-headliner.jpg"
+image: "/works/media/ongeki-sound-collection-07-memories-of-o-n-g-e-k-i-tracks-m01-headliner.jpg"
 ---
 
 ##### Tracklist

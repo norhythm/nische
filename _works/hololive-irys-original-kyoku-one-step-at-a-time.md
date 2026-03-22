@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2022-06-29
-holder: "ホロライブEN"
-artist: "曲"
+holder: "Hololive"
+artist: "IRyS"
 title: "One Step at a Time"
 url: "hololive-irys-original-song-one-step-at-a-time"
 tag:

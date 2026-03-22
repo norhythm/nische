@@ -8,7 +8,7 @@ url: "hololive-natsuiro-matsuri-2nd-single-never-give-up-natsuiro-story"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-natsuiro-matsuri-2nd-single-never-give-up-natsuiro-story.jpeg"
+image: "/works/media/hololive-vtuber-natsuiro-matsuri-2nd-single-never-give-up-natsuiro-story.jpeg"
 ---
 
 ##### Tracklist

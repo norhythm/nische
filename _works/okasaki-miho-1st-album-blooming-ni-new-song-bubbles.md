@@ -3,11 +3,11 @@ published: false
 date: 2022-08-17
 holder: ""
 artist: "岡咲美保"
-title: "BLOOMING - バブルス"
+title: "BLOOMING"
 url: "okasaki-miho-1st-album-blooming-song-bubbles"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/okasaki-miho-1st-album-blooming-song-bubbles.jpeg"
 ---
 
