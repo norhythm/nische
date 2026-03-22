@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-07-24"
-holder: "劇団ドラマティカACT3"
-artist: ""
-title: "カラ降るワンダフル！Sound Collection"
-url: "gekidan-dramatica-act3-kara-furu-wonderful-sound-collection"
+published: true
+date: 2024-07-24
+holder: 劇団ドラマティカACT3
+title: カラ降るワンダフル！Sound Collection
+url: gekidan-dramatica-act3-kara-furu-wonderful-sound-collection
 tag:
   - mix
-layout: "square"
-image: "/works/media/gekidan-dramatica-act3-kara-furu-wonderful-sound-collection.jpg"
+layout: square
+image: /works/media/gekidan-dramatica-act3-kara-furu-wonderful-sound-collection.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                          | Credit |
