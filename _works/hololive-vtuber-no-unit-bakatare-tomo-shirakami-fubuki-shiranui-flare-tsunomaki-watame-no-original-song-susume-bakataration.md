@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2022-06-27
-holder: "ホロライブ"
-artist: "曲"
+holder: "Hololive"
+artist: "バカタレ共（白上フブキ、不知火フレア、角巻わため）"
 title: "進め↑BAKATARATION"
-url: "hololive-no-unit-bakatare-tomo-shirakami-fubuki-shiranui-flare-tsunomaki-watame-no-original-song-susume-bakataration"
+url: "hololive-bakatare-domo-original-song-susume-bakataration"
 tag:
   - mix
 layout: "square"
-image: "/works/media/hololive-vtuber-no-unit-bakatare-tomo-shirakami-fubuki-shiranui-flare-tsunomaki-watame-no-original-song-susume-bakataration.png"
+image: "/works/media/hololive-bakatare-domo-original-song-susume-bakataration.png"
 ---
 
 ##### Tracklist
@@ -23,4 +23,6 @@ image: "/works/media/hololive-vtuber-no-unit-bakatare-tomo-shirakami-fubuki-shir
 
 ##### Links
 
-- <a data-type="button" href="https://cover.lnk.to/BAKATAREDOMO" target="_blank">楽曲配信リンク</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/%E9%80%B2%E3%82%81%E2%86%91bakataration/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://cover.lnk.to/BAKATAREDOMO" target="_blank">Stream & Buy</a>
