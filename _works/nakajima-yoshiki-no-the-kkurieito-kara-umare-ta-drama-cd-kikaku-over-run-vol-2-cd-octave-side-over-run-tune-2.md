@@ -7,7 +7,7 @@ title: "UNISON!!!!"
 url: "over-run-octave-side-over-run-tune-2"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/over-run-octave-side-over-run-tune-2.jpg"
 ---
 
