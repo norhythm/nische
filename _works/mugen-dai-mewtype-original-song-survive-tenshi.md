@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-04-13"
-holder: "BanG Dream!"
-artist: "夢限大みゅーたいぷ"
-title: "限界現実サバイブ天使"
-url: "mugen-dai-mewtype-original-song-survive-tenshi"
+published: true
+date: 2024-04-13
+holder: BanG Dream!
+artist: 夢限大みゅーたいぷ
+title: 限界現実サバイブ天使
+url: mugen-dai-mewtype-original-song-survive-tenshi
 tag:
   - mix
-layout: "square"
-image: "/works/media/mugen-dai-mewtype-original-song-survive-tenshi.jpg"
+layout: square
+image: /works/media/mugen-dai-mewtype-original-song-survive-tenshi.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                | Credit |
