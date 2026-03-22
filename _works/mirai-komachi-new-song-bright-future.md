@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-05-22"
-holder: ""
-artist: "ミライ小町"
-title: "Bright Future"
-url: "mirai-komachi-new-song-bright-future"
+published: true
+date: 2024-05-22
+artist: ミライ小町
+title: Bright Future
+url: mirai-komachi-new-song-bright-future
 tag:
   - mix
-layout: "square"
-image: "/works/media/mirai-komachi-new-song-bright-future.jpg"
+layout: square
+image: /works/media/mirai-komachi-new-song-bright-future.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title         | Credit |
