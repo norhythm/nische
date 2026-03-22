@@ -216,13 +216,13 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const hasArtist = post.artist ? `${post.artist} ` : "";
-  const title = `${hasArtist} ${post.title} | Kikuchi Tsukasa`;
+  const parts = [post.holder, post.artist, post.title].filter(Boolean);
+  const title = `${parts.join(" ")} | Kikuchi Tsukasa`;
 
   return {
     title,
     openGraph: {
-      title: `${post.artist} ${post.title}`,
+      title: parts.join(" "),
       images: [post.image],
     },
   };
