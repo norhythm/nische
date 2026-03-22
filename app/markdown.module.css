@@ -94,7 +94,7 @@
 }
 
 .markdown ul {
-  @apply flex flex-col md:flex-row gap-3 items-center justify-center;
+  @apply flex flex-col md:flex-row gap-3 items-center justify-center md:justify-start;
 }
 
 .markdown ul li {

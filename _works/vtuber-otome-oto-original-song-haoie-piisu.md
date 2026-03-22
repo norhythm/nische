@@ -2,7 +2,7 @@
 published: false
 date: 2022-02-03
 holder: ""
-artist: "Vtuber"
+artist: "乙女おと"
 title: "はおいぇピース"
 url: "vtuber-otome-oto-original-song-haoie-piisu"
 tag:
