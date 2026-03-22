@@ -1,22 +1,21 @@
 ---
-published: false
-date: "2024-09-27"
-holder: "エリオスライジングヒーローズ"
-artist: ""
-title: "GoldenXXsection VS LILIAN"
-url: "helios-rising-heroes-goldenxxsection-vs-lilian"
+published: true
+date: 2024-09-27
+holder: エリオスライジングヒーローズ
+title: GoldenXXsection VS LILIAN
+url: helios-rising-heroes-goldenxxsection-vs-lilian
 tag:
   - mix
-layout: "square"
-image: "/works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg"
+  - rec
+layout: square
+image: /works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | Homecoming | Mixing |
-| 02           | Trust fake | Mixing |
+| 01           | Homecoming | Recording / Mixing |
+| 02           | Trust fake | Recording / Mixing |
 
 ##### Video
 

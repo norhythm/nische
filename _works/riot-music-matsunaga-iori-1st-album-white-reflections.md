@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2024-09-22"
-holder: "RIOT MUSIC"
-artist: "松永依織"
-title: "White Reflections"
-url: "riot-music-matsunaga-iori-1st-album-white-reflections"
+published: true
+date: 2024-09-22
+holder: RIOT MUSIC
+artist: 松永依織
+title: White Reflections
+url: riot-music-matsunaga-iori-1st-album-white-reflections
 tag:
   - mix
-layout: "square"
-image: "/works/media/riot-music-matsunaga-iori-1st-album-white-reflections.jpg"
+  - rec
+layout: square
+image: /works/media/riot-music-matsunaga-iori-1st-album-white-reflections.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title            | Credit |
 | ------------ | ---------------- | ------ |
-| 01           | Crossed Identity | Mixing |
+| 01           | Crossed Identity | Recording / Mixing |
 
 ##### Video
 

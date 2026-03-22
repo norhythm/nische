@@ -1,21 +1,21 @@
 ---
-published: false
-date: "2024-09-03"
-holder: "Hololive"
-artist: "アキ・ローゼンタール"
-title: "キミにまつわる運命事情"
-url: "hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou"
+published: true
+date: 2024-09-03
+holder: Hololive
+artist: アキ・ローゼンタール
+title: キミにまつわる運命事情
+url: hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei-jijou.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title                  | Credit |
 | ------------ | ---------------------- | ------ |
-| 01           | キミにまつわる運命事情 | Mixing |
+| 01           | キミにまつわる運命事情 | Recording / Mixing |
 
 ##### Video
 
