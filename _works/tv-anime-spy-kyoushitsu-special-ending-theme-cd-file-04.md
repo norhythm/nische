@@ -1,16 +1,15 @@
 ---
 published: false
-date: "2023-10-25"
-holder: "スパイ教室"
-artist: ""
-title: "File.04"
-url: "tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04"
+date: 2023-10-25
+holder: スパイ教室
+title: File.04
+url: tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04.jpg"
+  - rec
+layout: square
+image: /works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title             | Credit             |
