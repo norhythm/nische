@@ -2,20 +2,20 @@
 published: false
 date: 2021-06-09
 holder: "中島ヨシキのザックリエイト"
-artist: "OVER RUN!!"
-title: "OVER RUN!!"
+artist: "Octave!! Side OVER RUN!! TUNE.1!"
+title: "リコリス"
 url: "over-run-octave-side-over-run-tune-1"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/over-run-octave-side-over-run-tune-1.jpeg"
 ---
 
 ##### Tracklist
 
-| Track number | Title      | Credit |
-| ------------ | ---------- | ------ |
-| 01           | OVER RUN!! | Mixing |
+| Track number | Title    | Credit |
+| ------------ | -------- | ------ |
+| 01           | リコリス | Mixing |
 
 ##### Video
 
