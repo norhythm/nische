@@ -8,7 +8,7 @@ tag:
   - rec
   - mix
 layout: square
-image: /works/media/スクリーンショット 2026-03-22 20.58.09.png
+image: /works/media/artwork-440x440.jpg
 ---
 ##### Tracklist
 
