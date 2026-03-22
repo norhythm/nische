@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2024-02-16"
-holder: ""
-artist: "優里香"
-title: "Believe"
-url: "yurika-new-single-believe"
+published: true
+date: 2024-02-16
+artist: 優里香
+title: Believe
+url: yurika-new-single-believe
 tag:
   - mix
-layout: "square"
-image: "/works/media/yurika-new-single-believe.jpg"
+  - rec
+layout: square
+image: /works/media/yurika-new-single-believe.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title   | Credit |
 | ------------ | ------- | ------ |
-| 01           | Believe | Mixing |
+| 01           | Believe | Recording / Mixing |
 
 ##### Video
 
