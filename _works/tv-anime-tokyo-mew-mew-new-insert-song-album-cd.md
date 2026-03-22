@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2023-07-05"
-holder: "東京ミュウミュウ にゅ～♡"
-artist: ""
-title: "そうにゅ〜か！"
-url: "tv-anime-tokyo-mew-mew-new-insert-song-album-cd"
+published: true
+date: 2023-07-05
+holder: 東京ミュウミュウ にゅ～♡
+title: そうにゅ〜か！
+url: tv-anime-tokyo-mew-mew-new-insert-song-album-cd
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-tokyo-mew-mew-new-insert-song-album-cd.jpg"
+layout: square
+image: /works/media/tv-anime-tokyo-mew-mew-new-insert-song-album-cd.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title     | Credit |
