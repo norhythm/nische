@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2023-08-30"
-holder: "オンゲキ"
-artist: ""
-title: "夏宵スターマイン"
-url: "ongeki-5th-anniversary-cd-natsuyoi-star-mine"
+published: true
+date: 2023-08-30
+holder: オンゲキ
+title: 夏宵スターマイン
+url: ongeki-5th-anniversary-cd-natsuyoi-star-mine
 tag:
   - mix
-layout: "square"
-image: "/works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg"
+  - rec
+layout: square
+image: /works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title            | Credit |
 | ------------ | ---------------- | ------ |
-| 01           | 夏宵スターマイン | Mixing |
+| 01           | 夏宵スターマイン | Recording / Mixing |
 
 ##### Video
 
