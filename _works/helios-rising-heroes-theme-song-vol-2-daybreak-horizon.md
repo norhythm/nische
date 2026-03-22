@@ -7,7 +7,7 @@ title: "Daybreak Horizon"
 url: "helios-rising-heroes-theme-song-vol-2-daybreak-horizon"
 tag:
   - mix
-layout: "portrait"
+layout: "square"
 image: "/works/media/helios-rising-heroes-theme-song-vol-2-daybreak-horizon.jpg"
 ---
 
