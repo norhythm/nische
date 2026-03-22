@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-09-25
 holder: Hololive
 artist: さくらみこ
@@ -11,7 +11,6 @@ tag:
 layout: rect-v
 image: /works/media/sakura-miko-1st-album-flower-rhapsody.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title           | Credit             |
