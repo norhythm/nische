@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2023-07-16"
-holder: "Hololive"
-artist: "ヤマトファンタジア"
-title: "恋文前線"
-url: "hololive-yamato-fantasia-ep-koibumi-zensen"
+published: true
+date: 2023-07-16
+holder: Hololive
+artist: ヤマトファンタジア
+title: 恋文前線
+url: hololive-yamato-fantasia-ep-koibumi-zensen
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg"
+layout: square
+image: /works/media/hololive-yamato-fantasia-ep-koibumi-zensen.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title    | Credit |
