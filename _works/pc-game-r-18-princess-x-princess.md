@@ -7,7 +7,7 @@ title: "Dream"
 url: "pc-game-princess-x-princess"
 tag:
   - mix
-layout: "landscape"
+layout: "rect-h"
 image: "/works/media/pc-game-princess-x-princess.jpg"
 ---
 
