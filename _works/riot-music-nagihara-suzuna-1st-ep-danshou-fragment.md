@@ -1,21 +1,22 @@
 ---
-published: false
-date: "2023-05-28"
-holder: "RIOT MUSIC"
-artist: "凪原涼菜"
-title: "断章 – fragment -"
-url: "riot-music-nagihara-suzuna-1st-ep-danshou-fragment"
+published: true
+date: 2023-05-28
+holder: RIOT MUSIC
+artist: 凪原涼菜
+title: 断章 – fragment -
+url: riot-music-nagihara-suzuna-1st-ep-danshou-fragment
 tag:
   - mix
-layout: "square"
-image: "/works/media/riot-music-nagihara-suzuna-1st-ep-danshou-fragment.jpg"
+  - rec
+layout: square
+image: /works/media/riot-music-nagihara-suzuna-1st-ep-danshou-fragment.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title   | Credit |
 | ------------ | ------- | ------ |
-| 03           | PANDORA | Mixing |
+| 03           | PANDORA | Recording / Mixing |
+| 04           | 断章 | Recording |
 
 ##### Video
 
