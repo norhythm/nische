@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-08-23
 holder: エリオスライジングヒーローズ
 title: First Storm
