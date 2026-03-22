@@ -1,16 +1,15 @@
 ---
-published: false
-date: "2024-08-28"
-holder: "杖と剣のウィストリア"
+published: true
+date: 2024-08-28
+holder: 杖と剣のウィストリア
 artist: "TRUE"
-title: "フローズン"
-url: "tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen"
+title: フローズン
+url: tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen
 tag:
   - mix
-layout: "square"
-image: "/works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.jpg"
+layout: square
+image: /works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
