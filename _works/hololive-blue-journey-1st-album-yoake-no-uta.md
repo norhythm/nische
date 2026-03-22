@@ -1,28 +1,28 @@
 ---
-published: false
-date: "2023-09-06"
-holder: "Hololive"
-artist: "Blue Journey"
-title: "夜明けのうた"
-url: "hololive-blue-journey-1st-album-yoake-no-uta"
+published: true
+date: 2023-09-06
+holder: Hololive
+artist: Blue Journey
+title: 夜明けのうた
+url: hololive-blue-journey-1st-album-yoake-no-uta
 tag:
   - mix
-layout: "square"
-image: "/works/media/hololive-blue-journey-1st-album-yoake-no-uta.jpg"
+  - rec
+layout: square
+image: /works/media/hololive-blue-journey-1st-album-yoake-no-uta.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title            | Credit |
 | ------------ | ---------------- | ------ |
-| 01           | ツキノナミダ     | Mixing |
-| 02           | また傷に触れる   | Mixing |
-| 04           | 君になりたかった | Mixing |
-| 07           | あの日の僕らへ   | Mixing |
-| 09           | 泡沫             | Mixing |
-| 10           | 僕は独りだ       | Mixing |
-| 11           | 光の軌跡         | Mixing |
-| 12           | サザンクロス     | Mixing |
+| 01           | ツキノナミダ     | Recording / Mixing |
+| 02           | また傷に触れる   | Recording / Mixing |
+| 04           | 君になりたかった | Recording / Mixing |
+| 07           | あの日の僕らへ   | Recording / Mixing |
+| 09           | 泡沫             | Recording / Mixing |
+| 10           | 僕は独りだ       | Recording / Mixing |
+| 11           | 光の軌跡         | Recording / Mixing |
+| 12           | サザンクロス     | Recording / Mixing |
 
 ##### Video
 
