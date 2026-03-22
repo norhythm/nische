@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-09-04
 title: 劇場版乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…
 url: movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-blu-ray-tokuten-disc
