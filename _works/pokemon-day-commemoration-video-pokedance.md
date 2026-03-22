@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-02-27
 holder: Pokémon
 title: POKÉDANCE
