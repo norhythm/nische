@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2023-08-23
 holder: エリオスライジングヒーローズ
 title: FACTS ERROR / dawn light
