@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2024-03-07"
-holder: ""
-artist: "名取さな"
-title: "デビルの証明"
-url: "natori-sana-new-song-devil-no-shoumei"
+published: true
+date: 2024-03-07
+artist: 名取さな
+title: デビルの証明
+url: natori-sana-new-song-devil-no-shoumei
 tag:
   - mix
-layout: "square"
-image: "/works/media/natori-sana-new-song-devil-no-shoumei.jpg"
+  - rec
+layout: square
+image: /works/media/natori-sana-new-song-devil-no-shoumei.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title        | Credit |
 | ------------ | ------------ | ------ |
-| 01           | デビルの証明 | Mixing |
+| 01           | デビルの証明 | Recoding / Mixing |
 
 ##### Video
 
