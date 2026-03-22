@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-08-18
 artist: 澤村 光彩
 title: 憑いていく
