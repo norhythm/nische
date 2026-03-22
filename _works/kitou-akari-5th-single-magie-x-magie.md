@@ -3,12 +3,13 @@ published: true
 date: 2023-10-11
 artist: 鬼頭明里
 title: Magie×Magie
-url: kitou-akari-5th-single-magie-x-magie
+url: kito-akari-5th-single-magie-x-magie
 tag:
   - mix
 layout: square
-image: /works/media/kitou-akari-5th-single-magie-x-magie.jpg
+image: /works/media/kito-akari-5th-single-magie-x-magie.jpg
 ---
+
 ##### Tracklist
 
 | Track number | Title          | Credit |

@@ -4,11 +4,11 @@ date: 2023-02-08
 holder: "解雇された暗黒兵士（30代）のスローなセカンドライフ"
 artist: "鬼頭明里"
 title: "Dear Doze Days"
-url: "tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kitou-akari-4th-single-dear-doze-days"
+url: "tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kito-akari-4th-single-dear-doze-days"
 tag:
   - mix
 layout: "square"
-image: "/works/media/tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kitou-akari-4th-single-dear-doze-days.jpg"
+image: "/works/media/tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life-ed-theme-kito-akari-4th-single-dear-doze-days.jpg"
 ---
 
 ##### Tracklist
