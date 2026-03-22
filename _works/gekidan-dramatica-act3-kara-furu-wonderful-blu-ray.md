@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-07-24
 holder: 劇団ドラマティカACT3
 title: カラ降るワンダフル！ Blu-ray
