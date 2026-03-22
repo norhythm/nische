@@ -1,21 +1,20 @@
 ---
-published: false
-date: "2023-10-18"
-holder: ""
-artist: "小林愛香"
-title: "グミチュウ"
-url: "kobayashi-aika-single-gumi-chuu"
+published: true
+date: 2023-10-18
+artist: 小林愛香
+title: グミチュウ
+url: kobayashi-aika-single-gumi-chuu
 tag:
   - mix
-layout: "square"
-image: "/works/media/kobayashi-aika-single-gumi-chuu.jpg"
+  - rec
+layout: square
+image: /works/media/kobayashi-aika-single-gumi-chuu.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title      | Credit |
 | ------------ | ---------- | ------ |
-| 01           | グミチュウ | Mixing |
+| 01           | グミチュウ | Recording / Mixing |
 
 ##### Video
 
