@@ -7,20 +7,19 @@ title: "SSSS.DYNAZENON CHARACTER SONG.1"
 url: "tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-1"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-1.jpg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 02 | Stay Gold | Mixing |
+| Track number | Title     | Credit |
+| ------------ | --------- | ------ |
+| 02           | Stay Gold | Mixing |
 
 ##### Video
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/2DsuUUOmvSo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
