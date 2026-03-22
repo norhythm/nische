@@ -1,16 +1,14 @@
 ---
-published: false
-date: "2024-08-25"
-holder: ""
-artist: "澤村 光彩"
-title: "限界ロストワールド"
-url: "sawamura-kirari-3rd-digital-single-genkai-lost-world"
+published: true
+date: 2024-08-25
+artist: 澤村 光彩
+title: 限界ロストワールド
+url: sawamura-kirari-3rd-digital-single-genkai-lost-world
 tag:
   - mix
-layout: "square"
-image: "/works/media/sawamura-kirari-3rd-digital-single-genkai-lost-world.jpg"
+layout: square
+image: /works/media/sawamura-kirari-3rd-digital-single-genkai-lost-world.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title              | Credit |
