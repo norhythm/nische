@@ -1,0 +1,20 @@
+---
+published: true
+date: 2025-11-14
+artist: そらる×Sou×はるまきごはん
+title: 偽物の流星
+url: soraru-sou-harumakigohan-nisemononoryuusei
+tag:
+  - mix
+layout: rect-v
+image: /works/media/スクリーンショット 2026-03-22 9.02.33.png
+---
+##### Tracklist
+
+| Track number | Title      | Credit             |
+| ------------ | ---------- | ------------------ |
+| 01           | 偽物の流星 | Mixing |
+
+##### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iE3GIFcmy08?si=Ys5h_sCZqEWVLM8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
