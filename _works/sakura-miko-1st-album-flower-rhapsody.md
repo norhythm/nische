@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-09-25
 holder: Hololive
 artist: さくらみこ
