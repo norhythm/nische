@@ -7,7 +7,7 @@ title: "～ from SUNSHINE CIRCUS ～ DX"
 url: "kiratto-pri-chan-song-collection-from-sunshine-circus-dx"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/kiratto-pri-chan-song-collection-from-sunshine-circus-dx.jpg"
 ---
 
