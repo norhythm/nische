@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2021-07-22
-holder: "ホロライブ"
-artist: "曲"
+holder: "Hololive"
+artist: "夏色まつり"
 title: "HiHiハイテンション!"
 url: "hololive-natsuiro-matsuri-original-song-hihi-haitenshon"
 tag:
@@ -23,4 +23,6 @@ image: "/works/media/hololive-vtuber-natsuiro-matsuri-original-song-hihi-haitens
 
 ##### Links
 
-- <a data-type="button" href="https://matsuri.streamlink.to/hihi" target="_blank">楽曲配信リンク</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a data-type="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
+- <a data-type="button" href="https://matsuri.streamlink.to/hihi" target="_blank">Stream & Buy</a>
