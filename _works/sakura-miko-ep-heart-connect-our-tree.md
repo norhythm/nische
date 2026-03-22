@@ -1,22 +1,22 @@
 ---
-published: false
-date: "2023-08-02"
-holder: "Hololive"
-artist: "さくらみこ"
-title: "heart♡connect"
-url: "hololive-sakura-miko-ep-heart-connect-our-tree"
+published: true
+date: 2023-08-02
+holder: Hololive
+artist: さくらみこ
+title: heart♡connect
+url: hololive-sakura-miko-ep-heart-connect-our-tree
 tag:
   - mix
-layout: "square"
-image: "/works/media/sakura-miko-ep-heart-connect-our-tree.jpg"
+  - rec
+layout: square
+image: /works/media/sakura-miko-ep-heart-connect-our-tree.jpg
 ---
-
 ##### Tracklist
 
 | Track number | Title           | Credit |
 | ------------ | --------------- | ------ |
-| 03           | 乙女のススメ♡！ | Mixing |
-| 06           | アワーツリー    | Mixing |
+| 03           | 乙女のススメ♡！ | Recording / Mixing |
+| 06           | アワーツリー    | Recording / Mixing |
 
 ##### Video
 
