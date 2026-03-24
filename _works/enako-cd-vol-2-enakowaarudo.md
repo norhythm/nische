@@ -1,28 +1,27 @@
 ---
 published: false
 date: 2020-08-28
-holder: "えなこわーるど"
+holder: "えなこ"
 artist: ""
 title: "えなこわーるど"
-url: "enako-cd-vol-2-enakowaarudo"
+url: "enako-enakoworld"
 tag:
   - mix
-layout: "portrait"
-image: "/works/media/enako-cd-vol-2-enakowaarudo.jpg"
+layout: "square"
+image: "/works/media/enako-enakoworld.jpg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | Colorful Fairy Voyage♪ | Mixing |
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | Colorful Fairy Voyage♪ | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/1BA4ZkK6pok" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <iframe src="https://www.youtube.com/embed/Z684rtyl3P8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 

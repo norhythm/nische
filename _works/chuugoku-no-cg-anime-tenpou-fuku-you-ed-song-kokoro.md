@@ -2,13 +2,14 @@
 published: false
 date: 2020-08-09
 holder: "天宝伏妖录"
-artist: "曲"
+artist: ""
 title: "心珑"
-url: "chuugoku-no-cg-anime-tenpou-fuku-you-ed-song-kokoro"
+url: "tenpo-fuku-yo-rokku-ed-theme"
 tag:
   - mix
-layout: "portrait"
-image: "/works/media/chuugoku-no-cg-anime-tenpou-fuku-you-ed-song-kokoro.jpeg"
+layout: "rect-v"
+image: "/works/media/tenpo-fuku-yo-rokku-ed-theme.jpeg"
+lang: "zh-cmn-Hans"
 ---
 
 ##### Tracklist
