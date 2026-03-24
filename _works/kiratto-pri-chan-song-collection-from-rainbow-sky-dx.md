@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2020-12-02
-holder: "キラッとプリ☆チャン♪"
+holder: "キラッとプリ☆チャン"
 artist: "ソングコレクション"
 title: "～from RAINBOW SKY～ DX"
 url: "kiratto-pri-chan-song-collection-from-rainbow-sky-dx"

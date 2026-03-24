@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2019-09-11
-holder: "キラッとプリ☆チャン♪"
+holder: "キラッとプリ☆チャン"
 artist: ""
 title: "ミュージックコレクション DX"
 url: "kiratto-pri-chan-music-collection-dx"
