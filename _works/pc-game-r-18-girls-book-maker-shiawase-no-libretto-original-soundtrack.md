@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2019-10-25
-holder: "ネクストン"
+holder: "ユメミル"
 artist: ""
 title: "ガールズ・ブック・メイカー -幸せのリブレット-"
 url: "pc-game-girls-book-maker-shiawase-no-libretto-original-soundtrack"
