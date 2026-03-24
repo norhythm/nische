@@ -2,25 +2,24 @@
 published: false
 date: 2020-08-28
 holder: "恋姫†夢想"
-artist: ""
-title: "恋姫†夢想キャラクターソングvol.2 劉備(cv.安玖深音)"
-url: "pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-2-ryuubi-cv-an-ku-shin-oto"
+artist: "安玖深音"
+title: "キャラクターソングvol.2 劉備"
+url: "pc-game-koihime-muso-character-song-vol-2-ryubi"
 tag:
   - mix
 layout: "landscape"
-image: "/works/media/pc-game-r-18-koihime-musou-koihime-musou-character-song-vol-2-ryuubi-cv-an-ku-shin-oto.jpg"
+image: "/works/media/pc-game-koihime-muso-character-song-vol-2-ryubi.jpg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | ドリームフェザー | Mixing |
+| Track number | Title            | Credit |
+| ------------ | ---------------- | ------ |
+| 01           | ドリームフェザー | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/ofTyzRIaQAY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
