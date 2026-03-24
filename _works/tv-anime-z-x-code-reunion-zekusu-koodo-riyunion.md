@@ -4,11 +4,11 @@ date: 2019-10-08
 holder: ""
 artist: ""
 title: "Z/X Code reunion"
-url: "tv-anime-z-x-code-reunion-zekusu-koodo-riyunion"
+url: "tv-anime-z-x-code-reunion"
 tag:
   - mix
 layout: "landscape"
-image: "/works/media/tv-anime-z-x-code-reunion-zekusu-koodo-riyunion.jpg"
+image: "/works/media/tv-anime-z-x-code-reunion.jpg"
 ---
 
 ##### Video
