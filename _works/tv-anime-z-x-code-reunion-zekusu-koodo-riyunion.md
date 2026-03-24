@@ -7,7 +7,7 @@ title: "Z/X Code reunion"
 url: "tv-anime-z-x-code-reunion"
 tag:
   - mix
-layout: "landscape"
+layout: "rect-h"
 image: "/works/media/tv-anime-z-x-code-reunion.jpg"
 ---
 
