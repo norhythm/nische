@@ -7,7 +7,7 @@ title: "キャラクターソングvol.1 孫権"
 url: "pc-game-koihime-muso-character-song-vol-1-sonken"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/pc-game-koihime-muso-character-song-vol-1-sonken.jpg"
 ---
 
