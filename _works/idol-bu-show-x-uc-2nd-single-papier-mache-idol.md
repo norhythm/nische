@@ -2,25 +2,24 @@
 published: false
 date: 2020-10-07
 holder: "IDOL舞SHOW"
-artist: "2ndシングル"
+artist: "X-UC"
 title: "Papier Mache IDOL"
-url: "idol-mai-show-x-uc-2nd-single-papier-mache-idol"
+url: "idol-bu-show-x-uc-2nd-single-papier-mache-idol"
 tag:
   - mix
 layout: "landscape"
-image: "/works/media/idol-mai-show-x-uc-2nd-single-papier-mache-idol.jpeg"
+image: "/works/media/idol-bu-show-x-uc-2nd-single-papier-mache-idol.jpeg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | Papier Mache IDOL | Mixing |
+| Track number | Title                                  | Credit |
+| ------------ | -------------------------------------- | ------ |
+| 02           | Brave Call ! ～& Just Now We come ! ～ | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/kzawj1DuFiA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
