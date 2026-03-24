@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2018-03-30
-holder: "金色ラブリッチェ"
+holder: "SAGA PLANETS"
 artist: ""
 title: "金色ラブリッチェ コンプリートサウンドトラック"
 url: "pc-game-r-18-kin-iro-loveriche-kin-iro-loveriche-complete-soundtrack"
@@ -13,9 +13,9 @@ image: "/works/media/pc-game-r-18-kin-iro-loveriche-kin-iro-loveriche-complete-s
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | 金色ラブリッチェ コンプリートサウンドトラック | Mastering |
+| Track number | Title                                         | Credit    |
+| ------------ | --------------------------------------------- | --------- |
+| 01           | 金色ラブリッチェ コンプリートサウンドトラック | Mastering |
 
 ##### Links
 
