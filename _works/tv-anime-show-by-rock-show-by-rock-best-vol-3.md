@@ -7,20 +7,19 @@ title: "SHOW BY ROCK!! BEST Vol.3"
 url: "tv-anime-show-by-rock-show-by-rock-best-vol-3"
 tag:
   - mix
-layout: "portrait"
+layout: "square"
 image: "/works/media/tv-anime-show-by-rock-show-by-rock-best-vol-3.jpg"
 ---
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | SHOW BY ROCK!! BEST Vol.3 | Mixing |
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 45           | アドレイション | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/YF5yQlinmJA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
