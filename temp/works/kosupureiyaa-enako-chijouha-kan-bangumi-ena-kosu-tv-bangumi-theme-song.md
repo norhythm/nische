@@ -2,13 +2,13 @@
 published: false
 date: 2020-01-08
 holder: "えなコスTV"
-artist: ""
-title: "えなコスTV"
-url: "kosupureiyaa-enako-chijouha-kan-bangumi-ena-kosu-tv-bangumi-theme-song"
+artist: "えなこ"
+title: "Colorful Fairy Voyage♪"
+url: "ena-cos-tv-theme-song"
 tag:
   - mix
-layout: "portrait"
-image: "/works/media/kosupureiyaa-enako-chijouha-kan-bangumi-ena-kosu-tv-bangumi-theme-song.jpeg"
+layout: "rect-v"
+image: "/works/media/ena-cos-tv-theme-song.jpeg"
 ---
 
 ##### Links
