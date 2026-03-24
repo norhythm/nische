@@ -3,7 +3,7 @@ published: false
 date: 2021-07-21
 holder: "キラッとプリ☆チャン♪"
 artist: "ソングコレクション"
-title: "～ from MOONLIGHT MAGIC ～ DX"
+title: "～from MOONLIGHT MAGIC～ DX"
 url: "kiratto-pri-chan-song-collection-from-moonlight-magic-dx"
 tag:
   - mix
