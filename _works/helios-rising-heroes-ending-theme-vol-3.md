@@ -3,18 +3,23 @@ published: false
 date: 2020-12-23
 holder: "HELIOS Rising Heroes"
 artist: ""
-title: "HELIOS Rising Heroes"
+title: "エンディングテーマ Vol.3"
 url: "helios-rising-heroes-ending-theme-vol-3"
 tag:
   - mix
-layout: "portrait"
+layout: "square"
 image: "/works/media/helios-rising-heroes-ending-theme-vol-3.jpeg"
 ---
+
+##### Tracklist
+
+| Track number | Title          | Credit |
+| ------------ | -------------- | ------ |
+| 01           | Come and back! | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/RA0LRLc8RJU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 

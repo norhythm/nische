@@ -4,11 +4,11 @@ date: 2021-09-24
 holder: "プリパラ&キラッとプリ☆チャン"
 artist: ""
 title: "Winter Live 2020"
-url: "pripara-kiratto-pri-chan-winter-live-2020-blu-ray"
+url: "pripara-kiratto-pri-chan-winter-live-2020"
 tag:
   - mix
 layout: "square"
-image: "/works/media/pripara-kiratto-pri-chan-winter-live-2020-blu-ray.jpg"
+image: "/works/media/pripara-kiratto-pri-chan-winter-live-2020.jpg"
 ---
 
 ##### Tracklist
