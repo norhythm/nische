@@ -2,7 +2,7 @@
 published: false
 date: 2020-06-26
 holder: "プリパラ＆キラッとプリ☆チャン"
-artist: "～キラッと！アイドルはじめる時間だよ！～"
+artist: "キラッと！アイドルはじめる時間だよ！"
 title: "AUTUMN LIVE TOUR 2019"
 url: "pripara-kiratto-pri-chan-autumn-live-2019"
 tag:

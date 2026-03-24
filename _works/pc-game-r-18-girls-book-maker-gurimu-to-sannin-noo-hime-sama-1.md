@@ -3,7 +3,7 @@ published: false
 date: 2020-02-28
 holder: "ユメミル"
 artist: "ガールズ・ブック・メイカー"
-title: "～グリムと三人のお姫さま１～"
+title: "グリムと三人のお姫さま１"
 url: "pc-game-girls-book-maker-grimm-to-sannin-no-ohimesama-1"
 tag:
   - mix

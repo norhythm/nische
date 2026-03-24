@@ -3,7 +3,7 @@ published: false
 date: 2021-01-01
 holder: "ラブライブ！サンシャイン!!"
 artist: "黒澤ダイヤ First Solo Concert Album"
-title: "～WHITE FIRST LOVE～"
+title: "WHITE FIRST LOVE"
 url: "lovelive-sunshine-kurosawa-dia-white-first-love"
 tag:
   - mix
