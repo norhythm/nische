@@ -4,7 +4,7 @@ date: 2020-06-24
 holder: "キラッとプリ☆チャン"
 artist: ""
 title: "ミュージックコレクション Season.2"
-url: "tv-anime-kiratto-pri-chan-kiratto-pri-chan-music-collection-season-2"
+url: "tv-anime-kiratto-pri-chan-music-collection-season-2"
 tag:
   - mix
 layout: "rect-h"
