@@ -2,13 +2,13 @@
 published: false
 date: 2020-11-20
 holder: ""
-artist: "Vtuber・神楽めあさんのオリジナル曲"
+artist: "神楽めあ"
 title: "針"
-url: "vtuber-kagura-mea-original-song-hari"
+url: "kagura-mea-original-song-hari"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/vtuber-kagura-mea-original-song-hari.jpeg"
+layout: "rect-h"
+image: "/works/media/kagura-mea-original-song-hari.jpeg"
 ---
 
 ##### Tracklist
@@ -20,3 +20,7 @@ image: "/works/media/vtuber-kagura-mea-original-song-hari.jpeg"
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/ESq7N-JZZUA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+##### Links
+
+- <a data-type="button" href="https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw" target="_blank">Official Page</a>

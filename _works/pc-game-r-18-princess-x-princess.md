@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2021-08-27
-holder: "Princess×Princess"
-artist: ""
+holder: "Navel"
+artist: "Princess×Princess"
 title: "Dream"
 url: "pc-game-princess-x-princess"
 tag:
