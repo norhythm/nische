@@ -3,7 +3,7 @@ published: false
 date: 2021-05-26
 holder: キラッとプリ☆チャン♪"
 artist: "ソングコレクション"
-title: "～ from SUNSHINE CIRCUS ～ DX"
+title: "～from SUNSHINE CIRCUS～ DX"
 url: "kiratto-pri-chan-song-collection-from-sunshine-circus-dx"
 tag:
   - mix

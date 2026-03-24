@@ -3,7 +3,7 @@ published: false
 date: 2021-06-23
 holder: "キラッとプリ☆チャン♪"
 artist: "ソングコレクション"
-title: "～ from PRI☆CHAN LAND ～ DX"
+title: "～from PRI☆CHAN LAND～ DX"
 url: "kiratto-pri-chan-song-collection-from-pri-chan-land-dx"
 tag:
   - mix
