@@ -3,18 +3,22 @@ published: false
 date: 2020-11-04
 holder: "HELIOS Rising Heroes"
 artist: ""
-title: "HELIOS Rising Heroes"
+title: "エンディングテーマ Vol.2"
 url: "helios-rising-heroes-ending-theme-vol-2"
 tag:
   - mix
-layout: "portrait"
+layout: "square"
 image: "/works/media/helios-rising-heroes-ending-theme-vol-2.jpg"
 ---
 
 ##### Video
 
-<iframe src="https://www.youtube.com/embed/nKW1N1EV3kc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+| Track number | Title         | Credit |
+| ------------ | ------------- | ------ |
+| 01           | Extreme game  | Mixing |
+| 01           | TIMELESS BEAT | Mixing |
 
+<iframe src="https://www.youtube.com/embed/nKW1N1EV3kc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ##### Links
 
