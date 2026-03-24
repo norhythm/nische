@@ -7,7 +7,7 @@ title: "Papier Mache IDOL"
 url: "idol-bu-show-x-uc-2nd-single-papier-mache-idol"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/idol-bu-show-x-uc-2nd-single-papier-mache-idol.jpeg"
 ---
 
