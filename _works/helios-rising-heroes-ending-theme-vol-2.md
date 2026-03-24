@@ -11,12 +11,14 @@ layout: "square"
 image: "/works/media/helios-rising-heroes-ending-theme-vol-2.jpg"
 ---
 
-##### Video
+##### Tracklist
 
 | Track number | Title         | Credit |
 | ------------ | ------------- | ------ |
 | 01           | Extreme game  | Mixing |
 | 01           | TIMELESS BEAT | Mixing |
+
+##### Video
 
 <iframe src="https://www.youtube.com/embed/nKW1N1EV3kc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
