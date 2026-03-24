@@ -3,20 +3,30 @@ published: false
 date: 2019-12-27
 holder: "あんさんぶるスターズ！エクストラ・ステージ"
 artist: ""
-title: "あんさんぶるスターズ！エクストラ・ステージ"
-url: "stage-ensemble-stars-extra-stage-destruction-x-road-blu-ray-dvd"
+title: "Destruction × Road"
+url: "stage-ensemble-stars-extra-stage-destruction-road"
 tag:
   - mix
-layout: "portrait"
-image: "/works/media/stage-ensemble-stars-extra-stage-destruction-x-road-blu-ray-dvd.jpg"
+layout: "rect-v"
+image: "/works/media/stage-ensemble-stars-extra-stage-destruction-road.jpg"
 ---
+
+##### Tracklist
+
+| Track number | Title                    | Credit |
+| ------------ | ------------------------ | ------ |
+| 01           | UNCHAINED CHANGE         | Mixing |
+| 04           | Black Ball-Room          | Mixing |
+| 05           | Melody in the Dark       | Mixing |
+| 09           | Sail Away！Go your way！ | Mixing |
+| 11           | VOYAGERS TO FUTURE       | Mixing |
+| 12           | Singin’ ☆Shine！         | Mixing |
 
 ##### Video
 
 <iframe src="https://www.youtube.com/embed/xsfYdV9UJ4w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <iframe src="https://www.youtube.com/embed/PurdKwf3hZ8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ##### Links
 
