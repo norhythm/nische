@@ -7,7 +7,7 @@ title: "SSSS.GRIDMAN BEST ALBUM"
 url: "ssss-gridman-best-album"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/ssss-gridman-best-album.jpg"
 ---
 
