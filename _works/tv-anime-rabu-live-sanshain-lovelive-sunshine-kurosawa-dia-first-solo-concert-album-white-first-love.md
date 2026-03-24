@@ -7,7 +7,7 @@ title: "～WHITE FIRST LOVE～"
 url: "lovelive-sunshine-kurosawa-dia-white-first-love"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/lovelive-sunshine-kurosawa-dia-white-first-love.jpeg"
 ---
 
