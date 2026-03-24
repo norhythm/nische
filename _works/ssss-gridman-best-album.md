@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2019-12-18
-holder: ""
+holder: "SSSS.GRIDMAN"
 artist: ""
 title: "SSSS.GRIDMAN BEST ALBUM"
 url: "ssss-gridman-best-album"
@@ -27,4 +27,5 @@ image: "/works/media/ssss-gridman-best-album.jpg"
 
 ##### Links
 
+- <a data-type="button" href="https://gridman.net/product/cd/bestalbum.php" target="_blank">Official Page</a>
 - <a data-type="button" href="https://www.ponycanyon.co.jp/music/PCCG000001858" target="_blank">ポニーキャニオン公式サイト</a>
