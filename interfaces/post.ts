@@ -10,4 +10,5 @@ export type Post = {
   layout: string;
   content: string;
   published: boolean;
+  lang: string;
 };

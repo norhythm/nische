@@ -7,7 +7,7 @@ title: "キャラクターソングvol.2 劉備"
 url: "pc-game-koihime-muso-character-song-vol-2-ryubi"
 tag:
   - mix
-layout: "landscape"
+layout: "square"
 image: "/works/media/pc-game-koihime-muso-character-song-vol-2-ryubi.jpg"
 ---
 

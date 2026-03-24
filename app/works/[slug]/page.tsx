@@ -74,7 +74,13 @@ export default async function Post(props: Params, modal: false) {
                 <h1 className="tracking-wide">
                   {(post.holder || post.artist) && (
                     <div className="pb-2">
-                      <div className="flex flex-col gap-0.5">
+                      <div
+                        className="flex flex-col gap-0.5"
+                        style={{
+                          fontFamily:
+                            post.lang === "zh-cmn-Hans" ? "Noto Serif SC" : "",
+                        }}
+                      >
                         {post.holder && (
                           <span className="text-[#888] text-[12px] md:text-[16px] leading-[1.5]">
                             {post.holder}
@@ -91,7 +97,12 @@ export default async function Post(props: Params, modal: false) {
                   )}
                   <span
                     className="block text-[#222] text-[18px] md:text-[32px] leading-[1.5] tracking-[1px] font-medium"
-                    style={{ fontFamily: "Noto Serif JP" }}
+                    style={{
+                      fontFamily:
+                        post.lang === "zh-cmn-Hans"
+                          ? "Noto Serif SC"
+                          : "Noto Serif JP",
+                    }}
                   >
                     {post.title}
                   </span>
