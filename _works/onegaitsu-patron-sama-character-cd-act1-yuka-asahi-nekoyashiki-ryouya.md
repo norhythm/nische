@@ -13,10 +13,11 @@ image: "/works/media/onegai-patron-sama-character-act1.jpg"
 
 ##### Tracklist
 
-| Track number | Title        | Credit |
-| ------------ | ------------ | ------ |
-| 02           | Your Rootage | Mixing |
-| 03           | I Rely on U  | Mixing |
+| Track number | Title                            | Credit |
+| ------------ | -------------------------------- | ------ |
+| 01           | Y01.HERO READY GO パトレイサー！ | Mixing |
+| 02           | Your Rootage                     | Mixing |
+| 03           | I Rely on U                      | Mixing |
 
 ##### Video
 
