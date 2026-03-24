@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2020-11-27
-holder: "保健室のセンセーとシャボン玉中毒の助手"
-artist: ""
+holder: "Citrus"
+artist: "保健室のセンセーとシャボン玉中毒の助手"
 title: "Love’s Oracle / STARRY DAYS"
 url: "pc-game-hokenshitsu-no-sensei-to-shabon-dama-chudoku-no-joshu"
 tag:
