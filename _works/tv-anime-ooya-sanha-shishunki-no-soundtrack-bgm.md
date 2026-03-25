@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2016-01-10
-holder: "大家さんは思春期！"
+holder: ""
 artist: ""
 title: "大家さんは思春期！"
-url: "tv-anime-ooya-sanha-shishunki-no-soundtrack-bgm"
+url: "tv-anime-ooya-san-ha-shishunki-soundtrack-bgm"
 tag:
   - mix
-layout: "portrait"
-image: "/works/media/tv-anime-ooya-sanha-shishunki-no-soundtrack-bgm.jpg"
+layout: "rect-v"
+image: "/works/media/tv-anime-ooya-san-ha-shishunki-soundtrack-bgm.jpg"
 ---
 
 ##### Links
