@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2016-06-07
-holder: "あはれ!名作くん"
+holder: ""
 artist: ""
 title: "あはれ!名作くん"
-url: "tv-anime-ahare-meisaku-kun-no-soundtrack-bgm"
+url: "tv-anime-ahare-meisaku-kun-soundtrack-bgm"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/tv-anime-ahare-meisaku-kun-no-soundtrack-bgm.jpg"
+layout: "rect-h"
+image: "/works/media/tv-anime-ahare-meisaku-kun-soundtrack-bgm.jpg"
 ---
 
 ##### Links
