@@ -1,14 +1,14 @@
 ---
 published: false
 date: 2018-05-02
-holder: "TVアニメ『キラッとプリ☆チャン』主題歌「キラッとスタート」c"
-artist: "w曲"
-title: "キラッとスタート"
-url: "tv-anime-kiratto-pri-chan-theme-song-kiratsu-to-sutaato-c-w-song-prima-donna-memorial"
+holder: "プリパラ＆キラッとプリ☆チャン"
+artist: "Run Girls, Run!"
+title: "プリマ☆ドンナ？メモリアル！"
+url: "pripara-kiratto-pri-chan-cw-prima-donna-memorial"
 tag:
   - mix
 layout: "square"
-image: "/works/media/tv-anime-kiratto-pri-chan-theme-song-kiratsu-to-sutaato-c-w-song-prima-donna-memorial.jpg"
+image: "/works/media/pripara-kiratto-pri-chan-cw-prima-donna-memorial.jpg"
 ---
 
 ##### Tracklist
@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-kiratto-pri-chan-theme-song-kiratsu-to-sutaato-c-w
 
 ##### Links
 
-- <a data-type="button" href="http://rungirlsrun.jp/discography/detail.php?id=1015643" target="_blank">Run Girls, Run！公式サイト</a>
+- <a data-type="button" href="http://rungirlsrun.jp/discography/detail.php?id=1015643" target="_blank">Run Girls, Run!公式サイト</a>

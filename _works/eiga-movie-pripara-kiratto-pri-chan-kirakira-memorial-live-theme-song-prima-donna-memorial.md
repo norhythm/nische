@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2018-05-05
-holder: "プリパラ＆キラッとプリ☆チャン"
-artist: "～きらきらメモリアルライブ～"
+holder: "劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～"
+artist: "Run Girls, Run!"
 title: "プリマ☆ドンナ？メモリアル！"
 url: "pripara-kiratto-pri-chan-prima-donna-memorial"
 tag:
