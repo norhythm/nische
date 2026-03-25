@@ -4,11 +4,11 @@ date: 2017-12-22
 holder: "SAGA PLANETS"
 artist: ""
 title: "金色ラブリッチェ"
-url: "pc-game-r-18-kin-iro-loveriche"
+url: "pc-game-kin-iro-loveriche"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/pc-game-r-18-kin-iro-loveriche.jpg"
+layout: "rect-h"
+image: "/works/media/pc-game-kin-iro-loveriche.jpg"
 ---
 
 ##### Video
