@@ -7,7 +7,7 @@ title: "Take your marks!"
 url: "stage-ensemble-stars-extra-stage-take-your-marks-disc"
 tag:
   - mix
-layout: "portrait"
+layout: "rect-v"
 image: "/works/media/stage-ensemble-stars-extra-stage-take-your-marks-disc.jpg"
 ---
 
