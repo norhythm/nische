@@ -1,8 +1,8 @@
 ---
 published: false
 date: 2016-03-02
-holder: "HIDE out"
-artist: ""
+holder: ""
+artist: "佐々木喜英"
 title: "HIDE out"
 url: "sasaki-yoshihide-best-album-hide-out"
 tag:
@@ -13,9 +13,9 @@ image: "/works/media/sasaki-yoshihide-best-album-hide-out.jpg"
 
 ##### Tracklist
 
-| Track number | Title | Credit |
-| ------------ | ----- | ------ |
-| 01 | Toxic Night | Mixing |
+| Track number | Title       | Credit |
+| ------------ | ----------- | ------ |
+| 01           | Toxic Night | Mixing |
 
 ##### Links
 
