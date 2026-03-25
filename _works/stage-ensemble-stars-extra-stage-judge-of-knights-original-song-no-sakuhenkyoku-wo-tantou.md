@@ -3,18 +3,26 @@ published: false
 date: 2017-09-07
 holder: "あんさんぶるスターズ！エクストラ・ステージ"
 artist: ""
-title: "あんさんぶるスターズ！エクストラ・ステージ"
-url: "stage-ensemble-stars-extra-stage-judge-of-knights-original-song-no-sakuhenkyoku-wo-tantou"
+title: "Judge of Knights"
+url: "stage-ensemble-stars-extra-stage-judge-of-knights"
 tag:
   - mix
-layout: "landscape"
-image: "/works/media/stage-ensemble-stars-extra-stage-judge-of-knights-original-song-no-sakuhenkyoku-wo-tantou.jpg"
+layout: "rect-h"
+image: "/works/media/stage-ensemble-stars-extra-stage-judge-of-knights.jpg"
 ---
+
+##### Tracklist
+
+| Track number | Title                  | Credit |
+| ------------ | ---------------------- | ------ |
+| 01           | Knights Escort         | Mixing |
+| 02           | How to move’n chess    | Mixing |
+| 03           | material advantage     | Mixing |
+| 04           | Nine hundred and sixty | Mixing |
 
 ##### Video
 
 <iframe title="【あんステJoK】初日ダイジェスト映像" width="560" height="315" src="https://www.youtube.com/embed/cZHRLqYDmXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ##### Links
 
