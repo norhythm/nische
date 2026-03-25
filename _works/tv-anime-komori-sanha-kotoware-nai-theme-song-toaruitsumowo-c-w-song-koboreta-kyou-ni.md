@@ -1,9 +1,9 @@
 ---
 published: false
 date: 2015-11-20
-holder: "TVアニメ『小森さんは断れない！』主題歌「とあるいつもを」、c"
-artist: "w曲"
-title: "とあるいつもを"
+holder: "小森さんは断れない！"
+artist: ""
+title: "とあるいつもを / こぼれた今日に"
 url: "tv-anime-komori-sanha-kotoware-nai-theme-song-toaruitsumowo-c-w-song-koboreta-kyou-ni"
 tag:
   - mix
