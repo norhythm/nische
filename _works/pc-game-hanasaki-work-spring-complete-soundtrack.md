@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2015-06-26
-holder: "花咲ワークスプリング！"
+holder: "SAGA PLANETS"
 artist: ""
 title: "花咲ワークスプリング！"
 url: "pc-game-hanasaki-work-spring-complete-soundtrack"

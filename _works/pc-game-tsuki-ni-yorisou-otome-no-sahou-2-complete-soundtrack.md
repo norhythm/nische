@@ -1,14 +1,14 @@
 ---
 published: false
-date: 2014-12-19
+date: 2015-03-27
 holder: "Navel"
 artist: ""
-title: "月に寄りそう乙女の作法2"
-url: "pc-game-tsuki-ni-yorisou-otome-no-sahou-2"
+title: "月に寄りそう乙女の作法2 COMPLETE SOUNDTRACK"
+url: "pc-game-tsuki-ni-yorisou-otome-no-sahou-2-complete-soundtrack"
 tag:
   - mix
 layout: "square"
-image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2.jpg"
+image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2-complete-soundtrack.png"
 ---
 
 ##### Links
