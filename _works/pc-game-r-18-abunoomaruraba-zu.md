@@ -7,7 +7,7 @@ title: "あぶのーまるらば～ず"
 url: "pc-game-abnormal-lovers"
 tag:
   - mix
-layout: "portrait"
+layout: "rect-v"
 image: "/works/media/pc-game-abnormal-lovers.jpg"
 ---
 
