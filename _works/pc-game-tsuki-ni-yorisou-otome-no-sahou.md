@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2012-10-26
-holder: "月に寄りそう乙女の作法"
+holder: "Navel"
 artist: ""
 title: "月に寄りそう乙女の作法"
 url: "pc-game-tsuki-ni-yorisou-otome-no-sahou"
