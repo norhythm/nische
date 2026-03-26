@@ -1,7 +1,7 @@
 ---
 published: false
 date: 2013-10-08
-holder: "BLAZBLUE ALTER MEMORY"
+holder: ""
 artist: ""
 title: "BLAZBLUE ALTER MEMORY"
 url: "tv-anime-blazblue-alter-memory"
