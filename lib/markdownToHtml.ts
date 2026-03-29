@@ -22,11 +22,10 @@ const sanitizeSchema = {
   ],
   attributes: {
     ...defaultSchema.attributes,
-    // Allow className, style, and data-* on every element
+    // Allow className and data-* on every element (style intentionally omitted)
     "*": [
       ...(defaultSchema.attributes?.["*"] ?? []),
       "className",
-      "style",
       /^data-/,
     ],
     // Allow the attributes required for YouTube iframes
@@ -48,6 +47,37 @@ const sanitizeSchema = {
     src: [...(defaultSchema.protocols?.src ?? ["http", "https"]), "https"],
   },
 };
+
+function rehypeFilterIframes() {
+  const allowedHosts = [
+    "youtube.com",
+    "www.youtube.com",
+    "youtube-nocookie.com",
+    "www.youtube-nocookie.com",
+    "youtu.be",
+    "soundcloud.com",
+    "w.soundcloud.com",
+    "open.spotify.com",
+    "embed.music.apple.com",
+  ];
+  return (tree: Root) => {
+    visit(tree, "element", (node: Element, index, parent) => {
+      if (node.tagName === "iframe" && parent && typeof index === "number") {
+        const src = typeof node.properties?.src === "string" ? node.properties.src : "";
+        try {
+          const url = new URL(src);
+          if (!allowedHosts.some((h) => url.hostname === h)) {
+            parent.children.splice(index, 1);
+            return index; // revisit this index since we removed a node
+          }
+        } catch {
+          parent.children.splice(index, 1);
+          return index;
+        }
+      }
+    });
+  };
+}
 
 function rehypeWrapYouTubeIframe() {
   return (tree: Root) => {
@@ -78,6 +108,7 @@ export default async function markdownToHtml(markdown: string) {
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeSanitize, sanitizeSchema)
+    .use(rehypeFilterIframes)
     .use(rehypeWrapYouTubeIframe)
     .use(rehypeCodeTitles)
     .use(rehypePrism)
