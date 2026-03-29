@@ -21,8 +21,14 @@ function sortTags(tags: string[]): string[] {
   );
 }
 
-export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory);
+function validatePostData(data: Record<string, unknown>, fileName: string): void {
+  const required = ["url", "title", "date", "image", "layout"] as const;
+  const missing = required.filter((field) => !data[field]);
+  if (missing.length > 0) {
+    throw new Error(
+      `Missing required frontmatter fields [${missing.join(", ")}] in ${fileName}`
+    );
+  }
 }
 
 export function getPostBySlug(slug: string) {
@@ -38,6 +44,7 @@ export function getPostBySlug(slug: string) {
     
     // frontmatterのurlがslugと一致する場合
     if (data.url === slug) {
+      validatePostData(data, fileName);
       // published: falseの場合はnullを返す（SHOW_UNPUBLISHED時は除く）
       if (data.published === false && !showUnpublished) {
         return null;
@@ -63,12 +70,13 @@ export function getAllPosts(): Post[] {
       const fullPath = join(postsDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, "utf8");
       const { data, content } = matter(fileContents);
-      
+
+      validatePostData(data, fileName);
       // 日付がDateオブジェクトの場合は文字列に変換
       if (data.date instanceof Date) {
         data.date = data.date.toISOString().split('T')[0];
       }
-      
+
       return { ...data, slug: data.url, tag: sortTags(data.tag || []), content } as Post;
     })
     // published: trueのみをフィルタリング（SHOW_UNPUBLISHED時は全件表示）
