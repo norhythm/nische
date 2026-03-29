@@ -6,7 +6,7 @@ import equipmentsData from "@/data/equipments.json";
 
 interface EquipmentItem {
   production: string;
-  name: string;
+  name?: string;
 }
 
 interface EquipmentGroup {

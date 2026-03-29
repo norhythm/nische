@@ -106,7 +106,7 @@ export default async function markdownToHtml(markdown: string) {
     .use(remarkGfm)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
-    .use(rehypeSanitize, sanitizeSchema)
+    .use(rehypeSanitize, sanitizeSchema as Parameters<typeof rehypeSanitize>[0])
     .use(rehypeFilterIframes)
     .use(rehypeWrapYouTubeIframe)
     .use(rehypeCodeTitles)

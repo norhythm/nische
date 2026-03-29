@@ -109,7 +109,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
           {["rec", "mix", "master"].map((tag, i) => (
             <div key={tag}>
               <button
-                ref={(el) => (buttonRefs.current[i] = el)}
+                ref={(el) => { buttonRefs.current[i] = el; }}
                 onClick={() => handleTagChange(tag)}
                 className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
               >
@@ -119,7 +119,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
           ))}
           <div>
             <button
-              ref={(el) => (buttonRefs.current[3] = el)}
+              ref={(el) => { buttonRefs.current[3] = el; }}
               onClick={() => handleTagChange(null)}
               className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
             >
