@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "mail:start": "mailpit",
-    "mail:dev": "mailpit --verbose"
+    "mail:dev": "mailpit --verbose",
+    "knip": "knip"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.0",
@@ -31,12 +32,19 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
+    "@types/hast": "^3.0.4",
     "@types/node": "^25",
     "@types/nodemailer": "^7.0.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "knip": "^5.88.1",
     "postcss": "^8",
     "tailwindcss": "^4.1.18",
     "typescript": "^5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
   }
 }
