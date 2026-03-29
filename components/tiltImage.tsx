@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback, useId } from "react";
 import Image from "next/image";
 
 interface FullScreenTiltImageProps {
@@ -95,33 +95,14 @@ export default function FullScreenTiltImage({
 }: FullScreenTiltImageProps) {
   const [transform, setTransform] = useState("");
   const [loaded, setLoaded] = useState(false);
-  const [imageRatio, setImageRatio] = useState(`${width} / ${height}`);
   const [blendMode, setBlendMode] =
     useState<GlobalCompositeOperation>("multiply");
   const imageRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const tintImgRef = useRef<HTMLImageElement | null>(null);
   const accentColorRef = useRef<string>("hsl(0, 0%, 30%)");
-  const maskId = `clip-mask`;
-
-  const blendOptions: { value: GlobalCompositeOperation; label: string }[] = [
-    { value: "multiply", label: "Multiply（乗算）" },
-    { value: "screen", label: "Screen（スクリーン）" },
-    { value: "overlay", label: "Overlay（オーバーレイ）" },
-    { value: "darken", label: "Darken（暗く）" },
-    { value: "lighten", label: "Lighten（明るく）" },
-    { value: "color-dodge", label: "Color Dodge（覆い焼き）" },
-    { value: "color-burn", label: "Color Burn（焼き込み）" },
-    { value: "hard-light", label: "Hard Light（ハードライト）" },
-    { value: "soft-light", label: "Soft Light（ソフトライト）" },
-    { value: "difference", label: "Difference（差の絶対値）" },
-    { value: "exclusion", label: "Exclusion（除外）" },
-    { value: "hue", label: "Hue（色相）" },
-    { value: "saturation", label: "Saturation（彩度）" },
-    { value: "color", label: "Color（カラー）" },
-    { value: "luminosity", label: "Luminosity（輝度）" },
-    { value: "source-over", label: "Source Over（単色塗り）" },
-  ];
+  const reactId = useId();
+  const maskId = `clip-mask-${reactId}`;
 
   const drawTintedImage = useCallback(
     (img: HTMLImageElement, mode: GlobalCompositeOperation) => {
@@ -260,9 +241,7 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        onLoad={(e) => {
-          const img = e.currentTarget;
-          setImageRatio(`${img.clientWidth} / ${img.clientHeight}`);
+        onLoad={() => {
           setLoaded(true);
         }}
         className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
