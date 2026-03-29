@@ -21,6 +21,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
     message: "",
   });
   const [status, setStatus] = useState("");
+  const [statusType, setStatusType] = useState<"success" | "error" | "">("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleChange = (
@@ -49,13 +50,16 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
 
       if (response.ok) {
         setStatus("Success! Thank you! Please wait for reply.");
+        setStatusType("success");
         setForm({ name: "", email: "", subject: "", message: "" });
       } else {
         setStatus(data.error || "Sending failed, please try again.");
+        setStatusType("error");
       }
     } catch (error) {
       console.error("Form submission error:", error);
       setStatus("Something went wrong, please try again.");
+      setStatusType("error");
     } finally {
       setIsSubmitting(false);
     }
@@ -147,7 +151,11 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
               </button>
             </div>
           </form>
-          {status && <p className="pt-4 text-sm md:text-base">{status}</p>}
+          {status && (
+            <p className={`pt-4 text-sm md:text-base ${statusType === "success" ? "text-green-600" : "text-red-600"}`}>
+              {status}
+            </p>
+          )}
         </div>
       </section>
     </>

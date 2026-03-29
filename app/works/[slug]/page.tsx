@@ -7,8 +7,8 @@ import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
 import { layoutImageStyle } from "@/lib/utils";
 
+import Link from "next/link";
 import BackComponent from "@/components/back-component";
-import WorkNavLink from "@/components/work-nav-link";
 import KeyboardNavigation from "@/components/keyboard-navigation";
 
 const imageBgStyle = () => {
@@ -124,7 +124,7 @@ export default async function Post(props: Params) {
                 className={`order-2 w-full flex-auto mx-auto pb-2 md:pt-4 md:pb-12`}
               >
                 <header className="block md:hidden pt-4 text-center">
-                  <h1 className="tracking-wide">
+                  <div className="tracking-wide">
                     {post.holder && (
                       <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[13px] leading-[1.5]">
                         {post.holder}
@@ -138,7 +138,7 @@ export default async function Post(props: Params) {
                     <span className="block text-[#222] text-[18px] md:text-[24px] leading-[1.5]">
                       {post.title}
                     </span>
-                  </h1>
+                  </div>
                   <div className="flex justify-center gap-2 md:pt-1">
                     {post.tag.map((tag, i) => {
                       return (
@@ -174,7 +174,7 @@ export default async function Post(props: Params) {
             </div>
             <div className="md:flex-1">
               {prevPost && (
-                <WorkNavLink
+                <Link
                   href={`/works/${prevPost.url}`}
                   className="inline-flex justify-center items-center p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
@@ -182,13 +182,13 @@ export default async function Post(props: Params) {
                     <span className="sr-only">← Previous work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
-                </WorkNavLink>
+                </Link>
               )}
             </div>
 
             <div className="md:flex-1 text-right">
               {nextPost && (
-                <WorkNavLink
+                <Link
                   href={`/works/${nextPost.url}`}
                   className="inline-flex justify-center items-center justify-end p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
@@ -196,7 +196,7 @@ export default async function Post(props: Params) {
                     <span className="sr-only">Next work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
-                </WorkNavLink>
+                </Link>
               )}
             </div>
           </nav>

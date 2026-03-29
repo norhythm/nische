@@ -2,7 +2,6 @@ import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import remarkRehype from "remark-rehype";
 import rehypeStringify from "rehype-stringify";
-import rehypeSlug from "rehype-slug";
 import rehypeRaw from "rehype-raw";
 import rehypeSanitize, { defaultSchema } from "rehype-sanitize";
 import rehypePrism from "rehype-prism-plus";
@@ -112,7 +111,6 @@ export default async function markdownToHtml(markdown: string) {
     .use(rehypeWrapYouTubeIframe)
     .use(rehypeCodeTitles)
     .use(rehypePrism)
-    .use(rehypeSlug)
     .use(rehypeStringify)
     .process(markdown);
   return result.toString();

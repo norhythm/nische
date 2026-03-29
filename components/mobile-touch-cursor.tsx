@@ -18,6 +18,8 @@ export default function MobileTouchCursor({
   const [isPressed, setIsPressed] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const touchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const onTapRef = useRef(onTap);
+  onTapRef.current = onTap;
 
   useEffect(() => {
     const checkMobile = () => {
@@ -112,7 +114,7 @@ export default function MobileTouchCursor({
 
       // スクロールしていない場合のみonTapを実行
       if (!hasScrolled) {
-        onTap();
+        onTapRef.current();
       }
 
       // 少し遅延してカーソルを非表示にする
@@ -142,7 +144,7 @@ export default function MobileTouchCursor({
         clearTimeout(touchTimeoutRef.current);
       }
     };
-  }, [isMobile, onTap]);
+  }, [isMobile]);
 
   if (!isMobile || !touchPosition) return null;
 
