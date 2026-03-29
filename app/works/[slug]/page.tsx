@@ -179,7 +179,7 @@ export default async function Post(props: Params) {
                   className="inline-flex justify-center items-center p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
-                    <span className="hidden">← Previous work</span>
+                    <span className="sr-only">← Previous work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
                 </WorkNavLink>
@@ -193,7 +193,7 @@ export default async function Post(props: Params) {
                   className="inline-flex justify-center items-center justify-end p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
-                    <span className="hidden">Next work →</span>
+                    <span className="sr-only">Next work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
                 </WorkNavLink>
@@ -217,7 +217,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
-    return notFound();
+    return { title: "Not Found" };
   }
 
   const parts = [post.holder, post.artist, post.title].filter(Boolean);

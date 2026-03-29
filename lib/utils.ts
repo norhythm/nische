@@ -1,9 +1,16 @@
-import { clsx, type ClassValue } from "clsx";
-import { twMerge } from "tailwind-merge";
 import { Post } from "@/interfaces/post";
 
-export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs));
+export function tagName(tag: string): string {
+  switch (tag) {
+    case "rec":
+      return "recording";
+    case "mix":
+      return "mixing";
+    case "master":
+      return "mastering";
+    default:
+      return tag;
+  }
 }
 
 export function layoutImageStyle(post: Post) {
