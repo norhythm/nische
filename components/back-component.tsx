@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { Suspense } from "react";
+import { Suspense, useCallback } from "react";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import MobileTouchCursor from "./mobile-touch-cursor";
 
@@ -28,7 +28,7 @@ export default function BackComponent({
   const router = useRouter();
   const { selectedTag } = useSelectedTagContext();
 
-  const handleBack = () => {
+  const handleBack = useCallback(() => {
     const prevPath = getPrevPath();
 
     if (prevPath === "/") {
@@ -40,7 +40,7 @@ export default function BackComponent({
         router.push("/");
       }
     }
-  };
+  }, [selectedTag, router]);
 
   return (
     <>
