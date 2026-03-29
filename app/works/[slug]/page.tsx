@@ -2,15 +2,12 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
-import Image from "next/image";
-
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
 import { layoutImageStyle } from "@/lib/utils";
 
 import BackComponent from "@/components/back-component";
-import ArticleBody from "@/components/article-body";
 import WorkNavLink from "@/components/work-nav-link";
 import KeyboardNavigation from "@/components/keyboard-navigation";
 
@@ -18,11 +15,7 @@ const imageBgStyle = () => {
   return "px-4 pb-6 md:px-0 md:py-16 4xl:py-16 6xl:py-16";
 };
 
-const fillRectColor = () => {
-  return `hsl(${Math.floor(Math.random() * 360)}, 100%, 68%)`;
-};
-
-export default async function Post(props: Params, modal: false) {
+export default async function Post(props: Params) {
   const params = await props.params;
   const post = getPostBySlug(params.slug);
 
@@ -186,7 +179,7 @@ export default async function Post(props: Params, modal: false) {
                   className="inline-flex justify-center items-center p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
-                    <span className="hidden">← Next work</span>
+                    <span className="hidden">← Previous work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
                 </WorkNavLink>
@@ -200,7 +193,7 @@ export default async function Post(props: Params, modal: false) {
                   className="inline-flex justify-center items-center justify-end p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
-                    <span className="hidden">Previous work →</span>
+                    <span className="hidden">Next work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
                 </WorkNavLink>
