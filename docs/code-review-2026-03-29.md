@@ -166,7 +166,7 @@
 - **File:** `data/contact.json`
 - **Problem:** Display text shows `mail@nische.jp` but mailto link points to `tsukasa.kikuchi@arte-refact.com`.
 - **Action:** Confirm intentional or align addresses.
-- [ ] Deferred — Requires owner confirmation
+- [x] Already fixed — addresses now consistent (`mail@nische.jp`)
 
 ### CR-M7: CLAUDE.md references non-existent `data/works.json`
 
