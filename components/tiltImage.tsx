@@ -93,10 +93,7 @@ export default function FullScreenTiltImage({
   intensity = 1,
   tilt,
 }: FullScreenTiltImageProps) {
-  const [transform, setTransform] = useState("");
   const [loaded, setLoaded] = useState(false);
-  const [blendMode, setBlendMode] =
-    useState<GlobalCompositeOperation>("multiply");
   const imageRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const tintImgRef = useRef<HTMLImageElement | null>(null);
@@ -105,7 +102,7 @@ export default function FullScreenTiltImage({
   const maskId = `clip-mask-${reactId}`;
 
   const drawTintedImage = useCallback(
-    (img: HTMLImageElement, mode: GlobalCompositeOperation) => {
+    (img: HTMLImageElement) => {
       if (!article) return;
       const canvas = canvasRef.current;
       if (!canvas) return;
@@ -139,7 +136,7 @@ export default function FullScreenTiltImage({
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
       // 選択したブレンドモードで元画像を重ねる
-      ctx.globalCompositeOperation = mode;
+      ctx.globalCompositeOperation = "multiply";
       ctx.drawImage(img, 0, 0);
     },
     [article],
@@ -149,14 +146,14 @@ export default function FullScreenTiltImage({
   useEffect(() => {
     if (!article) return;
     if (tintImgRef.current) {
-      drawTintedImage(tintImgRef.current, blendMode);
+      drawTintedImage(tintImgRef.current);
       return;
     }
     const img = new window.Image();
     img.crossOrigin = "anonymous";
-    img.onload = () => drawTintedImage(img, blendMode);
+    img.onload = () => drawTintedImage(img);
     img.src = src;
-  }, [article, src, blendMode, drawTintedImage]);
+  }, [article, src, drawTintedImage]);
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
@@ -185,14 +182,16 @@ export default function FullScreenTiltImage({
       const tiltX = rotateX * maxTilt;
       const tiltY = rotateY * maxTilt;
 
-      setTransform(
-        `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`,
-      );
+      if (imageRef.current) {
+        imageRef.current.style.transform = `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`;
+      }
     };
 
     const handleMouseLeave = () => {
       if (single) {
-        setTransform("perspective(1000px) rotateX(0deg) rotateY(0deg)");
+        if (imageRef.current) {
+          imageRef.current.style.transform = "perspective(1000px) rotateX(0deg) rotateY(0deg)";
+        }
       }
     };
 
@@ -219,7 +218,6 @@ export default function FullScreenTiltImage({
       ref={imageRef}
       className={`relative ${parentClassName}`}
       style={{
-        transform,
         ...(article && { aspectRatio: `${width} / ${height}` }),
         ...(clip && { clipPath: `url(#${maskId})` }),
       }}
@@ -247,26 +245,10 @@ export default function FullScreenTiltImage({
         className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
       />
       {article && (
-        <>
-          <canvas
-            ref={canvasRef}
-            className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[200ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
-          />
-          {/* ブレンドモード切替 */}
-          {/* <select
-            value={blendMode}
-            onChange={(e) =>
-              setBlendMode(e.target.value as GlobalCompositeOperation)
-            }
-            className="absolute bottom-2 right-2 z-10 text-xs bg-white/80 border border-gray-300 rounded px-1 py-0.5 cursor-pointer"
-          >
-            {blendOptions.map((opt) => (
-              <option key={opt.value} value={opt.value}>
-                {opt.label}
-              </option>
-            ))}
-          </select> */}
-        </>
+        <canvas
+          ref={canvasRef}
+          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[200ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
+        />
       )}
     </div>
   );

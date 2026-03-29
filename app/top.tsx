@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
+import { tagName } from "@/lib/utils";
 
 import TiltImage from "@/components/tiltImage";
 
@@ -90,19 +91,6 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
 
   const handleTagChange = (tag: string | null) => {
     setSelectedTag(tag);
-  };
-
-  const tagName = (tag: string) => {
-    switch (tag) {
-      case "rec":
-        return "recording";
-      case "mix":
-        return "mixing";
-      case "master":
-        return "mastering";
-      default:
-        return tag;
-    }
   };
 
   return (
