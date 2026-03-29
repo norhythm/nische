@@ -11,10 +11,10 @@ const config: Config = {
   safelist: [
     "size-full",
     "py-12",
-    ".md:pt-10",
-    ".md:w-6/12",
-    ".md:w-8/12",
-    ".md:w-7/12",
+    "md:pt-10",
+    "md:w-6/12",
+    "md:w-8/12",
+    "md:w-7/12",
   ],
   theme: {
     screens: {
