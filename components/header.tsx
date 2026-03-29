@@ -1,10 +1,8 @@
 "use client";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 
 export default function Header() {
-  const pathname = usePathname();
   const { setSelectedTag } = useSelectedTagContext();
 
   return (
@@ -29,9 +27,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/biography/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto ${
-                    pathname === "/biography" ? "" : ""
-                  }`}
+                  className="hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto"
                   onClick={() => {
                     setSelectedTag(null);
                   }}
@@ -42,9 +38,7 @@ export default function Header() {
               <li>
                 <Link
                   href="/contact/"
-                  className={`hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto ${
-                    pathname === "/contact" ? "" : ""
-                  }`}
+                  className="hover:text-gray-500 transition-colors duration-300 ease-in-out pointer-events-auto"
                   onClick={() => {
                     setSelectedTag(null);
                   }}

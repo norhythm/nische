@@ -128,10 +128,8 @@ export default function MobileTouchCursor({
       }, 200);
     };
 
-    layer.addEventListener("touchstart", handleTouchStart, {
-      passive: false,
-    });
-    layer.addEventListener("touchmove", handleTouchMove, { passive: false });
+    layer.addEventListener("touchstart", handleTouchStart, { passive: true });
+    layer.addEventListener("touchmove", handleTouchMove, { passive: true });
     layer.addEventListener("touchend", handleTouchEnd);
     layer.addEventListener("touchcancel", handleTouchCancel);
 
@@ -158,9 +156,7 @@ export default function MobileTouchCursor({
       }}
     >
       <div
-        className={`w-16 h-16 rounded-full backdrop-blur-sm bg-close transition-all duration-150 ${
-          isPressed ? "" : ""
-        }`}
+        className="w-16 h-16 rounded-full backdrop-blur-sm bg-close transition-all duration-150"
       />
     </div>
   );
