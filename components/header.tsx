@@ -1,15 +1,20 @@
 "use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 
 export default function Header() {
   const { setSelectedTag } = useSelectedTagContext();
+  const pathname = usePathname();
+  const isHome = pathname === "/";
+
+  const SiteNameTag = isHome ? "h1" : "span";
 
   return (
     <>
       <header className="sticky top-0 left-0 right-0 z-50 w-full xl:max-w-screen-xl mx-auto py-6 md:py-[60px] md:px-[8%] xl:px-[102px] pointer-events-none">
         <div className="px-4 md:px-0 flex justify-between items-center">
-          <h1
+          <SiteNameTag
             className={`md:text-xl font-medium text-base flex justify-content items-center tracking-wider`}
           >
             <Link
@@ -21,8 +26,8 @@ export default function Header() {
             >
               Tsukasa Kikuchi
             </Link>
-          </h1>
-          <nav>
+          </SiteNameTag>
+          <nav aria-label="Main navigation">
             <ul className="flex space-x-4 md:space-x-8 pb-[2px] text-sm md:text-[18px] tracking-wider">
               <li>
                 <Link
