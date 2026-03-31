@@ -28,6 +28,22 @@ export default async function Post(props: Params) {
 
   return (
     <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CreativeWork",
+            "name": post.title,
+            "creator": {
+              "@type": "Person",
+              "name": "Tsukasa Kikuchi",
+            },
+            "image": `https://nische.jp${post.image}`,
+            "url": `https://nische.jp/works/${post.url}/`,
+          }),
+        }}
+      />
       <KeyboardNavigation
         prevUrl={prevPost ? `/works/${prevPost.url}` : undefined}
         nextUrl={nextPost ? `/works/${nextPost.url}` : undefined}
@@ -168,7 +184,7 @@ export default async function Post(props: Params) {
         </div>
         {/* Prev/Next Navigation */}
         <div className="works-navigation sticky md:relative z-40 bottom-4 w-full md:pt-16 overflow-hidden pointer-events-none">
-          <nav className="flex justify-between items-center px-4 md:px-0 md:w-8/12 mx-auto">
+          <nav aria-label="Work navigation" className="flex justify-between items-center px-4 md:px-0 md:w-8/12 mx-auto">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
             </div>
@@ -222,11 +238,22 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
 
   const parts = [post.holder, post.artist, post.title].filter(Boolean);
   const title = `${parts.join(" ")} | Kikuchi Tsukasa`;
+  const description = `${parts.join(" ")} — Recording, Mixing, Mastering by Tsukasa Kikuchi`;
 
   return {
     title,
+    description,
     openGraph: {
       title: parts.join(" "),
+      description,
+      images: [post.image],
+      type: "article",
+      locale: "ja_JP",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: parts.join(" "),
+      description,
       images: [post.image],
     },
   };
