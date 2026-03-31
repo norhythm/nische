@@ -41,7 +41,7 @@ This is a Next.js 15 portfolio website for Tsukasa Kikuchi, a professional audio
 ### Special Configuration
 - Images are unoptimized (Next.js config)
 - Build process ignores ESLint and TypeScript errors
-- SEO robots are disabled (noindex, nofollow, etc.)
+- SEO: robots set to index/follow, canonical URL configured
 
 ## TypeScript Types
 - `Post` interface in `interfaces/post.ts` defines work/post structure

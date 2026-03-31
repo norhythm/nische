@@ -13,6 +13,13 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://nische.jp"),
   title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
   description: "Professional audio engineering services by Tsukasa Kikuchi",
+  alternates: {
+    canonical: "/",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
   openGraph: {
     title: "Tsukasa Kikuchi | Recording, Mixing, Mastering Engineer",
     description: "Professional audio engineering services by Tsukasa Kikuchi",
@@ -51,6 +58,18 @@ export default function RootLayout({
         ></link>
         <GoogleAnalytics gaId="G-7L0R4ZXV6S" />
         <AnalyticsPageview />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "name": "Tsukasa Kikuchi",
+              "jobTitle": "Recording, Mixing, Mastering Engineer",
+              "url": "https://nische.jp",
+            }),
+          }}
+        />
       </head>
       <body>
         <SelectedTagProvider>
