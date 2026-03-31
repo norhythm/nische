@@ -73,6 +73,7 @@ export default function Biography({ bioJaHtml, bioEnHtml, equipmentNoteHtml }: B
                 />
 
                 <div
+                  lang="en"
                   className="mb-4 md:leading-[1.675] flex-1 text-sm md:text-base [&_a]:underline"
                   dangerouslySetInnerHTML={{ __html: bioEnHtml }}
                 />
