@@ -37,7 +37,7 @@ export default function PathAwareContainer({
   const pathClasses = useMemo(() => generatePathClasses(pathname), [pathname]);
 
   return (
-    <div id="container" className={`h-dvh flex flex-col ${pathClasses}`}>
+    <div id="container" className={`min-h-dvh flex flex-col ${pathClasses}`}>
       {children}
     </div>
   );
