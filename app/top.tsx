@@ -95,7 +95,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
 
   return (
     <>
-      <h1 className="sr-only">Works by Tsukasa Kikuchi</h1>
+      <h2 className="sr-only">Works by Tsukasa Kikuchi</h2>
       <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] xl:px-[102px] z-30 pointer-events-none">
         <nav aria-label="Filter by category">
           <div role="toolbar" aria-label="Category filters" className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">

@@ -5,8 +5,7 @@ test.describe("Accessibility & SEO", () => {
     test("homepage has exactly one h1", async ({ page }) => {
       await page.goto("/");
       const h1s = page.locator("h1");
-      // Homepage has two h1s: site name in Header (h1 on home) + sr-only works heading in top.tsx
-      await expect(h1s).toHaveCount(2);
+      await expect(h1s).toHaveCount(1);
     });
 
     test("biography page has exactly one h1", async ({ page }) => {
