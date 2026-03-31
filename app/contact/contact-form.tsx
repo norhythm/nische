@@ -91,6 +91,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="name"
                 value={form.name}
                 onChange={handleChange}
+                autoComplete="name"
                 className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -106,6 +107,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="email"
                 value={form.email}
                 onChange={handleChange}
+                autoComplete="email"
                 className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -121,6 +123,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="subject"
                 value={form.subject}
                 onChange={handleChange}
+                autoComplete="off"
                 className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
@@ -136,6 +139,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 rows={6}
                 value={form.message}
                 onChange={handleChange}
+                autoComplete="off"
                 className="w-full md:w-2/3 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               ></textarea>
@@ -152,7 +156,10 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
             </div>
           </form>
           {status && (
-            <p className={`pt-4 text-sm md:text-base ${statusType === "success" ? "text-green-600" : "text-red-600"}`}>
+            <p
+              role="alert"
+              className={`pt-4 text-sm md:text-base ${statusType === "success" ? "text-green-600" : "text-red-600"}`}
+            >
               {status}
             </p>
           )}
