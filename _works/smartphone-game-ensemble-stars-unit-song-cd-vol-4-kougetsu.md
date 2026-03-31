@@ -23,4 +23,4 @@ image: "/works/media/smartphone-game-ensemble-stars-unit-song-kogetsu.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">あんさんぶるスターズ！公式サイト</a>
+- <a class="button" href="https://ensemble-stars.jp/" target="_blank">あんさんぶるスターズ！公式サイト</a>

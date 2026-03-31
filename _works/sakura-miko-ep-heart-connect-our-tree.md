@@ -24,6 +24,6 @@ image: /works/media/sakura-miko-ep-heart-connect-our-tree.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/313/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/heartconnect" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/313/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/heartconnect" target="_blank">Stream & Buy</a>

@@ -23,6 +23,6 @@ image: "/works/media/hololive-nakiri-ayame-original-song-yoi-no-yo-yoi.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E5%AE%B5%E3%81%AE%E4%BD%99%E3%80%81%E8%89%AF%E3%81%84%EF%BC%81/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/YoinoYoYoi" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E5%AE%B5%E3%81%AE%E4%BD%99%E3%80%81%E8%89%AF%E3%81%84%EF%BC%81/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/YoinoYoYoi" target="_blank">Stream & Buy</a>

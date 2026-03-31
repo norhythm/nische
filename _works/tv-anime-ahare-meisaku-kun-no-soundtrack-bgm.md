@@ -13,4 +13,4 @@ image: "/works/media/tv-anime-ahare-meisaku-kun-soundtrack-bgm.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://meisakukun.com/" target="_blank">公式サイト</a>
+- <a class="button" href="https://meisakukun.com/" target="_blank">公式サイト</a>

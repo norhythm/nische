@@ -19,4 +19,4 @@ image: "/works/media/tv-anime-shiroi-suna-no-aquatope-ending-theme.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/artist/Mia_REGINA/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.lantis.jp/artist/Mia_REGINA/" target="_blank">Official Site</a>

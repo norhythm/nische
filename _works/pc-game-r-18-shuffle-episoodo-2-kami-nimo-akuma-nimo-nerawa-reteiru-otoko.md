@@ -26,4 +26,4 @@ image: "/works/media/pc-game-shuffle-episode-2.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/shuffle_ep2/" target="_blank">Official Site</a>
+- <a class="button" href="https://project-navel.com/shuffle_ep2/" target="_blank">Official Site</a>

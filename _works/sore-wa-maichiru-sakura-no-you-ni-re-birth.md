@@ -29,4 +29,4 @@ image: "/works/media/sore-wa-maichiru-sakura-no-you-ni-re-birth.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/sorechiru/" target="_blank">Official Site</a>
+- <a class="button" href="https://project-navel.com/sorechiru/" target="_blank">Official Site</a>

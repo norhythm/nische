@@ -23,6 +23,6 @@ image: "/works/media/hololive-irys-original-song-akatsukito-hana.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E3%81%82%E3%81%8B%E3%81%A4%E3%81%8D%E3%81%A8%E8%8A%B1/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/AkatsukitoHana" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E3%81%82%E3%81%8B%E3%81%A4%E3%81%8D%E3%81%A8%E8%8A%B1/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/AkatsukitoHana" target="_blank">Stream & Buy</a>

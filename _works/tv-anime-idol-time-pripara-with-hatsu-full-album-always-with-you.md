@@ -30,4 +30,4 @@ image: "/works/media/tv-anime-idol-time-pripara-always-with-you.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/detail.php?id=1016888" target="_blank">TVアニメ『アイドルタイムプリパラ』公式サイト</a>
+- <a class="button" href="https://avex.jp/pripara/discography/detail.php?id=1016888" target="_blank">TVアニメ『アイドルタイムプリパラ』公式サイト</a>

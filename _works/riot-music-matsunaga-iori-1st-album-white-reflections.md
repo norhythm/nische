@@ -23,6 +23,6 @@ image: /works/media/riot-music-matsunaga-iori-1st-album-white-reflections.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://riot-music.com/artist/iori-matsunaga/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://riot-music.com/disco/white-reflections/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://blitzwing.lnk.to/WhiteReflections" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://riot-music.com/artist/iori-matsunaga/" target="_blank">Official Site</a>
+- <a class="button" href="https://riot-music.com/disco/white-reflections/" target="_blank">Official Page</a>
+- <a class="button" href="https://blitzwing.lnk.to/WhiteReflections" target="_blank">Stream & Buy</a>

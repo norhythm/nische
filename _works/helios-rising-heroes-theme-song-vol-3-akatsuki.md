@@ -22,6 +22,6 @@ image: /works/media/helios-rising-heroes-theme-song-vol-3-akatsuki.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://helios-r.jp/discography/cd17" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/mXjBzW" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://helios-r.jp/discography/cd17" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/mXjBzW" target="_blank">Stream & Buy</a>

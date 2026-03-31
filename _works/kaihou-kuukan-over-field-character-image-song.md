@@ -26,4 +26,4 @@ image: "/works/media/kaihou-kuukan-over-field-character-image-song.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.kaihoukukan-overfield.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.kaihoukukan-overfield.jp/" target="_blank">Official Site</a>

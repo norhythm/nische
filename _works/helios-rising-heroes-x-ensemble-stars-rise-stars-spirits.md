@@ -23,7 +23,7 @@ image: /works/media/helios-rising-heroes-x-ensemble-stars-rise-stars-spirits.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ensemble-stars.jp/discography/musicdetails/0caecsau3w8/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/rxXk3S" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ensemble-stars.jp/discography/musicdetails/0caecsau3w8/" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/rxXk3S" target="_blank">Stream & Buy</a>

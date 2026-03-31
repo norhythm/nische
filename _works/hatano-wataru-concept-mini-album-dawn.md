@@ -27,5 +27,5 @@ image: /works/media/hatano-wataru-concept-mini-album-dawn.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/discography/detail.php?id=1019897" target="_blank">Official Page</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/discography/detail.php?id=1019897" target="_blank">Official Page</a>

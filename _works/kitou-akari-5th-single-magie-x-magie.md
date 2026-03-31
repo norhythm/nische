@@ -25,6 +25,6 @@ image: /works/media/kito-akari-5th-single-magie-x-magie.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://canime.jp/product/PCCG000002277/" target="_blank">きゃにめ公式</a>
-- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kitoakari.com/magie-magie" target="_blank">Official Page</a>
+- <a class="button" href="https://canime.jp/product/PCCG000002277/" target="_blank">きゃにめ公式</a>
+- <a class="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://kitoakari.com/magie-magie" target="_blank">Official Page</a>

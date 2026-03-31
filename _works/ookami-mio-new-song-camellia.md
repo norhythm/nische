@@ -23,6 +23,6 @@ image: /works/media/ookami-mio-new-song-camellia.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/355/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Camellia" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/355/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Camellia" target="_blank">Stream & Buy</a>

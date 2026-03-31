@@ -28,4 +28,4 @@ image: "/works/media/tv-anime-pripara-promise-rhythm-paradise.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/news/detail.php?id=1075242&artist_cd=PRIP2" target="_blank">avex公式サイト</a>
+- <a class="button" href="https://avex.jp/pripara/news/detail.php?id=1075242&artist_cd=PRIP2" target="_blank">avex公式サイト</a>

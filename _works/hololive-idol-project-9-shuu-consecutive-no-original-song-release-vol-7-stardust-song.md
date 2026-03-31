@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-stardust-song.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/stardust-song/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/STARDUSTSONG" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/stardust-song/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/STARDUSTSONG" target="_blank">Stream & Buy</a>

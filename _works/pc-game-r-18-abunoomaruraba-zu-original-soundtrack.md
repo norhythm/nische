@@ -37,4 +37,4 @@ image: "/works/media/pc-game-abnormal-lovers-original-soundtrack.jpg"
 
 ##### Links
 
-|- <a data-type="button" href="http://tortesoft.nexton-net.jp/goods.html" target="_blank"> | あぶのーまるらば～ず | Mixing |公式サイト</a>
+|- <a class="button" href="http://tortesoft.nexton-net.jp/goods.html" target="_blank"> | あぶのーまるらば～ず | Mixing |公式サイト</a>

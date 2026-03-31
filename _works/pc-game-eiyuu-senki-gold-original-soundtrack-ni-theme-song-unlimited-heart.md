@@ -21,4 +21,4 @@ image: "/works/media/pc-game-eiyuu-senki-gold-original-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://tenco.cc/home/" target="_blank">公式サイト</a>
+- <a class="button" href="https://tenco.cc/home/" target="_blank">公式サイト</a>

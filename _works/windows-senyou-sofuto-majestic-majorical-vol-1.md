@@ -19,4 +19,4 @@ image: "/works/media/majemajo-vol-1-op-theme-song-mystic-labyrinth.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://dazkarat.jp/majemajo/" target="_blank">『マジェスティック☆マジョリカル』公式サイト</a>
+- <a class="button" href="http://dazkarat.jp/majemajo/" target="_blank">『マジェスティック☆マジョリカル』公式サイト</a>

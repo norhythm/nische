@@ -23,4 +23,4 @@ image: "/works/media/idol-bu-show-x-uc-2nd-single-papier-mache-idol.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="http://idolbushow.com/2020/08/31/1007/" target="_blank">IDOL舞SHOW 公式サイト</a>
+- <a class="button" href="http://idolbushow.com/2020/08/31/1007/" target="_blank">IDOL舞SHOW 公式サイト</a>

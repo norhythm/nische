@@ -28,4 +28,4 @@ image: "/works/media/tv-anime-kiratto-pri-chan-kiratto-pri-chan-music-collection
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/news/detail.php?id=1083771&artist_cd=KIRAP" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/news/detail.php?id=1083771&artist_cd=KIRAP" target="_blank">Official Page</a>

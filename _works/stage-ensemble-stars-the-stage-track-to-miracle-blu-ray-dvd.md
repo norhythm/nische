@@ -27,4 +27,4 @@ image: "/works/media/stage-ensemble-stars-the-stage-track-to-miracle-blu-ray-dvd
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/72466/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/72466/" target="_blank">フロンティアワークス公式サイト</a>

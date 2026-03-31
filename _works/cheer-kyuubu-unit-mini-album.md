@@ -27,4 +27,4 @@ image: "/works/media/cheer-kyuubu-unit-mini-album.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://cheerkyu-bu.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://cheerkyu-bu.jp/" target="_blank">Official Site</a>

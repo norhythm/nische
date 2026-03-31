@@ -25,4 +25,4 @@ image: "/works/media/lovelive-sunshine-kurosawa-dia-white-first-love.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lovelive-anime.jp/uranohoshi/cd.php#cd44" target="_blank">Official Page</a>
+- <a class="button" href="https://www.lovelive-anime.jp/uranohoshi/cd.php#cd44" target="_blank">Official Page</a>

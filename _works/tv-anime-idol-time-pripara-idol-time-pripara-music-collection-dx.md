@@ -35,4 +35,4 @@ image: "/works/media/tv-anime-idol-time-pripara-music-collection-dx.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://avex.jp/pripara/discography/detail.php?id=1015737" target="_blank">アイドルタイムプリパラavex公式サイト</a>
+- <a class="button" href="http://avex.jp/pripara/discography/detail.php?id=1015737" target="_blank">アイドルタイムプリパラavex公式サイト</a>

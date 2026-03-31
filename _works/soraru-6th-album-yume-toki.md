@@ -24,5 +24,5 @@ image: "/works/media/soraru-6th-album-yume-toki.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://soraruru.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://soraruru.jp/discography/yumetoki" target="_blank">Official Page</a>
+- <a class="button" href="https://soraruru.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://soraruru.jp/discography/yumetoki" target="_blank">Official Page</a>

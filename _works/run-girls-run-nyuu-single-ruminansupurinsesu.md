@@ -26,5 +26,5 @@ image: "/works/media/run-girls-run-luminance-princess.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://rungirlsrun.jp/discography/detail.php?id=1017775" target="_blank">Official Page</a>
+- <a class="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://rungirlsrun.jp/discography/detail.php?id=1017775" target="_blank">Official Page</a>

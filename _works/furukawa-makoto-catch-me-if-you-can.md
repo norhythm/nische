@@ -24,6 +24,6 @@ image: /works/media/furukawa-makoto-catch-me-if-you-can.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/catchmeifyoucan%e9%80%9a%e5%b8%b8%e7%9b%a4/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/LACA-25157d" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/catchmeifyoucan%e9%80%9a%e5%b8%b8%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/LACA-25157d" target="_blank">Stream & Buy</a>

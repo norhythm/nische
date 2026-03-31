@@ -22,4 +22,4 @@ image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-ed-theme.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://lnk.to/LZC-3340" target="_blank">Linkfire</a>
+- <a class="button" href="https://lnk.to/LZC-3340" target="_blank">Linkfire</a>

@@ -31,4 +31,4 @@ image: "/works/media/ongeki-vocal-memory.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/vocalmemory.html" target="_blank">オンゲキ公式サイト</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/vocalmemory.html" target="_blank">オンゲキ公式サイト</a>

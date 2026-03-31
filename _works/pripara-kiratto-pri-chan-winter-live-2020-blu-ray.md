@@ -39,4 +39,4 @@ image: "/works/media/pripara-kiratto-pri-chan-winter-live-2020.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/detail.php?id=1018416" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/pripara/discography/detail.php?id=1018416" target="_blank">Official Page</a>

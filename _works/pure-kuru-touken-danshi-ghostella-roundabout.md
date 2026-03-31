@@ -23,5 +23,5 @@ image: "/works/media/pure-kuru-touken-danshi-ghostella-roundabout.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://purecooltouken.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://linkco.re/3pvV4dnq" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://purecooltouken.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://linkco.re/3pvV4dnq" target="_blank">Stream & Buy</a>

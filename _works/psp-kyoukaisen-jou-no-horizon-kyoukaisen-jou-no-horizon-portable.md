@@ -17,4 +17,4 @@ image: "/works/media/psp-kyoukaisen-jou-no-horizon-portable.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://d-game.dengeki.com/horizon/" target="_blank">境界線上のホライゾン PORTABLE 公式サイト</a>
+- <a class="button" href="http://d-game.dengeki.com/horizon/" target="_blank">境界線上のホライゾン PORTABLE 公式サイト</a>

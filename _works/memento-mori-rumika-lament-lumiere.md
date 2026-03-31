@@ -23,6 +23,6 @@ image: /works/media/memento-mori-rumika-lament-lumiere.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://mememori-game.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/602/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/DKOWZ9" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://mememori-game.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/602/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/DKOWZ9" target="_blank">Stream & Buy</a>

@@ -31,5 +31,5 @@ image: /works/media/pripara-song-collection-melody-moments.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.tv-tokyo.co.jp/anime/pripara/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://avex.jp/pripara/discography/detail.php?id=1020499" target="_blank">Official Page</a>
+- <a class="button" href="https://www.tv-tokyo.co.jp/anime/pripara/" target="_blank">Official Site</a>
+- <a class="button" href="https://avex.jp/pripara/discography/detail.php?id=1020499" target="_blank">Official Page</a>

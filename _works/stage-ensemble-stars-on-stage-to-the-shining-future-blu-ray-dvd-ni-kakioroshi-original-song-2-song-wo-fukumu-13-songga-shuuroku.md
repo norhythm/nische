@@ -35,4 +35,4 @@ image: "/works/media/ensemble-stars-the-stage-to-the-shining-future.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.marv.jp/special/ensemble_stage-4th/" target="_blank">『あんさんぶるスターズ！オン・ステージ』公式サイト</a>
+- <a class="button" href="https://www.marv.jp/special/ensemble_stage-4th/" target="_blank">『あんさんぶるスターズ！オン・ステージ』公式サイト</a>

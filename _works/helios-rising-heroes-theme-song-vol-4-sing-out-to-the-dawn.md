@@ -23,6 +23,6 @@ image: /works/media/helios-rising-heroes-theme-song-vol-4-sing-out-to-the-dawn.j
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://helios-r.jp/discography/jjrxcknc6_c" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/WVVK0F" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://helios-r.jp/discography/jjrxcknc6_c" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/WVVK0F" target="_blank">Stream & Buy</a>

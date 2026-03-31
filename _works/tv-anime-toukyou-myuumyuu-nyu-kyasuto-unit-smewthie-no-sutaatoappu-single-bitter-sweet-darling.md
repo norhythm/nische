@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-tokyo-myuumyuu-nyu-smewthie-bitter-sweet-darling.j
 
 ##### Links
 
-- <a data-type="button" href="https://tokyo-mew-mew.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://tokyo-mew-mew.com/" target="_blank">Official Site</a>

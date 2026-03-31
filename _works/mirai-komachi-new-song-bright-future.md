@@ -21,5 +21,5 @@ image: /works/media/mirai-komachi-new-song-bright-future.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.miraikomachi.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://nex-tone.link/7QbYmDffu" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.miraikomachi.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://nex-tone.link/7QbYmDffu" target="_blank">Stream & Buy</a>

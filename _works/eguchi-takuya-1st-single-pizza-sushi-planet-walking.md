@@ -24,5 +24,5 @@ image: /works/media/eguchi-takuya-1st-single-pizza-sushi-planet-walking.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kiramune.jp/artist/eguchi/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kiramune.jp/product/LACM-24375.html" target="_blank">Official Page</a>
+- <a class="button" href="https://kiramune.jp/artist/eguchi/" target="_blank">Official Site</a>
+- <a class="button" href="https://kiramune.jp/product/LACM-24375.html" target="_blank">Official Page</a>

@@ -23,4 +23,4 @@ image: /works/media/anime-yoru-wa-neko-to-issho-season-3-theme-song-aisazu-ni-wa
 
 ##### Links
 
-- <a data-type="button" href="https://yoruneko-pr.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://yoruneko-pr.com/" target="_blank">Official Site</a>

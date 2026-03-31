@@ -18,5 +18,5 @@ image: /works/media/stage-ensemble-stars-the-stage-witness-of-miracle-blu-ray-dv
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stage.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.fwinc.co.jp/ensemble-stage/the_stage-second/" target="_blank">Official Page</a>
+- <a class="button" href="https://ensemble-stage.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.fwinc.co.jp/ensemble-stage/the_stage-second/" target="_blank">Official Page</a>

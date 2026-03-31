@@ -26,5 +26,5 @@ image: "/works/media/furukawa-makoto-2nd-single-chizu-ga-naku-temo-modoru-kara.j
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e5%9c%b0%e5%9b%b3%e3%81%8c%e7%84%a1%e3%81%8f%e3%81%a6%e3%82%82%e6%88%bb%e3%82%8b%e3%81%8b%e3%82%89%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/%e5%9c%b0%e5%9b%b3%e3%81%8c%e7%84%a1%e3%81%8f%e3%81%a6%e3%82%82%e6%88%bb%e3%82%8b%e3%81%8b%e3%82%89%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>

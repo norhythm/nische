@@ -23,4 +23,4 @@ image: "/works/media/helios-rising-heroes-ending-theme-second-season-vol-2.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/77143/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/77143/" target="_blank">フロンティアワークス公式サイト</a>

@@ -19,4 +19,4 @@ image: "/works/media/ps-vita-tsuki-ni-yorisou-otome-no-sahou-hidamarino-hibi-sou
 
 ##### Links
 
-- <a data-type="button" href="http://dramaticcreate.com/tsukiniyorisou/" target="_blank">dramaticcreate公式サイト</a>
+- <a class="button" href="http://dramaticcreate.com/tsukiniyorisou/" target="_blank">dramaticcreate公式サイト</a>

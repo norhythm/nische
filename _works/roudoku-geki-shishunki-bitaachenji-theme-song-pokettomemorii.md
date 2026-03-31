@@ -19,4 +19,4 @@ image: "/works/media/shishunki-bitter-change-theme-song-pocket-memory.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://t.livepocket.jp/t/sbc_info" target="_blank">思春期ビターチェンジ／ちけっと総合案内</a>
+- <a class="button" href="https://t.livepocket.jp/t/sbc_info" target="_blank">思春期ビターチェンジ／ちけっと総合案内</a>

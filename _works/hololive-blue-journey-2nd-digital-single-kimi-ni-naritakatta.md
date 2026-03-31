@@ -23,6 +23,6 @@ image: "/works/media/hololive-blue-journey-2nd-digital-single-kimi-ni-naritakatt
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01699/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://music.apple.com/jp/album/kimini-naritakatta-single/1685586439" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01699/" target="_blank">Official Page</a>
+- <a class="button" href="https://music.apple.com/jp/album/kimini-naritakatta-single/1685586439" target="_blank">Stream & Buy</a>

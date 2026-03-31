@@ -23,6 +23,6 @@ image: /works/media/gre4n-boyz-ai-no-katachi.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://gre4n-boyz.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://gre4n-boyz.com/discography/digital/26" target="_blank">Official Page</a>
-- <a data-type="button" href="https://gre4nboyz.lnk.to/ainokatachi" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://gre4n-boyz.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://gre4n-boyz.com/discography/digital/26" target="_blank">Official Page</a>
+- <a class="button" href="https://gre4nboyz.lnk.to/ainokatachi" target="_blank">Stream & Buy</a>

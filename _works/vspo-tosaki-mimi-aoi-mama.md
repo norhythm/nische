@@ -23,4 +23,4 @@ image: /works/media/vspo-tosaki-mimi-aoi-mama.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://linkco.re/0EQmFt68" target="_blank">Linkco.re</a>
+- <a class="button" href="https://linkco.re/0EQmFt68" target="_blank">Linkco.re</a>

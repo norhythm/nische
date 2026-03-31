@@ -24,4 +24,4 @@ image: "/works/media/kiratto-pri-chan-song-collection-from-moonlight-magic-dx.jp
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/discography/detail.php?id=1018286" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/discography/detail.php?id=1018286" target="_blank">Official Page</a>

@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-kiratto-pri-chan-song-collection-miracle-kirattsu-
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/discography/detail.php?id=1017109" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/discography/detail.php?id=1017109" target="_blank">Official Page</a>

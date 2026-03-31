@@ -27,4 +27,4 @@ image: /works/media/aikatsu-x-pripara-the-movie-vocal-album-pripara-ver.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://aikatsu-pripara-10movie.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://aikatsu-pripara-10movie.jp/" target="_blank">Official Site</a>

@@ -24,5 +24,5 @@ image: "/works/media/girls-und-panzer-final-chapter-yusai-concerto-check-make-ma
 
 ##### Links
 
-- <a data-type="button" href="https://www.heiwanet.co.jp/products/pachinko/e-gp3/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://lnk.to/LZC-3332" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.heiwanet.co.jp/products/pachinko/e-gp3/" target="_blank">Official Site</a>
+- <a class="button" href="https://lnk.to/LZC-3332" target="_blank">Stream & Buy</a>

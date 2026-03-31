@@ -29,6 +29,6 @@ image: /works/media/mugendai-mewtype-3rd-single-mayonaka-yuenchi.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://bang-dream.com/discographies/4097/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://bmu.lnk.to/yumemita_3rd_SGwe" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
+- <a class="button" href="https://bang-dream.com/discographies/4097/" target="_blank">Official Page</a>
+- <a class="button" href="https://bmu.lnk.to/yumemita_3rd_SGwe" target="_blank">Stream & Buy</a>

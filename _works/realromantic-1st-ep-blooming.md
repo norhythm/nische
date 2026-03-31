@@ -32,6 +32,6 @@ image: "/works/media/realromantic-1st-ep-blooming.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://realromantic-official.com/discography/realromantic-1st-ep-blooming/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://bmu.lnk.to/RealRomantic_1stEP" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://realromantic-official.com/discography/realromantic-1st-ep-blooming/" target="_blank">Official Page</a>
+- <a class="button" href="https://bmu.lnk.to/RealRomantic_1stEP" target="_blank">Stream & Buy</a>

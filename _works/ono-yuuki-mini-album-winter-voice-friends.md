@@ -30,6 +30,6 @@ image: "/works/media/ono-yuki-mini-album-winter-voice-friends.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://web.onoyuki.com/" target="_blank">小野友樹オフィシャルサイト</a>
-- <a data-type="button" href="https://web.onoyuki.com/artist/" target="_blank">Official Page</a>
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/55567/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="https://web.onoyuki.com/" target="_blank">小野友樹オフィシャルサイト</a>
+- <a class="button" href="https://web.onoyuki.com/artist/" target="_blank">Official Page</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/55567/" target="_blank">フロンティアワークス公式サイト</a>

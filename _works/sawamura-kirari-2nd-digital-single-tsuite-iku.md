@@ -22,4 +22,4 @@ image: /works/media/sawamura-kirari-2nd-digital-single-tsuite-iku.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://sndo.ffm.to/xybaoa3" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://sndo.ffm.to/xybaoa3" target="_blank">Stream & Buy</a>

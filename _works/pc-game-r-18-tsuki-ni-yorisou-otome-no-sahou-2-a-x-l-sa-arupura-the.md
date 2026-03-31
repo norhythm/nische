@@ -25,4 +25,4 @@ image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2-a-x-l-sa.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.project-navel.com/tsukiniyorisou_2nd_alsa/" target="_blank">Navel公式サイト</a>
+- <a class="button" href="http://www.project-navel.com/tsukiniyorisou_2nd_alsa/" target="_blank">Navel公式サイト</a>

@@ -23,6 +23,6 @@ image: "/works/media/hololive-vtuber-natsuiro-matsuri-original-song-hihi-haitens
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://matsuri.streamlink.to/hihi" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
+- <a class="button" href="https://matsuri.streamlink.to/hihi" target="_blank">Stream & Buy</a>

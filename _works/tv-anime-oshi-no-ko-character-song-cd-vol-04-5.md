@@ -23,5 +23,5 @@ image: /works/media/tv-anime-oshi-no-ko-character-song-cd-vol-4-5.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ichigoproduction.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ichigoproduction.com/Season2/music/" target="_blank">Official Page</a>
+- <a class="button" href="https://ichigoproduction.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://ichigoproduction.com/Season2/music/" target="_blank">Official Page</a>

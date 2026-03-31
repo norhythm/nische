@@ -45,4 +45,4 @@ image: /works/media/hatsuzakura-sakurakoji-luna-special-character-song-cd.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://navel-store.com/items/68b6e9a9ee8b3e28e53119ff" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://navel-store.com/items/68b6e9a9ee8b3e28e53119ff" target="_blank">Stream & Buy</a>

@@ -24,5 +24,5 @@ image: "/works/media/ono-yuki-ep-kazuna-light.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://web.onoyuki.com/" target="_blank">小野友樹オフィシャルサイト</a>
-- <a data-type="button" href="https://web.onoyuki.com/artist/" target="_blank">Official Page</a>
+- <a class="button" href="https://web.onoyuki.com/" target="_blank">小野友樹オフィシャルサイト</a>
+- <a class="button" href="https://web.onoyuki.com/artist/" target="_blank">Official Page</a>

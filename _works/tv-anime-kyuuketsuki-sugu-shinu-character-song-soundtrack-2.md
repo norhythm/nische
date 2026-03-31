@@ -23,5 +23,5 @@ image: /works/media/tv-anime-kyuuketsuki-sugu-shinu-character-song-soundtrack-2.
 
 ##### Links
 
-- <a data-type="button" href="https://sugushinu-anime.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://sugushinu-anime.jp/music_ost2/" target="_blank">Official Page</a>
+- <a class="button" href="https://sugushinu-anime.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://sugushinu-anime.jp/music_ost2/" target="_blank">Official Page</a>

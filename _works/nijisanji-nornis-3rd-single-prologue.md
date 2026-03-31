@@ -25,7 +25,7 @@ image: /works/media/nijisanji-nornis-3rd-single-prologue.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.nijisanji.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.nornis.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.nornis.com/discography/PppJI5xwP3/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://nornis.lnk.to/prologueWE" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.nijisanji.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.nornis.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.nornis.com/discography/PppJI5xwP3/" target="_blank">Official Page</a>
+- <a class="button" href="https://nornis.lnk.to/prologueWE" target="_blank">Stream & Buy</a>

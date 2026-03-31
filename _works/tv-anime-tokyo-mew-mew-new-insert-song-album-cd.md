@@ -17,6 +17,6 @@ image: /works/media/tv-anime-tokyo-mew-mew-new-insert-song-album-cd.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://tokyo-mew-mew.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://tokyo-mew-mew.com/music05.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/sounyuukaWE" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://tokyo-mew-mew.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://tokyo-mew-mew.com/music05.html" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/sounyuukaWE" target="_blank">Stream & Buy</a>

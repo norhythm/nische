@@ -19,4 +19,4 @@ image: "/works/media/touhou-danmaku-kagura-shinki-song-resonance-watashi-tarashi
 
 ##### Links
 
-- <a data-type="button" href="https://danmaku.jp/music/m134/" target="_blank">『東方ダンマクカグラ』公式サイト</a>
+- <a class="button" href="https://danmaku.jp/music/m134/" target="_blank">『東方ダンマクカグラ』公式サイト</a>

@@ -26,4 +26,4 @@ image: "/works/media/arcade-music-game-ongeki-bright-memory-ongeki-vocal-party-0
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/vocalparty07.html" target="_blank">オンゲキ bright MEMORY公式サイト</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/vocalparty07.html" target="_blank">オンゲキ bright MEMORY公式サイト</a>

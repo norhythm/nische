@@ -19,4 +19,4 @@ image: "/works/media/sasaki-yoshihide-best-album-hide-out.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sasakiyoshihide.extsm.com" target="_blank">佐々木喜英 音楽活動公式サイト</a>
+- <a class="button" href="http://sasakiyoshihide.extsm.com" target="_blank">佐々木喜英 音楽活動公式サイト</a>

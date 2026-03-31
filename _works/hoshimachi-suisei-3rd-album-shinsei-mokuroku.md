@@ -23,6 +23,6 @@ image: "/works/media/hoshimachi-suisei-3rd-album-shinsei-mokuroku.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/10010/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/SHINSEIMOKUROKU" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/10010/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/SHINSEIMOKUROKU" target="_blank">Stream & Buy</a>

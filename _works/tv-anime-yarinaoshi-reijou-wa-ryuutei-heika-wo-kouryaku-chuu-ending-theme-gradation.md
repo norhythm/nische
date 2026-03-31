@@ -23,6 +23,6 @@ image: /works/media/tv-anime-yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryaku-chuu
 
 ##### Links
 
-- <a data-type="button" href="https://yarinaoshi-reijyou.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://yarinaoshi-reijyou.com/music/ending.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://nex-tone.link/4k2ySUCgy" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://yarinaoshi-reijyou.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://yarinaoshi-reijyou.com/music/ending.html" target="_blank">Official Page</a>
+- <a class="button" href="https://nex-tone.link/4k2ySUCgy" target="_blank">Stream & Buy</a>

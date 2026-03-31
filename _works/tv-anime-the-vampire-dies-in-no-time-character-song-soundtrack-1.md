@@ -25,6 +25,6 @@ image: "/works/media/tv-anime-the-vampire-dies-in-no-time-character-song-soundtr
 
 ##### Links
 
-- <a data-type="button" href="https://sugushinu-anime.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://sugushinu-anime.jp/music_ost/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://canime.jp/product/PCCG000002200/" target="_blank">きゃにめ公式サイト</a>
+- <a class="button" href="https://sugushinu-anime.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://sugushinu-anime.jp/music_ost/" target="_blank">Official Page</a>
+- <a class="button" href="https://canime.jp/product/PCCG000002200/" target="_blank">きゃにめ公式サイト</a>

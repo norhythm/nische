@@ -23,4 +23,4 @@ image: "/works/media/appare-1st-album-appare-parade.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://appare-official.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://appare-official.jp/" target="_blank">Official Site</a>

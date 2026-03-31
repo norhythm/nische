@@ -24,5 +24,5 @@ image: "/works/media/arcade-music-game-ongeki-vocal-best.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/vocalbest.html" target="_blank">『オンゲキbright』公式サイト</a>
-- <a data-type="button" href="https://nex-tone.link/A00138583" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/vocalbest.html" target="_blank">『オンゲキbright』公式サイト</a>
+- <a class="button" href="https://nex-tone.link/A00138583" target="_blank">Stream & Buy</a>

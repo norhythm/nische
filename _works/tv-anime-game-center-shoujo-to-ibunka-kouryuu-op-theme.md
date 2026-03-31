@@ -25,5 +25,5 @@ image: /works/media/kv01.webp
 
 ##### Links
 
-- <a data-type="button" href="https://gacen-girl-anime.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://nex-tone.link/hVcyQjV8s" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://gacen-girl-anime.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://nex-tone.link/hVcyQjV8s" target="_blank">Stream & Buy</a>

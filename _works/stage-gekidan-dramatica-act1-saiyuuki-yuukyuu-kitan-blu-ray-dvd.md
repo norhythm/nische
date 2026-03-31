@@ -56,4 +56,4 @@ image: "/works/media/stage-gekidan-dramatica-act1-saiyuuki-yuukyuu-kitan-blu-ray
 
 ##### Links
 
-- <a data-type="button" href="https://dramatica-stage.jp/bd/" target="_blank">公式サイト</a>
+- <a class="button" href="https://dramatica-stage.jp/bd/" target="_blank">公式サイト</a>

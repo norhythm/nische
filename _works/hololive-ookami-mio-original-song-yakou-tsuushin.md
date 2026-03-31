@@ -23,6 +23,6 @@ image: "/works/media/hololive-vtuber-ookami-mio-original-song-yakou-tsuushin.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/243/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/YakouTsuushinn" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/243/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/YakouTsuushinn" target="_blank">Stream & Buy</a>

@@ -67,4 +67,4 @@ image: "/works/media/pripara-idol-time-pripara-complete-album-box.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/" target="_blank">avex公式サイト</a>
+- <a class="button" href="https://avex.jp/pripara/discography/" target="_blank">avex公式サイト</a>

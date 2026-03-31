@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-plasmagic-seasons.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/plasmagic-seasons/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://h1g.streamlink.to/PlasmagicSeasons" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/plasmagic-seasons/" target="_blank">Official Page</a>
+- <a class="button" href="https://h1g.streamlink.to/PlasmagicSeasons" target="_blank">Stream & Buy</a>

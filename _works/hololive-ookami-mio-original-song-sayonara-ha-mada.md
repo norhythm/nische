@@ -23,6 +23,6 @@ image: "/works/media/hololive-vtuber-ookami-mio-original-song-sayonara-ha-mada.j
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/243/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/SayonarawaMada" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/243/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/SayonarawaMada" target="_blank">Stream & Buy</a>

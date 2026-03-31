@@ -22,4 +22,4 @@ image: /works/media/movie-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni
 
 ##### Links
 
-- <a data-type="button" href="https://king-cr.jp/hamehura-movie/bluray/" target="_blank">Official Page</a>
+- <a class="button" href="https://king-cr.jp/hamehura-movie/bluray/" target="_blank">Official Page</a>

@@ -24,5 +24,5 @@ image: /works/media/furukawa-makoto-concept-single-kaleidoscope-regular-edition.
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e3%82%ab%e3%83%ac%e3%82%a4%e3%83%89%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%97%e9%80%9a%e5%b8%b8%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/%e3%82%ab%e3%83%ac%e3%82%a4%e3%83%89%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%97%e9%80%9a%e5%b8%b8%e7%9b%a4/" target="_blank">Official Page</a>

@@ -23,6 +23,6 @@ image: "/works/media/hololive-vtuber-natsuiro-matsuri-2nd-single-never-give-up-n
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E3%83%8D%E3%83%90%E3%82%AE%E3%83%90%E5%A4%8F%E8%89%B2%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%EF%BC%81/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/NatsuiroStory" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E3%83%8D%E3%83%90%E3%82%AE%E3%83%90%E5%A4%8F%E8%89%B2%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%EF%BC%81/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/NatsuiroStory" target="_blank">Stream & Buy</a>

@@ -19,5 +19,5 @@ image: /works/media/realromantic-digital-release-aura.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://realromantic-official.com/discography/digital-release-aura/" target="_blank">Official Page</a>
+- <a class="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://realromantic-official.com/discography/digital-release-aura/" target="_blank">Official Page</a>

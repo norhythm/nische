@@ -19,5 +19,5 @@ image: "/works/media/helios-rising-heroes-season-4-chapter-3-ed-theme-stargazing
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://fwinc.lnk.to/x2qc8c" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://fwinc.lnk.to/x2qc8c" target="_blank">Stream & Buy</a>

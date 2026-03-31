@@ -17,4 +17,4 @@ image: "/works/media/pc-game-kin-iro-loveriche.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sagaplanets.product.co.jp/works/kinkoi/index.html" target="_blank">SAGAPLANETS公式サイト</a>
+- <a class="button" href="http://sagaplanets.product.co.jp/works/kinkoi/index.html" target="_blank">SAGAPLANETS公式サイト</a>

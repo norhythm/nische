@@ -23,4 +23,4 @@ image: "/works/media/scramble-gum-yoake-no-1page.png"
 
 ##### Links
 
-- <a data-type="button" href="https://store.universal-music.co.jp/artist/scramble-gum/" target="_blank">Official Site</a>
+- <a class="button" href="https://store.universal-music.co.jp/artist/scramble-gum/" target="_blank">Official Site</a>

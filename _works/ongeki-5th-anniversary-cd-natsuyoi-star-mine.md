@@ -22,6 +22,6 @@ image: /works/media/ongeki-5th-anniversary-cd-natsuyoi-star-mine.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ongeki.sega.jp/cd/5thanniversary.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://nex-tone.link/A00121204" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/5thanniversary.html" target="_blank">Official Page</a>
+- <a class="button" href="https://nex-tone.link/A00121204" target="_blank">Stream & Buy</a>

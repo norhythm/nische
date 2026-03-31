@@ -19,4 +19,4 @@ image: "/works/media/tv-anime-tale-of-zestiria-the-x-disc.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://tales-ch.jp/" target="_blank">テイルズ公式サイト</a>
+- <a class="button" href="https://tales-ch.jp/" target="_blank">テイルズ公式サイト</a>

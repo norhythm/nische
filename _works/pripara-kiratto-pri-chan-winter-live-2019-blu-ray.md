@@ -38,4 +38,4 @@ image: "/works/media/pripara-kiratto-pri-chan-winter-live-2019.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/news/detail.php?id=1087346&artist_cd=KIRAP" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/news/detail.php?id=1087346&artist_cd=KIRAP" target="_blank">Official Page</a>

@@ -13,5 +13,5 @@ image: "/works/media/tv-anime-ketsuekigata-kun-4.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://ketsuekigatakun.com/
+- <a class="button" href="http://ketsuekigatakun.com/
   " target="_blank">血液型くん！４公式サイト</a>

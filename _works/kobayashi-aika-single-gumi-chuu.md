@@ -22,5 +22,5 @@ image: /works/media/kobayashi-aika-single-gumi-chuu.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kobayashiaika.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://tf.lnk.to/gummy_CD" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kobayashiaika.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://tf.lnk.to/gummy_CD" target="_blank">Stream & Buy</a>

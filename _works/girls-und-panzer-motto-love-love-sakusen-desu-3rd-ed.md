@@ -19,4 +19,4 @@ image: /works/media/girls-und-panzer-motto-love-love-sakusen-desu-3rd-ed.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://gup-mottolovelove.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://gup-mottolovelove.jp/" target="_blank">Official Site</a>

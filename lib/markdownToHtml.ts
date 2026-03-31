@@ -9,10 +9,21 @@ import rehypeCodeTitles from "rehype-code-titles";
 import { visit } from "unist-util-visit";
 import type { Root, Element } from "hast";
 
-// Extend the default sanitization schema to support:
-// - YouTube iframes embedded in markdown content
-// - className / style / data-* attributes on all elements (needed for code
-//   highlighting, custom layouts, and the youtube-wrapper div)
+// Allow any className value on every element.  The default schema restricts
+// className to specific values on several tags (a, code, h2, li, ol, section,
+// ul).  hast-util-sanitize checks tag-specific rules BEFORE the "*" fallback,
+// and returns an empty array (not null) when no values match, which prevents
+// the "*" rule from ever being consulted.  We therefore need to patch every
+// tag-specific rule to use the permissive pattern as well.
+const anyClass: [string, RegExp] = ["className", /^.+$/];
+
+const patchedAttributes: Record<string, Array<unknown>> = {};
+for (const [tag, defs] of Object.entries(defaultSchema.attributes ?? {})) {
+  patchedAttributes[tag] = (defs as Array<unknown>).map((def) =>
+    Array.isArray(def) && def[0] === "className" ? anyClass : def,
+  );
+}
+
 const sanitizeSchema = {
   ...defaultSchema,
   tagNames: [
@@ -20,11 +31,11 @@ const sanitizeSchema = {
     "iframe",
   ],
   attributes: {
-    ...defaultSchema.attributes,
+    ...patchedAttributes,
     // Allow className and data-* on every element (style intentionally omitted)
     "*": [
       ...(defaultSchema.attributes?.["*"] ?? []),
-      "className",
+      anyClass,
       /^data-/,
     ],
     // Allow the attributes required for YouTube iframes
@@ -36,7 +47,7 @@ const sanitizeSchema = {
       "allow",
       "allowFullScreen",
       "title",
-      "className",
+      anyClass,
       "style",
     ],
   },

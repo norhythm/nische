@@ -23,4 +23,4 @@ image: /works/media/luz-5th-album-amulet.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://luz-web.com/amulet/" target="_blank">Official Site</a>
+- <a class="button" href="https://luz-web.com/amulet/" target="_blank">Official Site</a>

@@ -27,5 +27,5 @@ image: "/works/media/ssss-gridman-best-album.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://gridman.net/product/cd/bestalbum.php" target="_blank">Official Page</a>
-- <a data-type="button" href="https://www.ponycanyon.co.jp/music/PCCG000001858" target="_blank">ポニーキャニオン公式サイト</a>
+- <a class="button" href="https://gridman.net/product/cd/bestalbum.php" target="_blank">Official Page</a>
+- <a class="button" href="https://www.ponycanyon.co.jp/music/PCCG000001858" target="_blank">ポニーキャニオン公式サイト</a>

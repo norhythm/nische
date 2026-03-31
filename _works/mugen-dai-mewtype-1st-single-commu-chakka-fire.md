@@ -26,6 +26,6 @@ image: /works/media/mugen-dai-mewtype-1st-single-commu-chakka-fire.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://bang-dream.com/discographies/3859/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/yumemita_1stSGhp" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
+- <a class="button" href="https://bang-dream.com/discographies/3859/" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/yumemita_1stSGhp" target="_blank">Stream & Buy</a>

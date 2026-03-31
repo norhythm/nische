@@ -23,7 +23,7 @@ image: "/works/media/arcade-music-game-chunithm-hoshimachi-suisei-jibunkatte-daz
 
 ##### Links
 
-- <a data-type="button" href="https://chunithm.sega.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E8%87%AA%E5%88%86%E5%8B%9D%E6%89%8Bdazzling-%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://suisei.streamlink.to/dazzling" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://chunithm.sega.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E8%87%AA%E5%88%86%E5%8B%9D%E6%89%8Bdazzling-%E3%83%90%E3%82%A4%E3%83%90%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC/" target="_blank">Official Page</a>
+- <a class="button" href="https://suisei.streamlink.to/dazzling" target="_blank">Stream & Buy</a>

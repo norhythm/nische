@@ -26,6 +26,6 @@ image: /works/media/houshou-marine-1st-album-ahoy-kimitachi-minna-pirates.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/10008/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/AhoyYoureAllPirates" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/10008/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/AhoyYoureAllPirates" target="_blank">Stream & Buy</a>

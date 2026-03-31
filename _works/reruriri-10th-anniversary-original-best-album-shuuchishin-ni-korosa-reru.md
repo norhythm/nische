@@ -25,5 +25,5 @@ image: "/works/media/reruriri-shuchishin-ni-korosa-reru.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/artist/rerulili/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://lnk.to/LACA-9749" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.lantis.jp/artist/rerulili/" target="_blank">Official Site</a>
+- <a class="button" href="https://lnk.to/LACA-9749" target="_blank">Stream & Buy</a>

@@ -24,4 +24,4 @@ image: "/works/media/tv-anime-kiratto-pri-chan-song-collection-2nd-channel-dx.pn
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/news/detail.php?id=1066861&artist_cd=KIRAP" target="_blank">アイドルタイムプリパラavex公式サイト</a>
+- <a class="button" href="https://avex.jp/prichan/news/detail.php?id=1066861&artist_cd=KIRAP" target="_blank">アイドルタイムプリパラavex公式サイト</a>

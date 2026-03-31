@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-osana-najimi-ga-zettai-ni-makenai-vol3.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://osamake.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://osamake.com/" target="_blank">Official Site</a>

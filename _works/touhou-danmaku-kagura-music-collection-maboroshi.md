@@ -31,4 +31,4 @@ image: "/works/media/touhou-danmaku-kagura-music-collection-maboroshi.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://danmaku.jp/" target="_blank">『東方ダンマクカグラ』公式サイト</a>
+- <a class="button" href="https://danmaku.jp/" target="_blank">『東方ダンマクカグラ』公式サイト</a>

@@ -33,6 +33,6 @@ image: /works/media/vspo-songs-collection-diamond-in-the-rough.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://vspo.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://event.vspo.jp/SongsCollection-DiR/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://bnml.lnk.to/LACZ10315" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://vspo.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://event.vspo.jp/SongsCollection-DiR/" target="_blank">Official Page</a>
+- <a class="button" href="https://bnml.lnk.to/LACZ10315" target="_blank">Stream & Buy</a>

@@ -34,4 +34,4 @@ image: "/works/media/ensemble-stars-original-soundtrack.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.fwinc.co.jp/cd/69266/" target="_blank">Official Page</a>
+- <a class="button" href="https://www.fwinc.co.jp/cd/69266/" target="_blank">Official Page</a>

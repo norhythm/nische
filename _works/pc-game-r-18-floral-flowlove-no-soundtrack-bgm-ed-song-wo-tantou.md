@@ -19,4 +19,4 @@ image: "/works/media/pc-game-floral-flow-love-bgm.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sagaplanets.product.co.jp/works/floflo/index.html" target="_blank">SAGA PLANETS公式サイト</a>
+- <a class="button" href="http://sagaplanets.product.co.jp/works/floflo/index.html" target="_blank">SAGA PLANETS公式サイト</a>

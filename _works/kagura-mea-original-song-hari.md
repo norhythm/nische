@@ -23,4 +23,4 @@ image: "/works/media/kagura-mea-original-song-hari.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw" target="_blank">Official Page</a>
+- <a class="button" href="https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw" target="_blank">Official Page</a>

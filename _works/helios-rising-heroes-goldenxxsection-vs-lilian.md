@@ -23,6 +23,6 @@ image: /works/media/helios-rising-heroes-goldenxxsection-vs-lilian.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://helios-r.jp/discography/cd19" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/P8ZoT3" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://helios-r.jp/discography/cd19" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/P8ZoT3" target="_blank">Stream & Buy</a>

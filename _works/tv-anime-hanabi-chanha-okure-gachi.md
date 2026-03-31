@@ -49,5 +49,5 @@ image: "/works/media/tv-anime-hanabi-chanha-okure-gachi.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://hanabichan.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hanabichan.com/product/music/" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hanabichan.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hanabichan.com/product/music/" target="_blank">Stream & Buy</a>

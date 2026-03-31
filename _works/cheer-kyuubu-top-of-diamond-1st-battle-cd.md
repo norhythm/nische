@@ -29,4 +29,4 @@ image: "/works/media/cheer-kyuubu-top-of-diamond-1st-battle-cd.png"
 
 ##### Links
 
-- <a data-type="button" href="https://cheerkyu-bu.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://cheerkyu-bu.jp/" target="_blank">Official Site</a>

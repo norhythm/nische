@@ -24,7 +24,7 @@ image: /works/media/astro-dive-astro-dive-first-message-lmlmm-xxx.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://astrodive.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://astrodive.jp/discography/lmlmm_1/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/rCBJaS" target="_blank">Stream</a>
-- <a data-type="button" href="https://fwinc.lnk.to/bTRPhE" target="_blank">CD</a>
+- <a class="button" href="https://astrodive.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://astrodive.jp/discography/lmlmm_1/" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/rCBJaS" target="_blank">Stream</a>
+- <a class="button" href="https://fwinc.lnk.to/bTRPhE" target="_blank">CD</a>

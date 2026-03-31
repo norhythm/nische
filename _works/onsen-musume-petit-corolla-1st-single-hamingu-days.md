@@ -24,4 +24,4 @@ image: "/works/media/onsen-musume-petit-corolla-humming-days.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://onsen-musume.jp/" target="_blank">『温泉むすめ』公式サイト</a>
+- <a class="button" href="https://onsen-musume.jp/" target="_blank">『温泉むすめ』公式サイト</a>

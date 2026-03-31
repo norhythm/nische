@@ -19,5 +19,5 @@ image: /works/media/tv-anime-oshi-no-ko-character-song-cd-vol-3.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ichigoproduction.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ichigoproduction.com/Season1/music/" target="_blank">Official Page</a>
+- <a class="button" href="https://ichigoproduction.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://ichigoproduction.com/Season1/music/" target="_blank">Official Page</a>

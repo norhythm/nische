@@ -22,6 +22,6 @@ image: /works/media/ongeki-6th-anniversary-cd-individual-on-parade.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ongeki.sega.jp/cd/6thanniversary.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://nex-tone.link/A00156989" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/6thanniversary.html" target="_blank">Official Page</a>
+- <a class="button" href="https://nex-tone.link/A00156989" target="_blank">Stream & Buy</a>

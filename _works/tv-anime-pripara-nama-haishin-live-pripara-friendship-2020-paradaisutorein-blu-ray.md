@@ -47,4 +47,4 @@ image: "/works/media/tv-anime-pripara-friendship-2020-paradise-train.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/detail.php?id=1017746" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/pripara/discography/detail.php?id=1017746" target="_blank">Official Page</a>

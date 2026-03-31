@@ -29,6 +29,6 @@ image: /works/media/tv-anime-himitsu-no-aipri-music-collection-dx.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://aipri.jp/anime/cd-bd/product-13/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://avex.lnk.to/aipri_musiccol_DX" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a class="button" href="https://aipri.jp/anime/cd-bd/product-13/" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.lnk.to/aipri_musiccol_DX" target="_blank">Stream & Buy</a>

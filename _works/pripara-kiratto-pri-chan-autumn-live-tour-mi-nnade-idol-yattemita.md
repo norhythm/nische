@@ -32,4 +32,4 @@ image: "/works/media/pripara-kiratto-pri-chan-autumn-live-tour-minna-de-idol-yat
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/news/detail.php?id=1069114&artist_cd=PRIP2" target="_blank">avex公式サイト</a>
+- <a class="button" href="https://avex.jp/pripara/news/detail.php?id=1069114&artist_cd=PRIP2" target="_blank">avex公式サイト</a>

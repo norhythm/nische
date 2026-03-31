@@ -21,5 +21,5 @@ image: "/works/media/ultraman-taiga-character-song.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://m-78.jp/taiga/tv/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://a-onstore.jp/item/item-1000215757/" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://m-78.jp/taiga/tv/" target="_blank">Official Site</a>
+- <a class="button" href="https://a-onstore.jp/item/item-1000215757/" target="_blank">Stream & Buy</a>

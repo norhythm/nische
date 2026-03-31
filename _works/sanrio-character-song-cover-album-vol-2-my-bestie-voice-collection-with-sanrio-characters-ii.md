@@ -35,5 +35,5 @@ image: /works/media/sanrio-character-song-cover-album-vol-2-my-bestie-voice-coll
 
 ##### Links
 
-- <a data-type="button" href="https://www.sanrio.co.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://avex.jp/sanriovoice/discography/detail/?id=1020893" target="_blank">Official Page</a>
+- <a class="button" href="https://www.sanrio.co.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://avex.jp/sanriovoice/discography/detail/?id=1020893" target="_blank">Official Page</a>

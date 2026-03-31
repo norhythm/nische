@@ -23,6 +23,6 @@ image: "/works/media/tv-anime-bad-girl-tenrou-gun-2nd-digital-single-kanojo-no-m
 
 ##### Links
 
-- <a data-type="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://badgirl-anime.com/music/single/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://tenrogun.lnk.to/2ndDigitalSG" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://badgirl-anime.com/music/single/" target="_blank">Official Page</a>
+- <a class="button" href="https://tenrogun.lnk.to/2ndDigitalSG" target="_blank">Stream & Buy</a>

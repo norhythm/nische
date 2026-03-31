@@ -24,4 +24,4 @@ image: "/works/media/pc-game-hokenshitsu-no-sensei-to-shabon-dama-chudoku-no-jos
 
 ##### Links
 
-- <a data-type="button" href="https://citrus-soft.net/product/hokejyo/index.html" target="_blank">Official Site</a>
+- <a class="button" href="https://citrus-soft.net/product/hokejyo/index.html" target="_blank">Official Site</a>

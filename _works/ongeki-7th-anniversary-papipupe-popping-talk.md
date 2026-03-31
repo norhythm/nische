@@ -23,6 +23,6 @@ image: /works/media/ongeki-7th-anniversary-papipupe-popping-talk.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ongeki.sega.jp/cd/papipupepoppingtalk.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://nex-tone.link/A00197788" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ongeki.sega.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/papipupepoppingtalk.html" target="_blank">Official Page</a>
+- <a class="button" href="https://nex-tone.link/A00197788" target="_blank">Stream & Buy</a>

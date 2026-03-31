@@ -23,4 +23,4 @@ image: "/works/media/pc-game-koihime-muso-character-song-vol-3-sousou.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://baseson.nexton-net.jp/koihime-charason/" target="_blank">ネクストン公式サイト</a>
+- <a class="button" href="http://baseson.nexton-net.jp/koihime-charason/" target="_blank">ネクストン公式サイト</a>

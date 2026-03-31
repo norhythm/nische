@@ -39,4 +39,4 @@ image: "/works/media/original-entertainment-paradise-ore-para-2018-welluminate-p
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/release-item/LABX-38355.html" target="_blank">Lantis公式サイト</a>
+- <a class="button" href="https://www.lantis.jp/release-item/LABX-38355.html" target="_blank">Lantis公式サイト</a>

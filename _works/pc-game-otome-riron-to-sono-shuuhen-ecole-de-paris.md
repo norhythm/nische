@@ -17,4 +17,4 @@ image: "/works/media/pc-game-otome-riron-to-sono-shuuhen-ecole-de-paris.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/otomeriron/" target="_blank">ゲーム公式</a>
+- <a class="button" href="https://project-navel.com/otomeriron/" target="_blank">ゲーム公式</a>

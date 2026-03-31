@@ -24,5 +24,5 @@ image: /works/media/helios-rising-heroes-season-5-theme-light-in-your-eyes.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://fwinc.lnk.to/tDgBIj" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://fwinc.lnk.to/tDgBIj" target="_blank">Stream & Buy</a>

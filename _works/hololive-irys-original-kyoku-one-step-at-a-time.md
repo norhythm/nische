@@ -23,6 +23,6 @@ image: "/works/media/hololive-irys-original-song-one-step-at-a-time.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/one-step-at-a-time/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/OneStepataTime" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/one-step-at-a-time/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/OneStepataTime" target="_blank">Stream & Buy</a>

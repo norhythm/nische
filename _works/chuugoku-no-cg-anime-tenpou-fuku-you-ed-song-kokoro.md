@@ -20,4 +20,4 @@ lang: "zh-cmn-Hans"
 
 ##### Links
 
-- <a data-type="button" href="https://www.bilibili.com/bangumi/media/md4314842" target="_blank">ビリビリ動画放送ページ</a>
+- <a class="button" href="https://www.bilibili.com/bangumi/media/md4314842" target="_blank">ビリビリ動画放送ページ</a>

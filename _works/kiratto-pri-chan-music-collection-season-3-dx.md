@@ -53,5 +53,5 @@ image: "/works/media/kiratto-pri-chan-music-collection-season-3-dx.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/news/detail.php?id=1097394&artist_cd=KIRAP
+- <a class="button" href="https://avex.jp/prichan/news/detail.php?id=1097394&artist_cd=KIRAP
   " target="_blank">Official Page</a>

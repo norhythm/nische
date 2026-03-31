@@ -17,4 +17,4 @@ image: /works/media/ensemble-stars-the-stage-party-live-original-song-star-s-par
 
 ##### Links
 
-- <a data-type="button" href="https://nex-tone.link/pv68i30w9i" target="_blank">楽曲配信リンク</a>
+- <a class="button" href="https://nex-tone.link/pv68i30w9i" target="_blank">楽曲配信リンク</a>

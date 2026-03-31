@@ -32,4 +32,4 @@ image: "/works/media/nonsugar-tasting-nonsugar.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/pripara/discography/" target="_blank">Official Page</a>

@@ -26,5 +26,5 @@ image: /works/media/mugen-dai-mewtype-2nd-single-hi-vision.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://bang-dream.com/discographies/3931/" target="_blank">Official Page</a>
+- <a class="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
+- <a class="button" href="https://bang-dream.com/discographies/3931/" target="_blank">Official Page</a>

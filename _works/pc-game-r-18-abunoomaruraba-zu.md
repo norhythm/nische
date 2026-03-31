@@ -37,4 +37,4 @@ image: "/works/media/pc-game-abnormal-lovers.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://tortesoft.nexton-net.jp/abunoma/index.html" target="_blank">『あぶのーまるらば～ず』公式サイト</a>
+- <a class="button" href="http://tortesoft.nexton-net.jp/abunoma/index.html" target="_blank">『あぶのーまるらば～ず』公式サイト</a>

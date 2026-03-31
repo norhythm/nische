@@ -13,4 +13,4 @@ image: "/works/media/pc-game-hanasaki-work-spring-complete-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://sagapla.net/works/hanasaki/soundtrack.html" target="_blank">公式サイト</a>
+- <a class="button" href="https://sagapla.net/works/hanasaki/soundtrack.html" target="_blank">公式サイト</a>

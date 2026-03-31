@@ -15,7 +15,7 @@ image: "/works/media/manga-girl-crush-special-pv.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.shinchosha.co.jp/book/772768/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://manga.line.me/product/periodic?id=S133644" target="_blank">LINE Manga</a>
-- <a data-type="button" href="https://x.com/girlcrush_comic" target="_blank">X</a>
-- <a data-type="button" href="https://www.instagram.com/girlcrush_comic" target="_blank">Instagram</a>
+- <a class="button" href="https://www.shinchosha.co.jp/book/772768/" target="_blank">Official Site</a>
+- <a class="button" href="https://manga.line.me/product/periodic?id=S133644" target="_blank">LINE Manga</a>
+- <a class="button" href="https://x.com/girlcrush_comic" target="_blank">X</a>
+- <a class="button" href="https://www.instagram.com/girlcrush_comic" target="_blank">Instagram</a>

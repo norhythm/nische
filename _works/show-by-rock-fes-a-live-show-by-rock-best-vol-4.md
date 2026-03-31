@@ -22,4 +22,4 @@ image: "/works/media/show-by-rock-fes-a-live-show-by-rock-best-vol-4.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.ponycanyon.co.jp/music/PCCG000002008" target="_blank">ポニーキャニオン公式サイト</a>
+- <a class="button" href="https://www.ponycanyon.co.jp/music/PCCG000002008" target="_blank">ポニーキャニオン公式サイト</a>

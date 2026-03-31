@@ -24,5 +24,5 @@ image: "/works/media/furukawa-makoto-ware-bara-ni-in-su-anime.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e6%88%91%e8%96%94%e8%96%87%e3%81%ab%e6%b7%ab%e3%81%99%e3%82%a2%e3%83%8b%e3%83%a1%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/%e6%88%91%e8%96%94%e8%96%87%e3%81%ab%e6%b7%ab%e3%81%99%e3%82%a2%e3%83%8b%e3%83%a1%e7%9b%a4/" target="_blank">Official Page</a>

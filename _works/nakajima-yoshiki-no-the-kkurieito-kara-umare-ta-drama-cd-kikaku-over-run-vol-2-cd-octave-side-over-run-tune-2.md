@@ -23,4 +23,4 @@ image: "/works/media/over-run-octave-side-over-run-tune-2.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://voicegarage.thebase.in/items/57864922" target="_blank">ボイスガレッジオンラインショップ</a>
+- <a class="button" href="https://voicegarage.thebase.in/items/57864922" target="_blank">ボイスガレッジオンラインショップ</a>

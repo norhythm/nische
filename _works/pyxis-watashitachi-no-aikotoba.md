@@ -23,4 +23,4 @@ image: "/works/media/pyxis-watashitachi-no-aikotoba.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://sprayer.jp/link/9h2dCD4O" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://sprayer.jp/link/9h2dCD4O" target="_blank">Stream & Buy</a>

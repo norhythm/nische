@@ -22,5 +22,5 @@ image: /works/media/tv-anime-kanojo-ga-koushaku-tei-ni-itta-riyuu-ed-theme-alway
 
 ##### Links
 
-- <a data-type="button" href="https://koshakutei.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://purpleonestar.jp/release/always-and-forever/" target="_blank">Official Page</a>
+- <a class="button" href="https://koshakutei.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://purpleonestar.jp/release/always-and-forever/" target="_blank">Official Page</a>

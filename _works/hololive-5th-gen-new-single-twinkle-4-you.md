@@ -23,6 +23,6 @@ image: /works/media/hololive-5th-gen-new-single-twinkle-4-you.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/300/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Twinkle4You" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/300/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Twinkle4You" target="_blank">Stream & Buy</a>

@@ -25,4 +25,4 @@ image: "/works/media/asa-mo-yoru-mo-donnatokimo-always-with-you.png"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/detail.php?id=1015991" target="_blank">アイドルタイムプリパラavex公式サイト</a>
+- <a class="button" href="https://avex.jp/pripara/discography/detail.php?id=1015991" target="_blank">アイドルタイムプリパラavex公式サイト</a>

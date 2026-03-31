@@ -37,4 +37,4 @@ image: "/works/media/minna-de-kiratto-pretty-live-2018.png"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/discography/detail.php?id=1016874" target="_blank">avex公式サイト</a>
+- <a class="button" href="https://avex.jp/prichan/discography/detail.php?id=1016874" target="_blank">avex公式サイト</a>

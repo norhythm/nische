@@ -24,5 +24,5 @@ image: "/works/media/super-idol-comet-chan-debut-single-sui-channo-maintenance-s
 
 ##### Links
 
-- <a data-type="button" href="https://shop.hololivepro.com/products/superidol_cometchan" target="_blank">販売サイト</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/275/" target="_blank">公式サイト</a>
+- <a class="button" href="https://shop.hololivepro.com/products/superidol_cometchan" target="_blank">販売サイト</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/275/" target="_blank">公式サイト</a>
