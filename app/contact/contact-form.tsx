@@ -158,7 +158,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
           {status && (
             <p
               role="alert"
-              className={`pt-4 text-sm md:text-base ${statusType === "success" ? "text-green-600" : "text-red-600"}`}
+              className={`pt-4 text-sm md:text-base ${statusType === "success" ? "" : "text-red-600"}`}
             >
               {status}
             </p>
