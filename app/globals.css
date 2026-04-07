@@ -8,33 +8,6 @@ html {
 :root {
   --foreground-rgb: 60, 55, 50;
   --background-rgb: 255, 255, 255;
-  --page-transition-duration: 100ms;
-}
-
-::view-transition-old(.page-fade) {
-  animation: page-fade-out var(--page-transition-duration) ease-out both;
-}
-
-::view-transition-new(.page-fade) {
-  animation: page-fade-in var(--page-transition-duration) ease-in both;
-}
-
-@keyframes page-fade-out {
-  from {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
-}
-
-@keyframes page-fade-in {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 
 ::selection {
