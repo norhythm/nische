@@ -257,7 +257,7 @@ export default function FullScreenTiltImage({
       {article && (
         <canvas
           ref={canvasRef}
-          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[100ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
+          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all delay-[16ms] duration-[100ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
         />
       )}
     </div>
