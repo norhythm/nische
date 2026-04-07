@@ -95,6 +95,7 @@ export default function FullScreenTiltImage({
 }: FullScreenTiltImageProps) {
   const [loaded, setLoaded] = useState(false);
   const imageRef = useRef<HTMLDivElement>(null);
+  const imgElRef = useRef<HTMLImageElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const tintImgRef = useRef<HTMLImageElement | null>(null);
   const accentColorRef = useRef<string>("hsl(0, 0%, 30%)");
@@ -155,6 +156,13 @@ export default function FullScreenTiltImage({
     img.src = src;
   }, [article, src, drawTintedImage]);
 
+  // Handle images already loaded before hydration (e.g., cached or eager-loaded)
+  useEffect(() => {
+    if (imgElRef.current?.complete && imgElRef.current.naturalWidth > 0) {
+      setLoaded(true);
+    }
+  }, []);
+
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
       let x: number, y: number;
@@ -190,7 +198,8 @@ export default function FullScreenTiltImage({
     const handleMouseLeave = () => {
       if (single) {
         if (imageRef.current) {
-          imageRef.current.style.transform = "perspective(1000px) rotateX(0deg) rotateY(0deg)";
+          imageRef.current.style.transform =
+            "perspective(1000px) rotateX(0deg) rotateY(0deg)";
         }
       }
     };
@@ -232,6 +241,7 @@ export default function FullScreenTiltImage({
         </svg>
       )}
       <Image
+        ref={imgElRef}
         src={src}
         alt={alt}
         width={width}
@@ -242,12 +252,12 @@ export default function FullScreenTiltImage({
         onLoad={() => {
           setLoaded(true);
         }}
-        className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
+        className={`${childClassName} object-contain w-full h-full block transition-all duration-[100ms] ease-out rotate-[0.25deg] ${loaded ? "opacity-100 !rotate-[0deg]" : "opacity-0"}`}
       />
       {article && (
         <canvas
           ref={canvasRef}
-          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[200ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
+          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[100ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
         />
       )}
     </div>

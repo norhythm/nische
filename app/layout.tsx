@@ -1,4 +1,5 @@
 import type React from "react";
+import { ViewTransition } from "react";
 import type { Metadata } from "next";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
@@ -64,9 +65,9 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              "name": "Tsukasa Kikuchi",
-              "jobTitle": "Recording, Mixing, Mastering Engineer",
-              "url": "https://nische.jp",
+              name: "Tsukasa Kikuchi",
+              jobTitle: "Recording, Mixing, Mastering Engineer",
+              url: "https://nische.jp",
             }),
           }}
         />
@@ -82,9 +83,14 @@ export default function RootLayout({
               Skip to content
             </a>
             <Header />
-            <main id="main-content" className="flex flex-col flex-1 min-h-full">
-              {children}
-            </main>
+            <ViewTransition default="page-fade">
+              <main
+                id="main-content"
+                className="flex flex-col flex-1 min-h-full"
+              >
+                {children}
+              </main>
+            </ViewTransition>
             <Footer className="mt-auto" />
           </PathAwareContainer>
         </SelectedTagProvider>
