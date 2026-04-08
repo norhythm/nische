@@ -12,10 +12,11 @@ tag:
 layout: square
 image: /images/placeholder.svg
 ---
+
 ##### Tracklist
 
-| Track number | Title      | Credit             |
-| ------------ | ---------- | ------------------ |
+| Track number | Title      | Credit                         |
+| ------------ | ---------- | ------------------------------ |
 | 01           | トラック名 | Recording / Mixing / Mastering |
 
 ##### Video
@@ -24,10 +25,10 @@ image: /images/placeholder.svg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Spotify</a>
-- <a data-type="button" href="" target="_blank">Apple Music</a>
-- <a data-type="button" href="" target="_blank">YouTube Music</a>
-- <a data-type="button" href="" target="_blank">Amazon</a>
+- <a class="button" href="" target="_blank">Spotify</a>
+- <a class="button" href="" target="_blank">Apple Music</a>
+- <a class="button" href="" target="_blank">YouTube Music</a>
+- <a class="button" href="" target="_blank">Amazon</a>
 
 各サービスの埋込コードをコピーしたものをペーストで表示<br/>改行のテスト
 
@@ -37,7 +38,8 @@ image: /images/placeholder.svg
 
 ## h2
 
-paragraph
+paragraph文章です
+通常の<a href="">リンクは</a>このようになります
 
 Youtube
 

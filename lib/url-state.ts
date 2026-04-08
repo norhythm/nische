@@ -1,8 +1,9 @@
+"use client";
+
 import { useEffect, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 
 export function useSelectedTag() {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const [selectedTag, setSelectedTagState] = useState<string | null>(null);
 

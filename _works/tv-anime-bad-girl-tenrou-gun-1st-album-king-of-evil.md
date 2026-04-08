@@ -27,6 +27,6 @@ image: /works/media/tv-anime-bad-girl-tenrou-gun-1st-album-king-of-evil.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://badgirl-anime.com/music/album/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://tenrogun.lnk.to/1stALanime" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://badgirl-anime.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://badgirl-anime.com/music/album/" target="_blank">Official Page</a>
+- <a class="button" href="https://tenrogun.lnk.to/1stALanime" target="_blank">Stream & Buy</a>

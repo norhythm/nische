@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-candy-go-round.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/candy-go-round/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/CandyGoRound" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/candy-go-round/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/CandyGoRound" target="_blank">Stream & Buy</a>

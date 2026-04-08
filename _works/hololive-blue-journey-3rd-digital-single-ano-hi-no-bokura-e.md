@@ -23,6 +23,6 @@ image: "/works/media/hololive-blue-journey-3rd-digital-single-ano-hi-no-bokura-e
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01709/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://music.apple.com/jp/album/dear-youthful-days-single/1691020873" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01709/" target="_blank">Official Page</a>
+- <a class="button" href="https://music.apple.com/jp/album/dear-youthful-days-single/1691020873" target="_blank">Stream & Buy</a>

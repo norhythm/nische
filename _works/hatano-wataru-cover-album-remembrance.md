@@ -40,4 +40,4 @@ image: "/works/media/hatano-wataru-cover-album-remembrance.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>

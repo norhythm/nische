@@ -17,4 +17,4 @@ image: "/works/media/ps-vita-otome-riron-to-sono-shuuhen-bon-voyage-soundtrack-b
 
 ##### Links
 
-- <a data-type="button" href="http://dramaticcreate.com/otomeriron/" target="_blank">公式サイト</a>
+- <a class="button" href="http://dramaticcreate.com/otomeriron/" target="_blank">公式サイト</a>

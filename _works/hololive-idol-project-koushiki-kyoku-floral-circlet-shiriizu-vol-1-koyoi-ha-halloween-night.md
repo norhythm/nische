@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-koyoi-ha-halloween-night.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E4%BB%8A%E5%AE%B5%E3%81%AFhalloween-night/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/Halloween" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E4%BB%8A%E5%AE%B5%E3%81%AFhalloween-night/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/Halloween" target="_blank">Stream & Buy</a>

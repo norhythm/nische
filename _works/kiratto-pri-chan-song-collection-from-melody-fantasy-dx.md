@@ -23,4 +23,4 @@ image: "/works/media/kiratto-pri-chan-song-collection-from-melody-fantasy-dx.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/news/detail.php?id=1087344&artist_cd=KIRAP" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/news/detail.php?id=1087344&artist_cd=KIRAP" target="_blank">Official Page</a>

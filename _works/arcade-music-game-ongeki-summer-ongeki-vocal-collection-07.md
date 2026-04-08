@@ -24,4 +24,4 @@ image: "/works/media/arcade-music-game-ongeki-summer-ongeki-vocal-collection-07.
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/collection07.html" target="_blank">Official Page</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/collection07.html" target="_blank">Official Page</a>

@@ -45,4 +45,4 @@ image: "/works/media/ensemble-stars-starry-stage-2nd.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/49541/" target="_blank">FRONTIER WORKS公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/49541/" target="_blank">FRONTIER WORKS公式サイト</a>

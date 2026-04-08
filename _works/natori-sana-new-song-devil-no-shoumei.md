@@ -22,5 +22,5 @@ image: /works/media/natori-sana-new-song-devil-no-shoumei.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://natorisana.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://nex-tone.link/A00136932" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://natorisana.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://nex-tone.link/A00136932" target="_blank">Stream & Buy</a>

@@ -25,4 +25,4 @@ image: /works/media/tv-anime-spy-kyoushitsu-special-ending-theme-cd-file-04.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://spyroom-anime.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://spyroom-anime.com/" target="_blank">Official Site</a>

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-interface FormData {
+interface ContactFormData {
   name: string;
   email: string;
   subject: string;
@@ -14,13 +14,14 @@ interface ContactFormProps {
 }
 
 export default function ContactForm({ informationHtml }: ContactFormProps) {
-  const [form, setForm] = useState<FormData>({
+  const [form, setForm] = useState<ContactFormData>({
     name: "",
     email: "",
     subject: "",
     message: "",
   });
   const [status, setStatus] = useState("");
+  const [statusType, setStatusType] = useState<"success" | "error" | "">("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleChange = (
@@ -41,7 +42,7 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
           name: form.name,
           email: form.email,
           subject: form.subject,
-          message: `${form.message}`,
+          message: form.message,
         }),
       });
 
@@ -49,13 +50,16 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
 
       if (response.ok) {
         setStatus("Success! Thank you! Please wait for reply.");
+        setStatusType("success");
         setForm({ name: "", email: "", subject: "", message: "" });
       } else {
         setStatus(data.error || "Sending failed, please try again.");
+        setStatusType("error");
       }
     } catch (error) {
       console.error("Form submission error:", error);
       setStatus("Something went wrong, please try again.");
+      setStatusType("error");
     } finally {
       setIsSubmitting(false);
     }
@@ -87,7 +91,8 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="name"
                 value={form.name}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
+                autoComplete="name"
+                className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -102,7 +107,8 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="email"
                 value={form.email}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
+                autoComplete="email"
+                className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -117,7 +123,8 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 name="subject"
                 value={form.subject}
                 onChange={handleChange}
-                className="w-full md:w-80 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
+                autoComplete="off"
+                className="w-full md:w-80 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               />
             </div>
@@ -132,7 +139,8 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
                 rows={6}
                 value={form.message}
                 onChange={handleChange}
-                className="w-full md:w-2/3 p-2 border border-gray-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
+                autoComplete="off"
+                className="w-full md:w-2/3 p-2 border border-[#ddd] focus:outline-none focus:ring-1 focus:ring-gray-400"
                 required
               ></textarea>
             </div>
@@ -141,13 +149,20 @@ export default function ContactForm({ informationHtml }: ContactFormProps) {
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="px-6 py-2 border border-color border-gray-[#ddd] transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
+                className="px-6 py-2 border border-[#ddd] transition-colors hover:border-gray-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
               >
                 {isSubmitting ? "Sending..." : "Send Message"}
               </button>
             </div>
           </form>
-          {status && <p className="pt-4 text-sm md:text-base">{status}</p>}
+          {status && (
+            <p
+              role="alert"
+              className={`pt-4 text-sm md:text-base ${statusType === "success" ? "" : "text-red-600"}`}
+            >
+              {status}
+            </p>
+          )}
         </div>
       </section>
     </>

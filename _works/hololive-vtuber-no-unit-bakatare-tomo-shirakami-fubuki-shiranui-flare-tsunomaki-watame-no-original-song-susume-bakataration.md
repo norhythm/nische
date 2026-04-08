@@ -23,6 +23,6 @@ image: "/works/media/hololive-bakatare-domo-original-song-susume-bakataration.pn
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E9%80%B2%E3%82%81%E2%86%91bakataration/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/BAKATAREDOMO" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E9%80%B2%E3%82%81%E2%86%91bakataration/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/BAKATAREDOMO" target="_blank">Stream & Buy</a>

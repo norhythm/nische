@@ -24,4 +24,4 @@ image: "/works/media/helios-rising-heroes-ending-theme-vol-4.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/66120/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/66120/" target="_blank">フロンティアワークス公式サイト</a>

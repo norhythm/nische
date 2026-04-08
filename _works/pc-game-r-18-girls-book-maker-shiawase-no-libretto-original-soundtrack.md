@@ -24,4 +24,4 @@ image: "/works/media/pc-game-girls-book-maker-shiawase-no-libretto-original-soun
 
 ##### Links
 
-- <a data-type="button" href="https://www.e-nexton.jp/?fc=0202&pu=1484" target="_blank">ネクストンオンラインショップ</a>
+- <a class="button" href="https://www.e-nexton.jp/?fc=0202&pu=1484" target="_blank">ネクストンオンラインショップ</a>

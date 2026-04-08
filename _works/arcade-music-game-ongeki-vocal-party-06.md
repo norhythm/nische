@@ -23,4 +23,4 @@ image: "/works/media/arcade-music-game-ongeki-vocal-party-06.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/vocalparty06.html" target="_blank">Official Page</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/vocalparty06.html" target="_blank">Official Page</a>

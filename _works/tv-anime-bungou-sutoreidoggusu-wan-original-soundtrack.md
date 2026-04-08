@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-bungosd-wan-original-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://bungo-stray-dogs-wan.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://bungo-stray-dogs-wan.com/" target="_blank">Official Site</a>

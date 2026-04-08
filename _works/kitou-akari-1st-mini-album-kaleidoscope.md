@@ -26,6 +26,6 @@ image: "/works/media/kito-akari-1st-mini-album-kaleidoscope.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kitoakari.com/kaleidoscope" target="_blank">Official Page</a>
-- <a data-type="button" href="https://kitoakari.lnk.to/Kaleidoscope" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://kitoakari.com/kaleidoscope" target="_blank">Official Page</a>
+- <a class="button" href="https://kitoakari.lnk.to/Kaleidoscope" target="_blank">Stream & Buy</a>

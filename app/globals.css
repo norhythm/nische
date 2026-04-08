@@ -301,24 +301,6 @@ body {
   }
 }
 
-/* Page transitions */
-html.scroll-restoring {
-  background: var(--bg-hero);
-}
-
-html.scroll-restoring body {
-  opacity: 0;
-}
-
-html:not(.scroll-restoring) {
-  background-color: #fff;
-}
-
-html:not(.scroll-restoring) body {
-  opacity: 1;
-  animation: opacity 0.15s ease-out;
-}
-
 .page-works div[class^="markdown"] h5 {
   @apply md:w-full md:text-left;
 }

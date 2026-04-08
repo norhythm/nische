@@ -37,5 +37,5 @@ image: "/works/media/furukawa-makoto-1st-album-from-fairytale.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/fromfairytale%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/fromfairytale%e5%88%9d%e5%9b%9e%e9%99%90%e5%ae%9a%e7%9b%a4/" target="_blank">Official Page</a>

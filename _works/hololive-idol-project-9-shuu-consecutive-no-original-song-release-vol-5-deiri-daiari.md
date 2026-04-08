@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-daily-diary.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E3%81%A7%E3%81%84%E3%82%8A%EF%BD%9E%E3%81%A0%E3%81%84%E3%81%82%E3%82%8A%EF%BD%9E/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/DAILYDIARY" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E3%81%A7%E3%81%84%E3%82%8A%EF%BD%9E%E3%81%A0%E3%81%84%E3%81%82%E3%82%8A%EF%BD%9E/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/DAILYDIARY" target="_blank">Stream & Buy</a>

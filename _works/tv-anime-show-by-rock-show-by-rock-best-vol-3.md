@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-show-by-rock-show-by-rock-best-vol-3.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.ponycanyon.co.jp/music/PCCG000001846" target="_blank">ポニーキャニオン公式サイト</a>
+- <a class="button" href="https://www.ponycanyon.co.jp/music/PCCG000001846" target="_blank">ポニーキャニオン公式サイト</a>

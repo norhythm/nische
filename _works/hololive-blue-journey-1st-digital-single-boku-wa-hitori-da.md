@@ -23,6 +23,6 @@ image: "/works/media/hololive-blue-journey-1st-digital-single-boku-wa-hitori-da.
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01680/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://music.apple.com/jp/album/i-am-alone-single/1681528592" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.universal-music.co.jp/blue-journey/products/uu1as-01680/" target="_blank">Official Page</a>
+- <a class="button" href="https://music.apple.com/jp/album/i-am-alone-single/1681528592" target="_blank">Stream & Buy</a>

@@ -23,4 +23,4 @@ image: "/works/media/helios-rising-heroes-theme-song-vol-2-daybreak-horizon.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/68174/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/68174/" target="_blank">フロンティアワークス公式サイト</a>

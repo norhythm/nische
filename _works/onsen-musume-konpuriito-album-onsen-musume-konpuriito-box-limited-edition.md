@@ -28,4 +28,4 @@ image: "/works/media/onsen-musume-complete-box.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://onsen-musume.jp/music/" target="_blank">温泉むすめ公式サイト</a>
+- <a class="button" href="https://onsen-musume.jp/music/" target="_blank">温泉むすめ公式サイト</a>

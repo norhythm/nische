@@ -23,6 +23,6 @@ image: "/works/media/holostars-original-song-just-follow-stars.png"
 
 ##### Links
 
-- <a data-type="button" href="https://holostars.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://holostars.hololivepro.com/music/just-follow-stars/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://holostars.streamlink.to/JustFollowStar" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://holostars.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://holostars.hololivepro.com/music/just-follow-stars/" target="_blank">Official Page</a>
+- <a class="button" href="https://holostars.streamlink.to/JustFollowStar" target="_blank">Stream & Buy</a>

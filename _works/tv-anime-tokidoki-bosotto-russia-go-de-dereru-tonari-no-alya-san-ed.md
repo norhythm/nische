@@ -29,4 +29,4 @@ image: /works/media/tv-anime-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya
 
 ##### Links
 
-- <a data-type="button" href="https://roshidere.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://roshidere.com/" target="_blank">Official Site</a>

@@ -22,4 +22,4 @@ image: /works/media/tv-anime-himitsu-no-aipri-episode-52-insert-song-kizuna-link
 
 ##### Links
 
-- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a class="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>

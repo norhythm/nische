@@ -25,4 +25,4 @@ image: "/works/media/pc-game-innocent-bullet.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://cinematograph.nexton-net.jp/ib/index.html" target="_blank">ゲーム公式</a>
+- <a class="button" href="http://cinematograph.nexton-net.jp/ib/index.html" target="_blank">ゲーム公式</a>

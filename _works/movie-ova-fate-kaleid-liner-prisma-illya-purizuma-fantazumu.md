@@ -20,4 +20,4 @@ image: "/works/media/fate-kaleid-liner-prisma-illya-prisma-phantasm.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/release-item/LACM-14873.html" target="_blank">Lantis公式サイト</a>
+- <a class="button" href="https://www.lantis.jp/release-item/LACM-14873.html" target="_blank">Lantis公式サイト</a>

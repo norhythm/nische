@@ -23,4 +23,4 @@ image: "/works/media/drama-cd-maku-ga-oritara-bokura-wa-tsugai-limtity-debut-son
 
 ##### Links
 
-- <a data-type="button" href="https://www.fwinc.co.jp/cd/81530/" target="_blank">Official Page</a>
+- <a class="button" href="https://www.fwinc.co.jp/cd/81530/" target="_blank">Official Page</a>

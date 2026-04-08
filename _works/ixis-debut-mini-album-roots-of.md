@@ -25,6 +25,6 @@ image: /works/media/ixis-debut-mini-album-roots-of.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kiramune.jp/artist/IXIS/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kiramune.jp/product/LACA-35259.html" target="_blank">Lantis</a>
-- <a data-type="button" href="https://lnk.to/LACA-35259" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kiramune.jp/artist/IXIS/" target="_blank">Official Site</a>
+- <a class="button" href="https://kiramune.jp/product/LACA-35259.html" target="_blank">Lantis</a>
+- <a class="button" href="https://lnk.to/LACA-35259" target="_blank">Stream & Buy</a>

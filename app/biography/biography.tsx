@@ -4,12 +4,22 @@ import Image from "next/image";
 import biographyData from "@/data/biography.json";
 import equipmentsData from "@/data/equipments.json";
 
-const equipmentsGroup = (data: any, i: number) => {
+interface EquipmentItem {
+  production: string;
+  name?: string;
+}
+
+interface EquipmentGroup {
+  group: string;
+  items?: EquipmentItem[];
+}
+
+const equipmentsGroup = (data: EquipmentGroup, i: number) => {
   return (
     <div key={i}>
       <h3 className="mb-2 font-medium uppercase">{data.group}</h3>
       <div className="leading-[1.3]">
-        {data.items?.map((item: any, j: number) => (
+        {data.items?.map((item: EquipmentItem, j: number) => (
           <dl key={j} className="grid grid-cols-12 gap-2 py-[3px]">
             <dt className="col-start-1 col-end-5">{item.production}</dt>
             <dd className="col-start-5 -col-end-1">{item.name}</dd>
@@ -63,6 +73,7 @@ export default function Biography({ bioJaHtml, bioEnHtml, equipmentNoteHtml }: B
                 />
 
                 <div
+                  lang="en"
                   className="mb-4 md:leading-[1.675] flex-1 text-sm md:text-base [&_a]:underline"
                   dangerouslySetInnerHTML={{ __html: bioEnHtml }}
                 />

@@ -24,4 +24,4 @@ image: "/works/media/ongeki-r-e-d-ongeki-sound-collection-04-no-limit-red-force.
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/soundcollection04.html" target="_blank">オンゲキ公式サイト</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/soundcollection04.html" target="_blank">オンゲキ公式サイト</a>

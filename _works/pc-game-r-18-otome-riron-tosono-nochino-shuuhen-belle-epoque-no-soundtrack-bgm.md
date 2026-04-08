@@ -17,4 +17,4 @@ image: "/works/media/pc-game-otome-riron-to-sono-shuuhen-belle-epoque-soundtrack
 
 ##### Links
 
-- <a data-type="button" href="http://www.project-navel.com/otome_sonogo/" target="_blank">Navel公式サイト</a>
+- <a class="button" href="http://www.project-navel.com/otome_sonogo/" target="_blank">Navel公式サイト</a>

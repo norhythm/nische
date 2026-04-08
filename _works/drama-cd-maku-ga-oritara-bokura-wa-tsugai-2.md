@@ -24,4 +24,4 @@ image: /works/media/drama-cd-maku-ga-oritara-bokura-wa-tsugai-2.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.fwinc.co.jp/cd/101272/" target="_blank">Official Page</a>
+- <a class="button" href="https://www.fwinc.co.jp/cd/101272/" target="_blank">Official Page</a>

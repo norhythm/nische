@@ -25,5 +25,5 @@ image: "/works/media/last-idol-momiyama-himeri-to-the-top.png"
 
 ##### Links
 
-- <a data-type="button" href="https://www.universal-music.co.jp/last-idol/products/uv1as-00758/" target="_blank">UNIVERSAL Official Site</a>
-- <a data-type="button" href="https://himeri.lnk.to/tothetopTP" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.universal-music.co.jp/last-idol/products/uv1as-00758/" target="_blank">UNIVERSAL Official Site</a>
+- <a class="button" href="https://himeri.lnk.to/tothetopTP" target="_blank">Stream & Buy</a>

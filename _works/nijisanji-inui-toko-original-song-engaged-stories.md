@@ -23,5 +23,5 @@ image: "/works/media/nijisanji-inui-toko-original-song-engaged-stories.png"
 
 ##### Links
 
-- <a data-type="button" href="https://www.nijisanji.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://linkco.re/a9t1rmuM" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.nijisanji.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://linkco.re/a9t1rmuM" target="_blank">Stream & Buy</a>

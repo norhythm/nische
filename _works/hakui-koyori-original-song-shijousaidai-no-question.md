@@ -23,4 +23,4 @@ image: "/works/media/hakui-koyori-original-song-shijousaidai-no-question.png"
 
 ##### Links
 
-- <a data-type="button" href="https://cover.lnk.to/ShijyoSaidainoQUESTION" target="_blank">楽曲配信リンク</a>
+- <a class="button" href="https://cover.lnk.to/ShijyoSaidainoQUESTION" target="_blank">楽曲配信リンク</a>

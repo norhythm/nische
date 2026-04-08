@@ -23,6 +23,6 @@ image: "/works/media/hololive-hoshimachi-suisei-original-song-next-color-planet.
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/next-color-planet/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://suiseihoshimachi.fanlink.tv/NEXTCOLORPLANET" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/next-color-planet/" target="_blank">Official Page</a>
+- <a class="button" href="https://suiseihoshimachi.fanlink.tv/NEXTCOLORPLANET" target="_blank">Stream & Buy</a>

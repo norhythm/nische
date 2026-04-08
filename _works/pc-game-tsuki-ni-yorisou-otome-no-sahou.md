@@ -17,4 +17,4 @@ image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/tsukiniyorisou/" target="_blank">Navel公式</a>
+- <a class="button" href="https://project-navel.com/tsukiniyorisou/" target="_blank">Navel公式</a>

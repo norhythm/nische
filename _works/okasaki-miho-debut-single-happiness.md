@@ -23,5 +23,5 @@ image: "/works/media/okasaki-miho-debut-single-happiness.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.okasakimiho.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://okasakimiho.lnk.to/happiness" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://www.okasakimiho.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://okasakimiho.lnk.to/happiness" target="_blank">Stream & Buy</a>

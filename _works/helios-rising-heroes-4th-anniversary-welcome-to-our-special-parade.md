@@ -22,5 +22,5 @@ image: /works/media/helios-rising-heroes-4th-anniversary-welcome-to-our-special-
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://fwinc.lnk.to/YN7F1F" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://fwinc.lnk.to/YN7F1F" target="_blank">Stream & Buy</a>

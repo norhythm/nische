@@ -13,4 +13,4 @@ image: "/works/media/pc-game-kin-iro-loveriche-best-album.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sagaplanets.product.co.jp/works/kinkoigt/special_soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>
+- <a class="button" href="http://sagaplanets.product.co.jp/works/kinkoigt/special_soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>

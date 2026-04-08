@@ -23,4 +23,4 @@ image: "/works/media/kiratto-pri-chan-song-collection-from-pri-chan-land-dx.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/discography/detail.php?id=1018285" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/discography/detail.php?id=1018285" target="_blank">Official Page</a>

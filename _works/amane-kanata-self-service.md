@@ -23,6 +23,6 @@ image: /works/media/amane-kanata-self-service.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/575/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/yLlOg8" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/575/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/yLlOg8" target="_blank">Stream & Buy</a>

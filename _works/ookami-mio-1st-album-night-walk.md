@@ -31,6 +31,6 @@ image: /works/media/ookami-mio-1st-album-night-walk.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/353/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Nightwalk" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/353/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Nightwalk" target="_blank">Stream & Buy</a>

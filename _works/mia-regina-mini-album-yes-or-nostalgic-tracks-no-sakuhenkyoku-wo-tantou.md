@@ -25,4 +25,4 @@ image: "/works/media/mia-regina-yes-or-nostalgic.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/artist/Mia_REGINA/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.lantis.jp/artist/Mia_REGINA/" target="_blank">Official Site</a>

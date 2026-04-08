@@ -25,6 +25,6 @@ image: "/works/media/vr-idol-stars-project-hop-step-sing-astral-peace.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hopstepsing.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hopstepsing.com/news/36.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://store.steampowered.com/app/1204930/Hop_Step_Sing/" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hopstepsing.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hopstepsing.com/news/36.html" target="_blank">Official Page</a>
+- <a class="button" href="https://store.steampowered.com/app/1204930/Hop_Step_Sing/" target="_blank">Stream & Buy</a>

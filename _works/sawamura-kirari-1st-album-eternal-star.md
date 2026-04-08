@@ -23,5 +23,5 @@ image: /works/media/sawamura-kirari-1st-album-eternal-star.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://fan.pia.jp/sawamura_kirari/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://pcim.lnk.to/EternalStar" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://fan.pia.jp/sawamura_kirari/" target="_blank">Official Site</a>
+- <a class="button" href="https://pcim.lnk.to/EternalStar" target="_blank">Stream & Buy</a>

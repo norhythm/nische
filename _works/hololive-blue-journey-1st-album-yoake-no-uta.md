@@ -32,5 +32,5 @@ image: /works/media/hololive-blue-journey-1st-album-yoake-no-uta.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://sp.universal-music.co.jp/bluejourney/yoakenouta/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://lnk.to/BJ_yu" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://sp.universal-music.co.jp/bluejourney/yoakenouta/" target="_blank">Official Site</a>
+- <a class="button" href="https://lnk.to/BJ_yu" target="_blank">Stream & Buy</a>

@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import { Post } from "@/interfaces/post";
+import { tagName } from "@/lib/utils";
 
 import TiltImage from "@/components/tiltImage";
 
@@ -92,53 +93,45 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
     setSelectedTag(tag);
   };
 
-  const tagName = (tag: string) => {
-    switch (tag) {
-      case "rec":
-        return "recording";
-      case "mix":
-        return "mixing";
-      case "master":
-        return "mastering";
-      default:
-        return tag;
-    }
-  };
-
   return (
     <>
+      <h2 className="sr-only">Works by Tsukasa Kikuchi</h2>
       <div className="sticky top-[50px] md:top-[100px] w-full xl:max-w-screen-xl mx-auto px-4 md:px-[8%] xl:px-[102px] z-30 pointer-events-none">
-        <div className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
-          <div
-            className="absolute bottom-0 h-[1px] bg-current transition-all duration-300 ease-out"
-            style={{
-              left: `${underlineStyle.left}px`,
-              width: `${underlineStyle.width}px`,
-              opacity: underlineStyle.opacity,
-            }}
-          />
+        <nav aria-label="Filter by category">
+          <div role="toolbar" aria-label="Category filters" className="inline-flex gap-2 text-sm md:text-base tracking-wider relative">
+            <div
+              className="absolute bottom-0 h-[1px] bg-current transition-all duration-300 ease-out"
+              style={{
+                left: `${underlineStyle.left}px`,
+                width: `${underlineStyle.width}px`,
+                opacity: underlineStyle.opacity,
+              }}
+            />
 
-          {["rec", "mix", "master"].map((tag, i) => (
-            <div key={tag}>
+            {["rec", "mix", "master"].map((tag, i) => (
+              <div key={tag}>
+                <button
+                  ref={(el) => { buttonRefs.current[i] = el; }}
+                  onClick={() => handleTagChange(tag)}
+                  aria-pressed={selectedTag === tag}
+                  className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
+                >
+                  {tagName(tag)}
+                </button>
+              </div>
+            ))}
+            <div>
               <button
-                ref={(el) => (buttonRefs.current[i] = el)}
-                onClick={() => handleTagChange(tag)}
+                ref={(el) => { buttonRefs.current[3] = el; }}
+                onClick={() => handleTagChange(null)}
+                aria-pressed={selectedTag === null}
                 className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
               >
-                {tagName(tag)}
+                All
               </button>
             </div>
-          ))}
-          <div>
-            <button
-              ref={(el) => (buttonRefs.current[3] = el)}
-              onClick={() => handleTagChange(null)}
-              className="p-0 capitalize hover:text-gray-500 transition-colors cursor-pointer leading-none pointer-events-auto"
-            >
-              All
-            </button>
           </div>
-        </div>
+        </nav>
       </div>
 
       <section
@@ -155,7 +148,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
             className="grid grid-cols-2 md:grid-cols-3 4xl:grid-cols-4 6xl:grid-cols-5 gap-8 group/works pointer-events-none"
           >
             {filteredPosts.map((work, index) => (
-              <div
+              <article
                 key={work.url}
                 className={`${
                   index % 3 === 0 ? "col-span-2 md:col-span-1" : "col-span-1"
@@ -168,6 +161,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                   href={buildUrl(`/works/${work.url}/`, selectedTag)}
                   className="work-item relative w-full cursor-pointer group/item group-hover/works:opacity-35 hover:!opacity-100 transition-opacity duration-300 pointer-events-auto"
                 >
+                  <span className="sr-only">{work.title}</span>
                   <div className="relative flex justify-center items-center">
                     <TiltImage
                       single={true}
@@ -183,7 +177,7 @@ export default function BlogPage({ posts }: { posts: PostWithHtml[] }) {
                     />
                   </div>
                 </Link>
-              </div>
+              </article>
             ))}
           </div>
         )}

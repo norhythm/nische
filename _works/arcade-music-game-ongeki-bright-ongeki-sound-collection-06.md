@@ -24,4 +24,4 @@ image: "/works/media/arcade-music-game-ongeki-bright-ongeki-sound-collection-06.
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/soundcollection06.html" target="_blank">『オンゲキbright』公式サイト</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/soundcollection06.html" target="_blank">『オンゲキbright』公式サイト</a>

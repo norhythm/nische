@@ -26,6 +26,6 @@ image: "/works/media/tv-anime-kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-secon
 
 ##### Links
 
-- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kitoakari.com/dear-doze-days" target="_blank">Official Page</a>
-- <a data-type="button" href="https://kitoakari.lnk.to/Dear_Doze_Days" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://kitoakari.com/dear-doze-days" target="_blank">Official Page</a>
+- <a class="button" href="https://kitoakari.lnk.to/Dear_Doze_Days" target="_blank">Stream & Buy</a>

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback, useId } from "react";
 import Image from "next/image";
 
 interface FullScreenTiltImageProps {
@@ -93,38 +93,17 @@ export default function FullScreenTiltImage({
   intensity = 1,
   tilt,
 }: FullScreenTiltImageProps) {
-  const [transform, setTransform] = useState("");
   const [loaded, setLoaded] = useState(false);
-  const [imageRatio, setImageRatio] = useState(`${width} / ${height}`);
-  const [blendMode, setBlendMode] =
-    useState<GlobalCompositeOperation>("multiply");
   const imageRef = useRef<HTMLDivElement>(null);
+  const imgElRef = useRef<HTMLImageElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const tintImgRef = useRef<HTMLImageElement | null>(null);
   const accentColorRef = useRef<string>("hsl(0, 0%, 30%)");
-  const maskId = `clip-mask`;
-
-  const blendOptions: { value: GlobalCompositeOperation; label: string }[] = [
-    { value: "multiply", label: "Multiply（乗算）" },
-    { value: "screen", label: "Screen（スクリーン）" },
-    { value: "overlay", label: "Overlay（オーバーレイ）" },
-    { value: "darken", label: "Darken（暗く）" },
-    { value: "lighten", label: "Lighten（明るく）" },
-    { value: "color-dodge", label: "Color Dodge（覆い焼き）" },
-    { value: "color-burn", label: "Color Burn（焼き込み）" },
-    { value: "hard-light", label: "Hard Light（ハードライト）" },
-    { value: "soft-light", label: "Soft Light（ソフトライト）" },
-    { value: "difference", label: "Difference（差の絶対値）" },
-    { value: "exclusion", label: "Exclusion（除外）" },
-    { value: "hue", label: "Hue（色相）" },
-    { value: "saturation", label: "Saturation（彩度）" },
-    { value: "color", label: "Color（カラー）" },
-    { value: "luminosity", label: "Luminosity（輝度）" },
-    { value: "source-over", label: "Source Over（単色塗り）" },
-  ];
+  const reactId = useId();
+  const maskId = `clip-mask-${reactId}`;
 
   const drawTintedImage = useCallback(
-    (img: HTMLImageElement, mode: GlobalCompositeOperation) => {
+    (img: HTMLImageElement) => {
       if (!article) return;
       const canvas = canvasRef.current;
       if (!canvas) return;
@@ -158,7 +137,7 @@ export default function FullScreenTiltImage({
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
       // 選択したブレンドモードで元画像を重ねる
-      ctx.globalCompositeOperation = mode;
+      ctx.globalCompositeOperation = "multiply";
       ctx.drawImage(img, 0, 0);
     },
     [article],
@@ -168,14 +147,21 @@ export default function FullScreenTiltImage({
   useEffect(() => {
     if (!article) return;
     if (tintImgRef.current) {
-      drawTintedImage(tintImgRef.current, blendMode);
+      drawTintedImage(tintImgRef.current);
       return;
     }
     const img = new window.Image();
     img.crossOrigin = "anonymous";
-    img.onload = () => drawTintedImage(img, blendMode);
+    img.onload = () => drawTintedImage(img);
     img.src = src;
-  }, [article, src, blendMode, drawTintedImage]);
+  }, [article, src, drawTintedImage]);
+
+  // Handle images already loaded before hydration (e.g., cached or eager-loaded)
+  useEffect(() => {
+    if (imgElRef.current?.complete && imgElRef.current.naturalWidth > 0) {
+      setLoaded(true);
+    }
+  }, []);
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
@@ -204,14 +190,17 @@ export default function FullScreenTiltImage({
       const tiltX = rotateX * maxTilt;
       const tiltY = rotateY * maxTilt;
 
-      setTransform(
-        `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`,
-      );
+      if (imageRef.current) {
+        imageRef.current.style.transform = `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg)`;
+      }
     };
 
     const handleMouseLeave = () => {
       if (single) {
-        setTransform("perspective(1000px) rotateX(0deg) rotateY(0deg)");
+        if (imageRef.current) {
+          imageRef.current.style.transform =
+            "perspective(1000px) rotateX(0deg) rotateY(0deg)";
+        }
       }
     };
 
@@ -238,7 +227,6 @@ export default function FullScreenTiltImage({
       ref={imageRef}
       className={`relative ${parentClassName}`}
       style={{
-        transform,
         ...(article && { aspectRatio: `${width} / ${height}` }),
         ...(clip && { clipPath: `url(#${maskId})` }),
       }}
@@ -253,6 +241,7 @@ export default function FullScreenTiltImage({
         </svg>
       )}
       <Image
+        ref={imgElRef}
         src={src}
         alt={alt}
         width={width}
@@ -260,34 +249,16 @@ export default function FullScreenTiltImage({
         preload
         loading="eager"
         fetchPriority="high"
-        onLoad={(e) => {
-          const img = e.currentTarget;
-          setImageRatio(`${img.clientWidth} / ${img.clientHeight}`);
+        onLoad={() => {
           setLoaded(true);
         }}
-        className={`${childClassName} object-contain w-full h-full block transition-all duration-[200ms] ease-out ${loaded ? "opacity-100" : "opacity-0"}`}
+        className={`${childClassName} object-contain w-full h-full block transition-all duration-[100ms] ease-out rotate-[0.25deg] ${loaded ? "opacity-100 !rotate-[0deg]" : "opacity-0"}`}
       />
       {article && (
-        <>
-          <canvas
-            ref={canvasRef}
-            className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all duration-[200ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
-          />
-          {/* ブレンドモード切替 */}
-          {/* <select
-            value={blendMode}
-            onChange={(e) =>
-              setBlendMode(e.target.value as GlobalCompositeOperation)
-            }
-            className="absolute bottom-2 right-2 z-10 text-xs bg-white/80 border border-gray-300 rounded px-1 py-0.5 cursor-pointer"
-          >
-            {blendOptions.map((opt) => (
-              <option key={opt.value} value={opt.value}>
-                {opt.label}
-              </option>
-            ))}
-          </select> */}
-        </>
+        <canvas
+          ref={canvasRef}
+          className={`${childClassName} absolute -z-1 object-contain w-full h-full block transition-all delay-[16ms] duration-[100ms] ease-out rotate-[2.8deg] ${loaded ? "opacity-100" : "opacity-0"}`}
+        />
       )}
     </div>
   );

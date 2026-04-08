@@ -23,6 +23,6 @@ image: /works/media/houshou-marine-new-song-paipai-kamen-de-doukashiran.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/469/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/7znqj8" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/469/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/7znqj8" target="_blank">Stream & Buy</a>

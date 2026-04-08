@@ -22,4 +22,4 @@ image: "/works/media/healing-arrange-cd-astro-magic-world-healing-arrange-select
 
 ##### Links
 
-- <a data-type="button" href="https://es-cinnamon.cafe/" target="_blank">Official Site</a>
+- <a class="button" href="https://es-cinnamon.cafe/" target="_blank">Official Site</a>

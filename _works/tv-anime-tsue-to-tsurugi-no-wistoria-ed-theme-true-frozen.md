@@ -22,5 +22,5 @@ image: /works/media/tv-anime-tsue-to-tsurugi-no-wistoria-ed-theme-true-frozen.jp
 
 ##### Links
 
-- <a data-type="button" href="https://true-singer.com/musics/15175" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/LZC-2836" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://true-singer.com/musics/15175" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/LZC-2836" target="_blank">Stream & Buy</a>

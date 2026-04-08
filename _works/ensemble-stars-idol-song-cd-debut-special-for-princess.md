@@ -24,5 +24,5 @@ image: /works/media/ensemble-stars-idol-song-cd-debut-special-for-princess.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.sonymusic.co.jp/artist/SpecialforPrincess/discography/VVCL-2635" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.sonymusic.co.jp/artist/SpecialforPrincess/discography/VVCL-2635" target="_blank">Stream & Buy</a>

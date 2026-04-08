@@ -24,4 +24,4 @@ image: "/works/media/vtuber-kaname-to-harukii-full-album-serendipity.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://store.kadokawa.co.jp/shop/g/g302203002119/" target="_blank">カドカワ公式</a>
+- <a class="button" href="https://store.kadokawa.co.jp/shop/g/g302203002119/" target="_blank">カドカワ公式</a>

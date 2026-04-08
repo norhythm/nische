@@ -17,4 +17,4 @@ image: "/works/media/pc-game-girls-book-maker-grimm-to-sannin-no-ohimesama-1.jpg
 
 ##### Links
 
-- <a data-type="button" href="http://yumemiru.nexton-net.jp/gbm-grimm/" target="_blank">ユメミル公式サイト</a>
+- <a class="button" href="http://yumemiru.nexton-net.jp/gbm-grimm/" target="_blank">ユメミル公式サイト</a>

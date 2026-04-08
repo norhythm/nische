@@ -17,4 +17,4 @@ image: "/works/media/tv-anime-z-x-code-reunion.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.zxtcg.com/animation/" target="_blank">Z/X Code reunion公式サイト</a>
+- <a class="button" href="https://www.zxtcg.com/animation/" target="_blank">Z/X Code reunion公式サイト</a>

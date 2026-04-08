@@ -44,4 +44,4 @@ image: /works/media/gekidan-dramatica-act3-kara-furu-wonderful-sound-collection.
 
 ##### Links
 
-- <a data-type="button" href="https://www.fwinc.co.jp/dramatica-stage/act3/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.fwinc.co.jp/dramatica-stage/act3/" target="_blank">Official Site</a>

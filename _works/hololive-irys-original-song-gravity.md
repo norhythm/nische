@@ -23,6 +23,6 @@ image: "/works/media/hololive-irys-original-song-gravity.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/206/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Gravity" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/206/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Gravity" target="_blank">Stream & Buy</a>

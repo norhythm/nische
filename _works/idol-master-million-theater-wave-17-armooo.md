@@ -26,4 +26,4 @@ image: "/works/media/idol-master-million-theater-wave-17-armooo.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://lantis.jp/imas/release_LACM-24107.html" target="_blank">Official Page</a>
+- <a class="button" href="https://lantis.jp/imas/release_LACM-24107.html" target="_blank">Official Page</a>

@@ -22,4 +22,4 @@ image: /works/media/artwork-440x440.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://cover.lnk.to/l27F8c" target="_blank">Streaming</a>
+- <a class="button" href="https://cover.lnk.to/l27F8c" target="_blank">Streaming</a>

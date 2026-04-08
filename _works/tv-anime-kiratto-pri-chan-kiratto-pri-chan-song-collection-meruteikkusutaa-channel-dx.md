@@ -26,4 +26,4 @@ image: "/works/media/tv-anime-kiratto-pri-chan-song-collection-meltic-star-chann
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/prichan/discography/detail.php?id=1017110" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/prichan/discography/detail.php?id=1017110" target="_blank">Official Page</a>

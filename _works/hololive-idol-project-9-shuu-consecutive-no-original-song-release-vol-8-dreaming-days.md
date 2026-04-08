@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-dreaming-days.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/dreaming-days/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/DreamingDays" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/dreaming-days/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/DreamingDays" target="_blank">Stream & Buy</a>

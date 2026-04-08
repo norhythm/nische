@@ -26,4 +26,4 @@ image: "/works/media/stage-ensemble-stars-extra-stage-judge-of-knights.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.marv.jp/special/ensemble_stage/index.html" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>
+- <a class="button" href="https://www.marv.jp/special/ensemble_stage/index.html" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>

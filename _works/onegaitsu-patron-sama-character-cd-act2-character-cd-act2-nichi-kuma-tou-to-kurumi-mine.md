@@ -25,5 +25,5 @@ image: "/works/media/onegai-patron-sama-character-act2.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.onepato.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.onepato.com/music/cd_02.php" target="_blank">Official Page</a>
+- <a class="button" href="https://www.onepato.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.onepato.com/music/cd_02.php" target="_blank">Official Page</a>

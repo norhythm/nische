@@ -23,6 +23,6 @@ image: /works/media/realromantic-digital-release-romantic-seven.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://realromantic-official.com/discography/digital-release-romantic-seven/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://bmu.lnk.to/RealRomantic_ROMANTICSEVEN" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://realromantic-official.com/discography/digital-release-romantic-seven/" target="_blank">Official Page</a>
+- <a class="button" href="https://bmu.lnk.to/RealRomantic_ROMANTICSEVEN" target="_blank">Stream & Buy</a>

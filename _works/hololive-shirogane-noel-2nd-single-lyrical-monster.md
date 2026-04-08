@@ -23,6 +23,6 @@ image: "/works/media/hololive-vtuber-shirogane-noel-2nd-single-lyrical-monster.p
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/LyricalMonster" target="\_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/moment-of-my-life/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/LyricalMonster" target="\_blank">Stream & Buy</a>

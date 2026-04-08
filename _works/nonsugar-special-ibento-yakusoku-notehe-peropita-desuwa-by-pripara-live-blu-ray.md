@@ -25,4 +25,4 @@ image: "/works/media/nonsugar-special-event-yakusokuno-teheperopita-desuwa-by-pr
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/news/detail.php?id=1093729&artist_cd=PRIP2" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/pripara/news/detail.php?id=1093729&artist_cd=PRIP2" target="_blank">Official Page</a>

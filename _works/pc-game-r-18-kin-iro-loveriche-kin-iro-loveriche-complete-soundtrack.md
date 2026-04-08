@@ -13,4 +13,4 @@ image: "/works/media/pc-game-kin-iro-loveriche-complete-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sagaplanets.product.co.jp/works/kinkoi/special_soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>
+- <a class="button" href="http://sagaplanets.product.co.jp/works/kinkoi/special_soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>

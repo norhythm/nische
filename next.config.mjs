@@ -1,14 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  allowedDevOrigins: ["*"],
   trailingSlash: true,
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
   images: {
     unoptimized: true,
-  },
-  experimental: {
-    scrollRestoration: true,
   },
   devIndicators: false,
 };

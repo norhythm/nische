@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "nische",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,43 +8,45 @@
     "start": "next start",
     "lint": "next lint",
     "mail:start": "mailpit",
-    "mail:dev": "mailpit --verbose"
+    "mail:dev": "mailpit --verbose",
+    "knip": "knip",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.0",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "date-fns": "4.1.0",
     "gray-matter": "^4.0.3",
     "next": "^16.1.0",
-    "next-themes": "^0.4.6",
     "nodemailer": "^7.0.11",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "rehype-code-titles": "^1.2.1",
-    "rehype-prism": "^2.3.3",
     "rehype-prism-plus": "^2.0.1",
     "rehype-raw": "^7.0.0",
-    "rehype-slug": "^6.0.0",
+    "rehype-sanitize": "^6.0.0",
     "rehype-stringify": "^10.0.1",
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.1",
-    "remark-html": "^16.0.1",
-    "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.2",
-    "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7",
     "unist-util-visit": "^5.0.0",
     "zod": "^4.2.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.2",
     "@tailwindcss/postcss": "^4.1.18",
+    "@types/hast": "^3.0.4",
     "@types/node": "^25",
     "@types/nodemailer": "^7.0.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "knip": "^5.88.1",
     "postcss": "^8",
     "tailwindcss": "^4.1.18",
     "typescript": "^5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp"
+    ]
   }
 }

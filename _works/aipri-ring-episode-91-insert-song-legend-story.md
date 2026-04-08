@@ -23,4 +23,4 @@ image: /works/media/aipri-ring-episode-91-insert-song-legend-story.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>
+- <a class="button" href="https://aipri.jp/anime/" target="_blank">Official Site</a>

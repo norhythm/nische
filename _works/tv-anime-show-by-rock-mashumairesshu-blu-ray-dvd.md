@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-show-by-rock-mashumairesh.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://showbyrock-anime-s.com/mashumairesh/" target="_blank">Official Site</a>
+- <a class="button" href="https://showbyrock-anime-s.com/mashumairesh/" target="_blank">Official Site</a>

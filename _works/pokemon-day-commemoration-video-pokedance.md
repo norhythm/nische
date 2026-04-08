@@ -16,4 +16,4 @@ image: /works/media/pokemon-day-commemoration-video-pokedance.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://www.pokemon.co.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.pokemon.co.jp/" target="_blank">Official Site</a>

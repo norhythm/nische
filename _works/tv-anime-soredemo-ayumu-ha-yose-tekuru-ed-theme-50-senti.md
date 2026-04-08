@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-soredemo-ayumu-ha-yose-tekuru-ed-theme-50-cm.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://canime.jp/product/PCCG000070499/" target="_blank">きゃにめ公式サイト</a>
+- <a class="button" href="https://canime.jp/product/PCCG000070499/" target="_blank">きゃにめ公式サイト</a>

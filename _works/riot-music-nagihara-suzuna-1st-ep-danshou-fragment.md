@@ -24,8 +24,8 @@ image: /works/media/riot-music-nagihara-suzuna-1st-ep-danshou-fragment.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://choginga-record.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://choginga-record.com/artist/suzuna-nagihara/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://music.apple.com/jp/album/%E6%96%AD%E7%AB%A0-fragment/1749218142" target="_blank">Apple Music</a>
-- <a data-type="button" href="https://music.youtube.com/watch?v=4NCjxErJk9k" target="_blank">YouTube Music</a>
-- <a data-type="button" href="https://open.spotify.com/intl-ja/album/1lftcLf7RuqCXIZh2OqbGw" target="_blank">Spotify</a>
+- <a class="button" href="https://choginga-record.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://choginga-record.com/artist/suzuna-nagihara/" target="_blank">Official Page</a>
+- <a class="button" href="https://music.apple.com/jp/album/%E6%96%AD%E7%AB%A0-fragment/1749218142" target="_blank">Apple Music</a>
+- <a class="button" href="https://music.youtube.com/watch?v=4NCjxErJk9k" target="_blank">YouTube Music</a>
+- <a class="button" href="https://open.spotify.com/intl-ja/album/1lftcLf7RuqCXIZh2OqbGw" target="_blank">Spotify</a>

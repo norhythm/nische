@@ -23,6 +23,6 @@ image: "/works/media/hololive-hoshimachi-suisei-ghost.png"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/ghost/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://suisei.streamlink.to/GHOST" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/ghost/" target="_blank">Official Page</a>
+- <a class="button" href="https://suisei.streamlink.to/GHOST" target="_blank">Stream & Buy</a>

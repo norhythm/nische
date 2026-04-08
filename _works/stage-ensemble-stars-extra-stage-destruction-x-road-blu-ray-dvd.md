@@ -30,4 +30,4 @@ image: "/works/media/stage-ensemble-stars-extra-stage-destruction-road.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.marv.jp/special/ensemble_stage-7th/index.html" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>
+- <a class="button" href="https://www.marv.jp/special/ensemble_stage-7th/index.html" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>

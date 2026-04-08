@@ -23,6 +23,6 @@ image: /works/media/eguchi-takuya-da-da-da.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kiramune.jp/artist/eguchi/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kiramune.jp/product/LZC-3103.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/LZC-3103" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kiramune.jp/artist/eguchi/" target="_blank">Official Site</a>
+- <a class="button" href="https://kiramune.jp/product/LZC-3103.html" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/LZC-3103" target="_blank">Stream & Buy</a>

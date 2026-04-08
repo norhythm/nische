@@ -24,6 +24,6 @@ image: /works/media/momosuzu-nene-love-jushin-hikutsu-hasshin.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/538/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/wVQxhj" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/538/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/wVQxhj" target="_blank">Stream & Buy</a>

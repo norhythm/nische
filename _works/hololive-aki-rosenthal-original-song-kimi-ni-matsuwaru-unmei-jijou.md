@@ -23,6 +23,6 @@ image: /works/media/hololive-aki-rosenthal-original-song-kimi-ni-matsuwaru-unmei
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/260/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Yourdestinysituation" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/260/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Yourdestinysituation" target="_blank">Stream & Buy</a>

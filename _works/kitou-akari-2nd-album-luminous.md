@@ -27,7 +27,7 @@ image: "/works/media/kito-akari-2nd-album-luminous.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://canime.jp/product/PCCG000002185/" target="_blank">きゃにめ公式</a>
-- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kitoakari.com/luminous" target="_blank">Official Page</a>
-- <a data-type="button" href="https://kitoakari.lnk.to/luminous" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://canime.jp/product/PCCG000002185/" target="_blank">きゃにめ公式</a>
+- <a class="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://kitoakari.com/luminous" target="_blank">Official Page</a>
+- <a class="button" href="https://kitoakari.lnk.to/luminous" target="_blank">Stream & Buy</a>

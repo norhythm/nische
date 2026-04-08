@@ -24,5 +24,5 @@ image: "/works/media/haruka-naru-nirai-kanai-op-ed-theme.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/niraikanai/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://navel-store.com/items/67135945df856738c12b13d5" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://project-navel.com/niraikanai/" target="_blank">Official Site</a>
+- <a class="button" href="https://navel-store.com/items/67135945df856738c12b13d5" target="_blank">Stream & Buy</a>

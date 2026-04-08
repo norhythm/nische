@@ -21,4 +21,4 @@ image: "/works/media/anime-yattare-mosamo.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://pieinthesky.jp/?p=2024" target="_blank">Official Page</a>
+- <a class="button" href="https://pieinthesky.jp/?p=2024" target="_blank">Official Page</a>

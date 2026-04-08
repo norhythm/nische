@@ -23,5 +23,5 @@ image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-mellow-addiction.
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://mellowdearus.lnk.to/MellowAddiction" target="_blank">Linkfire</a>
+- <a class="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://mellowdearus.lnk.to/MellowAddiction" target="_blank">Linkfire</a>

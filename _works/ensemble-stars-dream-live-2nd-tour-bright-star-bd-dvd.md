@@ -33,4 +33,4 @@ image: "/works/media/ensemble-stars-dream-live-2nd-tour-bright-star.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/48331/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/48331/" target="_blank">フロンティアワークス公式サイト</a>

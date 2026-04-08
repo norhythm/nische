@@ -22,6 +22,6 @@ image: /works/media/yurika-new-single-believe.jpg
 
 ##### Links
 
-- <a data-type="button" href="" target="_blank">Official Site</a>
-- <a data-type="button" href="" target="_blank">Official Page</a>
-- <a data-type="button" href="https://linkco.re/VQf635pU" target="_blank">Stream & Buy</a>
+- <a class="button" href="" target="_blank">Official Site</a>
+- <a class="button" href="" target="_blank">Official Page</a>
+- <a class="button" href="https://linkco.re/VQf635pU" target="_blank">Stream & Buy</a>

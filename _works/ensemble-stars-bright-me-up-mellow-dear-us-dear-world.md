@@ -23,6 +23,6 @@ image: /works/media/ensemble-stars-bright-me-up-mellow-dear-us-dear-world.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://ensemble-stars.jp/discography/musicdetails/68o59p1gni/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://spri.lnk.to/Melancholywokakenukero" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://ensemble-stars.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://ensemble-stars.jp/discography/musicdetails/68o59p1gni/" target="_blank">Official Page</a>
+- <a class="button" href="https://spri.lnk.to/Melancholywokakenukero" target="_blank">Stream & Buy</a>

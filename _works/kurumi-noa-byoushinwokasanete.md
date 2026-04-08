@@ -22,4 +22,4 @@ image: /works/media/HDNa9K6akAAe0mo.jpeg
 
 ##### Links
 
-- <a data-type="button" href="https://linkco.re/C78TvxsY" target="_blank">linkco.re</a>
+- <a class="button" href="https://linkco.re/C78TvxsY" target="_blank">linkco.re</a>

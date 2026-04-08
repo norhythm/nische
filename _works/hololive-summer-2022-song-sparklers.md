@@ -23,6 +23,6 @@ image: "/works/media/hololive-summer-2022-song-koukai-vol-3-sparklers.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/sparklers/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://cover.lnk.to/Sparklers" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/sparklers/" target="_blank">Official Page</a>
+- <a class="button" href="https://cover.lnk.to/Sparklers" target="_blank">Stream & Buy</a>

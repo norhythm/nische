@@ -26,4 +26,4 @@ image: "/works/media/pc-game-tsuki-ni-yorisou-otome-no-sahou-2-1-e-x-s-x-par.jpg
 
 ##### Links
 
-- <a data-type="button" href="http://www.project-navel.com/tsukiniyorisou_2nd_espar/" target="_blank">Navel 公式サイト</a>
+- <a class="button" href="http://www.project-navel.com/tsukiniyorisou_2nd_espar/" target="_blank">Navel 公式サイト</a>

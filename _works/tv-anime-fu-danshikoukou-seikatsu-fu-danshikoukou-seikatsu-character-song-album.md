@@ -19,4 +19,4 @@ image: "/works/media/tv-anime-fu-danshi-character-song-album.png"
 
 ##### Links
 
-- <a data-type="button" href="http://www.genei.co.jp/513" target="_blank">幻影 公式サイト</a>
+- <a class="button" href="http://www.genei.co.jp/513" target="_blank">幻影 公式サイト</a>

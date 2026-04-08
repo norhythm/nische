@@ -24,4 +24,4 @@ image: "/works/media/tv-anime-watcha-primagi-character-song-mini-album-pumping-w
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/primagi/discography/detail.php?id=1018931" target="_blank">Official Page</a>
+- <a class="button" href="https://avex.jp/primagi/discography/detail.php?id=1018931" target="_blank">Official Page</a>

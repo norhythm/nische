@@ -24,4 +24,4 @@ image: "/works/media/ssss-gridman-character-song-1.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://gridman.net/product/cd/charason_1.php" target="_blank">Official Page</a>
+- <a class="button" href="https://gridman.net/product/cd/charason_1.php" target="_blank">Official Page</a>

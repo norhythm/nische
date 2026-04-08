@@ -23,5 +23,5 @@ image: /works/media/nagihara-suzuna-albus.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://choginga-record.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://choginga-record.com/artist/suzuna-nagihara/" target="_blank">Official Page</a>
+- <a class="button" href="https://choginga-record.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://choginga-record.com/artist/suzuna-nagihara/" target="_blank">Official Page</a>

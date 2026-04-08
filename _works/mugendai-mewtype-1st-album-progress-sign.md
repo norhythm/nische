@@ -32,6 +32,6 @@ image: /works/media/mugendai-mewtype-1st-album-progress-sign.png
 
 ##### Links
 
-- <a data-type="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://bang-dream.com/discographies/4131/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://bmu.lnk.to/yumemita_1stALwe" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://bang-dream.com/yumemita/" target="_blank">Official Site</a>
+- <a class="button" href="https://bang-dream.com/discographies/4131/" target="_blank">Official Page</a>
+- <a class="button" href="https://bmu.lnk.to/yumemita_1stALwe" target="_blank">Stream & Buy</a>

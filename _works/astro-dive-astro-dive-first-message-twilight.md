@@ -23,7 +23,7 @@ image: /works/media/astro-dive-astro-dive-first-message-twilight.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://astrodive.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://astrodive.jp/discography/twilight_1/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/ey6LaU" target="_blank">Stream</a>
-- <a data-type="button" href="http://fwinc.lnk.to/ZAgoqc" target="_blank">CD</a>
+- <a class="button" href="https://astrodive.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://astrodive.jp/discography/twilight_1/" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/ey6LaU" target="_blank">Stream</a>
+- <a class="button" href="http://fwinc.lnk.to/ZAgoqc" target="_blank">CD</a>

@@ -24,4 +24,4 @@ image: /works/media/idol-land-pripara-song-collection-open-dream-land.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://avex.jp/pripara/discography/" target="_blank">Official Site</a>
+- <a class="button" href="https://avex.jp/pripara/discography/" target="_blank">Official Site</a>

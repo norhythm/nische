@@ -24,6 +24,6 @@ image: /works/media/tv-anime-haitekudasai-takamine-san-ed-theme-furukawa-makoto-
 
 ##### Links
 
-- <a data-type="button" href="https://takaminesan.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://lnk.to/LZC-3076" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://takaminesan.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://lnk.to/LZC-3076" target="_blank">Stream & Buy</a>

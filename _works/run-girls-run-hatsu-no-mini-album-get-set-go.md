@@ -35,5 +35,5 @@ image: "/works/media/run-girls-run-hatsu-no-mini-album-get-set-go.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://rungirlsrun.jp/discography/detail.php?id=1018766" target="_blank">Official Page</a>
+- <a class="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://rungirlsrun.jp/discography/detail.php?id=1018766" target="_blank">Official Page</a>

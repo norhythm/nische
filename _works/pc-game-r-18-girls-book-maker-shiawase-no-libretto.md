@@ -26,4 +26,4 @@ image: "/works/media/pc-game-girls-book-maker-shiawase-no-libretto.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://yumemiru.nexton-net.jp/" target="_blank">ユメミル公式サイト</a>
+- <a class="button" href="http://yumemiru.nexton-net.jp/" target="_blank">ユメミル公式サイト</a>

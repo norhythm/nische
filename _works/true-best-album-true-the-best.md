@@ -24,5 +24,5 @@ image: /works/media/true-best-album-true-the-best.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://true-singer.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://true-singer.com/musics/18505" target="_blank">Official Page</a>
+- <a class="button" href="https://true-singer.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://true-singer.com/musics/18505" target="_blank">Official Page</a>

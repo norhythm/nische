@@ -19,4 +19,4 @@ image: "/works/media/pc-game-floral-flow-love-complete-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://sagaplanets.product.co.jp/works/floflo/soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>
+- <a class="button" href="http://sagaplanets.product.co.jp/works/floflo/soundtrack.html" target="_blank">SAGAPLANETS公式サイト</a>

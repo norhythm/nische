@@ -19,4 +19,4 @@ image: "/works/media/tv-anime-idol-time-pripara-insert-song-get-over-dress-code.
 
 ##### Links
 
-- <a data-type="button" href="http://avex.jp/pripara/news/detail.php?id=1056330&artist_cd=PRIP2" target="_blank">アイドルタイムプリパラavex公式サイト</a>
+- <a class="button" href="http://avex.jp/pripara/news/detail.php?id=1056330&artist_cd=PRIP2" target="_blank">アイドルタイムプリパラavex公式サイト</a>

@@ -20,4 +20,4 @@ image: "/works/media/idol-bu-show-complete-best.png"
 
 ##### Links
 
-- <a data-type="button" href="http://idolbushow.com/2022/09/23/complete-best/" target="_blank">Official Page</a>
+- <a class="button" href="http://idolbushow.com/2022/09/23/complete-best/" target="_blank">Official Page</a>

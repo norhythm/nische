@@ -1,22 +1,76 @@
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
+import SMTPTransport from "nodemailer/lib/smtp-transport";
+import { z } from "zod/v4";
+
+// Zod validation schema
+const contactSchema = z.object({
+  name: z.string().min(1).max(200),
+  email: z.string().email().max(254),
+  subject: z.string().max(500).optional().default(""),
+  message: z.string().min(1).max(5000),
+});
+
+// Simple in-memory rate limiting: 5 requests per hour per IP
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT_MAX = 5;
+const RATE_LIMIT_WINDOW_MS = 60 * 60 * 1000; // 1 hour
+
+function checkRateLimit(ip: string): boolean {
+  const now = Date.now();
+
+  // Lazy cleanup: remove expired entries when map grows large
+  if (rateLimitMap.size > 1000) {
+    for (const [key, val] of rateLimitMap) {
+      if (now > val.resetAt) rateLimitMap.delete(key);
+    }
+  }
+
+  const entry = rateLimitMap.get(ip);
+
+  if (!entry || now > entry.resetAt) {
+    rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_LIMIT_WINDOW_MS });
+    return true;
+  }
+
+  if (entry.count >= RATE_LIMIT_MAX) {
+    return false;
+  }
+
+  entry.count += 1;
+  return true;
+}
 
 export async function POST(request: NextRequest) {
-  try {
-    const { name, email, subject, message } = await request.json();
+  // Rate limiting
+  const forwarded = request.headers.get("x-forwarded-for");
+  const ip = forwarded ? forwarded.split(",")[0].trim() : "unknown";
 
-    // バリデーション
-    if (!name || !email || !message) {
+  if (!checkRateLimit(ip)) {
+    return NextResponse.json(
+      { error: "リクエストが多すぎます。しばらく時間をおいてから再度お試しください。" },
+      { status: 429 }
+    );
+  }
+
+  try {
+    const body = await request.json();
+
+    // Zod validation
+    const parseResult = contactSchema.safeParse(body);
+    if (!parseResult.success) {
       return NextResponse.json(
         { error: "全てのフィールドを入力してください" },
         { status: 400 }
       );
     }
 
+    const { name, email, subject, message } = parseResult.data;
+
     // メール設定（環境変数から取得）
     const isProduction = process.env.NODE_ENV === "production";
     const smtpPort = parseInt(process.env.SMTP_PORT || "587");
-    const smtpConfig: any = {
+    const smtpConfig: SMTPTransport.Options = {
       host: process.env.SMTP_HOST,
       port: smtpPort,
       secure: smtpPort === 465, // 465はSSL/TLS、587はSTARTTLS

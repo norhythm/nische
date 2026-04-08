@@ -21,5 +21,5 @@ image: /works/media/realromantic-senko-haishin-gakkyoku-blooming.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://realromantic-official.com/discography/digital-pre-release-blooming/" target="_blank">Official Page</a>
+- <a class="button" href="https://realromantic-official.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://realromantic-official.com/discography/digital-pre-release-blooming/" target="_blank">Official Page</a>

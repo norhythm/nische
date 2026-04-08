@@ -24,6 +24,6 @@ image: /works/media/kito-akari-3rd-album-journey.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kitoakari.com/journey" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/PCCG02463" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kitoakari.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://kitoakari.com/journey" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/PCCG02463" target="_blank">Stream & Buy</a>

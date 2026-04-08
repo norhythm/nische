@@ -58,4 +58,4 @@ image: "/works/media/stage-gekidan-dramatica-act2-phantom-and-invisible-resonanc
 
 ##### Links
 
-- <a data-type="button" href="https://www.fwinc.co.jp/dramatica-stage/act2/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.fwinc.co.jp/dramatica-stage/act2/" target="_blank">Official Site</a>

@@ -22,4 +22,4 @@ image: /works/media/sawamura-kirari-1st-digital-single-chishiryou-darling.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://linkco.re/MX1UfE5g" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://linkco.re/MX1UfE5g" target="_blank">Stream & Buy</a>

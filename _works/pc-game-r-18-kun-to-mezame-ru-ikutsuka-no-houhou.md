@@ -23,4 +23,4 @@ image: "/works/media/pc-game-kimimeza.png"
 
 ##### Links
 
-- <a data-type="button" href="http://www.project-navel.com/kimimeza/" target="_blank">Navel公式サイト</a>
+- <a class="button" href="http://www.project-navel.com/kimimeza/" target="_blank">Navel公式サイト</a>

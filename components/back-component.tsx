@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { Suspense } from "react";
+import { Suspense, useCallback } from "react";
 import { useSelectedTagContext } from "@/lib/selected-tag-context";
 import MobileTouchCursor from "./mobile-touch-cursor";
 
@@ -28,7 +28,7 @@ export default function BackComponent({
   const router = useRouter();
   const { selectedTag } = useSelectedTagContext();
 
-  const handleBack = () => {
+  const handleBack = useCallback(() => {
     const prevPath = getPrevPath();
 
     if (prevPath === "/") {
@@ -40,7 +40,7 @@ export default function BackComponent({
         router.push("/");
       }
     }
-  };
+  }, [selectedTag, router]);
 
   return (
     <>
@@ -48,6 +48,7 @@ export default function BackComponent({
         {style == "layer" && (
           <div
             onClick={handleBack}
+            aria-hidden="true"
             className={`hidden md:block absolute top-0 left-1/2 -translate-x-1/2 z-20 w-screen h-full cursor-close select-none`}
           ></div>
         )}
@@ -56,7 +57,7 @@ export default function BackComponent({
             onClick={handleBack}
             className={`flex items-center p-2 text-sm md:text-base hover:opacity-80 transition-colors ${className}`}
           >
-            <span className="hidden">Back</span>
+            <span className="sr-only">Back</span>
             <span className="icon-cross"></span>
           </button>
         )}

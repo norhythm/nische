@@ -19,5 +19,5 @@ image: "/works/media/smartphone-game-show-by-rock-fes-a-live.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://music.apple.com/jp/album/ssg-gameapp-show-by-rock-fes-a-live-single/1514561204" target="_blank">iTunes</a>
-- <a data-type="button" href="https://pc.animelo.jp/portals/product/3793356" target="_blank">animelo mix</a>
+- <a class="button" href="https://music.apple.com/jp/album/ssg-gameapp-show-by-rock-fes-a-live-single/1514561204" target="_blank">iTunes</a>
+- <a class="button" href="https://pc.animelo.jp/portals/product/3793356" target="_blank">animelo mix</a>

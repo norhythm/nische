@@ -13,4 +13,4 @@ image: "/works/media/tv-anime-ooya-san-ha-shishunki-soundtrack-bgm.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.ooyasan-anime.com/" target="_blank">大家さんは思春期！公式サイト</a>
+- <a class="button" href="http://www.ooyasan-anime.com/" target="_blank">大家さんは思春期！公式サイト</a>

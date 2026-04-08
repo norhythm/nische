@@ -23,5 +23,5 @@ image: "/works/media/komoro-kankoukyoku-taiappu-song-hatsukoi.jpeg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.komoro-tour.jp/blog/id_4783/" target="_blank">こもろ観光局 公式サイト</a>
-- <a data-type="button" href="https://linkco.re/DzMgX0eB" target="_blank">楽曲配信リンク</a>
+- <a class="button" href="https://www.komoro-tour.jp/blog/id_4783/" target="_blank">こもろ観光局 公式サイト</a>
+- <a class="button" href="https://linkco.re/DzMgX0eB" target="_blank">楽曲配信リンク</a>

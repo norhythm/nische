@@ -23,4 +23,4 @@ image: "/works/media/pc-game-princess-x-princess.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://project-navel.com/pripri/index.html" target="_blank">Official Site</a>
+- <a class="button" href="https://project-navel.com/pripri/index.html" target="_blank">Official Site</a>

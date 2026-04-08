@@ -23,6 +23,6 @@ image: /works/media/helios-rising-heroes-sing-in-the-darkness-facts-error-dawn-l
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://helios-r.jp/discography/cd16" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/8S4JMj" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://helios-r.jp/discography/cd16" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/8S4JMj" target="_blank">Stream & Buy</a>

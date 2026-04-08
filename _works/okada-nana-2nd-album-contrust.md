@@ -22,5 +22,5 @@ image: /works/media/okada-nana-2nd-album-contrust.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://okadanana-fc.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://okadanana.lnk.to/Contrust" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://okadanana-fc.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://okadanana.lnk.to/Contrust" target="_blank">Stream & Buy</a>

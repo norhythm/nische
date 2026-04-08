@@ -17,7 +17,6 @@ This is a Next.js 15 portfolio website for Tsukasa Kikuchi, a professional audio
 
 ### Content Management
 - **Posts/Works**: Stored as markdown files in `_works/` directory (currently empty but structure exists)
-- **Works Data**: Also stored as JSON in `data/works.json` with metadata including layout, title, image, and credit information
 - **Images**: Work images stored in `public/works/media/` directory
 - **Content API**: `lib/api.ts` handles reading and parsing markdown files using gray-matter
 
@@ -30,9 +29,8 @@ This is a Next.js 15 portfolio website for Tsukasa Kikuchi, a professional audio
 
 ### Data Flow
 1. Works can be managed through markdown files in `_works/` (using frontmatter for metadata)
-2. Alternative JSON-based approach in `data/works.json` 
-3. Images must be placed in `public/works/media/` and referenced by filename
-4. Tags are used for filtering: "recording", "mixing", "mastering"
+2. Images must be placed in `public/works/media/` and referenced by filename
+3. Tags are used for filtering: "recording", "mixing", "mastering"
 
 ### Styling
 - Tailwind CSS for styling
@@ -43,7 +41,7 @@ This is a Next.js 15 portfolio website for Tsukasa Kikuchi, a professional audio
 ### Special Configuration
 - Images are unoptimized (Next.js config)
 - Build process ignores ESLint and TypeScript errors
-- SEO robots are disabled (noindex, nofollow, etc.)
+- SEO: robots set to index/follow, canonical URL configured
 
 ## TypeScript Types
 - `Post` interface in `interfaces/post.ts` defines work/post structure

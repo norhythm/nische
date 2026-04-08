@@ -21,4 +21,4 @@ image: /works/media/tv-anime-vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-
 
 ##### Links
 
-- <a data-type="button" href="https://vden.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://vden.jp/" target="_blank">Official Site</a>

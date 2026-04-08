@@ -19,5 +19,5 @@ image: "/works/media/hatano-wataru-mini-album-caravan.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://www.hatanowataru.dive2ent.com/discography/detail.php?id=1014294" target="_blank">Official Page</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://www.hatanowataru.dive2ent.com/discography/detail.php?id=1014294" target="_blank">Official Page</a>

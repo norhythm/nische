@@ -37,4 +37,4 @@ image: "/works/media/tv-anime-pripara-christmas-dream-live-2016-disc.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://avex.jp/pripara/discography/detail.php?id=1014969" target="_blank">プリパラ avex公式サイト</a>
+- <a class="button" href="http://avex.jp/pripara/discography/detail.php?id=1014969" target="_blank">プリパラ avex公式サイト</a>

@@ -18,5 +18,5 @@ image: /works/media/tv-anime-tensei-kizoku-kantei-skill-de-nariagaru-op-theme-tr
 
 ##### Links
 
-- <a data-type="button" href="https://kanteiskill.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://lnk.to/LZC-2722" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kanteiskill.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://lnk.to/LZC-2722" target="_blank">Stream & Buy</a>

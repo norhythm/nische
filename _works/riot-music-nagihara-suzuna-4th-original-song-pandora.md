@@ -23,4 +23,4 @@ image: /works/media/riot-music-nagihara-suzuna-4th-original-song-pandora.jpeg
 
 ##### Links
 
-- <a data-type="button" href="https://nex-tone.link/PANDORA" target="_blank">楽曲配信リンク</a>
+- <a class="button" href="https://nex-tone.link/PANDORA" target="_blank">楽曲配信リンク</a>

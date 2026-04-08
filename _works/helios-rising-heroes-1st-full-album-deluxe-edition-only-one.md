@@ -25,4 +25,4 @@ image: "/works/media/helios-rising-heroes-1st-full-album-deluxe-edition-only-one
 
 ##### Links
 
-- <a data-type="button" href="http://www.fwinc.co.jp/goods/74146/" target="_blank">フロンティアワークス公式サイト</a>
+- <a class="button" href="http://www.fwinc.co.jp/goods/74146/" target="_blank">フロンティアワークス公式サイト</a>

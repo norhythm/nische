@@ -26,5 +26,5 @@ image: "/works/media/furukawa-makoto-5th-single-tv-anime-baraou-no-souretsu-dai-
 
 ##### Links
 
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://furukawamakoto.lantis.jp/discography/%e8%8d%8a%e6%a3%98%e8%bc%aa%e8%88%9e%e6%9b%b2%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88%e7%9b%a4/" target="_blank">Official Page</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://furukawamakoto.lantis.jp/discography/%e8%8d%8a%e6%a3%98%e8%bc%aa%e8%88%9e%e6%9b%b2%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88%e7%9b%a4/" target="_blank">Official Page</a>

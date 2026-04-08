@@ -1,7 +1,5 @@
-import type { Config } from "tailwindcss";
-
-const config: Config = {
-  darkMode: ["class"],
+const config = {
+  darkMode: ["class", "html"],
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -11,10 +9,10 @@ const config: Config = {
   safelist: [
     "size-full",
     "py-12",
-    ".md:pt-10",
-    ".md:w-6/12",
-    ".md:w-8/12",
-    ".md:w-7/12",
+    "md:pt-10",
+    "md:w-6/12",
+    "md:w-8/12",
+    "md:w-7/12",
   ],
   theme: {
     screens: {

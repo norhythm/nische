@@ -23,4 +23,4 @@ image: "/works/media/tv-anime-ssss-dynazenon-ssss-dynazenon-character-song-2.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://canime.jp/product/PCCG000002040/" target="_blank">きゃにめ公式サイト</a>
+- <a class="button" href="https://canime.jp/product/PCCG000002040/" target="_blank">きゃにめ公式サイト</a>

@@ -2,27 +2,20 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug, getAdjacentPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
-import Image from "next/image";
-
 import markdownStyles from "@/app/markdown.module.css";
 import Tag from "@/components/Tag";
 import TiltImage from "@/components/tiltImage";
 import { layoutImageStyle } from "@/lib/utils";
 
+import Link from "next/link";
 import BackComponent from "@/components/back-component";
-import ArticleBody from "@/components/article-body";
-import WorkNavLink from "@/components/work-nav-link";
 import KeyboardNavigation from "@/components/keyboard-navigation";
 
 const imageBgStyle = () => {
   return "px-4 pb-6 md:px-0 md:py-16 4xl:py-16 6xl:py-16";
 };
 
-const fillRectColor = () => {
-  return `hsl(${Math.floor(Math.random() * 360)}, 100%, 68%)`;
-};
-
-export default async function Post(props: Params, modal: false) {
+export default async function Post(props: Params) {
   const params = await props.params;
   const post = getPostBySlug(params.slug);
 
@@ -35,6 +28,22 @@ export default async function Post(props: Params, modal: false) {
 
   return (
     <section className="relative flex flex-1 w-full xl:max-w-screen-xl mx-auto md:px-[8%] xl:px-[102px] md:pt-0 md:pb-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CreativeWork",
+            "name": post.title,
+            "creator": {
+              "@type": "Person",
+              "name": "Tsukasa Kikuchi",
+            },
+            "image": `https://nische.jp${post.image}`,
+            "url": `https://nische.jp/works/${post.url}/`,
+          }),
+        }}
+      />
       <KeyboardNavigation
         prevUrl={prevPost ? `/works/${prevPost.url}` : undefined}
         nextUrl={nextPost ? `/works/${nextPost.url}` : undefined}
@@ -131,7 +140,7 @@ export default async function Post(props: Params, modal: false) {
                 className={`order-2 w-full flex-auto mx-auto pb-2 md:pt-4 md:pb-12`}
               >
                 <header className="block md:hidden pt-4 text-center">
-                  <h1 className="tracking-wide">
+                  <div className="tracking-wide">
                     {post.holder && (
                       <span className="pb-1 md:pb-2 text-[#888] text-[13px] md:text-[13px] leading-[1.5]">
                         {post.holder}
@@ -145,7 +154,7 @@ export default async function Post(props: Params, modal: false) {
                     <span className="block text-[#222] text-[18px] md:text-[24px] leading-[1.5]">
                       {post.title}
                     </span>
-                  </h1>
+                  </div>
                   <div className="flex justify-center gap-2 md:pt-1">
                     {post.tag.map((tag, i) => {
                       return (
@@ -175,35 +184,35 @@ export default async function Post(props: Params, modal: false) {
         </div>
         {/* Prev/Next Navigation */}
         <div className="works-navigation sticky md:relative z-40 bottom-4 w-full md:pt-16 overflow-hidden pointer-events-none">
-          <nav className="flex justify-between items-center px-4 md:px-0 md:w-8/12 mx-auto">
+          <nav aria-label="Work navigation" className="flex justify-between items-center px-4 md:px-0 md:w-8/12 mx-auto">
             <div className="flex-1 flex md:hidden">
               <BackComponent style="button" className="pointer-events-auto" />
             </div>
             <div className="md:flex-1">
               {prevPost && (
-                <WorkNavLink
+                <Link
                   href={`/works/${prevPost.url}`}
                   className="inline-flex justify-center items-center p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:-translate-x-1 transition-transform">
-                    <span className="hidden">← Next work</span>
+                    <span className="sr-only">← Previous work</span>
                     <span className="icon-arrow-left"></span>
                   </span>
-                </WorkNavLink>
+                </Link>
               )}
             </div>
 
             <div className="md:flex-1 text-right">
               {nextPost && (
-                <WorkNavLink
+                <Link
                   href={`/works/${nextPost.url}`}
                   className="inline-flex justify-center items-center justify-end p-2 md:p-0 text-sm md:text-base hover:opacity-80 group transition-opacity align-bottom pointer-events-auto cursor-pointer"
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
-                    <span className="hidden">Previous work →</span>
+                    <span className="sr-only">Next work →</span>
                     <span className="icon-arrow-right"></span>
                   </span>
-                </WorkNavLink>
+                </Link>
               )}
             </div>
           </nav>
@@ -224,16 +233,27 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
-    return notFound();
+    return { title: "Not Found" };
   }
 
   const parts = [post.holder, post.artist, post.title].filter(Boolean);
   const title = `${parts.join(" ")} | Kikuchi Tsukasa`;
+  const description = `${parts.join(" ")} — Recording, Mixing, Mastering by Tsukasa Kikuchi`;
 
   return {
     title,
+    description,
     openGraph: {
       title: parts.join(" "),
+      description,
+      images: [post.image],
+      type: "article",
+      locale: "ja_JP",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: parts.join(" "),
+      description,
       images: [post.image],
     },
   };

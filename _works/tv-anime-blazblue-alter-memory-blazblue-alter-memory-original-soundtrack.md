@@ -13,4 +13,4 @@ image: "/works/media/tv-anime-blazblue-alter-memory-original-soundtrack.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://www.lantis.jp/title/blazblue-anime/disco_all.html" target="_blank">Lantis公式</a>
+- <a class="button" href="https://www.lantis.jp/title/blazblue-anime/disco_all.html" target="_blank">Lantis公式</a>

@@ -24,6 +24,6 @@ image: /works/media/ixis-startline.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://kiramune.jp/artist/IXIS/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://kiramune.jp/product/LZC-3338.html" target="_blank">Official Page</a>
-- <a data-type="button" href="https://lnk.to/LZC-3338" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://kiramune.jp/artist/IXIS/" target="_blank">Official Site</a>
+- <a class="button" href="https://kiramune.jp/product/LZC-3338.html" target="_blank">Official Page</a>
+- <a class="button" href="https://lnk.to/LZC-3338" target="_blank">Stream & Buy</a>

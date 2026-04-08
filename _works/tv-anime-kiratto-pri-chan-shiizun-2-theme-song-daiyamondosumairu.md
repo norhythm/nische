@@ -25,5 +25,5 @@ image: "/works/media/tv-anime-kiratto-pri-chan-diamond-smile.png"
 
 ##### Links
 
-- <a data-type="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://rungirlsrun.jp/discography/detail.php?id=1016423" target="_blank">Official Page</a>
+- <a class="button" href="https://rungirlsrun.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://rungirlsrun.jp/discography/detail.php?id=1016423" target="_blank">Official Page</a>

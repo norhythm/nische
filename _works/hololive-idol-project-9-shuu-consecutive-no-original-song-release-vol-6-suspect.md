@@ -23,6 +23,6 @@ image: "/works/media/hololive-original-song-suspect.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/suspect/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://hip.streamlink.to/suspect" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/suspect/" target="_blank">Official Page</a>
+- <a class="button" href="https://hip.streamlink.to/suspect" target="_blank">Stream & Buy</a>

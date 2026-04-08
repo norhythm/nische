@@ -25,4 +25,4 @@ image: "/works/media/ongeki-sound-collection-07-memories-of-o-n-g-e-k-i-tracks-m
 
 ##### Links
 
-- <a data-type="button" href="https://ongeki.sega.jp/cd/soundcollection07.html" target="_blank">『オンゲキbright MEMORY』公式サイト</a>
+- <a class="button" href="https://ongeki.sega.jp/cd/soundcollection07.html" target="_blank">『オンゲキbright MEMORY』公式サイト</a>

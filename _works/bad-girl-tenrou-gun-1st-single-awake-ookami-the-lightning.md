@@ -23,4 +23,4 @@ image: /works/media/bad-girl-tenrou-gun-1st-single-awake-ookami-the-lightning.jp
 
 ##### Links
 
-- <a data-type="button" href="https://tenrogun.lnk.to/AWAKE_OKAMI-THE-LIGHTNING" target="_blank">link.to</a>
+- <a class="button" href="https://tenrogun.lnk.to/AWAKE_OKAMI-THE-LIGHTNING" target="_blank">link.to</a>

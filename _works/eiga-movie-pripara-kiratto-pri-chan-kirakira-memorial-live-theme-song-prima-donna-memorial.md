@@ -23,4 +23,4 @@ image: "/works/media/pripara-kiratto-pri-chan-prima-donna-memorial.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://pp-movie.com/" target="_blank">劇場版 プリパラ＆キラッとプリ☆チャン公式サイト</a>
+- <a class="button" href="http://pp-movie.com/" target="_blank">劇場版 プリパラ＆キラッとプリ☆チャン公式サイト</a>

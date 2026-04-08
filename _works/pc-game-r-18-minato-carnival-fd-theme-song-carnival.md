@@ -23,4 +23,4 @@ image: "/works/media/pc-game-minato-carnival-fd-theme-song-carnival.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.minatocarnival.com/" target="_blank">みなとカーニバル公式サイト</a>
+- <a class="button" href="http://www.minatocarnival.com/" target="_blank">みなとカーニバル公式サイト</a>

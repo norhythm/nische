@@ -23,4 +23,4 @@ image: "/works/media/pripara-kiratto-pri-chan-cw-prima-donna-memorial.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://rungirlsrun.jp/discography/detail.php?id=1015643" target="_blank">Run Girls, Run!公式サイト</a>
+- <a class="button" href="http://rungirlsrun.jp/discography/detail.php?id=1015643" target="_blank">Run Girls, Run!公式サイト</a>

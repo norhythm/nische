@@ -45,4 +45,4 @@ image: "/works/media/stage-ensemble-stars-en-fes.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stage.jp/" target="_blank">Official Siteト</a>
+- <a class="button" href="https://ensemble-stage.jp/" target="_blank">Official Siteト</a>

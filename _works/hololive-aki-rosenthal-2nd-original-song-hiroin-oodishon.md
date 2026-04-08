@@ -23,6 +23,6 @@ image: "/works/media/hololive-aki-rosenthal-2nd-original-song-heroine-audition.p
 
 ##### Links
 
-- <a data-type="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hololive.hololivepro.com/music/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/" target="_blank">Official Page</a>
-- <a data-type="button" href="https://akirose.streamlink.to/HeroineAudition" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://hololive.hololivepro.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hololive.hololivepro.com/music/%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/" target="_blank">Official Page</a>
+- <a class="button" href="https://akirose.streamlink.to/HeroineAudition" target="_blank">Stream & Buy</a>

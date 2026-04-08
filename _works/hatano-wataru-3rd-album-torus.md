@@ -20,5 +20,5 @@ image: "/works/media/hatano-wataru-3rd-album-torus.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://hatanowataru.dive2ent.com/discography/detail.php?id=1019355" target="_blank">Official Page</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/" target="_blank">Official Site</a>
+- <a class="button" href="https://hatanowataru.dive2ent.com/discography/detail.php?id=1019355" target="_blank">Official Page</a>

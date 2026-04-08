@@ -24,4 +24,4 @@ image: "/works/media/stage-ensemble-stars-extra-stage-night-of-blossoming-stars.
 
 ##### Links
 
-- <a data-type="button" href="https://ensemble-stage.jp/" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>
+- <a class="button" href="https://ensemble-stage.jp/" target="_blank">あんさんぶるスターズ！オン・ステージ公式サイト</a>

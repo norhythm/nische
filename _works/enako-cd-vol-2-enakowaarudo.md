@@ -25,4 +25,4 @@ image: "/works/media/enako-enakoworld.jpg"
 
 ##### Links
 
-- <a data-type="button" href="http://www.movinonweb.com/product/3006102020002210299/" target="_blank">movin★on公式サイト</a>
+- <a class="button" href="http://www.movinonweb.com/product/3006102020002210299/" target="_blank">movin★on公式サイト</a>

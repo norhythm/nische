@@ -22,6 +22,6 @@ image: /works/media/helios-rising-heroes-third-season-first-storm-theme-song.jpg
 
 ##### Links
 
-- <a data-type="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
-- <a data-type="button" href="https://helios-r.jp/discography/cd18" target="_blank">Official Page</a>
-- <a data-type="button" href="https://fwinc.lnk.to/6t6TQZ" target="_blank">Stream & Buy</a>
+- <a class="button" href="https://helios-r.jp/" target="_blank">Official Site</a>
+- <a class="button" href="https://helios-r.jp/discography/cd18" target="_blank">Official Page</a>
+- <a class="button" href="https://fwinc.lnk.to/6t6TQZ" target="_blank">Stream & Buy</a>

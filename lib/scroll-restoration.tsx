@@ -54,10 +54,8 @@ export default function ScrollRestoration() {
 
   // Track previous path for back navigation
   useEffect(() => {
-    console.log("[ScrollRestoration] pathname changed:", pathname, "prev:", prevPathname.current);
     if (prevPathname.current !== null) {
       sessionStorage.setItem(PREV_PATH_KEY, prevPathname.current);
-      console.log("[ScrollRestoration] saved prevPath:", prevPathname.current);
     }
     prevPathname.current = pathname;
   }, [pathname]);

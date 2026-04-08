@@ -23,4 +23,4 @@ image: "/works/media/ena-cos-tv-dvd-vol-4.jpg"
 
 ##### Links
 
-- <a data-type="button" href="https://twitter.com/enacos_tv" target="_blank">番組公式ツイッター</a>
+- <a class="button" href="https://twitter.com/enacos_tv" target="_blank">番組公式ツイッター</a>
